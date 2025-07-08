@@ -84,7 +84,10 @@
         "PlacePrice": 250,
         "Max": 3,
         "NoEnemyAttack": true,
-        "Passive": {"Name": "Range Boost", "Description": "All Towers In Range Of This Unit Are Given A +15% Range Boost (30% If Shiny)"},
+        "Passive": {
+            "Name": "Range Boost",
+            "Description": "All Towers In Range Of This Unit Are Given A +15% Range Boost (30% If Shiny)"
+        },
         "Offset": 0,
         "hitboxOffset": {
             "X": 0,
@@ -97,32 +100,29 @@
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.15,
-                "ShinyRangeBoost": 1.3,
+                "RangeBoost": 1.15
             },
             {
                 "Price": 500,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.05,
-                "ShinyRangeBoost": 1.3,
+                "RangeBoost": 1.3
             },
             {
                 "Price": 1000,
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.05,
-                "ShinyRangeBoost": 1.3,
+                "RangeBoost": 1.3
             },
             {
                 "Price": 1500,
                 "Range": 30,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.05,
-                "ShinyRangeBoost": 1.3,
+                "RangeBoost": 1.3
             }
         ]
-    },
+    }
+}
