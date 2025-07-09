@@ -5,6 +5,10 @@
         "Rarity": "Common",
         "PlacePrice": 250,
         "Max": 3,
+        "Passive": {
+            "Name": "The Fun Gang",
+            "Description": "When On The Same Team With Ralsei And Susie, Kris will deal +50% Damage"
+        },
         "Offset": 0,
         "hitboxOffset": {
             "X": 0,
@@ -44,6 +48,10 @@
         "Rarity": "Uncommon",
         "PlacePrice": 750,
         "Max": 1,
+        "Passive": {
+            "Name": "Dark Lancer Fan Club",
+            "Description": "When On The Same Team With Lancer, Susie will deal +25% Damage"
+        },
         "Offset": 0,
         "hitboxOffset": {
             "X": 0,
@@ -100,37 +108,45 @@
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.15
+                "RangeBoost": 1.15,
+                "ShinyRangeBoost": 1.3
             },
             {
                 "Price": 500,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.3
+                "RangeBoost": 1.15,
+                "ShinyRangeBoost": 1.3
             },
             {
                 "Price": 1000,
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.3
+                "RangeBoost": 1.15,
+                "ShinyRangeBoost": 1.3
             },
             {
                 "Price": 1500,
                 "Range": 30,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.3
+                "RangeBoost": 1.15,
+                "ShinyRangeBoost": 1.3
             }
         ]
-    }
+    },
     "Lancer": {
-    "Type": "Single",
+    "Type": "Cone Aoe + Summoner",
     "Image": "rbxassetid://0000000",
     "Rarity": "Legendary",
-    "PlacePrice": 100,
-    "Max": 1,
+    "PlacePrice": 7500,
+    "Max": 2,
+    "Passive": {
+            "Name": "Range Boost",
+            "Description": "Every 10s Lancer Summons a clone of his bike that deals 500 damage every 0.25 seconds (Max 5 On Field), dealing 1000 damage on death"
+        },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -140,36 +156,76 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Range": 20,
+        "Damage": 500,
+        "Cooldown": 0.25,
+        "SummonTime": 10,
+        "Health": 1000,
+        "WalkSpeed": 25,
+        "MaxAmount": 5,
+        "Unit": "Lancers Bike",
+        "Offset": 0,
+        "SummonRange": 25,
+        "SummonDamage": 500,
+        "SummonCooldown": 0.25
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 10000,
+        "Range": 25,
+        "Damage": 1000,
+        "Cooldown": 0.25,
+        "SummonTime": 10,
+        "Health": 1000,
+        "WalkSpeed": 25,
+        "MaxAmount": 5,
+        "Unit": "Lancers Bike",
+        "Offset": 0,
+        "SummonRange": 25,
+        "SummonDamage": 500,
+        "SummonCooldown": 0.25
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 12500,
+        "Range": 30,
+        "Damage": 1500,
+        "Cooldown": 0.25,
+        "SummonTime": 10,
+        "Health": 1000,
+        "WalkSpeed": 25,
+        "MaxAmount": 5,
+        "Unit": "Lancers Bike",
+        "Offset": 0,
+        "SummonRange": 25,
+        "SummonDamage": 500,
+        "SummonCooldown": 0.25
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 15000,
+        "Range": 35,
+        "Damage": 2000,
+        "Cooldown": 0.25,
+        "SummonTime": 10,
+        "Health": 1000,
+        "WalkSpeed": 25,
+        "MaxAmount": 5,
+        "Unit": "Lancers Bike",
+        "Offset": 0,
+        "SummonRange": 25,
+        "SummonDamage": 500,
+        "SummonCooldown": 0.25
       }
     ]
   },
   "Noelle": {
-    "Type": "Single",
+    "Type": "Cone Aoe + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Epic",
-    "PlacePrice": 100,
-    "Max": 1,
+    "PlacePrice": 5000,
+    "Max": 2,
+    "Passive": {
+            "Name": "Snowgrave",
+            "Description": "Every 30s Noelle will stun all enemies in her range for 2.5 seconds, dealing x5 damage to each enemy"
+        },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -179,36 +235,40 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Range": 15,
+        "Damage": 2500,
+        "Cooldown": 2
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 7500,
+        "Range": 20,
+        "Damage": 3250,
+        "Cooldown": 1.8
       },
       {
-        "Price": 0,
-        "Range": 10,
+        "Price": 10000,
+        "Range": 25,
         "Damage": 100,
-        "Cooldown": 1
+        "Cooldown": 1.5
       },
       {
-        "Price": 0,
-        "Range": 10,
+        "Price": 12500,
+        "Range": 30,
         "Damage": 100,
-        "Cooldown": 1
+        "Cooldown": 1.25
       }
     ]
   },
   "Seam": {
-    "Type": "Single",
+    "Type": "Farm + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Epic",
     "PlacePrice": 100,
-    "Max": 1,
+    "Max": 3,
+    "Passive": {
+            "Name": "Shopkeeper",
+            "Description": "All Towers In Range Of Seam are Given a +50% Cash Boost, Seam will also generate 1500 cash every wave."
+        },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -218,36 +278,48 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Range": 20,
+        "Damage": 0,
+        "Cooldown": 1,
+        "CashBoost": 1.5,
+        "FarmAmount": 1500
       },
       {
         "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Range": 30,
+        "Damage": 0,
+        "Cooldown": 1,
+        "CashBoost": 1.5,
+        "FarmAmount": 1500
       },
       {
         "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Range": 40,
+        "Damage": 0,
+        "Cooldown": 1,
+        "CashBoost": 1.5,
+        "FarmAmount": 1500
       },
       {
         "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Range": 50,
+        "Damage": 0,
+        "Cooldown": 1,
+        "CashBoost": 1.5,
+        "FarmAmount": 1500
       }
     ]
   },
   "Rouxls Kaard": {
-    "Type": "Single",
+    "Type": "Melee Slash + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
-    "PlacePrice": 100,
-    "Max": 1,
+    "PlacePrice": 2500,
+    "Max": 2,
+    "Passive": {
+            "Name": "Go forth!! My Squeakie Duckie!!",
+            "Description": "Every 30s Rouxls Kaard will explode a random enemy with his thrash machine, instakilling it and dealing 2500 damage to all enemies near the explosion"
+        },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -257,36 +329,40 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Range": 15,
+        "Damage": 3750,
+        "Cooldown": 0.5
       },
       {
         "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Range": 20,
+        "Damage": 4500,
+        "Cooldown": 0.4
       },
       {
         "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Range": 25,
+        "Damage": 5250,
+        "Cooldown": 0.3
       },
       {
         "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Range": 25,
+        "Damage": 6000,
+        "Cooldown": 0.25
       }
     ]
   },
   "Sweet Cap'n Cakes": {
-    "Type": "Single",
+    "Type": "AOE + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Legendary",
-    "PlacePrice": 100,
-    "Max": 1,
+    "PlacePrice": 25000,
+    "Max": 2,
+    "Passive": {
+            "Name": "Dance Party",
+            "Description": "Every 15s Sweet Cap'n Cakes will throw a dance party, stunning all enemies in range for 2.5s"
+        },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -296,36 +372,40 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Range": 20,
+        "Damage": 30000,
+        "Cooldown": 3
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 30000,
+        "Range": 25,
+        "Damage": 35000,
+        "Cooldown": 3
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 35000,
+        "Range": 35,
+        "Damage": 40000,
+        "Cooldown": 3
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 40000,
+        "Range": 35,
+        "Damage": 45000,
+        "Cooldown": 3
       }
     ]
   },
   "Spamton": {
-    "Type": "Single",
+    "Type": "Cone Aoe + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Legendary",
-    "PlacePrice": 100,
+    "PlacePrice": 19970,
     "Max": 1,
+    "Passive": {
+            "Name": "[[Number 1 Rated Salesman1997]]",
+            "Description": "Every 19.97 seconds, spamton will steal a [[HeartShapedObject]] from an enemy, dealing 199700 damage to it."
+        },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -335,36 +415,40 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Range": 20,
+        "Damage": 1987,
+        "Cooldown": 0.5
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 39940,
+        "Range": 25,
+        "Damage": 5000,
+        "Cooldown": 0.4
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 59910,
+        "Range": 30,
+        "Damage": 7500,
+        "Cooldown": 0.3
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 79880,
+        "Range": 35,
+        "Damage": 10000,
+        "Cooldown": 0.25
       }
     ]
   },
   "Swatch": {
-    "Type": "Single",
+    "Type": "Farm + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
-    "PlacePrice": 100,
+    "PlacePrice": 5000,
     "Max": 1,
+    "Passive": {
+            "Name": "Queen's Mansion",
+            "Description": "Swatch Gives All Towers In Range A +25% Damage Boost, and Generates 10000 Cash Every Wave."
+        },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -375,35 +459,47 @@
       {
         "Price": 0,
         "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Damage": 0,
+        "Cooldown": 1,
+        "DamageBoost": 1.25,
+        "FarmAmount": 10000
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 5500,
+        "Range": 15,
+        "Damage": 0,
+        "Cooldown": 1,
+        "DamageBoost": 1.25,
+        "FarmAmount": 10000
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 6500,
+        "Range": 20,
+        "Damage": 0,
+        "Cooldown": 1,
+        "DamageBoost": 1.25,
+        "FarmAmount": 10000
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 7500,
+        "Range": 25,
+        "Damage": 0,
+        "Cooldown": 1,
+        "DamageBoost": 1.25,
+        "FarmAmount": 10000
       }
     ]
   },
-  "Dummy (Ralseis)": {
+  "Ralseis Dummy": {
     "Type": "Single",
     "Image": "rbxassetid://0000000",
     "Rarity": "Common",
-    "PlacePrice": 100,
+    "PlacePrice": 500,
     "Max": 1,
+    "Passive": {
+            "Name": "Hug",
+            "Description": "Hugs enemies dealing 1000 damage every 1.5 seconds, and slowing them by 25% for 2 seconds"
+        },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -414,35 +510,47 @@
       {
         "Price": 0,
         "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Damage": 500,
+        "Cooldown": 1,
+        "Slow": 0.75,
+        "SlowTime": 1
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 1000,
+        "Range": 13,
+        "Damage": 750,
+        "Cooldown": 0.75,
+        "Slow": 0.75,
+        "SlowTime": 1
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 1500,
+        "Range": 15,
+        "Damage": 1000,
+        "Cooldown": 0.75,
+        "Slow": 0.75,
+        "SlowTime": 1
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 2000,
+        "Range": 17,
+        "Damage": 1250,
+        "Cooldown": 0.75,
+        "Slow": 0.75,
+        "SlowTime": 1
       }
     ]
   },
   "Tasque Manager": {
-    "Type": "Single",
+    "Type": "Chain Stun",
     "Image": "rbxassetid://0000000",
     "Rarity": "Unique",
-    "PlacePrice": 100,
-    "Max": 1,
+    "PlacePrice": 25000,
+    "Max": 2,
+    "Passive": {
+            "Name": "Order! Order!",
+            "Description": "Attacks Stun Enemies for 0.5 Seconds, chaining up to 15 nearby enemies."
+        },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -453,35 +561,51 @@
       {
         "Price": 0,
         "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Damage": 32500,
+        "Cooldown": 1.75,
+        "Slow": 0,
+        "SlowTime": 0.5,
+        "MaxChain": 15
       },
       {
         "Price": 0,
         "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Damage": 35500,
+        "Cooldown": 1.65,
+        "Slow": 0,
+        "SlowTime": 0.5,
+        "MaxChain": 15
       },
       {
         "Price": 0,
         "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Damage": 37500,
+        "Cooldown": 1.55,
+        "Slow": 0,
+        "SlowTime": 0.5,
+        "MaxChain": 15
       },
       {
         "Price": 0,
         "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Damage": 38000,
+        "Cooldown": 1.5,
+        "Slow": 0,
+        "SlowTime": 0.5,
+        "MaxChain": 15
       }
     ]
   },
   "Clover": {
-    "Type": "Single",
+    "Type": "Cone Aoe + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
-    "PlacePrice": 100,
+    "PlacePrice": 5000,
     "Max": 1,
+    "Passive": {
+            "Name": "Two heads are better than one! Three... maybe not.",
+            "Description": "Attacks Hit 3 times."
+        },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -492,35 +616,39 @@
       {
         "Price": 0,
         "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Damage": 1000,
+        "Cooldown": 0.5
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 7500,
+        "Range": 15,
+        "Damage": 1500,
+        "Cooldown": 0.5
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 10000,
+        "Range": 20,
+        "Damage": 2500,
+        "Cooldown": 0.5
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 12500,
+        "Range": 30,
+        "Damage": 3500,
+        "Cooldown": 0.5
       }
     ]
   },
   "Werewire": {
-    "Type": "Single",
+    "Type": "Trapper",
     "Image": "rbxassetid://0000000",
     "Rarity": "Epic",
-    "PlacePrice": 100,
-    "Max": 1,
+    "PlacePrice": 2000,
+    "Max": 3,
+    "Passive": {
+            "Name": "Controlled",
+            "Description": "Every 10s Werewire will place a trap that deals x5 their damage to the first enemy that steps on it, and stuns them for 1.25 seconds. (Max 25 Traps On Field)"
+        },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -531,35 +659,39 @@
       {
         "Price": 0,
         "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Damage": 1000,
+        "Cooldown": 10
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 3000,
+        "Range": 15,
+        "Damage": 1250,
+        "Cooldown": 10
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 4000,
+        "Range": 20,
+        "Damage": 1500,
+        "Cooldown": 10
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 5000,
+        "Range": 25,
+        "Damage": 1750,
+        "Cooldown": 10
       }
     ]
   },
   "Poppup": {
-    "Type": "Single",
+    "Type": "Single + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Epic",
-    "PlacePrice": 100,
-    "Max": 1,
+    "PlacePrice": 1500,
+    "Max": 3,
+    "Passive": {
+            "Name": "Computer Virus",
+            "Description": "All Towers In Range Of This Unit Are Given A +10% Damage Boost (20% If Shiny), and Enemies In Range Are Given 5% Wither (10% If Shiny)"
+        },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -569,36 +701,60 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Range": 15,
+        "Damage": 500,
+        "Cooldown": 1,
+        "Wither": 1.05,
+        "ShinyWither": 1.1,
+        "WitherTime": 1,
+        "DamageBoost": 1.1,
+        "ShinyDamageBoost": 1.2
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 2000,
+        "Range": 20,
+        "Damage": 750,
+        "Cooldown": 1,
+        "Wither": 1.05,
+        "ShinyWither": 1.1,
+        "WitherTime": 1,
+        "DamageBoost": 1.1,
+        "ShinyDamageBoost": 1.2
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 2500,
+        "Range": 25,
+        "Damage": 1000,
+        "Cooldown": 1,
+        "Wither": 1.05,
+        "ShinyWither": 1.1,
+        "WitherTime": 1,
+        "DamageBoost": 1.1,
+        "ShinyDamageBoost": 1.2
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 3000,
+        "Range": 35,
+        "Damage": 1250,
+        "Cooldown": 1,
+        "Wither": 1.05,
+        "ShinyWither": 1.1,
+        "WitherTime": 1,
+        "DamageBoost": 1.1,
+        "ShinyDamageBoost": 1.2
       }
     ]
   },
   "Ambyu-Lance": {
-    "Type": "Single",
+    "Type": "Pierce + Slow",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
-    "PlacePrice": 100,
-    "Max": 1,
+    "PlacePrice": 25000,
+    "Max": 2,
+    "Passive": {
+            "Name": "Aggressive Anti-Virus",
+            "Description": "Enemies Hit by Ambyu-Lance are given 22% Slow (45% If Shiny)"
+        },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -608,36 +764,52 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Range": 20,
+        "Damage": 10000,
+        "Cooldown": 3,
+        "Slow": 0.78,
+        "ShinySlow": 0.55,
+        "SlowTime": 3
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 30000,
+        "Range": 25,
+        "Damage": 15000,
+        "Cooldown": 3,
+        "Slow": 0.78,
+        "ShinySlow": 0.55,
+        "SlowTime": 3
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 35000,
+        "Range": 30,
+        "Damage": 20000,
+        "Cooldown": 3,
+        "Slow": 0.78,
+        "ShinySlow": 0.55,
+        "SlowTime": 3
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 40000,
+        "Range": 35,
+        "Damage": 25000,
+        "Cooldown": 3,
+        "Slow": 0.78,
+        "ShinySlow": 0.55,
+        "SlowTime": 3
       }
     ]
   },
   "Virovirokun": {
-    "Type": "Single",
+    "Type": "Splash + Slow",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
-    "PlacePrice": 100,
-    "Max": 1,
+    "PlacePrice": 500,
+    "Max": 3,
+    "Passive": {
+            "Name": "Criminal Virus",
+            "Description": "Attacks Apply 15% Slow"
+        },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -647,36 +819,48 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Range": 15,
+        "Damage": 1000,
+        "Cooldown": 3,
+        "Slow": 0.85,
+        "SlowTime": 3
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 600,
+        "Range": 20,
+        "Damage": 1100,
+        "Cooldown": 2.75,
+        "Slow": 0.85,
+        "SlowTime": 3
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 700,
+        "Range": 25,
+        "Damage": 1200,
+        "Cooldown": 2.5,
+        "Slow": 0.85,
+        "SlowTime": 3
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 800,
+        "Range": 25,
+        "Damage": 1350,
+        "Cooldown": 2.5,
+        "Slow": 0.85,
+        "SlowTime": 3
       }
     ]
   },
   "Tasque": {
-    "Type": "Single",
+    "Type": "Pierce Spread + Wither",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
-    "PlacePrice": 100,
-    "Max": 1,
+    "PlacePrice": 1000,
+    "Max": 8,
+    "Passive": {
+            "Name": "meowowow meowowow",
+            "Description": "Enemies Hit by Tasque are given 5% Wither."
+        },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -687,35 +871,37 @@
       {
         "Price": 0,
         "Range": 10,
-        "Damage": 100,
+        "Damage": 250,
+        "Cooldown": 1,
+        "Wither": 1.05,
+        "WitherTime": 1
+      },
+      {
+        "Price": 1100,
+        "Range": 15,
+        "Damage": 500,
         "Cooldown": 1
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
+        "Price": 1200,
+        "Range": 20,
+        "Damage": 750,
         "Cooldown": 1
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
-      },
-      {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
+        "Price": 1300,
+        "Range": 20,
+        "Damage": 1000,
         "Cooldown": 1
       }
     ]
   },
   "Maus": {
-    "Type": "Single",
+    "Type": "Explosion",
     "Image": "rbxassetid://0000000",
     "Rarity": "Uncommon",
-    "PlacePrice": 100,
-    "Max": 1,
+    "PlacePrice": 200,
+    "Max": 3,
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -725,36 +911,40 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Range": 15,
+        "Damage": 50,
+        "Cooldown": 0.5
       },
       {
-        "Price": 0,
-        "Range": 10,
+        "Price": 300,
+        "Range": 20,
         "Damage": 100,
-        "Cooldown": 1
+        "Cooldown": 0.5
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 400,
+        "Range": 20,
+        "Damage": 150,
+        "Cooldown": 0.5
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 500,
+        "Range": 20,
+        "Damage": 200,
+        "Cooldown": 0.5
       }
     ]
   },
   "Swatchling": {
-    "Type": "Single",
+    "Type": "Burn + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Epic",
-    "PlacePrice": 100,
-    "Max": 1,
+    "PlacePrice": 5000,
+    "Max": 3,
+    "Passive": {
+            "Name": "Warmify",
+            "Description": "Swatchling Deals 50% Burn Damage Over 3 Seconds, 100% Burn Damage If Swatch Is On The Same Team."
+        },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -765,35 +955,47 @@
       {
         "Price": 0,
         "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Damage": 2000,
+        "Cooldown": 1,
+        "Burn": 1000,
+        "BurnTime": 3
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 7500,
+        "Range": 15,
+        "Damage": 2500,
+        "Cooldown": 0.75,
+        "Burn": 1250,
+        "BurnTime": 3
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 10000,
+        "Range": 20,
+        "Damage": 3000,
+        "Cooldown": 0.5,
+        "Burn": 1500,
+        "BurnTime": 3
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 15000,
+        "Range": 25,
+        "Damage": 3500,
+        "Cooldown": 0.25,
+        "Burn": 1750,
+        "BurnTime": 3
       }
     ]
   },
   "Werewerewire": {
-    "Type": "Single",
+    "Type": "Chain + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
     "PlacePrice": 100,
-    "Max": 1,
+    "Max": 3,
+    "Passive": {
+            "Name": "Lost Wire",
+            "Description": "Attacks Chain Up to 5 Nearby Enemies, giving them 50% Slow for 2.5 seconds."
+        },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -805,34 +1007,46 @@
         "Price": 0,
         "Range": 10,
         "Damage": 100,
-        "Cooldown": 1
+        "Cooldown": 1,
+        "MaxChain": 5,
+        "Slow": 0.5,
+        "SlowTime": 2.5
       },
       {
         "Price": 0,
         "Range": 10,
         "Damage": 100,
-        "Cooldown": 1
+        "Cooldown": 1,
+        "MaxChain": 5,
+        "Slow": 0.5,
+        "SlowTime": 2.5
       },
       {
         "Price": 0,
         "Range": 10,
         "Damage": 100,
-        "Cooldown": 1
+        "Cooldown": 1,
+        "MaxChain": 5,
+        "Slow": 0.5,
+        "SlowTime": 2.5
       },
       {
         "Price": 0,
         "Range": 10,
         "Damage": 100,
-        "Cooldown": 1
+        "Cooldown": 1,
+        "MaxChain": 5,
+        "Slow": 0.5,
+        "SlowTime": 2.5
       }
     ]
   },
-  "Ruddin": {
-    "Type": "Single",
+  "Rudinn": {
+    "Type": "Melee",
     "Image": "rbxassetid://0000000",
     "Rarity": "Uncommon",
     "PlacePrice": 100,
-    "Max": 1,
+    "Max": 6,
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -867,7 +1081,7 @@
     ]
   },
   "Hathy": {
-    "Type": "Single",
+    "Type": "Booster",
     "Image": "rbxassetid://0000000",
     "Rarity": "Epic",
     "PlacePrice": 100,
@@ -906,7 +1120,7 @@
     ]
   },
   "C. Round": {
-    "Type": "Single",
+    "Type": "Splash",
     "Image": "rbxassetid://0000000",
     "Rarity": "Uncommon",
     "PlacePrice": 100,
@@ -945,7 +1159,7 @@
     ]
   },
   "Ponman": {
-    "Type": "Single",
+    "Type": "Pierce",
     "Image": "rbxassetid://0000000",
     "Rarity": "Common",
     "PlacePrice": 100,
@@ -984,7 +1198,7 @@
     ]
   },
   "K. Round": {
-    "Type": "Single",
+    "Type": "Cone Aoe + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Epic",
     "PlacePrice": 100,
@@ -1023,7 +1237,7 @@
     ]
   },
   "Bloxer": {
-    "Type": "Single",
+    "Type": "Dual",
     "Image": "rbxassetid://0000000",
     "Rarity": "Uncommon",
     "PlacePrice": 100,
@@ -1062,7 +1276,7 @@
     ]
   },
   "Rabbick": {
-    "Type": "Single",
+    "Type": "AOE + Booster",
     "Image": "rbxassetid://0000000",
     "Rarity": "Uncommon",
     "PlacePrice": 100,
@@ -1101,11 +1315,11 @@
     ]
   },
   "Jevil": {
-    "Type": "Single",
+    "Type": "Continous Pierce Spread + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Unique",
     "PlacePrice": 100,
-    "Max": 1,
+    "Max": 3,
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -1140,7 +1354,7 @@
     ]
   },
   "King": {
-    "Type": "Single",
+    "Type": "Pierce + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Legendary",
     "PlacePrice": 100,
@@ -1179,7 +1393,7 @@
     ]
   },
   "Berdly": {
-    "Type": "Single",
+    "Type": "Slash + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
     "PlacePrice": 100,
@@ -1218,7 +1432,7 @@
     ]
   },
   "Spamton NEO": {
-    "Type": "Single",
+    "Type": "Pierce Spread + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Unique",
     "PlacePrice": 100,
@@ -1257,7 +1471,7 @@
     ]
   },
   "Thrash Machine": {
-    "Type": "Single",
+    "Type": "Splash + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Legendary",
     "PlacePrice": 100,
@@ -1296,7 +1510,7 @@
     ]
   },
   "Mauswheel": {
-    "Type": "Single",
+    "Type": "Cone Aoe + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
     "PlacePrice": 100,
@@ -1335,7 +1549,7 @@
     ]
   },
   "Pipis": {
-    "Type": "Single",
+    "Type": "Explosion",
     "Image": "rbxassetid://0000000",
     "Rarity": "Common",
     "PlacePrice": 100,
@@ -1374,7 +1588,7 @@
     ]
   },
   "Queen": {
-    "Type": "Single",
+    "Type": "Splash + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Legendary",
     "PlacePrice": 100,
@@ -1413,7 +1627,7 @@
     ]
   },
   "Shadowguy": {
-    "Type": "Single",
+    "Type": "Cone Aoe",
     "Image": "rbxassetid://0000000",
     "Rarity": "Common",
     "PlacePrice": 100,
@@ -1452,7 +1666,7 @@
     ]
   },
   "Shuttah": {
-    "Type": "Single",
+    "Type": "Dual Splash + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
     "PlacePrice": 100,
@@ -1491,7 +1705,7 @@
     ]
   },
   "Lanino": {
-    "Type": "Single",
+    "Type": "Splash + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
     "PlacePrice": 100,
@@ -1530,7 +1744,7 @@
     ]
   },
   "Elnina": {
-    "Type": "Single",
+    "Type": "Splash + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
     "PlacePrice": 100,
@@ -1569,7 +1783,7 @@
     ]
   },
   "Zapper": {
-    "Type": "Single",
+    "Type": "Splash",
     "Image": "rbxassetid://0000000",
     "Rarity": "Epic",
     "PlacePrice": 100,
@@ -1608,11 +1822,15 @@
     ]
   },
   "Tenna": {
-    "Type": "Single",
+    "Type": "Pierce Spread + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Legendary",
-    "PlacePrice": 100,
-    "Max": 1,
+    "PlacePrice": 50000,
+    "Max": 2,
+    "Passive": {
+            "Name": "Metaphysical Challenge",
+            "Description": "Every 15s, Picks The Strongest Enemy In Tenna's range And Traps Them In A Ball Stunning Them For 5s, And Dealing x10 Damage To Them"
+        },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -1622,32 +1840,32 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Range": 20,
+        "Damage": 35000,
+        "Cooldown": 5
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 75000,
+        "Range": 25,
+        "Damage": 65000,
+        "Cooldown": 5
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 100000,
+        "Range": 30,
+        "Damage": 85000,
+        "Cooldown": 5
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 150000,
+        "Range": 35,
+        "Damage": 100000,
+        "Cooldown": 5
       }
     ]
   },
   "Pippins": {
-    "Type": "Single",
+    "Type": "Cone Aoe",
     "Image": "rbxassetid://0000000",
     "Rarity": "Epic",
     "PlacePrice": 100,
@@ -1688,7 +1906,7 @@
   "Gerson Boom": {
     "Type": "Single",
     "Image": "rbxassetid://0000000",
-    "Rarity": "Epic",
+    "Rarity": "Legendary",
     "PlacePrice": 100,
     "Max": 1,
     "Offset": 0,
@@ -1725,7 +1943,7 @@
     ]
   },
   "Miss Mizzle": {
-    "Type": "Single",
+    "Type": "Pierce Spread + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Unique",
     "PlacePrice": 100,
@@ -1764,7 +1982,7 @@
     ]
   },
   "Mizzle": {
-    "Type": "Single",
+    "Type": "Cone Aoe + Booster",
     "Image": "rbxassetid://0000000",
     "Rarity": "Epic",
     "PlacePrice": 100,
@@ -1803,7 +2021,7 @@
     ]
   },
   "Organikk": {
-    "Type": "Single",
+    "Type": "Booster",
     "Image": "rbxassetid://0000000",
     "Rarity": "Epic",
     "PlacePrice": 100,
@@ -1842,7 +2060,7 @@
     ]
   },
   "Roaring Knight": {
-    "Type": "Single",
+    "Type": "Slash + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Unique",
     "PlacePrice": 100,
@@ -1881,7 +2099,7 @@
     ]
   },
   "Titan": {
-    "Type": "Single",
+    "Type": "Nuke Stun + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Forgotten",
     "PlacePrice": 100,
@@ -1920,11 +2138,15 @@
     ]
   },
   "FRIEND": {
-    "Type": "Single",
+    "Type": "AOE + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Forgotten",
-    "PlacePrice": 100,
+    "PlacePrice": 50000,
     "Max": 1,
+    "Passive": {
+            "Name": "What If Things Got Darker Than Dark?",
+            "Description": "All Enemys In Range Are Given 75% Slow And 50% Anti-Regen"
+        },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -1934,32 +2156,48 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Range": 30,
+        "Damage": 4500,
+        "Cooldown": 0.25,
+        "Slow": 0.25,
+        "SlowTime": 3,
+        "Bleed": 0.5,
+        "BleedTime": 3
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 75000,
+        "Range": 35,
+        "Damage": 5500,
+        "Cooldown": 0.25,
+        "Slow": 0.25,
+        "SlowTime": 3,
+        "Bleed": 0.5,
+        "BleedTime": 3
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 100000,
+        "Range": 40,
+        "Damage": 6500,
+        "Cooldown": 0.25,
+        "Slow": 0.25,
+        "SlowTime": 3,
+        "Bleed": 0.5,
+        "BleedTime": 3
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 150000,
+        "Range": 45,
+        "Damage": 7500,
+        "Cooldown": 0.25,
+        "Slow": 0.25,
+        "SlowTime": 3,
+        "Bleed": 0.5,
+        "BleedTime": 3
       }
     ]
   },
   "Watercooler": {
-    "Type": "Single",
+    "Type": "AOE + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Legendary",
     "PlacePrice": 100,
@@ -1998,7 +2236,7 @@
     ]
   },
   "Toriel": {
-    "Type": "Single",
+    "Type": "Booster + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Epic",
     "PlacePrice": 100,
@@ -2037,7 +2275,7 @@
     ]
   },
   "Carol": {
-    "Type": "Single",
+    "Type": "AOE + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
     "PlacePrice": 100,
@@ -2075,8 +2313,8 @@
       }
     ]
   },
-  "Undyne (Dark World)": {
-    "Type": "Single",
+  "Undyne": {
+    "Type": "Pierce + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
     "PlacePrice": 100,
@@ -2115,7 +2353,7 @@
     ]
   },
   "Annoying Dog": {
-    "Type": "Single",
+    "Type": "AOE + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Legendary",
     "PlacePrice": 100,
@@ -2154,7 +2392,7 @@
     ]
   },
   "Sans": {
-    "Type": "Single",
+    "Type": "Farm + Booster",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
     "PlacePrice": 100,
@@ -2193,7 +2431,7 @@
     ]
   },
   "Asgore": {
-    "Type": "Single",
+    "Type": "Pierce + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
     "PlacePrice": 100,
@@ -2232,7 +2470,7 @@
     ]
   },
   "Onion": {
-    "Type": "Single",
+    "Type": "Booster",
     "Image": "rbxassetid://0000000",
     "Rarity": "Epic",
     "PlacePrice": 100,
@@ -2271,7 +2509,7 @@
     ]
   },
   "Royal Guards": {
-    "Type": "Single",
+    "Type": "Dual Slash + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Epic",
     "PlacePrice": 100,
@@ -2310,7 +2548,7 @@
     ]
   },
   "Starwalker": {
-    "Type": "Single",
+    "Type": "Pierce",
     "Image": "rbxassetid://0000000",
     "Rarity": "Uncommon",
     "PlacePrice": 100,
@@ -2349,7 +2587,7 @@
     ]
   },
   "Malius": {
-    "Type": "Single",
+    "Type": "Nuke + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Epic",
     "PlacePrice": 100,
@@ -2388,7 +2626,7 @@
     ]
   },
   "Nubert": {
-    "Type": "Single",
+    "Type": "Cone Aoe + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
     "PlacePrice": 100,
@@ -2427,7 +2665,7 @@
     ]
   },
   "Hacker": {
-    "Type": "Single",
+    "Type": "Splash",
     "Image": "rbxassetid://0000000",
     "Rarity": "Epic",
     "PlacePrice": 100,
@@ -2466,7 +2704,7 @@
     ]
   },
   "Trashy": {
-    "Type": "Single",
+    "Type": "Explosion",
     "Image": "rbxassetid://0000000",
     "Rarity": "Common",
     "PlacePrice": 100,
@@ -2505,7 +2743,7 @@
     ]
   },
   "Giga Queen": {
-    "Type": "Single",
+    "Type": "Nuke Stun + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Legendary",
     "PlacePrice": 100,
@@ -2544,7 +2782,7 @@
     ]
   },
   "Hammer Of Justice": {
-    "Type": "Single",
+    "Type": "Nuke + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Unique",
     "PlacePrice": 100,
@@ -2583,7 +2821,7 @@
     ]
   },
   "Asriel Dreemmur": {
-    "Type": "Single",
+    "Type": "Cone Aoe + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
     "PlacePrice": 100,
@@ -2622,7 +2860,7 @@
     ]
   },
   "Gastor": {
-    "Type": "Single",
+    "Type": "AOE + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Forgotten",
     "PlacePrice": 100,
@@ -2661,7 +2899,85 @@
     ]
   },
   "YOUR CREATION": {
-    "Type": "Single",
+    "Type": "Dual Booster",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Forgotten",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 10000000,
+        "Cooldown": 100
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+ "ERAM": {
+    "Type": "AOE + Summoner",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Legendary",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Dess": {
+    "Type": "Cone Aoe + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Forgotten",
     "PlacePrice": 100,
@@ -2699,10 +3015,244 @@
       }
     ]
   },
-  "Soul": {
-    "Type": "Single",
+  "Small Mike": {
+    "Type": "Cone Aoe + Passive",
     "Image": "rbxassetid://0000000",
-    "Rarity": "Common",
+    "Rarity": "Legendary",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Jackenstein": {
+    "Type": "AOE + Summoner",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Unique",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Guei": {
+    "Type": "Splash",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Epic",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Sphinx-Tenna": {
+    "Type": "Triple Booster",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Forgotten",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Cat Mike": {
+    "Type": "AOE + Passive",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Legendary",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Cowboy Hat Mike": {
+    "Type": "Dual Splash + Passive",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Legendary",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+    "Sound Of Justice": {
+    "Type": "Pierce Spread + Passive",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Unique",
     "PlacePrice": 100,
     "Max": 1,
     "Offset": 0,
