@@ -125,4 +125,2617 @@
             }
         ]
     }
+    "Lancer": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Legendary",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Noelle": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Epic",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Seam": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Epic",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Rouxls Kaard": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Gold",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Sweet Cap'n Cakes": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Legendary",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Spamton": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Legendary",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Swatch": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Gold",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Dummy (Ralseis)": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Common",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Tasque Manager": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Unique",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Clover": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Gold",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Werewire": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Epic",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Poppup": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Epic",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Ambyu-Lance": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Gold",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Virovirokun": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Gold",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Tasque": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Gold",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Maus": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Uncommon",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Swatchling": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Epic",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Werewerewire": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Gold",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Ruddin": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Uncommon",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Hathy": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Epic",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "C. Round": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Uncommon",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Ponman": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Common",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "K. Round": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Epic",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Bloxer": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Uncommon",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Rabbick": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Uncommon",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Jevil": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Unique",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "King": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Legendary",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Berdly": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Gold",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Spamton NEO": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Unique",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Thrash Machine": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Legendary",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Mauswheel": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Gold",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Pipis": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Common",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Queen": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Legendary",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Shadowguy": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Common",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Shuttah": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Gold",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Lanino": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Gold",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Elnina": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Gold",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Zapper": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Epic",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Tenna": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Legendary",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Pippins": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Epic",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Gerson Boom": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Epic",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Miss Mizzle": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Unique",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Mizzle": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Epic",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Organikk": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Epic",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Roaring Knight": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Unique",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Titan": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Forgotten",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "FRIEND": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Forgotten",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Watercooler": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Legendary",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Toriel": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Epic",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Carol": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Gold",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Undyne (Dark World)": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Gold",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Annoying Dog": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Legendary",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Sans": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Gold",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Asgore": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Gold",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Onion": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Epic",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Royal Guards": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Epic",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Starwalker": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Uncommon",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Malius": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Epic",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Nubert": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Gold",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Hacker": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Epic",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Trashy": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Common",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Giga Queen": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Legendary",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Hammer Of Justice": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Unique",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Asriel Dreemmur": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Gold",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Gastor": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Forgotten",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "YOUR CREATION": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Forgotten",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  },
+  "Soul": {
+    "Type": "Single",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Common",
+    "PlacePrice": 100,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      },
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 100,
+        "Cooldown": 1
+      }
+    ]
+  }
 }
