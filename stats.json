@@ -1,5 +1,5 @@
 {
-    "Kris": {
+    "Darkworld Kris": {
         "Type": "Slash",
         "Image": "rbxassetid://0000000",
         "Rarity": "Common",
@@ -42,7 +42,7 @@
             }
         ]
     },
-    "Susie": {
+    "Darkworld Susie": {
         "Type": "Pierce",
         "Image": "rbxassetid://0000000",
         "Rarity": "Uncommon",
@@ -216,7 +216,7 @@
       }
     ]
   },
-  "Noelle": {
+  "Darkworld Noelle": {
     "Type": "Cone Aoe + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Epic",
@@ -316,10 +316,10 @@
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
     "PlacePrice": 17500,
-    "Max": 2,
+    "Max": 1,
     "Passive": {
             "Name": "Go forth!! My Squeakie Duckie!!",
-            "Description": "Every 30s Rouxls Kaard will explode a random enemy with his thrash machine, instakilling it and dealing 2500 damage to all enemies near the explosion"
+            "Description": "Every 30s Rouxls Kaard will explode a random enemy with his thrash machine, Dealing 10k Damage To it and dealing 2500 damage to all enemies near the explosion"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -331,26 +331,26 @@
       {
         "Price": 0,
         "Range": 15,
-        "Damage": 3750,
-        "Cooldown": 0.5
+        "Damage": 750,
+        "Cooldown": 0.55
       },
       {
         "Price": 20000,
         "Range": 20,
-        "Damage": 4500,
-        "Cooldown": 0.4
+        "Damage": 1500,
+        "Cooldown": 0.45
       },
       {
         "Price": 22500,
         "Range": 25,
-        "Damage": 5250,
-        "Cooldown": 0.3
+        "Damage": 2250,
+        "Cooldown": 0.35
       },
       {
         "Price": 27500,
         "Range": 25,
-        "Damage": 6000,
-        "Cooldown": 0.25
+        "Damage": 3000,
+        "Cooldown": 0.35
       }
     ]
   },
@@ -547,7 +547,7 @@
     "Type": "Chain Stun",
     "Image": "rbxassetid://0000000",
     "Rarity": "Unique",
-    "PlacePrice": 25000,
+    "PlacePrice": 65000,
     "Max": 2,
     "Passive": {
             "Name": "Order! Order!",
@@ -564,34 +564,34 @@
         "Price": 0,
         "Range": 20,
         "Damage": 32500,
-        "Cooldown": 1.75,
-        "Slow": 0,
-        "SlowTime": 0.5,
-        "MaxChain": 15
-      },
-      {
-        "Price": 30000,
-        "Range": 25,
-        "Damage": 35500,
         "Cooldown": 1.65,
         "Slow": 0,
         "SlowTime": 0.5,
         "MaxChain": 15
       },
       {
-        "Price": 32500,
-        "Range": 30,
-        "Damage": 37500,
-        "Cooldown": 1.55,
+        "Price": 67500,
+        "Range": 25,
+        "Damage": 35500,
+        "Cooldown": 1.5,
         "Slow": 0,
         "SlowTime": 0.5,
         "MaxChain": 15
       },
       {
-        "Price": 37500,
+        "Price": 70000,
+        "Range": 30,
+        "Damage": 37500,
+        "Cooldown": 1.45,
+        "Slow": 0,
+        "SlowTime": 0.5,
+        "MaxChain": 15
+      },
+      {
+        "Price": 72500,
         "Range": 32,
         "Damage": 38000,
-        "Cooldown": 1.5,
+        "Cooldown": 1.35,
         "Slow": 0,
         "SlowTime": 0.5,
         "MaxChain": 15
@@ -807,10 +807,10 @@
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
     "PlacePrice": 500,
-    "Max": 3,
+    "Max": 4,
     "Passive": {
             "Name": "Criminal Virus",
-            "Description": "Attacks Apply 15% Slow"
+            "Description": "Attacks Apply 25% Slow"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -824,7 +824,7 @@
         "Range": 15,
         "Damage": 1000,
         "Cooldown": 3,
-        "Slow": 0.85,
+        "Slow": 0.75,
         "SlowTime": 3
       },
       {
@@ -832,7 +832,7 @@
         "Range": 20,
         "Damage": 1100,
         "Cooldown": 2.75,
-        "Slow": 0.85,
+        "Slow": 0.75,
         "SlowTime": 3
       },
       {
@@ -840,7 +840,7 @@
         "Range": 25,
         "Damage": 1200,
         "Cooldown": 2.5,
-        "Slow": 0.85,
+        "Slow": 0.75,
         "SlowTime": 3
       },
       {
@@ -848,7 +848,7 @@
         "Range": 25,
         "Damage": 1350,
         "Cooldown": 2.5,
-        "Slow": 0.85,
+        "Slow": 0.75,
         "SlowTime": 3
       }
     ]
@@ -999,7 +999,7 @@
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
     "PlacePrice": 33333,
-    "Max": 2,
+    "Max": 1,
     "Passive": {
             "Name": "Lost Wire",
             "Description": "Attacks Chain Up to 5 Nearby Enemies, giving them 50% Slow for 2.5 seconds."
@@ -1054,7 +1054,7 @@
     "Image": "rbxassetid://0000000",
     "Rarity": "Uncommon",
     "PlacePrice": 600,
-    "Max": 6,
+    "Max": 4,
     "Passive": {
             "Name": "Bake Sale",
             "Description": "All Towers In Range Of Rudinn are Given a +25% Cash Boost."
@@ -1536,25 +1536,25 @@
         "Price": 0,
         "Range": 25,
         "Damage": 200000,
-        "Cooldown": 5
+        "Cooldown": 5.5
       },
       {
         "Price": 250000,
         "Range": 30,
         "Damage": 250000,
-        "Cooldown": 5
+        "Cooldown": 5.5
       },
       {
         "Price": 500000,
         "Range": 35,
         "Damage": 280000,
-        "Cooldown": 5
+        "Cooldown": 5.5
       },
       {
         "Price": 1000000,
         "Range": 40,
         "Damage": 315000,
-        "Cooldown": 5
+        "Cooldown": 5.5
       }
     ]
   },
@@ -1579,7 +1579,7 @@
         "Price": 0,
         "Range": 25,
         "Damage": 100000,
-        "Cooldown": 6,
+        "Cooldown": 5,
         "Bleed": 0,
         "BleedTime": 10,
         "Slow": 0.5,
@@ -1589,7 +1589,7 @@
         "Price": 150000,
         "Range": 30,
         "Damage": 125000,
-        "Cooldown": 6,
+        "Cooldown": 5,
         "Bleed": 0,
         "BleedTime": 10,
         "Slow": 0.5,
@@ -1599,7 +1599,7 @@
         "Price": 200000,
         "Range": 30,
         "Damage": 135000,
-        "Cooldown": 6,
+        "Cooldown": 5,
         "Bleed": 0,
         "BleedTime": 10,
         "Slow": 0.5,
@@ -1609,7 +1609,7 @@
         "Price": 250000,
         "Range": 35,
         "Damage": 150000,
-        "Cooldown": 6,
+        "Cooldown": 5,
         "Bleed": 0,
         "BleedTime": 10,
         "Slow": 0.5,
@@ -1806,7 +1806,7 @@
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
     "PlacePrice": 12500,
-    "Max": 3,
+    "Max": 2,
     "Passive": {
             "Name": "Pose For The Camera!",
             "Description": "Attacks Stun Enemies for 1 second."
@@ -2147,7 +2147,7 @@
     "Image": "rbxassetid://0000000",
     "Rarity": "Unique",
     "PlacePrice": 250000,
-    "Max": 2,
+    "Max": 1,
     "Passive": {
             "Name": "Embezzle",
             "Description": "Every Attack Miss Mizzle has a 35% Chance To Use a BitterTear Stunning All Enemies In Range For 1.5 Seconds, and Dealing 150% of Miss Mizzle's Damage in Darkness."
@@ -2327,7 +2327,7 @@
         "Price": 500000,
         "Range": 40,
         "Damage": 135000,
-        "Cooldown": 2.5
+        "Cooldown": 2.25
       }
     ]
   },
@@ -2408,7 +2408,7 @@
         "Price": 1000000,
         "Range": 50,
         "Damage": 385000,
-        "Cooldown": 5.5,
+        "Cooldown": 5.25,
         "SoulLeak": 1.15,
         "ShinySoulLeak": 1.30,
         "SoulLeakTime": 5,
@@ -2438,7 +2438,7 @@
       {
         "Price": 0,
         "Range": 30,
-        "Damage": 4500,
+        "Damage": 5500,
         "Cooldown": 0.25,
         "Slow": 0.25,
         "SlowTime": 3,
@@ -2448,7 +2448,7 @@
       {
         "Price": 75000,
         "Range": 35,
-        "Damage": 5500,
+        "Damage": 5750,
         "Cooldown": 0.25,
         "Slow": 0.25,
         "SlowTime": 3,
@@ -2469,6 +2469,16 @@
         "Price": 150000,
         "Range": 45,
         "Damage": 7500,
+        "Cooldown": 0.25,
+        "Slow": 0.25,
+        "SlowTime": 3,
+        "Bleed": 0.5,
+        "BleedTime": 3
+      },
+      {
+        "Price": 200000,
+        "Range": 50,
+        "Damage": 8500,
         "Cooldown": 0.25,
         "Slow": 0.25,
         "SlowTime": 3,
@@ -3209,7 +3219,7 @@
         "Price": 0,
         "Range": 25,
         "Damage": 250000,
-        "Cooldown": 6,
+        "Cooldown": 6.5,
         "Slow": 0,
         "SlowTime": 1
       },
@@ -3217,7 +3227,7 @@
         "Price": 100000,
         "Range": 30,
         "Damage": 250000,
-        "Cooldown": 5.75,
+        "Cooldown": 6.25,
         "Slow": 0,
         "SlowTime": 1
       },
@@ -3225,7 +3235,7 @@
         "Price": 125000,
         "Range": 32,
         "Damage": 250000,
-        "Cooldown": 5.5,
+        "Cooldown": 6,
         "Slow": 0,
         "SlowTime": 1
       },
@@ -3233,7 +3243,7 @@
         "Price": 150000,
         "Range": 35,
         "Damage": 300000,
-        "Cooldown": 5.25,
+        "Cooldown": 5.75,
         "Slow": 0,
         "SlowTime": 1
       }
@@ -3425,7 +3435,7 @@
     ]
   },
  "ERAM": {
-    "Type": "Continous Cone Aoe + Summoner",
+    "Type": "Cone Aoe + Summoner",
     "Image": "rbxassetid://0000000",
     "Rarity": "Legendary",
     "PlacePrice": 518113,
@@ -3449,7 +3459,7 @@
         "WalkSpeed": 50,
         "Unit": "FRIEND",
         "Health": 750000,
-        "Cooldown": 0.5
+        "Cooldown": 1
       },
       {
         "Price": 518113,
@@ -3459,7 +3469,7 @@
         "WalkSpeed": 50,
         "Unit": "FRIEND",
         "Health": 875000,
-        "Cooldown": 0.5
+        "Cooldown": 1
       },
       {
         "Price": 518113,
@@ -3469,7 +3479,7 @@
         "WalkSpeed": 50,
         "Unit": "FRIEND",
         "Health": 1000000,
-        "Cooldown": 0.4
+        "Cooldown": 0.75
       },
       {
         "Price": 518113,
@@ -3479,7 +3489,7 @@
         "WalkSpeed": 50,
         "Unit": "FRIEND",
         "Health": 1125000,
-        "Cooldown": 0.375
+        "Cooldown": 0.75
       }
     ]
   },
@@ -3488,7 +3498,7 @@
     "Image": "rbxassetid://0000000",
     "Rarity": "Forgotten",
     "PlacePrice": 122500,
-    "Max": 3,
+    "Max": 2,
     "Passive": {
             "Name": "With Hope Crossed On Our Hearts",
             "Description": "All Enemies In Range Are Slowed by 75%. Enemies (20 -> 10) And Bosses (100 -> 50) Do 50% Less Damage When Reaching The Exit."
@@ -3606,41 +3616,41 @@
         "Price": 0,
         "Range": 30,
         "Damage": 50000,
-        "SummonTime": 5,
+        "SummonTime": 7.5,
         "WalkSpeed": 40,
         "Unit": "Scairy",
         "Health": 250000,
-        "Cooldown": 3
+        "Cooldown": 2.75
       },
       {
         "Price": 150000,
         "Range": 35,
         "Damage": 52500,
-        "SummonTime": 5,
+        "SummonTime": 7.5,
         "WalkSpeed": 40,
         "Unit": "Scairy",
         "Health": 262500,
-        "Cooldown": 3
+        "Cooldown": 2.5
       },
       {
         "Price": 200000,
         "Range": 40,
         "Damage": 55000,
-        "SummonTime": 5,
+        "SummonTime": 7.5,
         "WalkSpeed": 40,
         "Unit": "Scairy",
         "Health": 275000,
-        "Cooldown": 3
+        "Cooldown": 2.25
       },
       {
         "Price": 250000,
         "Range": 45,
         "Damage": 60000,
-        "SummonTime": 5,
+        "SummonTime": 7.5,
         "WalkSpeed": 40,
         "Unit": "Scairy",
         "Health": 300000,
-        "Cooldown": 3
+        "Cooldown": 2
       }
     ]
   },
@@ -3704,7 +3714,7 @@
       {
         "Price": 0,
         "Range": 25,
-        "Damage": 100,
+        "Damage": 0,
         "Cooldown": 1,
         "DamageBoost": 1.4,
         "ShinyDamageBoost": 1.8,
@@ -4148,7 +4158,7 @@
     "Max": 3,
     "Passive": {
             "Name": "IT'S TV TIME!",
-            "Description": "Attacks Deal 300% Burn Damage Over 3 Seconds."
+            "Description": "Attacks Deal 300% Burn Damage Over 5 Seconds."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -4161,33 +4171,33 @@
         "Price": 0,
         "Range": 20,
         "Damage": 50000,
-        "Cooldown": 5,
+        "Cooldown": 4,
         "Burn": 150000,
-        "BurnTime": 3
+        "BurnTime": 5
       },
       {
         "Price": 75000,
         "Range": 25,
-        "Damage": 55000,
-        "Cooldown": 5,
-        "Burn": 165000,
-        "BurnTime": 3
+        "Damage": 65000,
+        "Cooldown": 4,
+        "Burn": 195000,
+        "BurnTime": 5
       },
       {
         "Price": 100000,
         "Range": 30,
-        "Damage": 60000,
-        "Cooldown": 5,
-        "Burn": 180000,
-        "BurnTime": 3
+        "Damage": 70000,
+        "Cooldown": 4,
+        "Burn": 210000,
+        "BurnTime": 5
       },
       {
         "Price": 125000,
         "Range": 35,
-        "Damage": 65000,
-        "Cooldown": 5,
-        "Burn": 195000,
-        "BurnTime": 3
+        "Damage": 85000,
+        "Cooldown": 4,
+        "Burn": 255000,
+        "BurnTime": 5
       }
     ]
   },
@@ -4308,6 +4318,236 @@
         "SoulLeakTime": 5
       }
     ]
+  },
+  "Lightworld Noelle": {
+    "Type": "Splash Stun",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Common",
+    "PlacePrice": 750,
+    "Max": 3,
+    "Passive": {
+            "Name": "Gingerbread House",
+            "Description": "Noelles Attacks Stun For 0.1 Seconds."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 15,
+        "Damage": 250,
+        "Cooldown": 0.5,
+        "Slow": 0,
+        "SlowTime": 0.1
+      },
+      {
+        "Price": 1000,
+        "Range": 20,
+        "Damage": 300,
+        "Cooldown": 0.5,
+        "Slow": 0,
+        "SlowTime": 0.1
+      },
+      {
+        "Price": 1125,
+        "Range": 25,
+        "Damage": 350,
+        "Cooldown": 0.5,
+        "Slow": 0,
+        "SlowTime": 0.1
+      },
+      {
+        "Price": 1350,
+        "Range": 30,
+        "Damage": 425,
+        "Cooldown": 0.5,
+        "Slow": 0,
+        "SlowTime": 0.1
+      }
+    ]
+  },
+  "Fluffy Ralsei": {
+    "Type": "Splash + Slow",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Legendary",
+    "PlacePrice": 40000,
+    "Max": 1,
+    "Passive": {
+            "Name": "The Legend",
+            "Description": "Ralsei's Attacks Apply 65% Slow For 5 Seconds"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 50000,
+        "Cooldown": 5,
+        "Slow": 0.35,
+        "SlowTime": 5
+      },
+      {
+        "Price": 45000,
+        "Range": 25,
+        "Damage": 55000,
+        "Cooldown": 5,
+        "Slow": 0.35,
+        "SlowTime": 5
+      },
+      {
+        "Price": 50000,
+        "Range": 28,
+        "Damage": 57500,
+        "Cooldown": 5,
+        "Slow": 0.35,
+        "SlowTime": 5
+      },
+      {
+        "Price": 56250,
+        "Range": 30,
+        "Damage": 60000,
+        "Cooldown": 5,
+        "Slow": 0.35,
+        "SlowTime": 5
+      }
+    ]
+  },
+  "Lightworld Kris": {
+    "Type": "Melee + Passive",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Uncommon",
+    "PlacePrice": 3445,
+    "Max": 3,
+    "Passive": {
+            "Name": "Before The Story",
+            "Description": "Kris Deals +50% Damage if Paired With Any Lightworld Troops"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 15,
+        "Damage": 1500,
+        "Cooldown": 1.25
+      },
+      {
+        "Price": 4445,
+        "Range": 20,
+        "Damage": 1750,
+        "Cooldown": 1
+      },
+      {
+        "Price": 5445,
+        "Range": 25,
+        "Damage": 2000,
+        "Cooldown": 0.75
+      },
+      {
+        "Price": 6445,
+        "Range": 30,
+        "Damage": 2250,
+        "Cooldown": 0.5
+      }
+    ]
+  },
+  "Lightworld Susie": {
+    "Type": "Melee + Passive",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Gold",
+    "PlacePrice": 8500,
+    "Max": 1,
+    "Passive": {
+            "Name": "Chalk",
+            "Description": "Susie Deals +100% Damage To Enemys In A 10 Stud Radius"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 10000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 10000,
+        "Range": 15,
+        "Damage": 11500,
+        "Cooldown": 2.9
+      },
+      {
+        "Price": 12500,
+        "Range": 20,
+        "Damage": 12500,
+        "Cooldown": 2.8
+      },
+      {
+        "Price": 15000,
+        "Range": 22,
+        "Damage": 13500,
+        "Cooldown": 2.75
+      }
+    ]
+  },
+  "Lightworld Berdly": {
+    "Type": "AOE + Passive",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Common",
+    "PlacePrice": 1350,
+    "Max": 4,
+    "Passive": {
+            "Name": "Bluebird Of Misfortune",
+            "Description": "Deals +25% Damage For The First 5 Rounds Of Placement"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 5,
+        "Damage": 100,
+        "Cooldown": 0.5
+      },
+      {
+        "Price": 1500,
+        "Range": 10,
+        "Damage": 125,
+        "Cooldown": 0.4
+      },
+      {
+        "Price": 1750,
+        "Range": 13,
+        "Damage": 150,
+        "Cooldown": 0.3
+      },
+      {
+        "Price": 2000,
+        "Range": 15,
+        "Damage": 175,
+        "Cooldown": 0.25
+      }
+    ]
   }
 }
-
