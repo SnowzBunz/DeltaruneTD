@@ -265,6 +265,7 @@
     "Rarity": "Epic",
     "PlacePrice": 100,
     "Max": 3,
+    "NoEnemyAttack": true,
     "Passive": {
             "Name": "Shopkeeper",
             "Description": "All Towers In Range Of Seam are Given a +50% Cash Boost, Seam will also generate 1500 cash every wave."
@@ -495,10 +496,11 @@
     "Image": "rbxassetid://0000000",
     "Rarity": "Common",
     "PlacePrice": 500,
-    "Max": 1,
+    "Max": 3,
+    "NoEnemyAttack": true,
     "Passive": {
             "Name": "Hug",
-            "Description": "Hugs enemies dealing 1000 damage every 1.5 seconds, and slowing them by 25% for 2 seconds"
+            "Description": "Hugs enemies dealing 1000 extra damage every 1.5 seconds, and slowing them by 25% for 2 seconds"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -1820,25 +1822,33 @@
         "Price": 0,
         "Range": 15,
         "Damage": 25000,
-        "Cooldown": 3
+        "Cooldown": 3,
+        "Slow": 0,
+        "SlowTime": 1
       },
       {
         "Price": 13500,
         "Range": 20,
         "Damage": 30000,
-        "Cooldown": 2.9
+        "Cooldown": 2.9,
+        "Slow": 0,
+        "SlowTime": 1
       },
       {
         "Price": 15000,
         "Range": 25,
         "Damage": 35000,
-        "Cooldown": 2.8
+        "Cooldown": 2.8,
+        "Slow": 0,
+        "SlowTime": 1
       },
       {
         "Price": 17500,
         "Range": 30,
         "Damage": 40000,
-        "Cooldown": 2.75
+        "Cooldown": 2.75,
+        "Slow": 0,
+        "SlowTime": 1
       }
     ]
   },
@@ -2140,7 +2150,7 @@
     "Max": 2,
     "Passive": {
             "Name": "Embezzle",
-            "Description": "Every Attack Miss Mizzle has a 35% Chance To Use a BitterTear Stunning All Enemies In Range For 1.5 Seconds, and Dealing 100% of Miss Mizzle's Damage in Darkness."
+            "Description": "Every Attack Miss Mizzle has a 35% Chance To Use a BitterTear Stunning All Enemies In Range For 1.5 Seconds, and Dealing 150% of Miss Mizzle's Damage in Darkness."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -2153,25 +2163,33 @@
         "Price": 0,
         "Range": 25,
         "Damage": 100000,
-        "Cooldown": 3
+        "Cooldown": 3,
+        "Darkness": 150000,
+        "DarknessTime": 3
       },
       {
         "Price": 300000,
         "Range": 30,
         "Damage": 111111,
-        "Cooldown": 3
+        "Cooldown": 3,
+        "Darkness": 150000,
+        "DarknessTime": 3
       },
       {
         "Price": 350000,
         "Range": 35,
         "Damage": 122222,
-        "Cooldown": 3
+        "Cooldown": 3,
+        "Darkness": 150000,
+        "DarknessTime": 3
       },
       {
         "Price": 400000,
         "Range": 40,
         "Damage": 133333,
-        "Cooldown": 3
+        "Cooldown": 3,
+        "Darkness": 150000,
+        "DarknessTime": 3
       }
     ]
   },
@@ -2224,6 +2242,7 @@
     "Rarity": "Epic",
     "PlacePrice": 850,
     "Max": 3,
+    "NoEnemyAttack": true,
     "Passive": {
             "Name": "Cooldown Boost",
             "Description": "All Towers In Range Are Given a 20% Cooldown Reduction (40% If Shiny)"
@@ -2277,7 +2296,7 @@
     "Max": 1,
     "Passive": {
             "Name": "The Roaring",
-            "Description": "Every Attack Has a 1% Chance To Open a Dark Fountain, Dealing x50 AOE Damage Every 0.25s for 5s."
+            "Description": "Every 3s The Roaring Knight Will Swoon A Random Enemy In Its Range Instantly Killing Them."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -2318,6 +2337,7 @@
     "Rarity": "Forgotten",
     "PlacePrice": 500000,
     "Max": 1,
+    "NoEnemyAttack": true,
     "Passive": {
             "Name": "GUARDIAN",
             "Description": "Attacks Apply 2s Stun, And 15% SoulLeak (30% Shiny). Every 3rd attack the Titan unleashes his spawns and does 200% AOE Damage. Deals 100% More Damage If On The Same Team With Roaring Knight."
@@ -2403,6 +2423,7 @@
     "Rarity": "Forgotten",
     "PlacePrice": 50000,
     "Max": 1,
+    "NoEnemyAttack": true,
     "Passive": {
             "Name": "What If Things Got Darker Than Dark?",
             "Description": "All Enemys In Range Are Given 75% Slow And 50% Anti-Regen"
@@ -2462,6 +2483,7 @@
     "Rarity": "Legendary",
     "PlacePrice": 5000,
     "Max": 3,
+    "NoEnemyAttack": true,
     "Passive": {
             "Name": "Triple Boost",
             "Description": "All Towers In Range Are Given 33% Damage Boost (66% If Shiny), 33% Range Boost (66% If Shiny), and 10% Cooldown Reduction. (20% If Shiny)"
@@ -2529,6 +2551,7 @@
     "Rarity": "Epic",
     "PlacePrice": 1250,
     "Max": 3,
+    "NoEnemyAttack": true,
     "Passive": {
             "Name": "Damage Boost",
             "Description": "All Towers In Range Are Given A 35% Damage Boost (70% If Shiny)"
@@ -2674,6 +2697,7 @@
     "Rarity": "Unique",
     "PlacePrice": 350,
     "Max": 10,
+    "NoEnemyAttack": true,
     "Passive": {
             "Name": "Extremely Annoying",
             "Description": "All Towers In Range Are Given A 35% Damage Boost (70% Shiny), And A 25% Cooldown Reduction (50% Shiny)"
@@ -2827,6 +2851,7 @@
     "Rarity": "Epic",
     "PlacePrice": 1500,
     "Max": 3,
+    "NoEnemyAttack": true,
     "Passive": {
             "Name": "Range Booster",
             "Description": "All Towers In Range Of Onion are Given a +25% Range Boost. (50% Shiny)"
@@ -2893,25 +2918,33 @@
         "Price": 0,
         "Range": 10,
         "Damage": 1000,
-        "Cooldown": 0.5
+        "Cooldown": 0.5,
+        "Burn": 500,
+        "BurnTime": 2
       },
       {
         "Price": 2750,
         "Range": 10,
         "Damage": 1250,
-        "Cooldown": 0.5
+        "Cooldown": 0.5,
+        "Burn": 500,
+        "BurnTime": 2
       },
       {
         "Price": 3000,
         "Range": 10,
         "Damage": 1500,
-        "Cooldown": 0.5
+        "Cooldown": 0.5,
+        "Burn": 500,
+        "BurnTime": 2
       },
       {
         "Price": 3500,
         "Range": 10,
         "Damage": 1750,
-        "Cooldown": 0.5
+        "Cooldown": 0.5,
+        "Burn": 500,
+        "BurnTime": 2
       }
     ]
   },
@@ -2975,25 +3008,33 @@
         "Price": 0,
         "Range": 15,
         "Damage": 30000,
-        "Cooldown": 5
+        "Cooldown": 5,
+        "Slow": 0.75,
+        "SlowTime": 3
       },
       {
         "Price": 27500,
         "Range": 20,
         "Damage": 35000,
-        "Cooldown": 5
+        "Cooldown": 5,
+        "Slow": 0.75,
+        "SlowTime": 3
       },
       {
         "Price": 30000,
         "Range": 25,
         "Damage": 40000,
-        "Cooldown": 5
+        "Cooldown": 5,
+        "Slow": 0.75,
+        "SlowTime": 3
       },
       {
         "Price": 32500,
         "Range": 35,
         "Damage": 45000,
-        "Cooldown": 5
+        "Cooldown": 5,
+        "Slow": 0.75,
+        "SlowTime": 3
       }
     ]
   },
@@ -3003,6 +3044,7 @@
     "Rarity": "Gold",
     "PlacePrice": 3500,
     "Max": 3,
+    "NoEnemyAttack": true,
     "Passive": {
             "Name": "Nubert",
             "Description": "Every 10->5 Seconds Summons A Helper Nubert With 150000 Health"
@@ -3019,6 +3061,7 @@
         "Range": 10,
         "Damage": 0,
         "SummonTime": 10,
+        "WalkSpeed": 25,
         "Unit": "NubertHelper",
         "Health": 150000,
         "Cooldown": 1
@@ -3028,6 +3071,7 @@
         "Range": 10,
         "Damage": 0,
         "SummonTime": 8.5,
+        "WalkSpeed": 25,
         "Unit": "NubertHelper",
         "Health": 150000,
         "Cooldown": 1
@@ -3037,6 +3081,7 @@
         "Range": 10,
         "Damage": 0,
         "SummonTime": 7,
+        "WalkSpeed": 25,
         "Unit": "NubertHelper",
         "Health": 150000,
         "Cooldown": 1
@@ -3046,6 +3091,7 @@
         "Range": 10,
         "Damage": 0,
         "SummonTime": 5,
+        "WalkSpeed": 25,
         "Unit": "NubertHelper",
         "Health": 150000,
         "Cooldown": 1
@@ -3161,27 +3207,35 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Range": 25,
+        "Damage": 250000,
+        "Cooldown": 5,
+        "Slow": 0,
+        "SlowTime": 1
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 100000,
+        "Range": 30,
+        "Damage": 250000,
+        "Cooldown": 4.75,
+        "Slow": 0,
+        "SlowTime": 1
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 125000,
+        "Range": 32,
+        "Damage": 250000,
+        "Cooldown": 4.5,
+        "Slow": 0,
+        "SlowTime": 1
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 100,
-        "Cooldown": 1
+        "Price": 150000,
+        "Range": 35,
+        "Damage": 300000,
+        "Cooldown": 4.5,
+        "Slow": 0,
+        "SlowTime": 1
       }
     ]
   },
@@ -3285,7 +3339,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Eggs",
-            "Description": "Every 5th Attack Gaster Will Throw An Egg At The Nearest Enemy Dealing x75 Single Damage"
+            "Description": "Every 5th Attack Gaster Will Throw An Egg At The Nearest Enemy Dealing x750 Single Damage"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -3332,6 +3386,7 @@
     "Rarity": "Forgotten",
     "PlacePrice": 50000,
     "Max": 3,
+    "NoEnemyAttack": true,
     "Passive": {
             "Name": "CREATOR",
             "Description": "Every 10s ??? Will Place A Heart Shaped Trap That Deals x250 Damage And 2.5 Stun To Enemys (Max 25)"
@@ -3374,7 +3429,7 @@
     "Image": "rbxassetid://0000000",
     "Rarity": "Legendary",
     "PlacePrice": 518113,
-    "Max": 2,
+    "Max": 1,
     "Passive": {
             "Name": "BURNING EYES",
             "Description": "Every 15s ERAM Spawns a FRIEND With x50 Of His Current Damage As Its Health"
@@ -3388,26 +3443,42 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 10,
+        "Range": 20,
         "Damage": 15000,
+        "SummonTime": 15,
+        "WalkSpeed": 50,
+        "Unit": "FRIEND",
+        "Health": 750000,
         "Cooldown": 0.25
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 15000,
+        "Price": 518113,
+        "Range": 25,
+        "Damage": 17500,
+        "SummonTime": 15,
+        "WalkSpeed": 50,
+        "Unit": "FRIEND",
+        "Health": 875000,
         "Cooldown": 0.25
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 15000,
+        "Price": 518113,
+        "Range": 30,
+        "Damage": 20000,
+        "SummonTime": 15,
+        "WalkSpeed": 50,
+        "Unit": "FRIEND",
+        "Health": 1000000,
         "Cooldown": 0.25
       },
       {
-        "Price": 0,
-        "Range": 10,
-        "Damage": 15000,
+        "Price": 518113,
+        "Range": 32,
+        "Damage": 22500,
+        "SummonTime": 15,
+        "WalkSpeed": 50,
+        "Unit": "FRIEND",
+        "Health": 1125000,
         "Cooldown": 0.25
       }
     ]
@@ -3535,24 +3606,40 @@
         "Price": 0,
         "Range": 30,
         "Damage": 50000,
+        "SummonTime": 5,
+        "WalkSpeed": 40,
+        "Unit": "Scairy",
+        "Health": 250000,
         "Cooldown": 3
       },
       {
         "Price": 150000,
         "Range": 35,
         "Damage": 52500,
+        "SummonTime": 5,
+        "WalkSpeed": 40,
+        "Unit": "Scairy",
+        "Health": 262500,
         "Cooldown": 3
       },
       {
         "Price": 200000,
         "Range": 40,
         "Damage": 55000,
+        "SummonTime": 5,
+        "WalkSpeed": 40,
+        "Unit": "Scairy",
+        "Health": 275000,
         "Cooldown": 3
       },
       {
         "Price": 250000,
         "Range": 45,
         "Damage": 60000,
+        "SummonTime": 5,
+        "WalkSpeed": 40,
+        "Unit": "Scairy",
+        "Health": 300000,
         "Cooldown": 3
       }
     ]
@@ -3602,6 +3689,7 @@
     "Rarity": "Forgotten",
     "PlacePrice": 1500,
     "Max": 2,
+    "NoEnemyAttack": true,
     "Passive": {
             "Name": "My Nose Fell Off!",
             "Description": "All Towers In Range Are Given A 40% Damage Boost (80% If Shiny), 40% Range Boost (80% If Shiny), and 15% Cooldown Reduction. (35% If Shiny)"
@@ -3755,6 +3843,7 @@
     "Rarity": "Unique",
     "PlacePrice": 75000,
     "Max": 1,
+    "NoEnemyAttack": true,
     "Passive": {
             "Name": "Ripple",
             "Description": "Attacks Apply 100% Anti-Regen, 50% Slow And 15% SoulLeak (30% Shiny) for 5 Seconds."
@@ -3884,7 +3973,9 @@
         "Price": 0,
         "Range": 15,
         "Damage": 0,
-        "Cooldown": 1
+        "Cooldown": 1,
+        "CooldownReduction": 0.75,
+        "ShinyCooldownReduction": 0.5
       },
       {
         "Price": 400,
@@ -3963,7 +4054,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Raise Up Your Bat!",
-            "Description": "Ralsei Attempts To Change The Lyrics To The Song, Causing A 50% Damage Increase Every Third Attack."
+            "Description": "Ralsei Attempts To Change The Lyrics To The Song, Causing A 10x Damage Increase Every Third Attack."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -4121,24 +4212,40 @@
         "Price": 0,
         "Range": 15,
         "Damage": 2500,
+        "SummonTime": 15,
+        "WalkSpeed": 30,
+        "Unit": "Horse Ralsei",
+        "Health": 125000,
         "Cooldown": 1
       },
       {
         "Price": 50000,
         "Range": 20,
         "Damage": 5000,
+        "SummonTime": 15,
+        "WalkSpeed": 30,
+        "Unit": "Horse Ralsei",
+        "Health": 250000,
         "Cooldown": 1
       },
       {
         "Price": 60000,
         "Range": 25,
         "Damage": 7500,
+        "SummonTime": 15,
+        "WalkSpeed": 30,
+        "Unit": "Horse Ralsei",
+        "Health": 375000,
         "Cooldown": 1
       },
       {
         "Price": 75000,
         "Range": 30,
         "Damage": 10000,
+        "SummonTime": 15,
+        "WalkSpeed": 30,
+        "Unit": "Horse Ralsei",
+        "Health": 500000,
         "Cooldown": 1
       }
     ]
