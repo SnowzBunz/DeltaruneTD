@@ -319,7 +319,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Go forth!! My Squeakie Duckie!!",
-            "Description": "Every 30s Rouxls Kaard will explode a random enemy with his thrash machine, Dealing 10k Damage To it and dealing 2500 damage to all enemies near the explosion"
+            "Description": "Every 45s Rouxls Kaard will explode a random enemy with his thrash machine, Dealing 15k Damage To it and dealing 5000 damage to all enemies near the explosion"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -972,7 +972,7 @@
         "Price": 7500,
         "Range": 15,
         "Damage": 2500,
-        "Cooldown": 0.75,
+        "Cooldown": 1,
         "Burn": 1250,
         "BurnTime": 3
       },
@@ -980,7 +980,7 @@
         "Price": 10000,
         "Range": 20,
         "Damage": 3000,
-        "Cooldown": 0.5,
+        "Cooldown": 1,
         "Burn": 1500,
         "BurnTime": 3
       },
@@ -988,7 +988,7 @@
         "Price": 15000,
         "Range": 25,
         "Damage": 3500,
-        "Cooldown": 0.25,
+        "Cooldown": 1,
         "Burn": 1750,
         "BurnTime": 3
       }
@@ -1566,7 +1566,7 @@
     "Max": 1,
     "Passive": {
             "Name": "It's just a duck?",
-            "Description": "Attacks Apply 100% Anti-Regen, and Enemies Hit by Thrash Machine are given 50% Slow for 5 seconds."
+            "Description": "Attacks Apply 100% Anti-Regen For 10 Seconds, and Enemies Hit by Thrash Machine are given 60% Slow for 5 seconds."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -1582,7 +1582,7 @@
         "Cooldown": 5,
         "Bleed": 0,
         "BleedTime": 10,
-        "Slow": 0.5,
+        "Slow": 0.4,
         "SlowTime": 5
       },
       {
@@ -1592,27 +1592,27 @@
         "Cooldown": 5,
         "Bleed": 0,
         "BleedTime": 10,
-        "Slow": 0.5,
+        "Slow": 0.4,
         "SlowTime": 5
       },
       {
         "Price": 200000,
         "Range": 30,
         "Damage": 135000,
-        "Cooldown": 5,
+        "Cooldown": 4.75,
         "Bleed": 0,
         "BleedTime": 10,
-        "Slow": 0.5,
+        "Slow": 0.4,
         "SlowTime": 5
       },
       {
         "Price": 250000,
         "Range": 35,
         "Damage": 150000,
-        "Cooldown": 5,
+        "Cooldown": 4.75,
         "Bleed": 0,
         "BleedTime": 10,
-        "Slow": 0.5,
+        "Slow": 0.4,
         "SlowTime": 5
       }
     ]
@@ -2149,8 +2149,8 @@
     "PlacePrice": 250000,
     "Max": 1,
     "Passive": {
-            "Name": "Embezzle",
-            "Description": "Every Attack Miss Mizzle has a 35% Chance To Use a BitterTear Stunning All Enemies In Range For 1.5 Seconds, and Dealing 150% of Miss Mizzle's Damage in Darkness."
+            "Name": "Glory. Glory.",
+            "Description": "Every Attack Miss Mizzle has a 35% Chance To Use a BitterTear Stunning All Enemies In Range For 5 Seconds, and Dealing 250% of Miss Mizzle's Damage in Darkness."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -2163,32 +2163,32 @@
         "Price": 0,
         "Range": 25,
         "Damage": 100000,
-        "Cooldown": 3,
-        "Darkness": 150000,
+        "Cooldown": 2.5,
+        "Darkness": 250000,
         "DarknessTime": 3
       },
       {
         "Price": 300000,
         "Range": 30,
         "Damage": 111111,
-        "Cooldown": 3,
-        "Darkness": 150000,
+        "Cooldown": 2.5,
+        "Darkness": 277777,
         "DarknessTime": 3
       },
       {
         "Price": 350000,
         "Range": 35,
         "Damage": 122222,
-        "Cooldown": 3,
-        "Darkness": 150000,
+        "Cooldown": 2.5,
+        "Darkness": 305555,
         "DarknessTime": 3
       },
       {
         "Price": 400000,
         "Range": 40,
         "Damage": 133333,
-        "Cooldown": 3,
-        "Darkness": 150000,
+        "Cooldown": 2.5,
+        "Darkness": 333333,
         "DarknessTime": 3
       }
     ]
@@ -3435,9 +3435,9 @@
     ]
   },
  "ERAM": {
-    "Type": "Cone Aoe + Summoner",
+    "Type": "AOE + Summoner",
     "Image": "rbxassetid://0000000",
-    "Rarity": "Legendary",
+    "Rarity": "Unique",
     "PlacePrice": 518113,
     "Max": 1,
     "Passive": {
@@ -3459,7 +3459,7 @@
         "WalkSpeed": 50,
         "Unit": "FRIEND",
         "Health": 750000,
-        "Cooldown": 1
+        "Cooldown": 0.75
       },
       {
         "Price": 518113,
@@ -3469,7 +3469,7 @@
         "WalkSpeed": 50,
         "Unit": "FRIEND",
         "Health": 875000,
-        "Cooldown": 1
+        "Cooldown": 0.75
       },
       {
         "Price": 518113,
@@ -3479,7 +3479,7 @@
         "WalkSpeed": 50,
         "Unit": "FRIEND",
         "Health": 1000000,
-        "Cooldown": 0.75
+        "Cooldown": 0.5
       },
       {
         "Price": 518113,
@@ -3489,7 +3489,7 @@
         "WalkSpeed": 50,
         "Unit": "FRIEND",
         "Health": 1125000,
-        "Cooldown": 0.75
+        "Cooldown": 0.5
       }
     ]
   },
@@ -3514,7 +3514,7 @@
         "Price": 0,
         "Range": 20,
         "Damage": 1225,
-        "Cooldown": 0.25,
+        "Cooldown": 0.35,
         "Slow": 0.25,
         "SlowTime": 3,
         "EnemyDamageReduction": 0.5,
@@ -3524,7 +3524,7 @@
         "Price": 12250,
         "Range": 25,
         "Damage": 2500,
-        "Cooldown": 0.25,
+        "Cooldown": 0.35,
         "Slow": 0.25,
         "SlowTime": 3,
         "EnemyDamageReduction": 0.5,
@@ -3534,7 +3534,7 @@
         "Price": 122500,
         "Range": 30,
         "Damage": 7500,
-        "Cooldown": 0.5,
+        "Cooldown": 0.35,
         "Slow": 0.25,
         "SlowTime": 3,
         "EnemyDamageReduction": 0.5,
@@ -3543,8 +3543,8 @@
       {
         "Price": 1225000,
         "Range": 35,
-        "Damage": 12225,
-        "Cooldown": 0.5,
+        "Damage": 10000,
+        "Cooldown": 0.35,
         "Slow": 0.25,
         "SlowTime": 3,
         "EnemyDamageReduction": 0.5,
@@ -3573,25 +3573,25 @@
         "Price": 0,
         "Range": 20,
         "Damage": 25000,
-        "Cooldown": 3
+        "Cooldown": 2.75
       },
       {
         "Price": 7500,
         "Range": 25,
         "Damage": 27500,
-        "Cooldown": 3
+        "Cooldown": 2.5
       },
       {
         "Price": 8000,
         "Range": 30,
         "Damage": 27500,
-        "Cooldown": 2.5
+        "Cooldown": 2.25
       },
       {
         "Price": 9500,
         "Range": 35,
         "Damage": 30000,
-        "Cooldown": 2.5
+        "Cooldown": 1.75
       }
     ]
   },
@@ -3620,7 +3620,7 @@
         "WalkSpeed": 40,
         "Unit": "Scairy",
         "Health": 250000,
-        "Cooldown": 2.75
+        "Cooldown": 2
       },
       {
         "Price": 150000,
@@ -3630,7 +3630,7 @@
         "WalkSpeed": 40,
         "Unit": "Scairy",
         "Health": 262500,
-        "Cooldown": 2.5
+        "Cooldown": 1.75
       },
       {
         "Price": 200000,
@@ -3640,7 +3640,7 @@
         "WalkSpeed": 40,
         "Unit": "Scairy",
         "Health": 275000,
-        "Cooldown": 2.25
+        "Cooldown": 1.5
       },
       {
         "Price": 250000,
@@ -3650,7 +3650,7 @@
         "WalkSpeed": 40,
         "Unit": "Scairy",
         "Health": 300000,
-        "Cooldown": 2
+        "Cooldown": 1.5
       }
     ]
   },
@@ -3809,7 +3809,7 @@
     "Image": "rbxassetid://0000000",
     "Rarity": "Legendary",
     "PlacePrice": 25000,
-    "Max": 2,
+    "Max": 3,
     "Passive": {
             "Name": "WHOS MIKE!?!",
             "Description": "Cowboy Hat Mike Will Deal 50% More Damage If Paired With Any Other Mike, 100% If Paired With Both Other Mikes."
@@ -4171,7 +4171,7 @@
         "Price": 0,
         "Range": 20,
         "Damage": 50000,
-        "Cooldown": 4,
+        "Cooldown": 4.5,
         "Burn": 150000,
         "BurnTime": 5
       },
@@ -4179,7 +4179,7 @@
         "Price": 75000,
         "Range": 25,
         "Damage": 65000,
-        "Cooldown": 4,
+        "Cooldown": 4.5,
         "Burn": 195000,
         "BurnTime": 5
       },
@@ -4187,7 +4187,7 @@
         "Price": 100000,
         "Range": 30,
         "Damage": 70000,
-        "Cooldown": 4,
+        "Cooldown": 4.5,
         "Burn": 210000,
         "BurnTime": 5
       },
@@ -4195,7 +4195,7 @@
         "Price": 125000,
         "Range": 35,
         "Damage": 85000,
-        "Cooldown": 4,
+        "Cooldown": 4.5,
         "Burn": 255000,
         "BurnTime": 5
       }
@@ -4551,3 +4551,4 @@
     ]
   }
 }
+
