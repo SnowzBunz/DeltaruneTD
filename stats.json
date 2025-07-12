@@ -1536,25 +1536,25 @@
         "Price": 0,
         "Range": 25,
         "Damage": 200000,
-        "Cooldown": 5.5
+        "Cooldown": 5.85
       },
       {
         "Price": 250000,
         "Range": 30,
         "Damage": 250000,
-        "Cooldown": 5.5
+        "Cooldown": 5.85
       },
       {
         "Price": 500000,
         "Range": 35,
         "Damage": 280000,
-        "Cooldown": 5.5
+        "Cooldown": 5.85
       },
       {
         "Price": 1000000,
         "Range": 40,
         "Damage": 315000,
-        "Cooldown": 5.5
+        "Cooldown": 5.85
       }
     ]
   },
@@ -2422,7 +2422,7 @@
     "Image": "rbxassetid://0000000",
     "Rarity": "Forgotten",
     "PlacePrice": 50000,
-    "Max": 1,
+    "Max": 2,
     "NoEnemyAttack": true,
     "Passive": {
             "Name": "What If Things Got Darker Than Dark?",
@@ -3616,41 +3616,41 @@
         "Price": 0,
         "Range": 30,
         "Damage": 50000,
-        "SummonTime": 7.5,
+        "SummonTime": 5,
         "WalkSpeed": 40,
         "Unit": "Scairy",
         "Health": 250000,
-        "Cooldown": 2
+        "Cooldown": 1.25
       },
       {
         "Price": 150000,
         "Range": 35,
         "Damage": 52500,
-        "SummonTime": 7.5,
+        "SummonTime": 5,
         "WalkSpeed": 40,
         "Unit": "Scairy",
         "Health": 262500,
-        "Cooldown": 1.75
+        "Cooldown": 1.25
       },
       {
         "Price": 200000,
         "Range": 40,
         "Damage": 55000,
-        "SummonTime": 7.5,
+        "SummonTime": 5,
         "WalkSpeed": 40,
         "Unit": "Scairy",
         "Health": 275000,
-        "Cooldown": 1.5
+        "Cooldown": 1.25
       },
       {
         "Price": 250000,
         "Range": 45,
         "Damage": 60000,
-        "SummonTime": 7.5,
+        "SummonTime": 5,
         "WalkSpeed": 40,
         "Unit": "Scairy",
         "Health": 300000,
-        "Cooldown": 1.5
+        "Cooldown": 1.25
       }
     ]
   },
@@ -4171,7 +4171,7 @@
         "Price": 0,
         "Range": 20,
         "Damage": 50000,
-        "Cooldown": 4.5,
+        "Cooldown": 5,
         "Burn": 150000,
         "BurnTime": 5
       },
@@ -4179,7 +4179,7 @@
         "Price": 75000,
         "Range": 25,
         "Damage": 65000,
-        "Cooldown": 4.5,
+        "Cooldown": 5,
         "Burn": 195000,
         "BurnTime": 5
       },
@@ -4187,7 +4187,7 @@
         "Price": 100000,
         "Range": 30,
         "Damage": 70000,
-        "Cooldown": 4.5,
+        "Cooldown": 5,
         "Burn": 210000,
         "BurnTime": 5
       },
@@ -4195,7 +4195,7 @@
         "Price": 125000,
         "Range": 35,
         "Damage": 85000,
-        "Cooldown": 4.5,
+        "Cooldown": 5,
         "Burn": 255000,
         "BurnTime": 5
       }
