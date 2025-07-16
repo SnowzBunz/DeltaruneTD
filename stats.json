@@ -2417,13 +2417,12 @@
       }
     ]
   },
-  "FRIEND": {
+  "IMAGE_FRIEND": {
     "Type": "AOE + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Forgotten",
-    "PlacePrice": 50000,
-    "Max": 2,
-    "NoEnemyAttack": true,
+    "PlacePrice": 374363,
+    "Max": 1,
     "Passive": {
             "Name": "What If Things Got Darker Than Dark?",
             "Description": "All Enemys In Range Are Given 75% Slow And 50% Anti-Regen"
@@ -2438,37 +2437,37 @@
       {
         "Price": 0,
         "Range": 30,
-        "Damage": 5500,
-        "Cooldown": 0.25,
+        "Damage": 11000,
+        "Cooldown": 1,
         "Slow": 0.25,
         "SlowTime": 3,
         "Bleed": 0.5,
         "BleedTime": 3
       },
       {
-        "Price": 75000,
+        "Price": 474363,
         "Range": 35,
-        "Damage": 5750,
-        "Cooldown": 0.25,
+        "Damage": 12250,
+        "Cooldown": 0.75,
         "Slow": 0.25,
         "SlowTime": 3,
         "Bleed": 0.5,
         "BleedTime": 3
       },
       {
-        "Price": 100000,
+        "Price": 574363,
         "Range": 40,
-        "Damage": 6500,
-        "Cooldown": 0.25,
+        "Damage": 13000,
+        "Cooldown": 0.5,
         "Slow": 0.25,
         "SlowTime": 3,
         "Bleed": 0.5,
         "BleedTime": 3
       },
       {
-        "Price": 150000,
+        "Price": 674363,
         "Range": 45,
-        "Damage": 7500,
+        "Damage": 15000,
         "Cooldown": 0.25,
         "Slow": 0.25,
         "SlowTime": 3,
@@ -2476,9 +2475,9 @@
         "BleedTime": 3
       },
       {
-        "Price": 200000,
+        "Price": 774363,
         "Range": 50,
-        "Damage": 8500,
+        "Damage": 17000,
         "Cooldown": 0.25,
         "Slow": 0.25,
         "SlowTime": 3,
