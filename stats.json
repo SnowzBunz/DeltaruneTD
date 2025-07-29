@@ -1,6 +1,6 @@
 {
     "Darkworld Kris": {
-        "Type": "Slash",
+        "Type": "Slash + Passive",
         "Image": "rbxassetid://0000000",
         "Rarity": "Common",
         "PlacePrice": 250,
@@ -43,7 +43,7 @@
         ]
     },
     "Darkworld Susie": {
-        "Type": "Pierce",
+        "Type": "Slash + Passive",
         "Image": "rbxassetid://0000000",
         "Rarity": "Uncommon",
         "PlacePrice": 750,
@@ -319,7 +319,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Go forth!! My Squeakie Duckie!!",
-            "Description": "Every 45s Rouxls Kaard will explode a random enemy with his thrash machine, Dealing 15k Damage To it and dealing 5000 damage to all enemies near the explosion"
+            "Description": "Every 25s Rouxls Kaard will explode a random enemy with his thrash machine, Dealing x5 Of His Current Damage To it and dealing x1.25 damage to all enemies near the explosion"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -355,7 +355,7 @@
     ]
   },
   "Sweet Cap'n Cakes": {
-    "Type": "AOE + Passive",
+    "Type": "Cone Aoe + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Legendary",
     "PlacePrice": 25000,
@@ -944,7 +944,7 @@
     ]
   },
   "Swatchling": {
-    "Type": "Burn + Passive",
+    "Type": "Splash Burn + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Epic",
     "PlacePrice": 5000,
@@ -1226,7 +1226,7 @@
     ]
   },
   "K. Round": {
-    "Type": "Cone Aoe + Passive",
+    "Type": "Nuke + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Epic",
     "PlacePrice": 25000,
@@ -1367,14 +1367,14 @@
     ]
   },
   "Jevil": {
-    "Type": "Continous Pierce Spread + Passive",
+    "Type": "Pierce + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Unique",
     "PlacePrice": 100000,
     "Max": 1,
     "Passive": {
             "Name": "Devils Knife",
-            "Description": "Jevils Attacks Instantly Kill Enemies With 25% or Less Health, and Bosses with 10% Or Less Health"
+            "Description": "Jevils Attacks Instantly Kill Enemies With 25% or Less Health, and Bosses with 12.5% Or Less Health"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -1386,26 +1386,26 @@
       {
         "Price": 0,
         "Range": 20,
-        "Damage": 7500,
-        "Cooldown": 0.25
+        "Damage": 65000,
+        "Cooldown": 2.25
       },
       {
         "Price": 200000,
         "Range": 25,
-        "Damage": 9500,
-        "Cooldown": 0.25
+        "Damage": 75000,
+        "Cooldown": 2.25
       },
       {
         "Price": 350000,
         "Range": 35,
-        "Damage": 10500,
-        "Cooldown": 0.25
+        "Damage": 85000,
+        "Cooldown": 2.25
       },
       {
         "Price": 500000,
         "Range": 40,
-        "Damage": 11500,
-        "Cooldown": 0.25
+        "Damage": 100000,
+        "Cooldown": 2.25
       }
     ]
   },
@@ -1473,7 +1473,7 @@
     ]
   },
   "Berdly": {
-    "Type": "Slash + Passive",
+    "Type": "Melee + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
     "PlacePrice": 7500,
@@ -1618,7 +1618,7 @@
     ]
   },
   "Mauswheel": {
-    "Type": "Cone Aoe + Passive",
+    "Type": "AOE + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
     "PlacePrice": 2250,
@@ -1802,7 +1802,7 @@
     ]
   },
   "Shuttah": {
-    "Type": "Dual Splash + Passive",
+    "Type": "Splash Stun",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
     "PlacePrice": 12500,
@@ -1939,7 +1939,7 @@
     ]
   },
   "Zapper": {
-    "Type": "Splash",
+    "Type": "Cone Aoe Slow",
     "Image": "rbxassetid://0000000",
     "Rarity": "Epic",
     "PlacePrice": 1250,
@@ -1990,7 +1990,7 @@
     ]
   },
   "Tenna": {
-    "Type": "Pierce Spread + Passive",
+    "Type": "Splash + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Legendary",
     "PlacePrice": 50000,
@@ -2033,7 +2033,7 @@
     ]
   },
   "Pippins": {
-    "Type": "Cone Aoe + Turret Spawner",
+    "Type": "Single + Turret Spawner",
     "Image": "rbxassetid://0000000",
     "Rarity": "Epic",
     "PlacePrice": 600,
@@ -2143,7 +2143,7 @@
     ]
   },
   "Miss Mizzle": {
-    "Type": "Cone Aoe + Passive",
+    "Type": "AOE + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Unique",
     "PlacePrice": 250000,
@@ -2194,7 +2194,7 @@
     ]
   },
   "Mizzle": {
-    "Type": "Cone Aoe + Passive",
+    "Type": "Splash + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Epic",
     "PlacePrice": 5000,
@@ -2289,7 +2289,7 @@
     ]
   },
   "Roaring Knight": {
-    "Type": "Slash + Passive",
+    "Type": "Slash Melee + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Unique",
     "PlacePrice": 250000,
@@ -2340,7 +2340,7 @@
     "NoEnemyAttack": true,
     "Passive": {
             "Name": "GUARDIAN",
-            "Description": "Attacks Apply 2s Stun, And 15% SoulLeak (30% Shiny)."
+            "Description": "Attacks Apply 2s Stun, And 15% SoulLeak (30% Shiny) Every 60 Seconds, The Titan Will Charge Up His Eye Beam For 5s And Deal 3x His Current Damage Every 0.25 For 15s As Pierce, The Titan Can Not Attack While Charging Up And Using His Eye Beam."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -2760,59 +2760,8 @@
       }
     ]
   },
-  "Sans": {
-    "Type": "Pierce Farm + Passive",
-    "Image": "rbxassetid://0000000",
-    "Rarity": "Gold",
-    "PlacePrice": 1500,
-    "Max": 2,
-    "Passive": {
-            "Name": "sans.",
-            "Description": "All Towers In Range Are Given A -25% Upgrade Cost Reduction. Sans Makes +115$D Per Shot."
-        },
-    "Offset": 0,
-    "hitboxOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
-    },
-    "Upgrades": [
-      {
-        "Price": 0,
-        "Range": 20,
-        "Damage": 1200,
-        "Cooldown": 0.75,
-        "CashPerShot": 115,
-        "CostReduction": 1.25
-      },
-      {
-        "Price": 1650,
-        "Range": 22,
-        "Damage": 1300,
-        "Cooldown": 0.7,
-        "CashPerShot": 115,
-        "CostReduction": 1.25
-      },
-      {
-        "Price": 1750,
-        "Range": 25,
-        "Damage": 1400,
-        "Cooldown": 0.65,
-        "CashPerShot": 115,
-        "CostReduction": 1.25
-      },
-      {
-        "Price": 1900,
-        "Range": 27,
-        "Damage": 1500,
-        "Cooldown": 0.6,
-        "CashPerShot": 115,
-        "CostReduction": 1.25
-      }
-    ]
-  },
   "Asgore": {
-    "Type": "Pierce + Passive",
+    "Type": "Cone Aoe + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
     "PlacePrice": 27500,
@@ -3198,7 +3147,7 @@
     ]
   },
   "Giga Queen": {
-    "Type": "Splash Stun + Passive",
+    "Type": "Nuke Stun + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Legendary",
     "PlacePrice": 75000,
@@ -3256,7 +3205,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Lord Of The Hammer",
-            "Description": "Gains +0.5% Damage For Every 1 Health Lost From Your Base. Every 5th Attack, Hammer Of Justice will make all towers in range deal 50% more damage for 5 seconds."
+            "Description": "Gains +0.5% Damage For Every 1 Health Lost From Your Base. Every 5th Attack, Hammer Of Justice will make all towers in range deal 150% more damage for 5 seconds."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -3341,7 +3290,7 @@
     ]
   },
   "W. D. Gaster": {
-    "Type": "Cone Aoe + Passive",
+    "Type": "Continous Dual Explosion + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Forgotten",
     "PlacePrice": 103118,
@@ -3434,7 +3383,7 @@
     ]
   },
  "ERAM": {
-    "Type": "Cone Aoe + Summoner",
+    "Type": "Explosion + Summoner",
     "Image": "rbxassetid://0000000",
     "Rarity": "Unique",
     "PlacePrice": 518113,
@@ -3493,11 +3442,11 @@
     ]
   },
   "Dess": {
-    "Type": "Continous Pierce Spread + Passive",
+    "Type": "Melee + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Forgotten",
-    "PlacePrice": 122500,
-    "Max": 1,
+    "PlacePrice": 12250,
+    "Max": 2,
     "Passive": {
             "Name": "Lost Girl",
             "Description": "Enemies (20 -> 10) And Bosses (100 -> 50) Do 50% Less Damage When Reaching The Exit."
@@ -3512,39 +3461,39 @@
       {
         "Price": 0,
         "Range": 20,
-        "Damage": 1225,
-        "Cooldown": 0.25,
+        "Damage": 12500,
+        "Cooldown": 1.225,
         "EnemyDamageReduction": 0.5,
         "BossDamageReduction": 0.5
       },
       {
-        "Price": 12250,
+        "Price": 122500,
         "Range": 25,
-        "Damage": 2500,
-        "Cooldown": 0.25,
+        "Damage": 17500,
+        "Cooldown": 1.225,
         "EnemyDamageReduction": 0.5,
         "BossDamageReduction": 0.5
       },
       {
         "Price": 122500,
         "Range": 30,
-        "Damage": 7500,
-        "Cooldown": 0.25,
+        "Damage": 23500,
+        "Cooldown": 1.225,
         "EnemyDamageReduction": 0.5,
         "BossDamageReduction": 0.5
       },
       {
-        "Price": 1225000,
+        "Price": 122500,
         "Range": 35,
-        "Damage": 10000,
-        "Cooldown": 0.25,
+        "Damage": 25000,
+        "Cooldown": 1.225,
         "EnemyDamageReduction": 0.5,
         "BossDamageReduction": 0.5
       }
     ]
   },
   "Small Mike": {
-    "Type": "Cone Aoe + Passive",
+    "Type": "Explosion + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Legendary",
     "PlacePrice": 6453,
@@ -3587,7 +3536,7 @@
     ]
   },
   "Jackenstein": {
-    "Type": "AOE + Summoner",
+    "Type": "Cone Aoe + Summoner",
     "Image": "rbxassetid://0000000",
     "Rarity": "Unique",
     "PlacePrice": 100000,
@@ -3796,7 +3745,7 @@
     ]
   },
   "Cowboy Hat Mike": {
-    "Type": "Dual Pierce + Passive",
+    "Type": "Cone Aoe + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Legendary",
     "PlacePrice": 25000,
@@ -4134,7 +4083,7 @@
     ]
   },
     "Chef Tenna": {
-    "Type": "Nuke Burn + Passive",
+    "Type": "Splash Burn + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Unique",
     "PlacePrice": 50000,
@@ -4185,7 +4134,7 @@
     ]
   },
     "Horse Ralsei": {
-    "Type": "Splash + Summoner",
+    "Type": "Dual Pierce + Summoner",
     "Image": "rbxassetid://0000000",
     "Rarity": "Legendary",
     "PlacePrice": 40000,
@@ -4491,7 +4440,7 @@
     ]
   },
   "Lightworld Berdly": {
-    "Type": "AOE + Passive",
+    "Type": "Cone Aoe + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Common",
     "PlacePrice": 1350,
