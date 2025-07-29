@@ -1269,7 +1269,7 @@
     ]
   },
   "Bloxer": {
-    "Type": "Continous Dual",
+    "Type": "Continuous Dual",
     "Image": "rbxassetid://0000000",
     "Rarity": "Uncommon",
     "PlacePrice": 2600,
@@ -3247,7 +3247,7 @@
     ]
   },
   "Asriel": {
-    "Type": "Continous Cone Aoe + Passive",
+    "Type": "Continuous Cone Aoe + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
     "PlacePrice": 10000,
@@ -3290,7 +3290,7 @@
     ]
   },
   "W. D. Gaster": {
-    "Type": "Continous Dual Explosion + Passive",
+    "Type": "Continuous Dual Explosion + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Forgotten",
     "PlacePrice": 103118,
@@ -3946,7 +3946,7 @@
     ]
   },
     "Fun Gang Cowboys": {
-    "Type": "Continous Splash + Passive",
+    "Type": "Continuous Splash + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
     "PlacePrice": 5000,
