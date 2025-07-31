@@ -3337,7 +3337,7 @@
     "NoEnemyAttack": true,
     "Passive": {
             "Name": "CREATOR",
-            "Description": "Every 10s ??? Will Place A Heart Shaped Trap That Deals x250 Damage And 2.5 Stun To Enemys (Max 75)"
+            "Description": "Every 10s ??? Will Place A Heart Shaped Trap That Deals x75 Damage And 2.5 Stun To Enemys (Max 75)"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -4080,7 +4080,7 @@
     "Max": 1,
     "Passive": {
             "Name": "IT'S TV TIME!",
-            "Description": "Attacks Deal 300% Burn Damage Over 5 Seconds."
+            "Description": "Attacks Deal 300% Burn Damage Over 1 Second."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -4095,7 +4095,7 @@
         "Damage": 50000,
         "Cooldown": 5,
         "Burn": 150000,
-        "BurnTime": 5
+        "BurnTime": 1
       },
       {
         "Price": 75000,
@@ -4103,7 +4103,7 @@
         "Damage": 65000,
         "Cooldown": 5,
         "Burn": 195000,
-        "BurnTime": 5
+        "BurnTime": 1
       },
       {
         "Price": 100000,
@@ -4111,7 +4111,7 @@
         "Damage": 70000,
         "Cooldown": 5,
         "Burn": 210000,
-        "BurnTime": 5
+        "BurnTime": 1
       },
       {
         "Price": 125000,
@@ -4119,7 +4119,7 @@
         "Damage": 85000,
         "Cooldown": 5,
         "Burn": 255000,
-        "BurnTime": 5
+        "BurnTime": 1
       }
     ]
   },
@@ -6039,32 +6039,32 @@
       {
         "Price": 0,
         "Range": 25,
-        "Damage": 75000,
-        "Cooldown": 2.5,
+        "Damage": 60000,
+        "Cooldown": 2.6,
         "Slow": 0,
         "SlowTime": 0.5
       },
       {
         "Price": 65000,
         "Range": 30,
-        "Damage": 85000,
-        "Cooldown": 2.5,
+        "Damage": 70000,
+        "Cooldown": 2.6,
         "Slow": 0,
         "SlowTime": 0.5
       },
       {
         "Price": 85000,
         "Range": 35,
-        "Damage": 100000,
-        "Cooldown": 2.25,
+        "Damage": 80000,
+        "Cooldown": 2.6,
         "Slow": 0,
         "SlowTime": 0.5
       },
       {
         "Price": 100000,
         "Range": 40,
-        "Damage": 115000,
-        "Cooldown": 2.25,
+        "Damage": 95000,
+        "Cooldown": 2.6,
         "Slow": 0,
         "SlowTime": 0.5
       }
@@ -6121,7 +6121,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Mysterious Creature",
-            "Description": "Deals 2x Damage To Enemies That Are Slowed Or Stunned. Attacks Apply 0.1s Stun And 50% Slow For 5s."
+            "Description": "Deals 2x Damage To Enemies That Are Slowed Or Stunned."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -6134,25 +6134,25 @@
         "Price": 0,
         "Range": 20,
         "Damage": 5000,
-        "Cooldown": 0.25
+        "Cooldown": 0.75
       },
       {
         "Price": 80000,
         "Range": 25,
         "Damage": 7500,
-        "Cooldown": 0.25
+        "Cooldown": 0.75
       },
       {
         "Price": 85000,
         "Range": 28,
-        "Damage": 10000,
-        "Cooldown": 0.25
+        "Damage": 8500,
+        "Cooldown": 0.75
       },
       {
         "Price": 95000,
         "Range": 30,
-        "Damage": 12500,
-        "Cooldown": 0.25
+        "Damage": 10000,
+        "Cooldown": 0.75
       }
     ]
   },
