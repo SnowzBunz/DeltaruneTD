@@ -1,6 +1,6 @@
 {
     "Darkworld Kris": {
-        "Type": "Slash + Passive",
+        "Type": "Single + Passive",
         "Image": "rbxassetid://0000000",
         "Rarity": "Common",
         "PlacePrice": 250,
@@ -2408,14 +2408,14 @@
     ]
   },
   "IMAGE_FRIEND": {
-    "Type": "AOE + Passive",
+    "Type": "Chain Pierce + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Forgotten",
     "PlacePrice": 374363,
-    "Max": 2,
+    "Max": 1,
     "Passive": {
-            "Name": "What If Things Got Darker Than Dark?",
-            "Description": "All Enemys In Range Are Given 70% Slow And 50% Anti-Regen For 3 Seconds."
+            "Name": "The Tail Of Hell Begins To Crawl...",
+            "Description": "Enemies Hit By Ī̵̫̮M̸̯̍́A̵͇̽ͅG̸̟̕E̵͇͑_̶̺͂F̵̠̽̈́R̸̪͒͝I̷̥͚̕͘E̷͙̔N̵̰͊D̷̬̘͛̏ Are Given 65% Slow For 3 Seconds. Attacks Chain Up to 2->5 Enemies Max."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -2427,52 +2427,47 @@
       {
         "Price": 0,
         "Range": 30,
-        "Damage": 11000,
-        "Cooldown": 0.75,
+        "Damage": 45000,
+        "Cooldown": 5,
+        "MaxChain": 2,
         "Slow": 0.3,
-        "SlowTime": 3,
-        "Bleed": 0.5,
-        "BleedTime": 3
+        "SlowTime": 3
       },
       {
         "Price": 474363,
         "Range": 35,
-        "Damage": 12250,
-        "Cooldown": 0.75,
-        "Slow": 0.3,
-        "SlowTime": 3,
-        "Bleed": 0.5,
-        "BleedTime": 3
+        "Damage": 50000,
+        "Cooldown": 4,
+        "MaxChain": 3,
+        "Slow": 0.35,
+        "SlowTime": 3
       },
       {
         "Price": 574363,
         "Range": 40,
-        "Damage": 13000,
-        "Cooldown": 0.75,
-        "Slow": 0.3,
-        "SlowTime": 3,
-        "Bleed": 0.5,
-        "BleedTime": 3
+        "Damage": 65000,
+        "Cooldown": 3.5,
+        "MaxChain": 4,
+        "Slow": 0.35,
+        "SlowTime": 3
       },
       {
         "Price": 674363,
         "Range": 45,
-        "Damage": 14000,
-        "Cooldown": 0.75,
-        "Slow": 0.3,
-        "SlowTime": 3,
-        "Bleed": 0.5,
-        "BleedTime": 3
+        "Damage": 70000,
+        "Cooldown": 3,
+        "MaxChain": 5,
+        "Slow": 0.35,
+        "SlowTime": 3
       },
       {
         "Price": 774363,
         "Range": 50,
-        "Damage": 15000,
-        "Cooldown": 0.75,
-        "Slow": 0.3,
-        "SlowTime": 3,
-        "Bleed": 0.5,
-        "BleedTime": 3
+        "Damage": 85000,
+        "Cooldown": 2.75,
+        "MaxChain": 5,
+        "Slow": 0.35,
+        "SlowTime": 3
       }
     ]
   },
@@ -2480,12 +2475,12 @@
     "Type": "AOE + Booster",
     "Image": "rbxassetid://0000000",
     "Rarity": "Legendary",
-    "PlacePrice": 5000,
-    "Max": 3,
+    "PlacePrice": 25000,
+    "Max": 2,
     "NoEnemyAttack": true,
     "Passive": {
             "Name": "Triple Boost",
-            "Description": "All Towers In Range Are Given 25% Damage Boost (50% If Shiny), 25% Range Boost (50% If Shiny), and 10% Cooldown Reduction. (20% If Shiny)"
+            "Description": "All Towers In Range Are Given 15% Damage Boost (30% If Shiny), 15% Range Boost (30% If Shiny), and 5% Cooldown Reduction. (10% If Shiny)"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -2499,48 +2494,48 @@
         "Range": 25,
         "Damage": 1000,
         "Cooldown": 0.25,
-        "DamageBoost": 1.12,
-        "ShinyDamageBoost": 1.29,
-        "RangeBoost": 1.12,
-        "ShinyRangeBoost": 1.3,
-        "CooldownReduction": 0.96,
-        "ShinyCooldownReduction": 0.94
+        "DamageBoost": 1.09,
+        "ShinyDamageBoost": 1.18,
+        "RangeBoost": 1.09,
+        "ShinyRangeBoost": 1.18,
+        "CooldownReduction": 0.98,
+        "ShinyCooldownReduction": 0.97
       },
       {
         "Price": 6500,
         "Range": 28,
         "Damage": 1250,
         "Cooldown": 0.25,
-        "DamageBoost": 1.16,
-        "ShinyDamageBoost": 1.38,
-        "RangeBoost": 1.14,
-        "ShinyRangeBoost": 1.39,
-        "CooldownReduction": 0.94,
-        "ShinyCooldownReduction": 0.89
+        "DamageBoost": 1.11,
+        "ShinyDamageBoost": 1.23,
+        "RangeBoost": 1.11,
+        "ShinyRangeBoost": 1.23,
+        "CooldownReduction": 0.97,
+        "ShinyCooldownReduction": 0.95
       },
       {
         "Price": 7500,
         "Range": 32,
         "Damage": 1500,
         "Cooldown": 0.25,
-        "DamageBoost": 1.19,
-        "ShinyDamageBoost": 1.44,
-        "RangeBoost": 1.18,
-        "ShinyRangeBoost": 1.46,
-        "CooldownReduction": 0.92,
-        "ShinyCooldownReduction": 0.85
+        "DamageBoost": 1.13,
+        "ShinyDamageBoost": 1.27,
+        "RangeBoost": 1.13,
+        "ShinyRangeBoost": 1.27,
+        "CooldownReduction": 0.96,
+        "ShinyCooldownReduction": 0.93
       },
       {
         "Price": 8000,
         "Range": 35,
         "Damage": 1750,
         "Cooldown": 0.25,
-        "DamageBoost": 1.25,
-        "ShinyDamageBoost": 1.5,
-        "RangeBoost": 1.25,
-        "ShinyRangeBoost": 1.5,
-        "CooldownReduction": 0.9,
-        "ShinyCooldownReduction": 0.8
+        "DamageBoost": 1.15,
+        "ShinyDamageBoost": 1.3,
+        "RangeBoost": 1.15,
+        "ShinyRangeBoost": 1.3,
+        "CooldownReduction": 0.95,
+        "ShinyCooldownReduction": 0.9
       }
     ]
   },
@@ -3628,11 +3623,11 @@
     "Image": "rbxassetid://0000000",
     "Rarity": "Unique",
     "PlacePrice": 1500,
-    "Max": 2,
+    "Max": 8,
     "NoEnemyAttack": true,
     "Passive": {
             "Name": "My Nose Fell Off!",
-            "Description": "All Towers In Range Are Given A 25% Damage Boost (50% If Shiny), 30% Range Boost (60% If Shiny), and 15% Cooldown Reduction. (30% If Shiny)"
+            "Description": "All Towers In Range Are Given A 20% Damage Boost (40% If Shiny), 20% Range Boost (40% If Shiny), and 10% Cooldown Reduction. (20% If Shiny)"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -3646,48 +3641,48 @@
         "Range": 25,
         "Damage": 0,
         "Cooldown": 1,
-        "DamageBoost": 1.16,
+        "DamageBoost": 1.11,
         "ShinyDamageBoost": 1.2,
-        "RangeBoost": 1.18,
-        "ShinyRangeBoost": 1.32,
-        "CooldownReduction": 0.95,
-        "ShinyCooldownReduction": 0.82
+        "RangeBoost": 1.11,
+        "ShinyRangeBoost": 1.2,
+        "CooldownReduction": 0.96,
+        "ShinyCooldownReduction": 0.92
       },
       {
         "Price": 1750,
         "Range": 30,
         "Damage": 0,
         "Cooldown": 1,
-        "DamageBoost": 1.18,
+        "DamageBoost": 1.14,
         "ShinyDamageBoost": 1.3,
-        "RangeBoost": 1.21,
-        "ShinyRangeBoost": 1.43,
-        "CooldownReduction": 0.92,
-        "ShinyCooldownReduction": 0.75
+        "RangeBoost": 1.14,
+        "ShinyRangeBoost": 1.3,
+        "CooldownReduction": 0.94,
+        "ShinyCooldownReduction": 0.89
       },
       {
         "Price": 2000,
         "Range": 35,
         "Damage": 0,
         "Cooldown": 1,
-        "DamageBoost": 1.22,
-        "ShinyDamageBoost": 1.4,
-        "RangeBoost": 1.28,
-        "ShinyRangeBoost": 1.52,
-        "CooldownReduction": 0.89,
-        "ShinyCooldownReduction": 0.69
+        "DamageBoost": 1.17,
+        "ShinyDamageBoost": 1.35,
+        "RangeBoost": 1.17,
+        "ShinyRangeBoost": 1.35,
+        "CooldownReduction": 0.92,
+        "ShinyCooldownReduction": 0.85
       },
       {
         "Price": 2250,
         "Range": 40,
         "Damage": 0,
         "Cooldown": 1,
-        "DamageBoost": 1.25,
-        "ShinyDamageBoost": 1.5,
-        "RangeBoost": 1.3,
-        "ShinyRangeBoost": 1.6,
-        "CooldownReduction": 0.85,
-        "ShinyCooldownReduction": 0.65
+        "DamageBoost": 1.2,
+        "ShinyDamageBoost": 1.4,
+        "RangeBoost": 1.2,
+        "ShinyRangeBoost": 1.4,
+        "CooldownReduction": 0.9,
+        "ShinyCooldownReduction": 0.8
       }
     ]
   },
@@ -6839,6 +6834,3 @@
     ]
   }
 }
-
-
-
