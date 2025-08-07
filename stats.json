@@ -1,6 +1,6 @@
 {
     "Darkworld Kris": {
-        "Type": "Single + Passive",
+        "Type": "Slash + Passive",
         "Image": "rbxassetid://0000000",
         "Rarity": "Common",
         "PlacePrice": 250,
@@ -224,7 +224,7 @@
     "Max": 2,
     "Passive": {
             "Name": "Snowgrave",
-            "Description": "Every 30s Noelle will stun all enemies in her range for 2.5 seconds, dealing x5 damage to each enemy"
+            "Description": "Every 30s Noelles Next Attack Will Stun For 2.5 seconds, Dealing x5 Damage To Each Enemy"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -267,7 +267,7 @@
     "Max": 3,
     "NoEnemyAttack": true,
     "Passive": {
-            "Name": "Shopkeeper",
+            "Name": "Travelers... Would You Like A Gift...?",
             "Description": "All Towers In Range Of Seam are Given a +50% Cash Boost, Seam will also generate 1500 cash every wave."
         },
     "Offset": 0,
@@ -312,14 +312,14 @@
     ]
   },
   "Rouxls Kaard": {
-    "Type": "Melee Slash + Passive",
+    "Type": "Melee + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Gold",
     "PlacePrice": 17500,
     "Max": 1,
     "Passive": {
             "Name": "Go forth!! My Squeakie Duckie!!",
-            "Description": "Every 25s Rouxls Kaard will explode a random enemy with his thrash machine, Dealing x5 Of His Current Damage To it and dealing x1.25 damage to all enemies near the explosion"
+            "Description": "Every 25s Rouxls Kaard will explode a random enemy with his thrash machine, Dealing x5 Of His Current Damage To it and dealing x2 damage to all enemies near the explosion"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -404,8 +404,8 @@
     "PlacePrice": 19970,
     "Max": 1,
     "Passive": {
-            "Name": "[[Number 1 Rated Salesman1997]]",
-            "Description": "Every 19.97 seconds, Spamton will steal a [[HeartShapedObject]] from an enemy, dealing 199700 single damage to it."
+            "Name": "JUST GIVE ME YOUR [[HeartShapedObject]]!!",
+            "Description": "Spamton Will Deal 5x Damage To A Random Enemy In His Range Every 30s."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -499,8 +499,8 @@
     "Max": 3,
     "NoEnemyAttack": true,
     "Passive": {
-            "Name": "Hug",
-            "Description": "Hugs enemies dealing 1000 extra damage every 3rd attack, attacks slow by 25% for 2 seconds"
+            "Name": "Training Manual",
+            "Description": "Ralseis Dummy Hugs Enemies Dealing 1000 Extra Damage Every 3rd Attack, Attacks Slow By 25% For 2 Seconds"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -1229,7 +1229,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Charged Stomp",
-            "Description": "K. Round's attacks deal 250% more damage to enemies with 20% or less health."
+            "Description": "K. Round's Attacks Deal 3x More Damage To Enemies With 20% Or Less Health. Does Not Effect Bosses."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -1369,7 +1369,7 @@
     "PlacePrice": 100000,
     "Max": 1,
     "Passive": {
-            "Name": "Devils Knife",
+            "Name": "Devil's Knife",
             "Description": "Jevils Attacks Instantly Kill Enemies With 25% or Less Health, and Bosses with 12.5% Or Less Health"
         },
     "Offset": 0,
@@ -1430,8 +1430,8 @@
         "SoulLeak": 1.1,
         "ShinySoulLeak": 1.2,
         "SoulLeakTime": 3,
-        "DamageBoost": 1.325,
-        "ShinyDamageBoost": 1.65
+        "CH1DamageBoost": 1.325,
+        "CH1ShinyDamageBoost": 1.65
       },
       {
         "Price": 50000,
@@ -1441,8 +1441,8 @@
         "SoulLeak": 1.1,
         "ShinySoulLeak": 1.2,
         "SoulLeakTime": 3,
-        "DamageBoost": 1.325,
-        "ShinyDamageBoost": 1.65
+        "CH1DamageBoost": 1.325,
+        "CH1ShinyDamageBoost": 1.65
       },
       {
         "Price": 60000,
@@ -1452,8 +1452,8 @@
         "SoulLeak": 1.1,
         "ShinySoulLeak": 1.2,
         "SoulLeakTime": 3,
-        "DamageBoost": 1.325,
-        "ShinyDamageBoost": 1.65
+        "CH1DamageBoost": 1.325,
+        "CH1ShinyDamageBoost": 1.65
       },
       {
         "Price": 70000,
@@ -1463,8 +1463,8 @@
         "SoulLeak": 1.1,
         "ShinySoulLeak": 1.2,
         "SoulLeakTime": 3,
-        "DamageBoost": 1.325,
-        "ShinyDamageBoost": 1.65
+        "CH1DamageBoost": 1.325,
+        "CH1ShinyDamageBoost": 1.65
       }
     ]
   },
@@ -1519,8 +1519,8 @@
     "Max": 1,
     "Passive": {
             "Name": "[[BIGGER AND BETTER THAN EVER]]",
-            "Description": "Every 3rd attack Spamton NEO becomes enraged, dealing 150% more damage and stunning all enemies in range for 2 seconds."
-        },
+            "Description": "Every 30s Spamton NEO Becomes Enraged, Dealing 3x More Damage For 10s And Making Attacks Apply 5s Stun."
+          },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -1561,7 +1561,7 @@
     "PlacePrice": 75000,
     "Max": 1,
     "Passive": {
-            "Name": "It's just a duck?",
+            "Name": "It's Just A Duck?",
             "Description": "Attacks Apply 100% Anti-Regen For 10 Seconds, and Enemies Hit by Thrash Machine are given 40% Slow for 3 seconds."
         },
     "Offset": 0,
@@ -1621,7 +1621,7 @@
     "Max": 2,
     "Passive": {
             "Name": "CatchX",
-            "Description": "Every 3rd Attack of Mauswheel will stun all enemies in range for 0.1 seconds."
+            "Description": "Attacks Trap Enemies Stunning Them For 0.1 Seconds."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -1711,7 +1711,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Serial Number: Q5U4EX7YY2E9N",
-            "Description": "Every 15s Queen Throws a Puddle Of Acid from her cup at a random enemy, dealing 150% of her damage to all enemies in a 10 stud radius of where the acid lands, and applying 75% Slow for 5 seconds."
+            "Description": "Every 15s Queen Throws A Puddle Of Acid From Her Cup At A Random Enemy, Dealing 2x Of Her Damage To All Enemies In A 10 Stud Radius Of Where The Acid Lands."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -1724,33 +1724,25 @@
         "Price": 0,
         "Range": 20,
         "Damage": 33300,
-        "Cooldown": 2.5,
-        "Slow": 0.25,
-        "SlowTime": 5
+        "Cooldown": 2.5
       },
       {
         "Price": 64729,
         "Range": 25,
         "Damage": 44400,
-        "Cooldown": 2.5,
-        "Slow": 0.25,
-        "SlowTime": 5
+        "Cooldown": 2.5
       },
       {
         "Price": 74729,
         "Range": 30,
         "Damage": 55500,
-        "Cooldown": 2.5,
-        "Slow": 0.25,
-        "SlowTime": 5
+        "Cooldown": 2.5
       },
       {
         "Price": 84729,
         "Range": 35,
         "Damage": 66600,
-        "Cooldown": 2.5,
-        "Slow": 0.25,
-        "SlowTime": 5
+        "Cooldown": 2.5
       }
     ]
   },
@@ -1855,7 +1847,7 @@
     "PlacePrice": 10000,
     "Max": 2,
     "Passive": {
-            "Name": "The weather always sticks together.",
+            "Name": "The Weather Always Sticks Together.",
             "Description": "Lanino Does +100% Damage If Paired With Elnina, and +250% Damage If Paired With Elnina And Rouxls Kaard."
         },
     "Offset": 0,
@@ -1898,7 +1890,7 @@
     "PlacePrice": 10000,
     "Max": 2,
     "Passive": {
-            "Name": "The weather always sticks together.",
+            "Name": "The Weather Always Sticks Together.",
             "Description": "Elnina Does +50% Damage If Paired With Lanino, and +150% Damage If Paired With Lanino And Rouxls Kaard."
         },
     "Offset": 0,
@@ -2153,33 +2145,25 @@
         "Price": 0,
         "Range": 25,
         "Damage": 100000,
-        "Cooldown": 2.75,
-        "Darkness": 250000,
-        "DarknessTime": 3
+        "Cooldown": 3
       },
       {
         "Price": 300000,
         "Range": 30,
         "Damage": 111111,
-        "Cooldown": 2.75,
-        "Darkness": 277777,
-        "DarknessTime": 3
+        "Cooldown": 3
       },
       {
         "Price": 350000,
         "Range": 35,
         "Damage": 122222,
-        "Cooldown": 2.75,
-        "Darkness": 305555,
-        "DarknessTime": 3
+        "Cooldown": 3
       },
       {
         "Price": 400000,
         "Range": 40,
         "Damage": 133333,
-        "Cooldown": 2.75,
-        "Darkness": 333333,
-        "DarknessTime": 3
+        "Cooldown": 3
       }
     ]
   },
@@ -2279,13 +2263,13 @@
     ]
   },
   "Roaring Knight": {
-    "Type": "Slash Melee + Passive",
+    "Type": "Slash + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Unique",
     "PlacePrice": 250000,
     "Max": 1,
     "Passive": {
-            "Name": "The Roaring",
+            "Name": "Swooned",
             "Description": "Every 3s The Roaring Knight Will Swoon A Random Enemy In Its Range Instantly Killing Them."
         },
     "Offset": 0,
@@ -2322,7 +2306,7 @@
     ]
   },
   "Titan": {
-    "Type": "Nuke Stun + Passive",
+    "Type": "Nuke SoulLeak + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Forgotten",
     "PlacePrice": 500000,
@@ -2330,7 +2314,7 @@
     "NoEnemyAttack": true,
     "Passive": {
             "Name": "GUARDIAN",
-            "Description": "Attacks Apply 2s Stun, And 15% SoulLeak (30% Shiny) Every 60 Seconds, The Titan Will Charge Up His Eye Beam For 5s And Deal 3x His Current Damage Every 0.25 For 15s As Pierce, The Titan Can Not Attack While Charging Up And Using His Eye Beam."
+            "Description": "Attacks 15% SoulLeak (30% Shiny) For 5 Seconds. Every 60 Seconds, The Titan Will Charge Up His Eye Beam For 5s And Deal 3x His Current Damage Every 0.25 For 5s As Pierce, The Titan Can Not Attack While Charging Up And Using His Eye Beam."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -2346,9 +2330,7 @@
         "Cooldown": 6.45,
         "SoulLeak": 1.15,
         "ShinySoulLeak": 1.30,
-        "SoulLeakTime": 2,
-        "Slow": 0,
-        "SlowTime": 2
+        "SoulLeakTime": 5
       },
       {
         "Price": 600000,
@@ -2357,9 +2339,7 @@
         "Cooldown": 6.45,
         "SoulLeak": 1.15,
         "ShinySoulLeak": 1.30,
-        "SoulLeakTime": 2,
-        "Slow": 0,
-        "SlowTime": 2
+        "SoulLeakTime": 5
       },
       {
         "Price": 750000,
@@ -2368,9 +2348,7 @@
         "Cooldown": 6.45,
         "SoulLeak": 1.15,
         "ShinySoulLeak": 1.30,
-        "SoulLeakTime": 2,
-        "Slow": 0,
-        "SlowTime": 2
+        "SoulLeakTime": 5
       },
       {
         "Price": 850000,
@@ -2379,9 +2357,7 @@
         "Cooldown": 6.45,
         "SoulLeak": 1.15,
         "ShinySoulLeak": 1.30,
-        "SoulLeakTime": 2,
-        "Slow": 0,
-        "SlowTime": 2
+        "SoulLeakTime": 2
       },
       {
         "Price": 950000,
@@ -2390,9 +2366,7 @@
         "Cooldown": 6.45,
         "SoulLeak": 1.15,
         "ShinySoulLeak": 1.30,
-        "SoulLeakTime": 5,
-        "Slow": 0,
-        "SlowTime": 2
+        "SoulLeakTime": 5
       },
       {
         "Price": 1000000,
@@ -2401,21 +2375,19 @@
         "Cooldown": 6.45,
         "SoulLeak": 1.15,
         "ShinySoulLeak": 1.30,
-        "SoulLeakTime": 5,
-        "Slow": 0,
-        "SlowTime": 2
+        "SoulLeakTime": 5
       }
     ]
   },
   "IMAGE_FRIEND": {
-    "Type": "Chain Pierce + Passive",
+    "Type": "Pierce + Passive",
     "Image": "rbxassetid://0000000",
     "Rarity": "Forgotten",
     "PlacePrice": 374363,
     "Max": 1,
     "Passive": {
             "Name": "The Tail Of Hell Begins To Crawl...",
-            "Description": "Enemies Hit By Ī̵̫̮M̸̯̍́A̵͇̽ͅG̸̟̕E̵͇͑_̶̺͂F̵̠̽̈́R̸̪͒͝I̷̥͚̕͘E̷͙̔N̵̰͊D̷̬̘͛̏ Are Given 65% Slow For 3 Seconds. Attacks Chain Up to 2->5 Enemies Max."
+            "Description": "Enemies Hit By IMAGE_FRIEND Are Given 65% Slow For 3 Seconds."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -2429,7 +2401,6 @@
         "Range": 30,
         "Damage": 45000,
         "Cooldown": 5,
-        "MaxChain": 2,
         "Slow": 0.3,
         "SlowTime": 3
       },
@@ -2438,7 +2409,6 @@
         "Range": 35,
         "Damage": 50000,
         "Cooldown": 4,
-        "MaxChain": 3,
         "Slow": 0.35,
         "SlowTime": 3
       },
@@ -2447,7 +2417,6 @@
         "Range": 40,
         "Damage": 65000,
         "Cooldown": 3.5,
-        "MaxChain": 4,
         "Slow": 0.35,
         "SlowTime": 3
       },
@@ -2456,7 +2425,6 @@
         "Range": 45,
         "Damage": 70000,
         "Cooldown": 3,
-        "MaxChain": 5,
         "Slow": 0.35,
         "SlowTime": 3
       },
@@ -2465,7 +2433,6 @@
         "Range": 50,
         "Damage": 85000,
         "Cooldown": 2.75,
-        "MaxChain": 5,
         "Slow": 0.35,
         "SlowTime": 3
       }
@@ -2599,7 +2566,7 @@
     "Max": 2,
     "Passive": {
             "Name": "Holiday Season",
-            "Description": "All Enemies In Range Are Slowed by 35%."
+            "Description": "All Enemies In Range Are Slowed by 65%."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -2613,7 +2580,7 @@
         "Range": 15,
         "Damage": 1000,
         "Cooldown": 0.25,
-        "Slow": 0.65,
+        "Slow": 0.35,
         "SlowTime": 3
       },
       {
@@ -2621,7 +2588,7 @@
         "Range": 20,
         "Damage": 1250,
         "Cooldown": 0.25,
-        "Slow": 0.65,
+        "Slow": 0.35,
         "SlowTime": 3
       },
       {
@@ -2629,7 +2596,7 @@
         "Range": 25,
         "Damage": 1500,
         "Cooldown": 0.25,
-        "Slow": 0.65,
+        "Slow": 0.35,
         "SlowTime": 3
       },
       {
@@ -2637,7 +2604,7 @@
         "Range": 30,
         "Damage": 1750,
         "Cooldown": 0.25,
-        "Slow": 0.65,
+        "Slow": 0.35,
         "SlowTime": 3
       }
     ]
@@ -2693,7 +2660,7 @@
     "Max": 10,
     "NoEnemyAttack": true,
     "Passive": {
-            "Name": "Extremely Annoying",
+            "Name": "Bark!",
             "Description": "All Towers In Range Are Given A 30% Damage Boost (60% Shiny), And A 15% Cooldown Reduction (30% Shiny)"
         },
     "Offset": 0,
@@ -2752,8 +2719,8 @@
     "PlacePrice": 27500,
     "Max": 2,
     "Passive": {
-            "Name": "Flowers",
-            "Description": "Deals +50% More Damage If On The Same Tean As Kris Or Toriel."
+            "Name": "Berguntrucken",
+            "Description": "Every 30s Asgore Will Run Over All Enemies Infront Of Him (Pierce), Dealing x5 Of His Damage To All Of Them"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -2989,7 +2956,7 @@
     "Max": 3,
     "NoEnemyAttack": true,
     "Passive": {
-            "Name": "Nubert",
+            "Name": "Everyone Loves Nubert",
             "Description": "Every 10->5 Seconds Summons A Helper Nubert With 150000 Health"
         },
     "Offset": 0,
@@ -3048,7 +3015,7 @@
     "PlacePrice": 1500,
     "Max": 3,
     "Passive": {
-            "Name": "Checkmarks",
+            "Name": "Code Breaker",
             "Description": "Enemies Hit by Hacker Are Given 35% Slow"
         },
     "Offset": 0,
@@ -3190,7 +3157,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Lord Of The Hammer",
-            "Description": "Gains +0.5% Damage For Every 1 Health Lost From Your Base. Every 5th Attack, Hammer Of Justice will make all towers in range deal 150% more damage for 5 seconds."
+            "Description": "Gains +0.5% Damage For Every 1 Health Lost From Your Base. Every 10th Attack, Hammer Of Justice will make all towers in range deal 150% more damage for 5 seconds."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -3282,7 +3249,7 @@
     "Max": 1,
     "Passive": {
             "Name": "VERY VERY INTERESTING...",
-            "Description": "Every 30 Seconds Gaster Will Summon A Fountain At A Random Exit for 5 Seconds, Causing enemies that walk into it to turn around and walk back to the start with 50% of their health."
+            "Description": "Every 30 Seconds (Global Cooldown) Gaster Will Summon A Fountain At A Random Exit for 5 Seconds, Causing enemies that walk into it to turn around and walk back to the start with 50% of their health."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -3323,7 +3290,7 @@
       }
     ]
   },
-  "YOUR CREATION": {
+  "VESSEL": {
     "Type": "AOE + Trapper",
     "Image": "rbxassetid://0000000",
     "Rarity": "Forgotten",
@@ -3331,7 +3298,7 @@
     "Max": 2,
     "NoEnemyAttack": true,
     "Passive": {
-            "Name": "CREATOR",
+            "Name": "YOUR CREATION...",
             "Description": "Every 10s ??? Will Place A Heart Shaped Trap That Deals x75 Damage And 2.5 Stun To Enemys (Max 75)"
         },
     "Offset": 0,
@@ -3374,7 +3341,7 @@
     "PlacePrice": 518113,
     "Max": 1,
     "Passive": {
-            "Name": "BURNING EYES",
+            "Name": "Shadow Mantle...?",
             "Description": "Every 15s ERAM Spawns a FRIEND With x50 Of His Current Damage As Its Health"
         },
     "Offset": 0,
@@ -3433,7 +3400,7 @@
     "PlacePrice": 12250,
     "Max": 2,
     "Passive": {
-            "Name": "Lost Girl",
+            "Name": "Lost... Lost... Lost... Girl...",
             "Description": "Enemies (20 -> 10) And Bosses (100 -> 50) Do 50% Less Damage When Reaching The Exit."
         },
     "Offset": 0,
@@ -3626,7 +3593,7 @@
     "Max": 8,
     "NoEnemyAttack": true,
     "Passive": {
-            "Name": "My Nose Fell Off!",
+            "Name": "Give Me My Q's!",
             "Description": "All Towers In Range Are Given A 20% Damage Boost (40% If Shiny), 20% Range Boost (40% If Shiny), and 10% Cooldown Reduction. (20% If Shiny)"
         },
     "Offset": 0,
@@ -3937,7 +3904,7 @@
     "PlacePrice": 5000,
     "Max": 2,
     "Passive": {
-            "Name": "Aim.... Fire!",
+            "Name": "Dodge!",
             "Description": "Boosts All Summoners And Cowboy Units By 50% Damage."
         },
     "Offset": 0,
@@ -3980,7 +3947,7 @@
     "PlacePrice": 15000,
     "Max": 1,
     "Passive": {
-            "Name": "Sound Check",
+            "Name": "Sound Check!",
             "Description": "Every 3rd Attack Deals x2 Damage And Applies 50% Slow For 3 Seconds."
         },
     "Offset": 0,
@@ -4023,8 +3990,8 @@
     "PlacePrice": 1750,
     "Max": 2,
     "Passive": {
-            "Name": "Popularity",
-            "Description": "This Unit Gains A +25% Damage Increase For Every Tower Placed In Its Range (Max 100%). Attacks Deal +100% Burn Damage Over 6 Seconds."
+            "Name": "Popularity!",
+            "Description": "This Unit Gains A +25% Damage Increase For Every Tower Placed In Its Range (Max 100%). Attacks Deal +100% Burn Damage Over 2 Seconds."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -4039,7 +4006,7 @@
         "Damage": 5000,
         "Cooldown": 1,
         "Burn": 5000,
-        "BurnTime": 6
+        "BurnTime": 2
       },
       {
         "Price": 0,
@@ -4047,7 +4014,7 @@
         "Damage": 6000,
         "Cooldown": 1,
         "Burn": 6000,
-        "BurnTime": 6
+        "BurnTime": 2
       },
       {
         "Price": 0,
@@ -4055,7 +4022,7 @@
         "Damage": 6250,
         "Cooldown": 1,
         "Burn": 6250,
-        "BurnTime": 6
+        "BurnTime": 2
       },
       {
         "Price": 0,
@@ -4063,7 +4030,7 @@
         "Damage": 6500,
         "Cooldown": 1,
         "Burn": 6500,
-        "BurnTime": 6
+        "BurnTime": 2
       }
     ]
   },
@@ -4184,8 +4151,8 @@
     "PlacePrice": 84000,
     "Max": 2,
     "Passive": {
-            "Name": "Bullet Barrage",
-            "Description": "Attacks Apply 30% Slow And 15% SoulLeak"
+            "Name": "SHOOT THAT LITTLE MAILMAN!!",
+            "Description": "Attacks Apply 15% SoulLeak. +100% More Damage If Paired With Spamton, Scampton The Great Or Spamton NEO"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -4199,8 +4166,6 @@
         "Range": 20,
         "Damage": 10000,
         "Cooldown": 0.75,
-        "Slow": 0.7,
-        "SlowTime": 5,
         "SoulLeak": 1.15,
         "SoulLeakTime": 5
       },
@@ -4209,8 +4174,6 @@
         "Range": 25,
         "Damage": 12500,
         "Cooldown": 0.75,
-        "Slow": 0.7,
-        "SlowTime": 5,
         "SoulLeak": 1.15,
         "SoulLeakTime": 5
       },
@@ -4219,8 +4182,6 @@
         "Range": 30,
         "Damage": 15000,
         "Cooldown": 0.75,
-        "Slow": 0.7,
-        "SlowTime": 5,
         "SoulLeak": 1.15,
         "SoulLeakTime": 5
       },
@@ -4229,8 +4190,6 @@
         "Range": 35,
         "Damage": 17500,
         "Cooldown": 0.75,
-        "Slow": 0.7,
-        "SlowTime": 5,
         "SoulLeak": 1.15,
         "SoulLeakTime": 5
       }
@@ -4243,7 +4202,7 @@
     "PlacePrice": 750,
     "Max": 3,
     "Passive": {
-            "Name": "Gingerbread House",
+            "Name": "Holiday Spirit",
             "Description": "Noelles Attacks Stun For 0.1 Seconds."
         },
     "Offset": 0,
@@ -4295,7 +4254,7 @@
     "Max": 1,
     "Passive": {
             "Name": "The Legend",
-            "Description": "Ralsei's Attacks Apply 65% Slow For 5 Seconds"
+            "Description": "Ralsei's Attacks Apply 65% Slow For 5 Seconds. Attacks Have A 25% Chance Of Doing 150% More Damage."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -4467,6 +4426,100 @@
       }
     ]
   },
+    "THE ROARING TITANS": {
+    "Type": "Nuke Stun + Passive",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Forgotten",
+    "PlacePrice": 1000000,
+    "Max": 1,
+    "Passive": {
+            "Name": "It's the end.",
+            "Description": "Attacks Apply 3s Stun. Every 60s All 3 Titans Unleash A Large Nuke Attack Dealing x10 Damage Upon Impact. "
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 25,
+        "Damage": 325000,
+        "Cooldown": 8,
+        "Slow": 0,
+        "SlowTime": 3
+      },
+      {
+        "Price": 1250000,
+        "Range": 30,
+        "Damage": 350000,
+        "Cooldown": 8,
+        "Slow": 0,
+        "SlowTime": 3
+      },
+      {
+        "Price": 1500000,
+        "Range": 35,
+        "Damage": 375000,
+        "Cooldown": 8,
+        "Slow": 0,
+        "SlowTime": 3
+      },
+      {
+        "Price": 2000000,
+        "Range": 40,
+        "Damage": 425000,
+        "Cooldown": 8,
+        "Slow": 0,
+        "SlowTime": 3
+      }
+    ]
+  },
+    "SCAMPTON THE GREAT": {
+    "Type": "Cone Aoe + Passive",
+    "Image": "rbxassetid://0000000",
+    "Rarity": "Unique",
+    "PlacePrice": 101000,
+    "Max": 1,
+    "Passive": {
+            "Name": "SCARED OF A LITTLE [Change of perspective?]",
+            "Description": "Every 5th Attack Perrys A Single Enemy Hit, Turning Them Around With 25% Of Their Health Restored And Making Them Walk Towards The Closet Entrance. (Perrys Do x10 Damage To Bosses)"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 95000,
+        "Cooldown": 4
+      },
+      {
+        "Price": 125000,
+        "Range": 22,
+        "Damage": 100000,
+        "Cooldown": 4
+      },
+      {
+        "Price": 150000,
+        "Range": 25,
+        "Damage": 115000,
+        "Cooldown": 4
+      },
+      {
+        "Price": 175000,
+        "Range": 28,
+        "Damage": 125000,
+        "Cooldown": 4
+      }
+    ]
+  },
     "Chara": {
     "Type": "Melee + Passive",
     "Image": "rbxassetid://0000000",
@@ -4515,7 +4568,7 @@
     "Image": "rbxassetid://0000000",
     "Rarity": "Unique",
     "PlacePrice": 7500,
-    "Max": 2,
+    "Max": 1,
     "Passive": {
             "Name": "Your Best Friend",
             "Description": "Attacks Chain Up To 5 Different Enemies. Every 25s Flowey Uses His Vines and grabs a random enemy, dealing 3x damage and stunning them for 5 seconds."
