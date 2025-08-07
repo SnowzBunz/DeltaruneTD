@@ -1,6 +1,6 @@
 {
     "Darkworld Kris": {
-        "Type": "Slash + Passive",
+        "Type": "Single + Passive",
         "Image": "rbxassetid://0000000",
         "Rarity": "Common",
         "PlacePrice": 250,
@@ -2269,7 +2269,7 @@
     "PlacePrice": 250000,
     "Max": 1,
     "Passive": {
-            "Name": "Swooned",
+            "Name": "The Roaring...",
             "Description": "Every 3s The Roaring Knight Will Swoon A Random Enemy In Its Range Instantly Killing Them."
         },
     "Offset": 0,
@@ -2327,7 +2327,7 @@
         "Price": 0,
         "Range": 25,
         "Damage": 250000,
-        "Cooldown": 6.45,
+        "Cooldown": 6.75,
         "SoulLeak": 1.15,
         "ShinySoulLeak": 1.30,
         "SoulLeakTime": 5
@@ -2336,7 +2336,7 @@
         "Price": 600000,
         "Range": 30,
         "Damage": 265000,
-        "Cooldown": 6.45,
+        "Cooldown": 6.75,
         "SoulLeak": 1.15,
         "ShinySoulLeak": 1.30,
         "SoulLeakTime": 5
@@ -2345,7 +2345,7 @@
         "Price": 750000,
         "Range": 35,
         "Damage": 275000,
-        "Cooldown": 6.45,
+        "Cooldown": 6.75,
         "SoulLeak": 1.15,
         "ShinySoulLeak": 1.30,
         "SoulLeakTime": 5
@@ -2354,7 +2354,7 @@
         "Price": 850000,
         "Range": 40,
         "Damage": 335000,
-        "Cooldown": 6.45,
+        "Cooldown": 6.75,
         "SoulLeak": 1.15,
         "ShinySoulLeak": 1.30,
         "SoulLeakTime": 2
@@ -2363,7 +2363,7 @@
         "Price": 950000,
         "Range": 45,
         "Damage": 355000,
-        "Cooldown": 6.45,
+        "Cooldown": 6.75,
         "SoulLeak": 1.15,
         "ShinySoulLeak": 1.30,
         "SoulLeakTime": 5
@@ -2372,7 +2372,7 @@
         "Price": 1000000,
         "Range": 50,
         "Damage": 365000,
-        "Cooldown": 6.45,
+        "Cooldown": 6.75,
         "SoulLeak": 1.15,
         "ShinySoulLeak": 1.30,
         "SoulLeakTime": 5
@@ -4471,6 +4471,14 @@
         "Price": 2000000,
         "Range": 40,
         "Damage": 425000,
+        "Cooldown": 8,
+        "Slow": 0,
+        "SlowTime": 3
+      },
+      {
+        "Price": 3000000,
+        "Range": 45,
+        "Damage": 450000,
         "Cooldown": 8,
         "Slow": 0,
         "SlowTime": 3
