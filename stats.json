@@ -4493,7 +4493,7 @@
     "Max": 1,
     "Passive": {
             "Name": "SCARED OF A LITTLE [Change of perspective?]",
-            "Description": "Every 10th Attack Perrys A Single Enemy Hit, Turning Them Around With 25% Of Their Health Restored And Making Them Walk Towards The Closet Entrance. (Perrys Do x10 Damage To Bosses)"
+            "Description": "Every 7th Attack Perrys A Single Enemy Hit, Turning Them Around With 25% Of Their Health Restored And Making Them Walk Towards The Closet Entrance. (Perrys Do x10 Damage To Bosses)"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -4568,6 +4568,49 @@
         "Range": 45,
         "Damage": 90000,
         "Cooldown": 2.5
+      }
+    ]
+  },
+    "HANDROMEDA": {
+    "Type": "Pierce + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Gold",
+    "PlacePrice": 250000,
+    "Max": 1,
+    "Passive": {
+            "Name": "The Upper Hand",
+            "Description": "Every 60s HANDROMEDA Drops Stars From The Sky Dealing an 4x AOE Attack To All Enemies In Range."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 125000,
+        "Cooldown": 7
+      },
+      {
+        "Price": 300000,
+        "Range": 24,
+        "Damage": 150000,
+        "Cooldown": 7
+      },
+      {
+        "Price": 350000,
+        "Range": 27,
+        "Damage": 165000,
+        "Cooldown": 7
+      },
+      {
+        "Price": 400000,
+        "Range": 30,
+        "Damage": 185000,
+        "Cooldown": 7
       }
     ]
   },
