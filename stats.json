@@ -4488,12 +4488,12 @@
     "SCAMPTON THE GREAT": {
     "Type": "Cone Aoe + Passive",
     "Image": "rbxassetid://131226586458594",
-    "Rarity": "Unique",
+    "Rarity": "Legendary",
     "PlacePrice": 101000,
     "Max": 1,
     "Passive": {
             "Name": "SCARED OF A LITTLE [Change of perspective?]",
-            "Description": "Every 5th Attack Perrys A Single Enemy Hit, Turning Them Around With 25% Of Their Health Restored And Making Them Walk Towards The Closet Entrance. (Perrys Do x10 Damage To Bosses)"
+            "Description": "Every 10th Attack Perrys A Single Enemy Hit, Turning Them Around With 25% Of Their Health Restored And Making Them Walk Towards The Closet Entrance. (Perrys Do x10 Damage To Bosses)"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -4506,37 +4506,37 @@
         "Price": 0,
         "Range": 20,
         "Damage": 95000,
-        "Cooldown": 4
+        "Cooldown": 4.25
       },
       {
         "Price": 125000,
         "Range": 22,
         "Damage": 100000,
-        "Cooldown": 4
+        "Cooldown": 4.25
       },
       {
         "Price": 150000,
         "Range": 25,
         "Damage": 115000,
-        "Cooldown": 4
+        "Cooldown": 4.25
       },
       {
         "Price": 175000,
         "Range": 28,
         "Damage": 125000,
-        "Cooldown": 4
+        "Cooldown": 4.25
       }
     ]
   },
     "Susiezilla": {
     "Type": "Slash + Passive",
     "Image": "rbxassetid://131226586458594",
-    "Rarity": "Legendary",
+    "Rarity": "Unique",
     "PlacePrice": 75000,
     "Max": 1,
     "Passive": {
             "Name": "Atomic Darkness Breath",
-            "Description": "Susiezilla Charges Her Beam For 5s Causing A Pierce Beam Dealing x2 Damage In Darkness Every 0.25s For 7s. 45s Recharge."
+            "Description": "Susiezilla Charges Her Beam For 5s Causing A Pierce Beam Dealing 2x Her Current Damage In Darkness Every 0.25s For 5s. 45s Recharge."
         },
     "Offset": 0,
     "hitboxOffset": {
