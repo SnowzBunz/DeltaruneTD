@@ -7,7 +7,7 @@
         "Max": 3,
         "Passive": {
             "Name": "The Fun Gang",
-            "Description": "When On The Same Team With Ralsei And Susie, Kris will deal +50% Damage"
+            "Description": "When On The Same Team With Ralsei And Susie, Kris will deal +125% Damage"
         },
         "Offset": 0,
         "hitboxOffset": {
@@ -47,10 +47,10 @@
         "Image": "rbxassetid://131226586458594",
         "Rarity": "Uncommon",
         "PlacePrice": 750,
-        "Max": 1,
+        "Max": 2,
         "Passive": {
             "Name": "Dark Lancer Fan Club",
-            "Description": "When On The Same Team With Lancer, Susie will deal +25% Damage"
+            "Description": "When On The Same Team With Lancer, Susie will deal +200% Damage"
         },
         "Offset": 0,
         "hitboxOffset": {
@@ -86,14 +86,14 @@
         ]
     },
     "Ralsei": {
-        "Type": "Booster",
+        "Type": "Range Booster",
         "Image": "rbxassetid://131226586458594",
         "Rarity": "Uncommon",
         "PlacePrice": 250,
         "Max": 3,
         "NoEnemyAttack": true,
         "Passive": {
-            "Name": "Range Boost",
+            "Name": "Dark Prince Magic",
             "Description": "All Towers In Range Of This Unit Are Given A +15% Range Boost (30% If Shiny)"
         },
         "Offset": 0,
@@ -145,7 +145,7 @@
     "Max": 2,
     "Passive": {
             "Name": "Sweet Ride",
-            "Description": "Every 10s Lancer Summons a clone of his bike that deals 500 damage every 0.25 seconds (Max 5 On Field), dealing 1000 damage on death"
+            "Description": "Every 10s Lancer Summons a clone of his bike that deals 500 damage every 0.25 seconds (Max 5 On Field), with health being 2x of lancers current damage."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -224,7 +224,7 @@
     "Max": 2,
     "Passive": {
             "Name": "Snowgrave",
-            "Description": "Every 30s Noelles Next Attack Will Stun For 2.5 seconds, Dealing x5 Damage To Each Enemy"
+            "Description": "Every 30s Noelles Next 3 Attacks Will Stun For 2.5 seconds, Dealing x5 Damage To Each Enemy"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -268,7 +268,7 @@
     "NoEnemyAttack": true,
     "Passive": {
             "Name": "Travelers... Would You Like A Gift...?",
-            "Description": "All Towers In Range Of Seam are Given a +50% Cash Boost, Seam will also generate 1500 cash every wave."
+            "Description": "All Towers In Range Of Seam are Given a +50% Cash Boost, Seam will also generate 1000->1500 cash every wave."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -283,7 +283,7 @@
         "Damage": 0,
         "Cooldown": 1,
         "CashBoost": 1.5,
-        "FarmAmount": 1500
+        "FarmAmount": 1000
       },
       {
         "Price": 1750,
@@ -291,7 +291,7 @@
         "Damage": 0,
         "Cooldown": 1,
         "CashBoost": 1.5,
-        "FarmAmount": 1500
+        "FarmAmount": 1200
       },
       {
         "Price": 2250,
@@ -299,7 +299,7 @@
         "Damage": 0,
         "Cooldown": 1,
         "CashBoost": 1.5,
-        "FarmAmount": 1500
+        "FarmAmount": 1350
       },
       {
         "Price": 2600,
@@ -319,7 +319,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Go forth!! My Squeakie Duckie!!",
-            "Description": "Every 25s Rouxls Kaard will explode a random enemy with his thrash machine, Dealing x5 Of His Current Damage To it and dealing x2 damage to all enemies near the explosion"
+            "Description": "Every 25s Rouxls Kaard will explode a random enemy with the thrash machine, Dealing x5 Of His Current Damage To it and dealing x2 damage to all enemies near the explosion"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -405,7 +405,7 @@
     "Max": 1,
     "Passive": {
             "Name": "JUST GIVE ME YOUR [[HeartShapedObject]]!!",
-            "Description": "Spamton Will Deal 5x Damage To A Random Enemy In His Range Every 30s."
+            "Description": "Spamton Will Deal 10x Single Damage To A Random Enemy In His Range Every 30s."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -448,7 +448,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Queen's Mansion",
-            "Description": "Swatch Gives All Towers In Range A +25% Damage Boost, and Generates 10000 Cash Every Wave."
+            "Description": "Swatch Gives All Towers In Range A +25% Damage Boost, and Generates 5000->10000 Cash Every Wave."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -463,7 +463,7 @@
         "Damage": 0,
         "Cooldown": 1,
         "DamageBoost": 1.25,
-        "FarmAmount": 10000
+        "FarmAmount": 5000
       },
       {
         "Price": 5500,
@@ -471,7 +471,7 @@
         "Damage": 0,
         "Cooldown": 1,
         "DamageBoost": 1.25,
-        "FarmAmount": 10000
+        "FarmAmount": 6500
       },
       {
         "Price": 6500,
@@ -479,7 +479,7 @@
         "Damage": 0,
         "Cooldown": 1,
         "DamageBoost": 1.25,
-        "FarmAmount": 10000
+        "FarmAmount": 8250
       },
       {
         "Price": 7500,
@@ -500,7 +500,7 @@
     "NoEnemyAttack": true,
     "Passive": {
             "Name": "Training Manual",
-            "Description": "Ralseis Dummy Hugs Enemies Dealing 1000 Extra Damage Every 3rd Attack, Attacks Slow By 25% For 2 Seconds"
+            "Description": "Ralseis Dummy Hugs Enemies Dealing 2x Extra Damage Every 3rd Attack, Attacks Slow By 25% For 1 Second"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -648,8 +648,8 @@
     "PlacePrice": 2000,
     "Max": 3,
     "Passive": {
-            "Name": "Controlled",
-            "Description": "Every 10s Werewire will place a trap that deals x5 their damage to the first enemy that steps on it, and stuns them for 1.25 seconds. (Max 25 Traps On Field)"
+            "Name": "Circut Malfunction",
+            "Description": "Every 10s Werewire will place a trap that deals x5 their damage to the first enemy that steps on it, stunning them for 1.25 seconds. Trap Cooldown Cannot Be Changed. (Max 100 Traps On Field)"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -685,7 +685,7 @@
     ]
   },
   "Poppup": {
-    "Type": "Single + Passive",
+    "Type": "Melee + Passive",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 1500,
@@ -856,8 +856,8 @@
     "PlacePrice": 1000,
     "Max": 8,
     "Passive": {
-            "Name": "meowowow meowowow",
-            "Description": "Enemies Hit by Tasque are given 5% SoulLeak."
+            "Name": "meowowow meowowow meowowow meowowow",
+            "Description": "Enemies Hit by Tasque are given 5% SoulLeak For 1s."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -997,7 +997,7 @@
     "PlacePrice": 33333,
     "Max": 1,
     "Passive": {
-            "Name": "Lost Wire",
+            "Name": "Broken Free From Their Control",
             "Description": "Attacks Chain Up to 5 Nearby Enemies, giving them 50% Slow for 2.5 seconds."
         },
     "Offset": 0,
@@ -1093,13 +1093,13 @@
     ]
   },
   "Hathy": {
-    "Type": "Booster",
+    "Type": "Damage Booster",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 2000,
     "Max": 3,
     "Passive": {
-            "Name": "Damage Boost",
+            "Name": "What? Only a Support Unit!?",
             "Description": "All Towers In Range Of This Unit Are Given A +20% Damage Boost (40% If Shiny)."
         },
     "Offset": 0,
@@ -1229,7 +1229,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Charged Stomp",
-            "Description": "K. Round's Attacks Deal 3x More Damage To Enemies With 20% Or Less Health. Does Not Effect Bosses."
+            "Description": "K. Round's Attacks Deal 3x More Damage To Enemies With 20% Or Less Health. Does Not Effect Bosses/Mini-Bosses."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -1304,13 +1304,13 @@
     ]
   },
   "Rabbick": {
-    "Type": "AOE + Booster",
+    "Type": "AOE + Damage And Cooldown Booster",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Uncommon",
     "PlacePrice": 500,
     "Max": 3,
     "Passive": {
-            "Name": "Dual Boost",
+            "Name": "Blown Away!",
             "Description": "Rabbick gives all towers in range a +10% Damage Boost (20% If Shiny) and a +5% CoolDown Reduction (10% If Shiny)."
         },
     "Offset": 0,
@@ -1369,8 +1369,8 @@
     "PlacePrice": 100000,
     "Max": 1,
     "Passive": {
-            "Name": "Devil's Knife",
-            "Description": "Jevils Attacks Instantly Kill Enemies With 25% or Less Health, and Bosses with 12.5% Or Less Health"
+            "Name": "CHAOS! CHAOS!",
+            "Description": "Jevils Attacks Instantly Kill Enemies With 25% or Less Health, and Bosses with 10% Or Less Health"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -1518,7 +1518,7 @@
     "PlacePrice": 150000,
     "Max": 1,
     "Passive": {
-            "Name": "[[BIGGER AND BETTER THAN EVER]]",
+            "Name": "[[BIGGER AND BETTER THAN EVER!!]]",
             "Description": "Every 30s Spamton NEO Becomes Enraged, Dealing 3x More Damage For 10s And Making Attacks Apply 5s Stun."
           },
     "Offset": 0,
@@ -1711,7 +1711,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Serial Number: Q5U4EX7YY2E9N",
-            "Description": "Every 15s Queen Throws A Puddle Of Acid From Her Cup At A Random Enemy, Dealing 2x Of Her Damage To All Enemies In A 10 Stud Radius Of Where The Acid Lands."
+            "Description": "Every 15s Queen Throws A Puddle Of Acid From Her Cup At A Random Enemy, Dealing 2x Of Her Damage In Splash, Applying 100% Darkness To Effected Enemies For 5s"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -1933,8 +1933,8 @@
     "PlacePrice": 1250,
     "Max": 2,
     "Passive": {
-            "Name": "TV Remote",
-            "Description": "Enemys Hit By Zapper Are Given 25% Slow For 2 Seconds."
+            "Name": "Turn Off",
+            "Description": "Enemys Hit By Zapper Are Given 25% Slow For 2 Seconds And 0.1s Stun."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -2028,7 +2028,7 @@
     "Max": 3,
     "Passive": {
             "Name": "Card Reader",
-            "Description": "Attacks Hit Twice If Theres More Than 10 Enemies In Range."
+            "Description": "Attacks Deal 2x More Damage If Theres More Than 10 Enemies In Range."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -2064,7 +2064,7 @@
     ]
   },
   "Gerson Boom": {
-    "Type": "Single",
+    "Type": "Single + Wisdom",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 999999,
@@ -2132,7 +2132,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Glory. Glory.",
-            "Description": "Every Attack Miss Mizzle has a 35% Chance To Use a BitterTear Stunning All Enemies In Range For 5 Seconds, and Dealing 250% of Miss Mizzle's Damage in Darkness."
+            "Description": "Every Attack Miss Mizzle has a 25% Chance To Use a BitterTear Stunning All Enemies In Range For 5 Seconds, and Dealing 250% of Miss Mizzle's Damage in Darkness."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -2211,14 +2211,14 @@
     ]
   },
   "Organikk": {
-    "Type": "Booster",
+    "Type": "Cooldown Booster",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 850,
     "Max": 3,
     "NoEnemyAttack": true,
     "Passive": {
-            "Name": "Cooldown Boost",
+            "Name": "Mysterious Ringing",
             "Description": "All Towers In Range Are Given a 15% Cooldown Reduction (30% If Shiny)"
         },
     "Offset": 0,
@@ -2269,8 +2269,8 @@
     "PlacePrice": 250000,
     "Max": 1,
     "Passive": {
-            "Name": "The Roaring...",
-            "Description": "Every 3s The Roaring Knight Will Swoon A Random Enemy In Its Range Instantly Killing Them."
+            "Name": "Suddenly, the north and east winds blew fiercely.",
+            "Description": "Every 5s The Roaring Knight Picks The Currently Targeted Enemy And Instantly Kills Them (x50 Damage & 3s Stun To Bosses & Mini-Bosses), Applying 150% Darkness And 0.5s Stun To All Nearby Enemies In a 15 Stud Radius"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -2305,16 +2305,15 @@
       }
     ]
   },
-  "Titan": {
-    "Type": "Nuke SoulLeak + Passive",
+  "TITAN": {
+    "Type": "Nuke + Passive",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Forgotten",
     "PlacePrice": 500000,
     "Max": 1,
-    "NoEnemyAttack": true,
     "Passive": {
-            "Name": "GUARDIAN",
-            "Description": "Attacks 15% SoulLeak (30% Shiny) For 5 Seconds. Every 60 Seconds, The Titan Will Charge Up His Eye Beam For 5s And Deal 3x His Current Damage Every 0.25 For 5s As Pierce, The Titan Can Not Attack While Charging Up And Using His Eye Beam."
+            "Name": "The Last Guardian Of The Sanctuary.",
+            "Description": "Attacks Apply 15% SoulLeak (30% Shiny) For 5 Seconds. Every 60 Seconds, The Titan Will Charge Up His Eye Beam For 3s And Deal 3x His Current Damage Every 0.25 For 7s As Pierce, The Titan Can Not Attack While Charging Up And Using His Eye Beam."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -2439,14 +2438,14 @@
     ]
   },
   "Watercooler": {
-    "Type": "AOE + Booster",
+    "Type": "AOE + Damage, Range And Cooldown Booster",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 25000,
     "Max": 2,
     "NoEnemyAttack": true,
     "Passive": {
-            "Name": "Triple Boost",
+            "Name": "The Scent Of Mist Emits From Nearby",
             "Description": "All Towers In Range Are Given 15% Damage Boost (30% If Shiny), 15% Range Boost (30% If Shiny), and 5% Cooldown Reduction. (10% If Shiny)"
         },
     "Offset": 0,
@@ -2507,14 +2506,14 @@
     ]
   },
   "Toriel": {
-    "Type": "Booster",
+    "Type": "Damage Booster",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 1250,
     "Max": 3,
     "NoEnemyAttack": true,
     "Passive": {
-            "Name": "Damage Boost",
+            "Name": "Butterscotch Cinnamon Pie",
             "Description": "All Towers In Range Are Given A 25% Damage Boost (50% If Shiny)"
         },
     "Offset": 0,
@@ -2558,7 +2557,7 @@
       }
     ]
   },
-  "Carol": {
+  "Carol Holiday": {
     "Type": "AOE + Passive",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
@@ -2653,14 +2652,14 @@
     ]
   },
   "Annoying Dog": {
-    "Type": "Booster",
+    "Type": "Damage + Cooldown Booster",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 350,
     "Max": 10,
     "NoEnemyAttack": true,
     "Passive": {
-            "Name": "Bark!",
+            "Name": "Toby Is That You?",
             "Description": "All Towers In Range Are Given A 30% Damage Boost (60% Shiny), And A 15% Cooldown Reduction (30% Shiny)"
         },
     "Offset": 0,
@@ -2719,8 +2718,8 @@
     "PlacePrice": 27500,
     "Max": 2,
     "Passive": {
-            "Name": "Berguntrucken",
-            "Description": "Every 30s Asgore Will Run Over All Enemies Infront Of Him (Pierce), Dealing x5 Of His Damage To All Of Them"
+            "Name": "Asgore Found Freedom In His Heartache",
+            "Description": "Every Third Attack Deals 2x Damage And Applys 15% SoulLeak And 50% Slow."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -2755,15 +2754,15 @@
       }
     ]
   },
-  "Onion": {
-    "Type": "Booster",
+  "Onionsan": {
+    "Type": "Range Booster",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 1500,
     "Max": 3,
     "NoEnemyAttack": true,
     "Passive": {
-            "Name": "Range Booster",
+            "Name": "Asriel II",
             "Description": "All Towers In Range Of Onion are Given a +25% Range Boost. (50% Shiny)"
         },
     "Offset": 0,
@@ -3156,8 +3155,8 @@
     "PlacePrice": 44444,
     "Max": 1,
     "Passive": {
-            "Name": "Lord Of The Hammer",
-            "Description": "Gains +0.5% Damage For Every 1 Health Lost From Your Base. Every 10th Attack, Hammer Of Justice will make all towers in range deal 150% more damage for 5 seconds."
+            "Name": "Dual Buster",
+            "Description": "Gains +0.5% Damage For Every 1 Health Lost From Your Base. Every 3rd Attack Breaks All Armor/Defense On Hit Enemies And Deals 2x Damage."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -3205,8 +3204,8 @@
     "PlacePrice": 10000,
     "Max": 3,
     "Passive": {
-            "Name": "Is it Canon Yet?",
-            "Description": "Asriel Will Deal 50% More Damage When Paired With Dess."
+            "Name": "Away At College",
+            "Description": "Asriel Deals 100% More Damage If Paired With Dess Or Any Dreemurr Family Unit."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -3242,14 +3241,14 @@
     ]
   },
   "W. D. Gaster": {
-    "Type": "Continuous Dual Explosion + Passive",
+    "Type": "Continous Cone Aoe + Passive",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Forgotten",
     "PlacePrice": 103118,
     "Max": 1,
     "Passive": {
             "Name": "VERY VERY INTERESTING...",
-            "Description": "Every 30 Seconds (Global Cooldown) Gaster Will Summon A Fountain At A Random Exit for 5 Seconds, Causing enemies that walk into it to turn around and walk back to the start with 50% of their health."
+            "Description": "Every 30 Seconds (Global Cooldown) Gaster Will Summon A Fountain At A Random Exit for 5 Seconds, Causing enemies that walk into it To Teleport Back To Their Original Entrance With 50% Of Their Health Removed."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -3299,7 +3298,7 @@
     "NoEnemyAttack": true,
     "Passive": {
             "Name": "YOUR CREATION...",
-            "Description": "Every 10s ??? Will Place A Heart Shaped Trap That Deals x75 Damage And 2.5 Stun To Enemys (Max 75)"
+            "Description": "Every 10s THE VESSEL Will Place A Heart Shaped Trap That Deals x75 Damage And 2.5 Stun To Enemys (Max 50)"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -3335,14 +3334,14 @@
     ]
   },
  "ERAM": {
-    "Type": "Explosion + Summoner",
+    "Type": "Pierce Burn + Summoner",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 518113,
     "Max": 1,
     "Passive": {
             "Name": "Shadow Mantle...?",
-            "Description": "Every 15s ERAM Spawns a FRIEND With x50 Of His Current Damage As Its Health"
+            "Description": "Attacks Apply 100% Burn For 1s. Every 15s ERAM Spawns a FRIEND With x50 Of His Current Damage As Its Health"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -3355,6 +3354,8 @@
         "Price": 0,
         "Range": 20,
         "Damage": 15000,
+        "Burn": 15000,
+        "BurnTime": 1,
         "SummonTime": 15,
         "WalkSpeed": 50,
         "Unit": "FRIEND",
@@ -3365,6 +3366,8 @@
         "Price": 518113,
         "Range": 25,
         "Damage": 17500,
+        "Burn": 17500,
+        "BurnTime": 1,
         "SummonTime": 15,
         "WalkSpeed": 50,
         "Unit": "FRIEND",
@@ -3375,6 +3378,8 @@
         "Price": 518113,
         "Range": 30,
         "Damage": 20000,
+        "Burn": 20000,
+        "BurnTime": 1,
         "SummonTime": 15,
         "WalkSpeed": 50,
         "Unit": "FRIEND",
@@ -3385,6 +3390,8 @@
         "Price": 518113,
         "Range": 32,
         "Damage": 22500,
+        "Burn": 22500,
+        "BurnTime": 1,
         "SummonTime": 15,
         "WalkSpeed": 50,
         "Unit": "FRIEND",
@@ -3400,8 +3407,8 @@
     "PlacePrice": 12250,
     "Max": 2,
     "Passive": {
-            "Name": "Lost... Lost... Lost... Girl...",
-            "Description": "Enemies (20 -> 10) And Bosses (100 -> 50) Do 50% Less Damage When Reaching The Exit."
+            "Name": "A Lost... Lost... Girl...",
+            "Description": "Enemies (20 -> 10) Mini-Bosses (50 -> 25) And Bosses (100 -> 50) Do 50% Less Damage When Reaching The Exit."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -3416,6 +3423,7 @@
         "Damage": 12500,
         "Cooldown": 1.225,
         "EnemyDamageReduction": 0.5,
+        "MiniBossDamageReduction": 0.5,
         "BossDamageReduction": 0.5
       },
       {
@@ -3424,6 +3432,7 @@
         "Damage": 17500,
         "Cooldown": 1.225,
         "EnemyDamageReduction": 0.5,
+        "MiniBossDamageReduction": 0.5,
         "BossDamageReduction": 0.5
       },
       {
@@ -3432,6 +3441,7 @@
         "Damage": 23500,
         "Cooldown": 1.225,
         "EnemyDamageReduction": 0.5,
+        "MiniBossDamageReduction": 0.5,
         "BossDamageReduction": 0.5
       },
       {
@@ -3440,6 +3450,7 @@
         "Damage": 25000,
         "Cooldown": 1.225,
         "EnemyDamageReduction": 0.5,
+        "MiniBossDamageReduction": 0.5,
         "BossDamageReduction": 0.5
       }
     ]
@@ -3586,7 +3597,7 @@
     ]
   },
   "Sphinx-Tenna": {
-    "Type": "Triple Booster",
+    "Type": "Damage + Range + Cooldown Booster",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 1500,
@@ -3847,7 +3858,7 @@
     ]
   },
     "Fun Gang Onesies": {
-    "Type": "Booster",
+    "Type": "Cooldown Booster",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 300,
@@ -4092,7 +4103,7 @@
     "PlacePrice": 40000,
     "Max": 4,
     "Passive": {
-            "Name": "Ralsei Rancher",
+            "Name": "Ralsei Rancher Was Unlocked For Your Castle Town",
             "Description": "Every 15s Horse Ralsei Summons a Mini Version Of Himself That Has x50 Health of His Current Damage."
         },
     "Offset": 0,
@@ -4254,7 +4265,7 @@
     "Max": 1,
     "Passive": {
             "Name": "The Legend",
-            "Description": "Ralsei's Attacks Apply 65% Slow For 5 Seconds. Attacks Have A 25% Chance Of Doing 150% More Damage."
+            "Description": "Ralsei's Attacks Apply 65% Slow For 5 Seconds. Every 5th Attack Deals 3x More Damage"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -4493,7 +4504,7 @@
     "Max": 1,
     "Passive": {
             "Name": "SCARED OF A LITTLE [Change of perspective?]",
-            "Description": "Every 7th Attack Perrys A Single Enemy Hit, Turning Them Around With 25% Of Their Health Restored And Making Them Walk Towards The Closet Entrance. (Perrys Do x10 Damage To Bosses)"
+            "Description": "Every 5th Attack Perrys A Single Enemy Hit, Turning Them Around With 25% Of Their Health Restored And Making Them Walk Towards The Closet Entrance. (Perrys Do x10 Damage To Bosses)"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -4523,7 +4534,7 @@
       {
         "Price": 175000,
         "Range": 28,
-        "Damage": 125000,
+        "Damage": 120000,
         "Cooldown": 4.25
       }
     ]
@@ -4532,7 +4543,7 @@
     "Type": "Slash + Passive",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
-    "PlacePrice": 75000,
+    "PlacePrice": 135000,
     "Max": 1,
     "Passive": {
             "Name": "Atomic Darkness Breath",
@@ -4552,13 +4563,13 @@
         "Cooldown": 2.5
       },
       {
-        "Price": 100000,
+        "Price": 150000,
         "Range": 38,
         "Damage": 70000,
         "Cooldown": 2.5
       },
       {
-        "Price": 150000,
+        "Price": 175000,
         "Range": 42,
         "Damage": 82500,
         "Cooldown": 2.5
@@ -4579,7 +4590,7 @@
     "Max": 1,
     "Passive": {
             "Name": "The Upper Hand",
-            "Description": "Every 60s HANDROMEDA Drops Stars From The Sky Dealing an 4x AOE Attack To All Enemies In Range."
+            "Description": "Every 60s HANDROMEDA Drops Stars From The Sky Dealing an 5x AOE Attack To All Enemies In Range."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -5993,7 +6004,7 @@
     ]
   },
     "Moldbygg": {
-    "Type": "Booster",
+    "Type": "AOE Slow + Range Boost",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Uncommon",
     "PlacePrice": 4500,
@@ -6052,7 +6063,7 @@
     ]
   },
     "Shyren": {
-    "Type": "Booster",
+    "Type": "Cooldown Booster",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 7500,
@@ -6103,7 +6114,7 @@
     ]
   },
     "Woshua": {
-    "Type": "AOE Anti Regen + Booster",
+    "Type": "AOE Anti Regen + Damage Booster",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 2500,
