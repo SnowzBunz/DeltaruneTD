@@ -649,7 +649,7 @@
     "Max": 3,
     "Passive": {
             "Name": "Circut Malfunction",
-            "Description": "Every 10s Werewire will place a trap that deals x5 their damage to the first enemy that steps on it, stunning them for 1.25 seconds. Trap Cooldown Cannot Be Changed. (Max 100 Traps On Field)"
+            "Description": "Every 10s Werewire Places A Glitched Trap That Deals x25 Damage To The First Enemy To Walk On It, Also Dealing 1s Darkened Stun. Trap Cooldown Cannot Be Changed. (Max 100 Traps On Field)"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -1228,7 +1228,7 @@
     "PlacePrice": 25000,
     "Max": 1,
     "Passive": {
-            "Name": "Charged Stomp",
+            "Name": "Checker Dance",
             "Description": "K. Round's Attacks Deal 3x More Damage To Enemies With 20% Or Less Health. Does Not Effect Bosses/Mini-Bosses."
         },
     "Offset": 0,
@@ -1437,7 +1437,7 @@
         "Price": 50000,
         "Range": 30,
         "Damage": 52500,
-        "Cooldown": 2.5,
+        "Cooldown": 2.75,
         "SoulLeak": 1.1,
         "ShinySoulLeak": 1.2,
         "SoulLeakTime": 3,
@@ -1448,7 +1448,7 @@
         "Price": 60000,
         "Range": 35,
         "Damage": 55000,
-        "Cooldown": 2.5,
+        "Cooldown": 2.75,
         "SoulLeak": 1.1,
         "ShinySoulLeak": 1.2,
         "SoulLeakTime": 3,
@@ -1459,7 +1459,7 @@
         "Price": 70000,
         "Range": 40,
         "Damage": 60000,
-        "Cooldown": 2.5,
+        "Cooldown": 2.75,
         "SoulLeak": 1.1,
         "ShinySoulLeak": 1.2,
         "SoulLeakTime": 3,
@@ -1501,13 +1501,13 @@
         "Price": 12500,
         "Range": 20,
         "Damage": 13500,
-        "Cooldown": 1.25
+        "Cooldown": 1.45
       },
       {
         "Price": 17500,
         "Range": 25,
-        "Damage": 15000,
-        "Cooldown": 1.25
+        "Damage": 14000,
+        "Cooldown": 1.35
       }
     ]
   },
@@ -1519,7 +1519,7 @@
     "Max": 1,
     "Passive": {
             "Name": "[[BIGGER AND BETTER THAN EVER!!]]",
-            "Description": "Every 30s Spamton NEO Becomes Enraged, Dealing 3x More Damage For 10s And Making Attacks Apply 5s Stun."
+            "Description": "Every 30s Spamton NEO Becomes Enraged, Dealing 3x More Damage For 10s And Making Attacks Apply 3s Darkened Stun."
           },
     "Offset": 0,
     "hitboxOffset": {
@@ -1985,7 +1985,7 @@
     "Max": 2,
     "Passive": {
             "Name": "Metaphysical Challenge",
-            "Description": "Every 15s, Picks The Strongest Enemy In Tenna's range And Traps Them In A Ball Stunning Them For 5s, And Dealing x10 Damage To Them. Excludes Bosses."
+            "Description": "Every 15s, Picks The Strongest Enemy In Tenna's range And Traps Them In A Ball Dealing Darkened Stun For 3s, And Dealing x10 Damage To Them. Excludes Bosses/Mini-Bosses."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -2132,7 +2132,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Glory. Glory.",
-            "Description": "Every Attack Miss Mizzle has a 25% Chance To Use a BitterTear Stunning All Enemies In Range For 5 Seconds, and Dealing 250% of Miss Mizzle's Damage in Darkness."
+            "Description": "Every Attack Miss Mizzle has a 10% Chance To Use a BitterTear Stunning All Enemies In Range For 5 Seconds, and Dealing 250% of Miss Mizzle's Damage in Darkness."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -2270,7 +2270,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Suddenly, the north and east winds blew fiercely.",
-            "Description": "Every 5s The Roaring Knight Picks The Currently Targeted Enemy And Instantly Kills Them (x50 Damage & 3s Stun To Bosses & Mini-Bosses), Applying 150% Darkness And 0.5s Stun To All Nearby Enemies In a 15 Stud Radius"
+            "Description": "Every 5s The Roaring Knight Picks The Currently Targeted Enemy And Instantly Kills Them (x50 Damage & 3s Darkened Stun To Bosses & Mini-Bosses)."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -2313,7 +2313,7 @@
     "Max": 1,
     "Passive": {
             "Name": "The Last Guardian Of The Sanctuary.",
-            "Description": "Attacks Apply 15% SoulLeak (30% Shiny) For 5 Seconds. Every 60 Seconds, The Titan Will Charge Up His Eye Beam For 3s And Deal 3x His Current Damage Every 0.25 For 7s As Pierce, The Titan Can Not Attack While Charging Up And Using His Eye Beam."
+            "Description": "Attacks Apply 25% SoulLeak For 5 Seconds. Every 60 Seconds, The Titan Will Charge Up His Eye Beam For 3s And Deal 3x His Current Damage Every 0.25 For 5s As Pierce, The Titan Can Not Attack While Charging Up And Using His Eye Beam."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -2327,8 +2327,7 @@
         "Range": 25,
         "Damage": 250000,
         "Cooldown": 6.75,
-        "SoulLeak": 1.15,
-        "ShinySoulLeak": 1.30,
+        "SoulLeak": 1.25,
         "SoulLeakTime": 5
       },
       {
@@ -2336,8 +2335,7 @@
         "Range": 30,
         "Damage": 265000,
         "Cooldown": 6.75,
-        "SoulLeak": 1.15,
-        "ShinySoulLeak": 1.30,
+        "SoulLeak": 1.25,
         "SoulLeakTime": 5
       },
       {
@@ -2345,8 +2343,7 @@
         "Range": 35,
         "Damage": 275000,
         "Cooldown": 6.75,
-        "SoulLeak": 1.15,
-        "ShinySoulLeak": 1.30,
+        "SoulLeak": 1.25,
         "SoulLeakTime": 5
       },
       {
@@ -2354,8 +2351,7 @@
         "Range": 40,
         "Damage": 335000,
         "Cooldown": 6.75,
-        "SoulLeak": 1.15,
-        "ShinySoulLeak": 1.30,
+        "SoulLeak": 1.25,
         "SoulLeakTime": 2
       },
       {
@@ -2363,8 +2359,7 @@
         "Range": 45,
         "Damage": 355000,
         "Cooldown": 6.75,
-        "SoulLeak": 1.15,
-        "ShinySoulLeak": 1.30,
+        "SoulLeak": 1.25,
         "SoulLeakTime": 5
       },
       {
@@ -2372,8 +2367,7 @@
         "Range": 50,
         "Damage": 365000,
         "Cooldown": 6.75,
-        "SoulLeak": 1.15,
-        "ShinySoulLeak": 1.30,
+        "SoulLeak": 1.25,
         "SoulLeakTime": 5
       }
     ]
@@ -2613,7 +2607,7 @@
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 25000,
-    "Max": 3,
+    "Max": 2,
     "Passive": {
             "Name": "STOP! POLICE!",
             "Description": "Enemies Hit By Undyne Are Slowed by 50%."
@@ -2719,7 +2713,7 @@
     "Max": 2,
     "Passive": {
             "Name": "Asgore Found Freedom In His Heartache",
-            "Description": "Every Third Attack Deals 2x Damage And Applys 15% SoulLeak And 50% Slow."
+            "Description": "Every Third Attack Deals 2x Damage And Applies 15% SoulLeak And 50% Slow."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -2904,7 +2898,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Huh-hah! Let's feel my technique!",
-            "Description": "Attacks Give Enemies 25% Slow For 3 Seconds And 0.25 Seconds of Stun"
+            "Description": "Attacks Give Enemies 25% Slow For 3 Seconds And 1 Second of Stun"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -3105,7 +3099,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Round 1!",
-            "Description": "Attacks Stun Enemies For 1 Second. Every 3rd Attack, Giga Queen Throws a Comically Large Baseball That Does x15 Splash Damage."
+            "Description": "Attacks Stun Enemies For 1 Second. Every 3rd Attack, Giga Queen Throws a Comically Large Baseball That Does x15 Splash Damage And 100% Anti-Regen."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -3118,7 +3112,7 @@
         "Price": 0,
         "Range": 25,
         "Damage": 250000,
-        "Cooldown": 6.5,
+        "Cooldown": 6.45,
         "Slow": 0,
         "SlowTime": 1
       },
@@ -3126,7 +3120,7 @@
         "Price": 100000,
         "Range": 30,
         "Damage": 250000,
-        "Cooldown": 6.25,
+        "Cooldown": 6.45,
         "Slow": 0,
         "SlowTime": 1
       },
@@ -3134,7 +3128,7 @@
         "Price": 125000,
         "Range": 32,
         "Damage": 250000,
-        "Cooldown": 6.25,
+        "Cooldown": 6.45,
         "Slow": 0,
         "SlowTime": 1
       },
@@ -3142,7 +3136,7 @@
         "Price": 150000,
         "Range": 35,
         "Damage": 300000,
-        "Cooldown": 6.25,
+        "Cooldown": 6.45,
         "Slow": 0,
         "SlowTime": 1
       }
@@ -3298,7 +3292,7 @@
     "NoEnemyAttack": true,
     "Passive": {
             "Name": "YOUR CREATION...",
-            "Description": "Every 10s THE VESSEL Will Place A Heart Shaped Trap That Deals x75 Damage And 2.5 Stun To Enemys (Max 50)"
+            "Description": "Every 15s THE VESSEL Will Place A Heart Shaped Trap That Deals x75 Damage And 5s Darkened Stun To Enemys (Max 50)"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -3384,7 +3378,7 @@
         "WalkSpeed": 50,
         "Unit": "FRIEND",
         "Health": 1000000,
-        "Cooldown": 0.5
+        "Cooldown": 0.75
       },
       {
         "Price": 518113,
@@ -3396,7 +3390,7 @@
         "WalkSpeed": 50,
         "Unit": "FRIEND",
         "Health": 1125000,
-        "Cooldown": 0.5
+        "Cooldown": 0.75
       }
     ]
   },
@@ -3684,25 +3678,25 @@
       {
         "Price": 0,
         "Range": 20,
-        "Damage": 75000,
+        "Damage": 45000,
         "Cooldown": 5
       },
       {
         "Price": 65000,
         "Range": 25,
-        "Damage": 80000,
+        "Damage": 50000,
         "Cooldown": 5
       },
       {
         "Price": 70000,
         "Range": 30,
-        "Damage": 82500,
+        "Damage": 62500,
         "Cooldown": 4.75
       },
       {
         "Price": 80000,
         "Range": 32,
-        "Damage": 85000,
+        "Damage": 75000,
         "Cooldown": 4.5
       }
     ]
@@ -3755,11 +3749,11 @@
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 75000,
-    "Max": 2,
+    "Max": 1,
     "NoEnemyAttack": true,
     "Passive": {
             "Name": "Ripple",
-            "Description": "Attacks Apply 50% Slow And 15% SoulLeak (30% Shiny) for 5 Seconds."
+            "Description": "Attacks Apply 50% Slow for 5 Seconds, And 3s Of Darkened Stun."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -3771,46 +3765,30 @@
       {
         "Price": 0,
         "Range": 15,
-        "Damage": 175000,
+        "Damage": 350000,
         "Cooldown": 10,
-        "Slow": 0.5,
-        "SlowTime": 5,
-        "SoulLeak": 1.15,
-        "ShinySoulLeak": 1.3,
-        "SoulLeakTime": 5
+        "DarkenedStun": 3
       },
       {
         "Price": 100000,
         "Range": 25,
-        "Damage": 200000,
+        "Damage": 400000,
         "Cooldown": 10,
-        "Slow": 0.5,
-        "SlowTime": 5,
-        "SoulLeak": 1.15,
-        "ShinySoulLeak": 1.3,
-        "SoulLeakTime": 5
+        "DarkenedStun": 3
       },
       {
         "Price": 200000,
         "Range": 35,
-        "Damage": 225000,
+        "Damage": 450000,
         "Cooldown": 10,
-        "Slow": 0.5,
-        "SlowTime": 5,
-        "SoulLeak": 1.15,
-        "ShinySoulLeak": 1.3,
-        "SoulLeakTime": 5
+        "DarkenedStun": 3
       },
       {
         "Price": 300000,
         "Range": 45,
-        "Damage": 255000,
+        "Damage": 510000,
         "Cooldown": 10,
-        "Slow": 0.5,
-        "SlowTime": 5,
-        "SoulLeak": 1.15,
-        "ShinySoulLeak": 1.3,
-        "SoulLeakTime": 5
+        "DarkenedStun": 3
       }
     ]
   },
@@ -3819,7 +3797,7 @@
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 3000,
-    "Max": 4,
+    "Max": 6,
     "Passive": {
             "Name": "WHY DIDN'T YOU PUSH HIM?",
             "Description": "Attacks Have A 33.3% Chance To Cause A Random Effect (50% Slow For 1s, 0.5s Stun, 15% SoulLeak For 1s)"
@@ -4163,7 +4141,7 @@
     "Max": 2,
     "Passive": {
             "Name": "SHOOT THAT LITTLE MAILMAN!!",
-            "Description": "Attacks Apply 15% SoulLeak. +100% More Damage If Paired With Spamton, Scampton The Great Or Spamton NEO"
+            "Description": "Attacks Apply 15% SoulLeak for 1s. +100% More Damage If Paired With Spamton, Scampton The Great Or Spamton NEO"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -4178,7 +4156,7 @@
         "Damage": 10000,
         "Cooldown": 0.75,
         "SoulLeak": 1.15,
-        "SoulLeakTime": 5
+        "SoulLeakTime": 1
       },
       {
         "Price": 100000,
@@ -4186,23 +4164,23 @@
         "Damage": 12500,
         "Cooldown": 0.75,
         "SoulLeak": 1.15,
-        "SoulLeakTime": 5
+        "SoulLeakTime": 1
       },
       {
         "Price": 125000,
         "Range": 30,
-        "Damage": 15000,
+        "Damage": 14000,
         "Cooldown": 0.75,
         "SoulLeak": 1.15,
-        "SoulLeakTime": 5
+        "SoulLeakTime": 1
       },
       {
         "Price": 150000,
         "Range": 35,
-        "Damage": 17500,
+        "Damage": 16500,
         "Cooldown": 0.75,
         "SoulLeak": 1.15,
-        "SoulLeakTime": 5
+        "SoulLeakTime": 1
       }
     ]
   },
@@ -4265,7 +4243,7 @@
     "Max": 1,
     "Passive": {
             "Name": "The Legend",
-            "Description": "Ralsei's Attacks Apply 65% Slow For 5 Seconds. Every 5th Attack Deals 3x More Damage"
+            "Description": "Ralsei's Attacks Apply 65% Slow For 5 Seconds. Every 50 Kills Heals Your Base By +1"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -4445,7 +4423,7 @@
     "Max": 1,
     "Passive": {
             "Name": "It's the end.",
-            "Description": "Attacks Apply 3s Stun. Every 60s All 3 Titans Unleash A Large Nuke Attack Dealing x10 Damage Upon Impact. "
+            "Description": "Attacks Apply 1.5s Normal Stun. Every 60s All 3 Titans Unleash A Large Nuke Attack Dealing x10 Damage Upon Impact Applying 150% Darkness And 10s Darkened Stun. "
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -4460,7 +4438,7 @@
         "Damage": 325000,
         "Cooldown": 8,
         "Slow": 0,
-        "SlowTime": 3
+        "SlowTime": 1.5
       },
       {
         "Price": 1250000,
@@ -4468,7 +4446,7 @@
         "Damage": 350000,
         "Cooldown": 8,
         "Slow": 0,
-        "SlowTime": 3
+        "SlowTime": 1.5
       },
       {
         "Price": 1500000,
@@ -4476,23 +4454,23 @@
         "Damage": 375000,
         "Cooldown": 8,
         "Slow": 0,
-        "SlowTime": 3
+        "SlowTime": 1.5
       },
       {
         "Price": 2000000,
         "Range": 40,
-        "Damage": 425000,
+        "Damage": 400000,
         "Cooldown": 8,
         "Slow": 0,
-        "SlowTime": 3
+        "SlowTime": 1.5
       },
       {
         "Price": 3000000,
         "Range": 45,
-        "Damage": 450000,
+        "Damage": 425000,
         "Cooldown": 8,
         "Slow": 0,
-        "SlowTime": 3
+        "SlowTime": 1.5
       }
     ]
   },
@@ -4546,7 +4524,7 @@
     "PlacePrice": 135000,
     "Max": 1,
     "Passive": {
-            "Name": "Atomic Darkness Breath",
+            "Name": "The Atomic Roar Of Darkness And Annihilation",
             "Description": "Susiezilla Charges Her Beam For 5s Causing A Pierce Beam Dealing 2x Her Current Damage In Darkness Every 0.25s For 5s. 45s Recharge."
         },
     "Offset": 0,
@@ -4633,7 +4611,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Genocide",
-            "Description": "Every 9th Attack Deals 999% More Damage And Applies 5s Stun"
+            "Description": "Every 9th Attack Deals 999% More Damage And Applies 5s Darkened Stun"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -4972,7 +4950,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Bergentrückung",
-            "Description": "Attacks Apply 35% SoulLeak for 3 seconds. Every 3rd Attack Deals 300% More Damage And Applies 5s Stun."
+            "Description": "Attacks Apply 35% SoulLeak for 3 seconds. Every 3rd Attack Deals 300% More Damage And Applies 2s Darkened Stun"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -5313,7 +5291,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Your Best Nightmare",
-            "Description": "Attacks Slow By 65% For 5s, Every 30s Photoshop Flowey Drops An AOE Bomb That Deals 10x Damage And 5s Of Stun To All Enemies In Range."
+            "Description": "Attacks Slow By 65% For 5s, Every 45s Photoshop Flowey Drops An AOE Bomb That Deals 10x Damage And 10s Of Stun To All Enemies In Range."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -5341,7 +5319,7 @@
       {
         "Price": 150000,
         "Range": 34,
-        "Damage": 150000,
+        "Damage": 180000,
         "Cooldown": 4.75,
         "Slow": 0.35,
         "SlowTime": 5
@@ -5349,7 +5327,7 @@
       {
         "Price": 175000,
         "Range": 38,
-        "Damage": 175000,
+        "Damage": 235000,
         "Cooldown": 4.5,
         "Slow": 0.35,
         "SlowTime": 5
@@ -5759,7 +5737,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Giant Muffin",
-            "Description": "Every 10s Muffet Summons Her Pet Muffin, Killing a random enemy in her range and stunning all other enemies in range for 2s."
+            "Description": "Every 15s Muffet Summons Her Pet Muffin, Killing a random enemy in her range and stunning all other enemies in range for 1s."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -5904,7 +5882,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Bombs Away!",
-            "Description": "Attacks Deal 250% Burn Damage Over 1s. Enemies Hit Are Stunned For 3s"
+            "Description": "Attacks Deal 250% Burn Damage Over 1s. Enemies Hit Are Darkened Stunned For 3s"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -5920,8 +5898,7 @@
         "Cooldown": 10,
         "Burn": 250000,
         "BurnTime": 1,
-        "Slow": 0,
-        "SlowTime": 3
+        "DarkenedStun": 3
       },
       {
         "Price": 100000,
@@ -5930,8 +5907,7 @@
         "Cooldown": 10,
         "Burn": 500000,
         "BurnTime": 1,
-        "Slow": 0,
-        "SlowTime": 3
+        "DarkenedStun": 3
       },
       {
         "Price": 125000,
@@ -5940,8 +5916,7 @@
         "Cooldown": 10,
         "Burn": 750000,
         "BurnTime": 1,
-        "Slow": 0,
-        "SlowTime": 3
+        "DarkenedStun": 3
       },
       {
         "Price": 150000,
@@ -5950,8 +5925,7 @@
         "Cooldown": 10,
         "Burn": 875000,
         "BurnTime": 1,
-        "Slow": 0,
-        "SlowTime": 3
+        "DarkenedStun": 3
       }
     ]
   },
@@ -6228,7 +6202,7 @@
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 35000,
-    "Max": 2,
+    "Max": 1,
     "Passive": {
             "Name": "Dogsong",
             "Description": "The Closer An Enemy Is, The More Damage Greater Dog Does To It (1% For Every 1 Range, Max 50% Per Enemy). Gains +1% Damage For Every 2 Enemies Killed. (Max 50%)"
@@ -6261,7 +6235,7 @@
       {
         "Price": 45000,
         "Range": 30,
-        "Damage": 35000,
+        "Damage": 32000,
         "Cooldown": 1.75
       }
     ]
@@ -6274,7 +6248,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Mysterious Creature",
-            "Description": "Deals 2x Damage To Enemies That Are Slowed Or Stunned."
+            "Description": "Deals 3x Damage To Enemies That Are Slowed Or Stunned."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -6287,25 +6261,25 @@
         "Price": 0,
         "Range": 20,
         "Damage": 5000,
-        "Cooldown": 0.75
+        "Cooldown": 0.5
       },
       {
         "Price": 80000,
         "Range": 25,
         "Damage": 7500,
-        "Cooldown": 0.75
+        "Cooldown": 0.5
       },
       {
         "Price": 85000,
         "Range": 28,
         "Damage": 8500,
-        "Cooldown": 0.75
+        "Cooldown": 0.5
       },
       {
         "Price": 95000,
         "Range": 30,
-        "Damage": 10000,
-        "Cooldown": 0.75
+        "Damage": 13500,
+        "Cooldown": 0.5
       }
     ]
   },
