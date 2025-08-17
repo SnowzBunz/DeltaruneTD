@@ -3753,7 +3753,7 @@
     "NoEnemyAttack": true,
     "Passive": {
             "Name": "Ripple",
-            "Description": "Attacks Apply 50% Slow for 5 Seconds, And 3s Of Darkened Stun."
+            "Description": "Attacks Apply 5s Of Darkened Stun."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -3767,28 +3767,28 @@
         "Range": 15,
         "Damage": 350000,
         "Cooldown": 10,
-        "DarkenedStun": 3
+        "DarkenedStun": 5
       },
       {
         "Price": 100000,
         "Range": 25,
         "Damage": 400000,
         "Cooldown": 10,
-        "DarkenedStun": 3
+        "DarkenedStun": 5
       },
       {
         "Price": 200000,
         "Range": 35,
         "Damage": 450000,
         "Cooldown": 10,
-        "DarkenedStun": 3
+        "DarkenedStun": 5
       },
       {
         "Price": 300000,
         "Range": 45,
         "Damage": 510000,
         "Cooldown": 10,
-        "DarkenedStun": 3
+        "DarkenedStun": 5
       }
     ]
   },
