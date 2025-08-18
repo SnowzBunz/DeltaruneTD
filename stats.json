@@ -4603,6 +4603,254 @@
       }
     ]
   },
+    "Pandemonium Partners": {
+    "Type": "Cone Aoe + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Unique",
+    "PlacePrice": 25000,
+    "Max": 2,
+    "Passive": {
+            "Name": "The Deals Revolving",
+            "Description": "Spamton Applies 50% Darkness For 1s And 50% Slow To All Enemies In Range, While Jevil Does A 5x AOE Attack Every 30s That Deals 10% SoulLeak For 5s."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 15,
+        "Damage": 25000,
+        "Cooldown": 2,
+        "Darkness": 12500,
+        "DarknessTime": 1,
+        "Slow": 0.5,
+        "SlowTime": 3
+      },
+      {
+        "Price": 30000,
+        "Range": 20,
+        "Damage": 27500,
+        "Cooldown": 1.9,
+        "Darkness": 13750,
+        "DarknessTime": 1,
+        "Slow": 0.5,
+        "SlowTime": 3
+      },
+      {
+        "Price": 35000,
+        "Range": 23,
+        "Damage": 30000,
+        "Cooldown": 1.8,
+        "Darkness": 15000,
+        "DarknessTime": 1,
+        "Slow": 0.5,
+        "SlowTime": 3
+      },
+      {
+        "Price": 40000,
+        "Range": 26,
+        "Damage": 32500,
+        "Cooldown": 1.75,
+        "Darkness": 16250,
+        "DarknessTime": 1,
+        "Slow": 0.5,
+        "SlowTime": 3
+      }
+    ]
+  },
+    "Top Chef": {
+    "Type": "Splash + Burn",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Epic",
+    "PlacePrice": 1250,
+    "Max": 2,
+    "Passive": {
+            "Name": "Mama Miba! Mama SHIBA!",
+            "Description": "Attacks Apply 100% Burn For 1 Second"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 14,
+        "Damage": 7000,
+        "Cooldown": 3,
+        "Burn": 7000,
+        "BurnTime": 1
+      },
+      {
+        "Price": 1500,
+        "Range": 17,
+        "Damage": 7500,
+        "Cooldown": 3,
+        "Burn": 7500,
+        "BurnTime": 1
+      },
+      {
+        "Price": 2000,
+        "Range": 20,
+        "Damage": 8000,
+        "Cooldown": 3,
+        "Burn": 8000,
+        "BurnTime": 1
+      },
+      {
+        "Price": 2500,
+        "Range": 23,
+        "Damage": 9000,
+        "Cooldown": 3,
+        "Burn": 9000,
+        "BurnTime": 1
+      }
+    ]
+  },
+    "Rudolph Holiday": {
+    "Type": "Cone Aoe + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Legendary",
+    "PlacePrice": 6000,
+    "Max": 2,
+    "Passive": {
+            "Name": "A Fathers Love",
+            "Description": "Rudolph Holiday Boosts All Units Damage In Range By 25% (50% Shiny) And Does 10% AOE SoulLeak"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 2000,
+        "Cooldown": 0.5,
+        "SoulLeak": 1.1,
+        "SoulLeakTime": 1,
+        "DamageBoost": 1.25,
+        "ShinyDamageBoost": 1.5
+      },
+      {
+        "Price": 7500,
+        "Range": 23,
+        "Damage": 2750,
+        "Cooldown": 0.5,
+        "SoulLeak": 1.1,
+        "SoulLeakTime": 1,
+        "DamageBoost": 1.25,
+        "ShinyDamageBoost": 1.5
+      },
+      {
+        "Price": 9000,
+        "Range": 25,
+        "Damage": 3250,
+        "Cooldown": 0.5,
+        "SoulLeak": 1.1,
+        "SoulLeakTime": 1,
+        "DamageBoost": 1.25,
+        "ShinyDamageBoost": 1.5
+      },
+      {
+        "Price": 12500,
+        "Range": 28,
+        "Damage": 3750,
+        "Cooldown": 0.5,
+        "SoulLeak": 1.1,
+        "SoulLeakTime": 1,
+        "DamageBoost": 1.25,
+        "ShinyDamageBoost": 1.5
+      }
+    ]
+  },
+    "Snowgrave Noelle": {
+    "Type": "AOE + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Unique",
+    "PlacePrice": 40000,
+    "Max": 1,
+    "Passive": {
+            "Name": "The Frozen Heart",
+            "Description": "Noelles Damage And Slow Amount Ramp Up Based On More Enemies In Range, With A Minimum Of 1x More Damage And 50% Slow, Up to 1.5x More Damage And 70% Slow At 15+ Enemies."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 28,
+        "Damage": 4000,
+        "Cooldown": 0.25,
+        "0EnemySlow": 0.5,
+        "5EnemySlow": 0.45,
+        "10EnemySlow": 0.4,
+        "15EnemySlow": 0.3,
+        "0EnemySelfBoost": 1,
+        "5EnemySelfBoost": 1.2,
+        "10EnemySelfBoost": 1.35,
+        "15EnemySelfBoost": 1.5,
+        "SlowTime": 3
+      },
+      {
+        "Price": 50000,
+        "Range": 32,
+        "Damage": 5500,
+        "Cooldown": 0.25,
+        "0EnemySlow": 0.5,
+        "5EnemySlow": 0.45,
+        "10EnemySlow": 0.4,
+        "15EnemySlow": 0.3,
+        "0EnemySelfBoost": 1,
+        "5EnemySelfBoost": 1.2,
+        "10EnemySelfBoost": 1.35,
+        "15EnemySelfBoost": 1.5,
+        "SlowTime": 3
+      },
+      {
+        "Price": 60000,
+        "Range": 36,
+        "Damage": 6250,
+        "Cooldown": 0.25,
+        "0EnemySlow": 0.5,
+        "5EnemySlow": 0.45,
+        "10EnemySlow": 0.4,
+        "15EnemySlow": 0.3,
+        "0EnemySelfBoost": 1,
+        "5EnemySelfBoost": 1.2,
+        "10EnemySelfBoost": 1.35,
+        "15EnemySelfBoost": 1.5,
+        "SlowTime": 3
+      },
+      {
+        "Price": 75000,
+        "Range": 40,
+        "Damage": 7000,
+        "Cooldown": 0.25,
+        "0EnemySlow": 0.5,
+        "5EnemySlow": 0.45,
+        "10EnemySlow": 0.4,
+        "15EnemySlow": 0.3,
+        "0EnemySelfBoost": 1,
+        "5EnemySelfBoost": 1.2,
+        "10EnemySelfBoost": 1.35,
+        "15EnemySelfBoost": 1.5,
+        "SlowTime": 3
+      }
+    ]
+  },
     "Chara": {
     "Type": "Melee + Passive",
     "Image": "rbxassetid://131226586458594",
