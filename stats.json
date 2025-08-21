@@ -4851,6 +4851,57 @@
       }
     ]
   },
+    "Tophat Tenna": {
+    "Type": "Nuke + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Unique",
+    "PlacePrice": 60000,
+    "Max": 1,
+    "Passive": {
+            "Name": "Welcome to the Hall Of Fame!",
+            "Description": "Attacks Apply 0.5s Stun, Every 30s Tophat Tenna Adds A random enemy to the hall of fame, Causing Them To Take 2x More Damage For Their Entire Life Duration"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 105000,
+        "Cooldown": 4,
+        "Slow": 0,
+        "SlowTime": 0.5
+      },
+      {
+        "Price": 65000,
+        "Range": 23,
+        "Damage": 115000,
+        "Cooldown": 4,
+        "Slow": 0,
+        "SlowTime": 0.5
+      },
+      {
+        "Price": 70000,
+        "Range": 26,
+        "Damage": 125000,
+        "Cooldown": 3.75,
+        "Slow": 0,
+        "SlowTime": 0.5
+      },
+      {
+        "Price": 75000,
+        "Range": 30,
+        "Damage": 135000,
+        "Cooldown": 3.5,
+        "Slow": 0,
+        "SlowTime": 0.5
+      }
+    ]
+  },
     "Chara": {
     "Type": "Melee + Passive",
     "Image": "rbxassetid://131226586458594",
