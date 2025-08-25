@@ -4902,6 +4902,660 @@
       }
     ]
   },
+    "Father Alvin": {
+    "Type": "Single",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Uncommon",
+    "PlacePrice": 650,
+    "Max": 3,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 14,
+        "Damage": 800,
+        "Cooldown": 1
+      },
+      {
+        "Price": 700,
+        "Range": 17,
+        "Damage": 975,
+        "Cooldown": 1
+      },
+      {
+        "Price": 800,
+        "Range": 21,
+        "Damage": 1125,
+        "Cooldown": 1
+      },
+      {
+        "Price": 900,
+        "Range": 25,
+        "Damage": 1350,
+        "Cooldown": 1
+      }
+    ]
+  },
+    "Bratty": {
+    "Type": "Melee",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Epic",
+    "PlacePrice": 3500,
+    "Max": 1,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 18,
+        "Damage": 8000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 4000,
+        "Range": 22,
+        "Damage": 12500,
+        "Cooldown": 3
+      },
+      {
+        "Price": 4500,
+        "Range": 25,
+        "Damage": 15000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 5000,
+        "Range": 29,
+        "Damage": 17500,
+        "Cooldown": 3
+      }
+    ]
+  },
+    "Catty": {
+    "Type": "Cone Aoe + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Gold",
+    "PlacePrice": 7500,
+    "Max": 1,
+    "Passive": {
+            "Name": "Cat Got Your Tail?",
+            "Description": "Attacks Stun For 0.5s, 50% Slow Is Applied If Paired With Bratty"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 25000,
+        "Cooldown": 4
+      },
+      {
+        "Price": 10000,
+        "Range": 25,
+        "Damage": 30000,
+        "Cooldown": 4
+      },
+      {
+        "Price": 15000,
+        "Range": 30,
+        "Damage": 35000,
+        "Cooldown": 4
+      },
+      {
+        "Price": 20000,
+        "Range": 35,
+        "Damage": 40000,
+        "Cooldown": 4
+      }
+    ]
+  },
+    "Balthizard": {
+    "Type": "AOE + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Legendary",
+    "PlacePrice": 30000,
+    "Max": 1,
+    "Passive": {
+            "Name": "An ancient aromancer, it generates magic incense and stores it in its steel shell.",
+            "Description": "Attacks Apply 100% Darkness for 1 second."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 23,
+        "Damage": 30000,
+        "Cooldown": 3,
+        "Darkness": 30000,
+        "DarknessTime": 1
+      },
+      {
+        "Price": 35000,
+        "Range": 27,
+        "Damage": 45000,
+        "Cooldown": 3,
+        "Darkness": 45000,
+        "DarknessTime": 1
+      },
+      {
+        "Price": 40000,
+        "Range": 32,
+        "Damage": 50000,
+        "Cooldown": 3,
+        "Darkness": 50000,
+        "DarknessTime": 1
+      },
+      {
+        "Price": 45000,
+        "Range": 37,
+        "Damage": 65000,
+        "Cooldown": 3,
+        "Darkness": 65000,
+        "DarknessTime": 1
+      }
+    ]
+  },
+    "Bibilox": {
+    "Type": "Splash + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Unique",
+    "PlacePrice": 10000,
+    "Max": 2,
+    "Passive": {
+            "Name": "A worldly wizard that casts spells by spelling. Unfortunately prone to typos.",
+            "Description": "50% Chance For Attacks To Completely Remove Anti-Magic, Anti-Slow, Anti-Bleed, Anti-Stun, Armor, Shielded Defense And Anti-SoulLeak On Hit Enemies."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 26,
+        "Damage": 30000,
+        "Cooldown": 2
+      },
+      {
+        "Price": 12500,
+        "Range": 29,
+        "Damage": 32500,
+        "Cooldown": 2
+      },
+      {
+        "Price": 15000,
+        "Range": 34,
+        "Damage": 35000,
+        "Cooldown": 2
+      },
+      {
+        "Price": 17500,
+        "Range": 38,
+        "Damage": 37500,
+        "Cooldown": 2
+      }
+    ]
+  },
+    "Winglade": {
+    "Type": "Pierce Spread + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Forgotten",
+    "PlacePrice": 50000,
+    "Max": 1,
+    "Passive": {
+            "Name": "A radical blade with feathers at the hilt.",
+            "Description": "Attacks Apply 65% Slow For 3s, When Hitting an air enemy, Winglade deals 2x damage and turns them into a ground enemy."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 30,
+        "Damage": 10000,
+        "Cooldown": 0.5,
+        "Slow": 0.35,
+        "SlowTime": 3
+      },
+      {
+        "Price": 60000,
+        "Range": 32,
+        "Damage": 12500,
+        "Cooldown": 0.5,
+        "Slow": 0.35,
+        "SlowTime": 3
+      },
+      {
+        "Price": 70000,
+        "Range": 35,
+        "Damage": 15000,
+        "Cooldown": 0.5,
+        "Slow": 0.35,
+        "SlowTime": 3
+      },
+      {
+        "Price": 80000,
+        "Range": 37,
+        "Damage": 17500,
+        "Cooldown": 0.5,
+        "Slow": 0.35,
+        "SlowTime": 3
+      }
+    ]
+  },
+    "Rainy": {
+    "Type": "AOE Slow",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Gold",
+    "PlacePrice": 300,
+    "Max": 3,
+    "Passive": {
+            "Name": "This guy just loves dancing so much it slows everyone around him!",
+            "Description": "Attacks Apply 30% Slow For 3 Seconds."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 14,
+        "Damage": 100,
+        "Cooldown": 0.25,
+        "Slow": 0.3,
+        "SlowTime": 3
+      },
+      {
+        "Price": 400,
+        "Range": 16,
+        "Damage": 200,
+        "Cooldown": 0.25,
+        "Slow": 0.3,
+        "SlowTime": 3
+      },
+      {
+        "Price": 500,
+        "Range": 18,
+        "Damage": 300,
+        "Cooldown": 0.25,
+        "Slow": 0.3,
+        "SlowTime": 3
+      },
+      {
+        "Price": 600,
+        "Range": 20,
+        "Damage": 400,
+        "Cooldown": 0.25,
+        "Slow": 0.3,
+        "SlowTime": 3
+      }
+    ]
+  },
+    "Ice Wolf": {
+    "Type": "Nuke + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Legendary",
+    "PlacePrice": 12500,
+    "Max": 1,
+    "Passive": {
+            "Name": "No Longer Powering the CORE, Only Destruction.",
+            "Description": "Throws Blocks Of ice At Enemies, Stunning them for 1s and applying 65% slow for 5s."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 23,
+        "Damage": 65000,
+        "Cooldown": 5,
+        "Slow": 0,
+        "SlowTime": 1
+      },
+      {
+        "Price": 15000,
+        "Range": 25,
+        "Damage": 75000,
+        "Cooldown": 5,
+        "Slow": 0,
+        "SlowTime": 1
+      },
+      {
+        "Price": 175000,
+        "Range": 27,
+        "Damage": 85000,
+        "Cooldown": 5,
+        "Slow": 0,
+        "SlowTime": 1
+      },
+      {
+        "Price": 20000,
+        "Range": 30,
+        "Damage": 100000,
+        "Cooldown": 5,
+        "Slow": 0,
+        "SlowTime": 1
+      }
+    ]
+  },
+    "The Warrior": {
+    "Type": "Splash",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Gold",
+    "PlacePrice": 22500,
+    "Max": 2,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 24,
+        "Damage": 40000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 27500,
+        "Range": 27,
+        "Damage": 45000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 32500,
+        "Range": 30,
+        "Damage": 50000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 37500,
+        "Range": 32,
+        "Damage": 55000,
+        "Cooldown": 3
+      }
+    ]
+  },
+    "Wicabell": {
+    "Type": "AOE Stun",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Legendary",
+    "PlacePrice": 4000,
+    "Max": 1,
+    "Passive": {
+            "Name": "Unpredictabell",
+            "Description": "Attacks Stun For 1s"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 30,
+        "Damage": 17500,
+        "Cooldown": 3,
+        "Slow": 0,
+        "SlowTime": 1
+      },
+      {
+        "Price": 5000,
+        "Range": 32,
+        "Damage": 20000,
+        "Cooldown": 3,
+        "Slow": 0,
+        "SlowTime": 1
+      },
+      {
+        "Price": 6000,
+        "Range": 35,
+        "Damage": 22500,
+        "Cooldown": 3,
+        "Slow": 0,
+        "SlowTime": 1
+      },
+      {
+        "Price": 7000,
+        "Range": 37,
+        "Damage": 25000,
+        "Cooldown": 3,
+        "Slow": 0,
+        "SlowTime": 1
+      }
+    ]
+  },
+    "Titan Spawn": {
+    "Type": "Cone Aoe + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Legendary",
+    "PlacePrice": 750,
+    "Max": 2,
+    "Passive": {
+            "Name": "Summoned To Be A Guardian",
+            "Description": "Attacks Slow By 50% For 3s, Deals +50% Damage If Paired With The Roaring Knight Or Titan"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 25,
+        "Damage": 1000,
+        "Cooldown": 0.5,
+        "Slow": 0.5,
+        "SlowTime": 3
+      },
+      {
+        "Price": 1000,
+        "Range": 27,
+        "Damage": 1200,
+        "Cooldown": 0.5,
+        "Slow": 0.5,
+        "SlowTime": 3
+      },
+      {
+        "Price": 1250,
+        "Range": 30,
+        "Damage": 1500,
+        "Cooldown": 0.5,
+        "Slow": 0.5,
+        "SlowTime": 3
+      },
+      {
+        "Price": 1500,
+        "Range": 34,
+        "Damage": 1750,
+        "Cooldown": 0.5,
+        "Slow": 0.5,
+        "SlowTime": 3
+      }
+    ]
+  },
+    "Dogaressa": {
+    "Type": "Splash + Slow",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Gold",
+    "PlacePrice": 7500,
+    "Max": 2,
+    "Passive": {
+            "Name": "This Dog Loves Bones!",
+            "Description": "Attacks Slow By 50% For 3s"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 22,
+        "Damage": 32500,
+        "Cooldown": 3,
+        "Slow": 0.5,
+        "SlowTime": 3
+      },
+      {
+        "Price": 10000,
+        "Range": 24,
+        "Damage": 35000,
+        "Cooldown": 3,
+        "Slow": 0.5,
+        "SlowTime": 3
+      },
+      {
+        "Price": 12500,
+        "Range": 26,
+        "Damage": 37500,
+        "Cooldown": 3,
+        "Slow": 0.5,
+        "SlowTime": 3
+      },
+      {
+        "Price": 15000,
+        "Range": 28,
+        "Damage": 40000,
+        "Cooldown": 3,
+        "Slow": 0.5,
+        "SlowTime": 3
+      }
+    ]
+  },
+    "Dogamy": {
+    "Type": "Melee + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Gold",
+    "PlacePrice": 22500,
+    "Max": 3,
+    "Passive": {
+            "Name": "This Dog Also Loves Bones! But Loves Destruction More!",
+            "Description": "Attacks Deal 100% More Damage If Paired With Any Dog Unit."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 24,
+        "Damage": 30000,
+        "Cooldown": 4
+      },
+      {
+        "Price": 25000,
+        "Range": 27,
+        "Damage": 35000,
+        "Cooldown": 4
+      },
+      {
+        "Price": 27500,
+        "Range": 30,
+        "Damage": 40000,
+        "Cooldown": 4
+      },
+      {
+        "Price": 30000,
+        "Range": 32,
+        "Damage": 45000,
+        "Cooldown": 4
+      }
+    ]
+  },
+    "QC": {
+    "Type": "Cone Aoe + Farm",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Gold",
+    "PlacePrice": 3500,
+    "Max": 3,
+    "Passive": {
+            "Name": "You're Banned From Ham Sandwich Day!",
+            "Description": "QC Earns 5000-10000 Cash Per Round, Generates 100-250 Cash Per Attack."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 24,
+        "Damage": 4000,
+        "Cooldown": 2,
+        "FarmAmount": 5000,
+        "CashFromAttack": 100
+      },
+      {
+        "Price": 4000,
+        "Range": 27,
+        "Damage": 5000,
+        "Cooldown": 2,
+        "FarmAmount": 6500,
+        "CashFromAttack": 150
+      },
+      {
+        "Price": 5000,
+        "Range": 30,
+        "Damage": 6000,
+        "Cooldown": 2,
+        "FarmAmount": 7500,
+        "CashFromAttack": 200
+      },
+      {
+        "Price": 6000,
+        "Range": 32,
+        "Damage": 7000,
+        "Cooldown": 2,
+        "FarmAmount": 10000,
+        "CashFromAttack": 250
+      }
+    ]
+  },
     "Chara": {
     "Type": "Melee + Passive",
     "Image": "rbxassetid://131226586458594",
