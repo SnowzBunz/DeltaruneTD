@@ -5607,6 +5607,868 @@
       }
     ]
   },
+    "Firework Ralsei": {
+    "Type": "Nuke Burn + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Legendary",
+    "PlacePrice": 17500,
+    "Max": 1,
+    "Passive": {
+            "Name": "Kris! Susie! Look! This fireworks the shape of my face!",
+            "Description": "Attacks Apply 50% Burn Over 2s"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 26,
+        "Damage": 45000,
+        "Cooldown": 3,
+        "Burn": 22500,
+        "BurnTime": 2
+      },
+      {
+        "Price": 20000,
+        "Range": 28,
+        "Damage": 50000,
+        "Cooldown": 3,
+        "Burn": 25000,
+        "BurnTime": 2
+      },
+      {
+        "Price": 22500,
+        "Range": 31,
+        "Damage": 55000,
+        "Cooldown": 3,
+        "Burn": 27500,
+        "BurnTime": 2
+      },
+      {
+        "Price": 25000,
+        "Range": 34,
+        "Damage": 60000,
+        "Cooldown": 3,
+        "Burn": 30000,
+        "BurnTime": 2
+      }
+    ]
+  },
+    "Lancer Artillery Battery": {
+    "Type": "Nuke Stun + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Unique",
+    "PlacePrice": 100000,
+    "Max": 1,
+    "Passive": {
+            "Name": "Kris, Susie, Ralsei And Noelle Pair Up To Shoot Lancer Out Of Their Artillery Battery!",
+            "Description": "Attacks Apply 2s Stun, 60% Slow For 5s And 10% SoulLeak For 5s."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 30,
+        "Damage": 150000,
+        "Cooldown": 6,
+        "Slow": 0,
+        "SlowTime": 2,
+        "SoulLeak": 1.1,
+        "SoulLeakTime": 5
+      },
+      {
+        "Price": 125000,
+        "Range": 33,
+        "Damage": 175000,
+        "Cooldown": 6,
+        "Slow": 0,
+        "SlowTime": 2,
+        "SoulLeak": 1.1,
+        "SoulLeakTime": 5
+      },
+      {
+        "Price": 150000,
+        "Range": 36,
+        "Damage": 200000,
+        "Cooldown": 6,
+        "Slow": 0,
+        "SlowTime": 2,
+        "SoulLeak": 1.1,
+        "SoulLeakTime": 5
+      },
+      {
+        "Price": 175000,
+        "Range": 39,
+        "Damage": 235000,
+        "Cooldown": 6,
+        "Slow": 0,
+        "SlowTime": 2,
+        "SoulLeak": 1.1,
+        "SoulLeakTime": 5
+      }
+    ]
+  },
+    "Sparkler Spamton": {
+    "Type": "Explosion + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Gold",
+    "PlacePrice": 5997,
+    "Max": 2,
+    "Passive": {
+            "Name": "Happy new year 1997!",
+            "Description": "Attacks Apply 19.97% SoulLeak For 1.997s"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 22,
+        "Damage": 14000,
+        "Cooldown": 1.997,
+        "SoulLeak": 1.1997,
+        "SoulLeakTime": 1.997
+      },
+      {
+        "Price": 6997,
+        "Range": 24,
+        "Damage": 16500,
+        "Cooldown": 1.997,
+        "SoulLeak": 1.1997,
+        "SoulLeakTime": 1.997
+      },
+      {
+        "Price": 7997,
+        "Range": 26,
+        "Damage": 17000,
+        "Cooldown": 1.997,
+        "SoulLeak": 1.1997,
+        "SoulLeakTime": 1.997
+      },
+      {
+        "Price": 8997,
+        "Range": 28,
+        "Damage": 19970,
+        "Cooldown": 1.997,
+        "SoulLeak": 1.1997,
+        "SoulLeakTime": 1.997
+      }
+    ]
+  },
+    "Pigeon Spamton": {
+    "Type": "Trapper",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Uncommon",
+    "PlacePrice": 1000,
+    "Max": 3,
+    "Passive": {
+            "Name": "Pipis Nest",
+            "Description": "Attacks Drop a Pipis Trap With x5 Damage."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 16,
+        "Damage": 200,
+        "Cooldown": 5
+      },
+      {
+        "Price": 1250,
+        "Range": 18,
+        "Damage": 300,
+        "Cooldown": 5
+      },
+      {
+        "Price": 1500,
+        "Range": 20,
+        "Damage": 400,
+        "Cooldown": 5
+      },
+      {
+        "Price": 1750,
+        "Range": 22,
+        "Damage": 500,
+        "Cooldown": 5
+      }
+    ]
+  },
+    "Ramb": {
+    "Type": "Cone Aoe",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Epic",
+    "PlacePrice": 400,
+    "Max": 3,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 17,
+        "Damage": 500,
+        "Cooldown": 2
+      },
+      {
+        "Price": 500,
+        "Range": 20,
+        "Damage": 750,
+        "Cooldown": 2
+      },
+      {
+        "Price": 600,
+        "Range": 22,
+        "Damage": 1000,
+        "Cooldown": 2
+      },
+      {
+        "Price": 700,
+        "Range": 24,
+        "Damage": 1250,
+        "Cooldown": 2
+      }
+    ]
+  },
+    "Wafer": {
+    "Type": "AOE + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Gold",
+    "PlacePrice": 30000,
+    "Max": 2,
+    "Passive": {
+            "Name": "Holy Hymn Chanting",
+            "Description": "Attacks Apply 0.5s Stun"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 23,
+        "Damage": 25000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 32500,
+        "Range": 25,
+        "Damage": 30000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 35000,
+        "Range": 27,
+        "Damage": 35000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 37500,
+        "Range": 29,
+        "Damage": 40000,
+        "Cooldown": 3
+      }
+    ]
+  },
+    "Nightlight Tenna": {
+    "Type": "Cone Aoe Slow + SoulLeak",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Legendary",
+    "PlacePrice": 10000,
+    "Max": 3,
+    "Passive": {
+            "Name": "Wish Upon A Star",
+            "Description": "Nightlight Tenna Applies 75% Slow And 5% SoulLeak In a 90 Degree Cone."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 27,
+        "Damage": 0,
+        "Cooldown": 0.5,
+        "SoulLeak": 1.05,
+        "SoulLeakTime": 5,
+        "Slow": 0.25,
+        "SlowTime": 5
+      },
+      {
+        "Price": 12500,
+        "Range": 29,
+        "Damage": 0,
+        "Cooldown": 0.5,
+        "SoulLeak": 1.05,
+        "SoulLeakTime": 5,
+        "Slow": 0.25,
+        "SlowTime": 5
+      },
+      {
+        "Price": 1500,
+        "Range": 31,
+        "Damage": 0,
+        "Cooldown": 0.5,
+        "SoulLeak": 1.05,
+        "SoulLeakTime": 5,
+        "Slow": 0.25,
+        "SlowTime": 5
+      },
+      {
+        "Price": 17500,
+        "Range": 33,
+        "Damage": 0,
+        "Cooldown": 0.5,
+        "SoulLeak": 1.05,
+        "SoulLeakTime": 5,
+        "Slow": 0.25,
+        "SlowTime": 5
+      }
+    ]
+  },
+    "Ella": {
+    "Type": "Pierce Spread + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Unique",
+    "PlacePrice": 65000,
+    "Max": 2,
+    "Passive": {
+            "Name": "Colors Of The Rainbow!",
+            "Description": "Gains +35% Damage For Every Different Rarity On Your Team (Includes Herself)"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 24,
+        "Damage": 70000,
+        "Cooldown": 4
+      },
+      {
+        "Price": 70000,
+        "Range": 27,
+        "Damage": 75000,
+        "Cooldown": 4
+      },
+      {
+        "Price": 75000,
+        "Range": 31,
+        "Damage": 80000,
+        "Cooldown": 4
+      },
+      {
+        "Price": 80000,
+        "Range": 35,
+        "Damage": 90000,
+        "Cooldown": 4
+      }
+    ]
+  },
+    "Spamtons Dinner": {
+    "Type": "AOE Burn",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Forgotten",
+    "PlacePrice": 40000,
+    "Max": 1,
+    "Passive": {
+            "Name": "KRIS! ITS GETTING TOO [400 Degrees Fahrenheit] IN HERE!",
+            "Description": "Attacks Apply 100% Burn Over 3 Seconds."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 27,
+        "Damage": 2000,
+        "Cooldown": 0.25,
+        "Burn": 2000,
+        "BurnTime": 3
+      },
+      {
+        "Price": 42500,
+        "Range": 29,
+        "Damage": 2500,
+        "Cooldown": 0.25,
+        "Burn": 2500,
+        "BurnTime": 3
+      },
+      {
+        "Price": 45000,
+        "Range": 32,
+        "Damage": 3000,
+        "Cooldown": 0.25,
+        "Burn": 3000,
+        "BurnTime": 3
+      },
+      {
+        "Price": 47500,
+        "Range": 35,
+        "Damage": 3250,
+        "Cooldown": 0.25,
+        "Burn": 3250,
+        "BurnTime": 3
+      }
+    ]
+  },
+    "Dust Pile": {
+    "Type": "AOE",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Gold",
+    "PlacePrice": 4000,
+    "Max": 2,
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 21,
+        "Damage": 3000,
+        "Cooldown": 2
+      },
+      {
+        "Price": 5000,
+        "Range": 23,
+        "Damage": 4000,
+        "Cooldown": 2
+      },
+      {
+        "Price": 6000,
+        "Range": 25,
+        "Damage": 5000,
+        "Cooldown": 2
+      },
+      {
+        "Price": 7000,
+        "Range": 27,
+        "Damage": 6000,
+        "Cooldown": 2
+      }
+    ]
+  },
+    "Couch": {
+    "Type": "Cone Aoe + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Legendary",
+    "PlacePrice": 17000,
+    "Max": 1,
+    "Passive": {
+            "Name": "Sleep To Skip Time?",
+            "Description": "All Units In Range Get a 20% (40% Shiny) Cooldown Reduction"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 23,
+        "Damage": 50000,
+        "Cooldown": 4,
+        "CooldownReduction": 0.8,
+        "ShinyCooldownReduction": 0.6
+      },
+      {
+        "Price": 18000,
+        "Range": 26,
+        "Damage": 55000,
+        "Cooldown": 4,
+        "CooldownReduction": 0.8,
+        "ShinyCooldownReduction": 0.6
+      },
+      {
+        "Price": 19000,
+        "Range": 29,
+        "Damage": 60000,
+        "Cooldown": 4,
+        "CooldownReduction": 0.8,
+        "ShinyCooldownReduction": 0.6
+      },
+      {
+        "Price": 20000,
+        "Range": 31,
+        "Damage": 62500,
+        "Cooldown": 4,
+        "CooldownReduction": 0.8,
+        "ShinyCooldownReduction": 0.6
+      }
+    ]
+  },
+    "Tao": {
+    "Type": "Slash + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Legendary",
+    "PlacePrice": 2000,
+    "Max": 3,
+    "Passive": {
+            "Name": "Debug Asset",
+            "Description": "Attacks Glitch Out Enemys Causing Them To Take 0.1s Stun"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 21,
+        "Damage": 4000,
+        "Cooldown": 1,
+        "Slow": 0,
+        "SlowTime": 0.1
+      },
+      {
+        "Price": 3000,
+        "Range": 23,
+        "Damage": 5000,
+        "Cooldown": 1,
+        "Slow": 0,
+        "SlowTime": 0.1
+      },
+      {
+        "Price": 4000,
+        "Range": 25,
+        "Damage": 6000,
+        "Cooldown": 1,
+        "Slow": 0,
+        "SlowTime": 0.1
+      },
+      {
+        "Price": 5000,
+        "Range": 27,
+        "Damage": 6500,
+        "Cooldown": 1,
+        "Slow": 0,
+        "SlowTime": 0.1
+      }
+    ]
+  },
+    "Cupitain": {
+    "Type": "Splash + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Legendary",
+    "PlacePrice": 5997,
+    "Max": 2,
+    "Passive": {
+            "Name": "Glory To Our Princess!",
+            "Description": "Attacks Apply 40% Slow And 5% SoulLeak For 3s"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 22,
+        "Damage": 14000,
+        "Cooldown": 2,
+        "SoulLeak": 1.1997,
+        "SoulLeakTime": 1.997
+      },
+      {
+        "Price": 6997,
+        "Range": 24,
+        "Damage": 16500,
+        "Cooldown": 2,
+        "SoulLeak": 1.1997,
+        "SoulLeakTime": 1.997
+      },
+      {
+        "Price": 7997,
+        "Range": 26,
+        "Damage": 17000,
+        "Cooldown": 2,
+        "SoulLeak": 1.1997,
+        "SoulLeakTime": 1.997
+      },
+      {
+        "Price": 8997,
+        "Range": 28,
+        "Damage": 19970,
+        "Cooldown": 2,
+        "SoulLeak": 1.1997,
+        "SoulLeakTime": 1.997
+      }
+    ]
+  },
+    "Starwalker Bird": {
+    "Type": "Pierce Spread + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Legendary",
+    "PlacePrice": 20000,
+    "Max": 1,
+    "Passive": {
+            "Name": "Not The Original Starwalker",
+            "Description": "Attacks Slow Enemies By 65% For 3s"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 22,
+        "Damage": 12500,
+        "Cooldown": 1,
+        "Slow": 0.35,
+        "SlowTime": 3
+      },
+      {
+        "Price": 6997,
+        "Range": 24,
+        "Damage": 15000,
+        "Cooldown": 1,
+        "Slow": 0.35,
+        "SlowTime": 3
+      },
+      {
+        "Price": 7997,
+        "Range": 26,
+        "Damage": 17500,
+        "Cooldown": 1,
+        "Slow": 0.35,
+        "SlowTime": 3
+      },
+      {
+        "Price": 8997,
+        "Range": 28,
+        "Damage": 20000,
+        "Cooldown": 1,
+        "Slow": 0.35,
+        "SlowTime": 3
+      }
+    ]
+  },
+    "HERO_SWORD": {
+    "Type": "Pierce + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Gold",
+    "PlacePrice": 7000,
+    "Max": 1,
+    "Passive": {
+            "Name": "LVL 3",
+            "Description": "Gains +0.25% Damage For Every Kill, At A Max Of 25%"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 18,
+        "Damage": 15000,
+        "Cooldown": 2
+      },
+      {
+        "Price": 8000,
+        "Range": 20,
+        "Damage": 17500,
+        "Cooldown": 2
+      },
+      {
+        "Price": 9000,
+        "Range": 23,
+        "Damage": 20000,
+        "Cooldown": 2
+      },
+      {
+        "Price": 10000,
+        "Range": 25,
+        "Damage": 22500,
+        "Cooldown": 2
+      }
+    ]
+  },
+    "HERO_SCARF": {
+    "Type": "Splash + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Gold",
+    "PlacePrice": 12500,
+    "Max": 2,
+    "Passive": {
+            "Name": "Trapped In An Endless Pain",
+            "Description": "Attacks Deal 100% Darkness Over 1 Second"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 21,
+        "Damage": 10000,
+        "Cooldown": 1,
+        "Darkness": 10000,
+        "DarknessTime": 1
+      },
+      {
+        "Price": 15000,
+        "Range": 23,
+        "Damage": 11500,
+        "Cooldown": 1,
+        "Darkness": 11500,
+        "DarknessTime": 1
+      },
+      {
+        "Price": 17500,
+        "Range": 25,
+        "Damage": 12500,
+        "Cooldown": 1,
+        "Darkness": 12500,
+        "DarknessTime": 1
+      },
+      {
+        "Price": 20000,
+        "Range": 27,
+        "Damage": 13500,
+        "Cooldown": 1,
+        "Darkness": 13500,
+        "DarknessTime": 1
+      }
+    ]
+  },
+    "HERO_AXE": {
+    "Type": "Slash + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Gold",
+    "PlacePrice": 35000,
+    "Max": 1,
+    "Passive": {
+            "Name": "Zzz",
+            "Description": "If an enemy is in HERO_AXE's Range For More Than 10s, They Get 70% Slow."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 23,
+        "Damage": 25000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 40000,
+        "Range": 25,
+        "Damage": 30000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 45000,
+        "Range": 27,
+        "Damage": 35000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 50000,
+        "Range": 29,
+        "Damage": 40000,
+        "Cooldown": 3
+      }
+    ]
+  },
+    "GIGA Spamton": {
+    "Type": "Pierce Spread + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Forgotten",
+    "PlacePrice": 500000,
+    "Max": 1,
+    "Passive": {
+            "Name": "THIS [Big Shot Suit] IS EQUIPPED WITH OVER-THE-TOP [InternalHeating]!",
+            "Description": "Attacks Execute Enemies Under 10% Health (5% Bosses/Mini-Bosses) GIGA Spamton opens His CORE every 30s, Completely Executing Enemies Hit If Under 30% Health, If Not Then He Deals x30 Damage."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 30,
+        "Damage": 150000,
+        "Cooldown": 5
+      },
+      {
+        "Price": 600000,
+        "Range": 34,
+        "Damage": 175000,
+        "Cooldown": 5
+      },
+      {
+        "Price": 700000,
+        "Range": 38,
+        "Damage": 200000,
+        "Cooldown": 5
+      },
+      {
+        "Price": 800000,
+        "Range": 42,
+        "Damage": 225000,
+        "Cooldown": 5
+      }
+    ]
+  },
     "Chara": {
     "Type": "Melee + Passive",
     "Image": "rbxassetid://131226586458594",
@@ -5669,28 +6531,28 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 5,
+        "Range": 20,
         "Damage": 10000,
         "Cooldown": 1.5,
         "MaxChain": 5
       },
       {
         "Price": 1500,
-        "Range": 10,
+        "Range": 23,
         "Damage": 12500,
         "Cooldown": 1.5,
         "MaxChain": 5
       },
       {
         "Price": 1750,
-        "Range": 13,
+        "Range": 25,
         "Damage": 15000,
         "Cooldown": 1.5,
         "MaxChain": 5
       },
       {
         "Price": 2000,
-        "Range": 15,
+        "Range": 27,
         "Damage": 17500,
         "Cooldown": 1.5,
         "MaxChain": 5
@@ -5767,7 +6629,7 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 5,
+        "Range": 18,
         "Damage": 6000,
         "Cooldown": 1.75,
         "Slow": 0.5,
@@ -5775,7 +6637,7 @@
       },
       {
         "Price": 1500,
-        "Range": 10,
+        "Range": 22,
         "Damage": 7500,
         "Cooldown": 1.75,
         "Slow": 0.5,
@@ -5783,7 +6645,7 @@
       },
       {
         "Price": 1750,
-        "Range": 13,
+        "Range": 24,
         "Damage": 8500,
         "Cooldown": 1.75,
         "Slow": 0.5,
@@ -5791,7 +6653,7 @@
       },
       {
         "Price": 2000,
-        "Range": 15,
+        "Range": 27,
         "Damage": 9500,
         "Cooldown": 1.75,
         "Slow": 0.5,
@@ -5922,25 +6784,25 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 10,
+        "Range": 21,
         "Damage": 60000,
         "Cooldown": 3.5
       },
       {
         "Price": 12500,
-        "Range": 15,
+        "Range": 23,
         "Damage": 74000,
         "Cooldown": 3.25
       },
       {
         "Price": 15000,
-        "Range": 20,
+        "Range": 26,
         "Damage": 82500,
         "Cooldown": 3
       },
       {
         "Price": 17500,
-        "Range": 22,
+        "Range": 28,
         "Damage": 95000,
         "Cooldown": 3
       }
@@ -6016,25 +6878,25 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 20,
+        "Range": 30,
         "Damage": 20000,
         "Cooldown": 1
       },
       {
         "Price": 175000,
-        "Range": 25,
+        "Range": 33,
         "Damage": 30000,
         "Cooldown": 1
       },
       {
         "Price": 225000,
-        "Range": 30,
+        "Range": 36,
         "Damage": 35000,
         "Cooldown": 1
       },
       {
         "Price": 275000,
-        "Range": 35,
+        "Range": 39,
         "Damage": 42500,
         "Cooldown": 1
       }
@@ -6059,7 +6921,7 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 10,
+        "Range": 19,
         "Damage": 2500,
         "Cooldown": 0.25,
         "Burn": 3750,
@@ -6067,7 +6929,7 @@
       },
       {
         "Price": 6500,
-        "Range": 15,
+        "Range": 22,
         "Damage": 3000,
         "Cooldown": 0.25,
         "Burn": 4500,
@@ -6075,7 +6937,7 @@
       },
       {
         "Price": 7500,
-        "Range": 20,
+        "Range": 24,
         "Damage": 3250,
         "Cooldown": 0.25,
         "Burn": 4875,
@@ -6083,7 +6945,7 @@
       },
       {
         "Price": 8500,
-        "Range": 23,
+        "Range": 27,
         "Damage": 3500,
         "Cooldown": 0.25,
         "Burn": 5250,
@@ -6161,7 +7023,7 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 10,
+        "Range": 18,
         "Damage": 500,
         "Cooldown": 1,
         "FarmAmount": 750,
@@ -6169,7 +7031,7 @@
       },
       {
         "Price": 2250,
-        "Range": 15,
+        "Range": 22,
         "Damage": 650,
         "Cooldown": 1,
         "FarmAmount": 1000,
@@ -6177,7 +7039,7 @@
       },
       {
         "Price": 2500,
-        "Range": 20,
+        "Range": 23,
         "Damage": 700,
         "Cooldown": 1,
         "FarmAmount": 1250,
@@ -8020,7 +8882,7 @@
     "Max": 2,
     "Passive": {
             "Name": "Candy Canes",
-            "Description": "Attacks Apply 50% Slow To Enemies, Deals 2x Damage If Paired With Any Christmas Units."
+            "Description": "Attacks Apply 50% Slow To Enemies For 3s, Deals 2x Damage If Paired With Any Christmas Units."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -8033,25 +8895,33 @@
         "Price": 0,
         "Range": 26,
         "Damage": 5000,
-        "Cooldown": 1
+        "Cooldown": 1,
+        "Slow": 0.5,
+        "SlowTime": 3
       },
       {
         "Price": 9000,
         "Range": 29,
         "Damage": 6500,
-        "Cooldown": 1
+        "Cooldown": 1,
+        "Slow": 0.5,
+        "SlowTime": 3
       },
       {
         "Price": 11000,
         "Range": 33,
         "Damage": 7500,
-        "Cooldown": 1
+        "Cooldown": 1,
+        "Slow": 0.5,
+        "SlowTime": 3
       },
       {
         "Price": 13500,
         "Range": 35,
         "Damage": 8500,
-        "Cooldown": 1
+        "Cooldown": 1,
+        "Slow": 0.5,
+        "SlowTime": 3
       }
     ]
   },
@@ -8119,25 +8989,33 @@
         "Price": 0,
         "Range": 23,
         "Damage": 12500,
-        "Cooldown": 2
+        "Cooldown": 2,
+        "Slow": 0,
+        "SlowTime": 0.5
       },
       {
         "Price": 55000,
         "Range": 25,
         "Damage": 15000,
-        "Cooldown": 2
+        "Cooldown": 2,
+        "Slow": 0,
+        "SlowTime": 0.5
       },
       {
         "Price": 60000,
         "Range": 27,
         "Damage": 17500,
-        "Cooldown": 2
+        "Cooldown": 2,
+        "Slow": 0,
+        "SlowTime": 0.5
       },
       {
         "Price": 65000,
         "Range": 30,
         "Damage": 20000,
-        "Cooldown": 2
+        "Cooldown": 2,
+        "Slow": 0,
+        "SlowTime": 0.5
       }
     ]
   },
@@ -8146,10 +9024,10 @@
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 5000,
-    "Max": 3,
+    "Max": 2,
     "Passive": {
             "Name": "Krismas Tree... Get It! Kris Mas! - From Noelle",
-            "Description": "Attacks Apply 75% Anti-Regen."
+            "Description": "Attacks Apply 75% Anti-Regen For 1s."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -8161,26 +9039,34 @@
       {
         "Price": 0,
         "Range": 21,
-        "Damage": 1500,
-        "Cooldown": 0.25
+        "Damage": 500,
+        "Cooldown": 0.25,
+        "Bleed": 0.75,
+        "BleedTime": 1
       },
       {
         "Price": 6500,
         "Range": 23,
-        "Damage": 1600,
-        "Cooldown": 0.25
+        "Damage": 600,
+        "Cooldown": 0.25,
+        "Bleed": 0.75,
+        "BleedTime": 1
       },
       {
         "Price": 7500,
         "Range": 25,
-        "Damage": 1800,
-        "Cooldown": 0.25
+        "Damage": 800,
+        "Cooldown": 0.25,
+        "Bleed": 0.75,
+        "BleedTime": 1
       },
       {
         "Price": 8500,
         "Range": 27,
-        "Damage": 2000,
-        "Cooldown": 0.25
+        "Damage": 1000,
+        "Cooldown": 0.25,
+        "Bleed": 0.75,
+        "BleedTime": 1
       }
     ]
   },
@@ -8248,25 +9134,33 @@
         "Price": 0,
         "Range": 18,
         "Damage": 6000,
-        "Cooldown": 2
+        "Cooldown": 2,
+        "Slow": 0.6,
+        "SlowTime": 3
       },
       {
         "Price": 8000,
         "Range": 20,
         "Damage": 6500,
-        "Cooldown": 2
+        "Cooldown": 2,
+        "Slow": 0.6,
+        "SlowTime": 3
       },
       {
         "Price": 9000,
         "Range": 22,
         "Damage": 7000,
-        "Cooldown": 2
+        "Cooldown": 2,
+        "Slow": 0.6,
+        "SlowTime": 3
       },
       {
         "Price": 10000,
         "Range": 25,
         "Damage": 8000,
-        "Cooldown": 2
+        "Cooldown": 2,
+        "Slow": 0.6,
+        "SlowTime": 3
       }
     ]
   },
@@ -8278,7 +9172,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Christmas In Home Town",
-            "Description": "Noelle Throws Presents Out Of Her Sleigh Every 10s Dealing x15 Splash Damage And 2s Stun. 2x Damage If Paired With Grinch Susie."
+            "Description": "Noelle Throws Presents Out Of Her Sleigh Every 10s Dealing x15 Splash Damage And 2s Stun."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -8364,7 +9258,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Im Totally Santa! See Look At My Huge Bag!",
-            "Description": "Mall Santa Queen Hurls Coal From Her Present, Dealing 5x Damage And 3s Stun Every 10s."
+            "Description": "Mall Santa Queen Hurls Coal From Her Present Every 10s, Dealing 5x Damage And 3s Stun Every 10s."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -8450,7 +9344,7 @@
     "Max": 3,
     "Passive": {
             "Name": "Would You Like a Christmas Flavored Pie? Straight To The Face?",
-            "Description": "Mrs. Claus Toriel Hurls A Christmas Pie At Her Enemies, Dealing 2x Damage And 50% Burn For 2s."
+            "Description": "Mrs. Claus Toriel Hurls A Christmas Pie At Her Enemies Every 30s, Dealing 2x Damage And 50% Burn For 2s."
         },
     "Offset": 0,
     "hitboxOffset": {
