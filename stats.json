@@ -9064,25 +9064,33 @@
         "Price": 0,
         "Range": 26,
         "Damage": 5000,
-        "Cooldown": 1
+        "Cooldown": 1,
+        "Slow": 0.5,
+        "SlowTime": 3
       },
       {
         "Price": 9000,
         "Range": 29,
         "Damage": 6500,
-        "Cooldown": 1
+        "Cooldown": 1,
+        "Slow": 0.5,
+        "SlowTime": 3
       },
       {
         "Price": 11000,
         "Range": 33,
         "Damage": 7500,
-        "Cooldown": 1
+        "Cooldown": 1,
+        "Slow": 0.5,
+        "SlowTime": 3
       },
       {
         "Price": 13500,
         "Range": 35,
         "Damage": 8500,
-        "Cooldown": 1
+        "Cooldown": 1,
+        "Slow": 0.5,
+        "SlowTime": 3
       }
     ]
   },
@@ -9150,25 +9158,33 @@
         "Price": 0,
         "Range": 23,
         "Damage": 12500,
-        "Cooldown": 2
+        "Cooldown": 2,
+        "Slow": 0,
+        "SlowTime": 0.5
       },
       {
         "Price": 55000,
         "Range": 25,
         "Damage": 15000,
-        "Cooldown": 2
+        "Cooldown": 2,
+        "Slow": 0,
+        "SlowTime": 0.5
       },
       {
         "Price": 60000,
         "Range": 27,
         "Damage": 17500,
-        "Cooldown": 2
+        "Cooldown": 2,
+        "Slow": 0,
+        "SlowTime": 0.5
       },
       {
         "Price": 65000,
         "Range": 30,
         "Damage": 20000,
-        "Cooldown": 2
+        "Cooldown": 2,
+        "Slow": 0,
+        "SlowTime": 0.5
       }
     ]
   },
@@ -9177,10 +9193,10 @@
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 5000,
-    "Max": 3,
+    "Max": 2,
     "Passive": {
             "Name": "Krismas Tree... Get It! Kris Mas! - From Noelle",
-            "Description": "Attacks Apply 75% Anti-Regen."
+            "Description": "Attacks Apply 75% Anti-Regen For 1s."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -9193,25 +9209,33 @@
         "Price": 0,
         "Range": 21,
         "Damage": 500,
-        "Cooldown": 0.25
+        "Cooldown": 0.25,
+        "Bleed": 0.75,
+        "BleedTime": 1
       },
       {
         "Price": 6500,
         "Range": 23,
         "Damage": 600,
-        "Cooldown": 0.25
+        "Cooldown": 0.25,
+        "Bleed": 0.75,
+        "BleedTime": 1
       },
       {
         "Price": 7500,
         "Range": 25,
         "Damage": 800,
-        "Cooldown": 0.25
+        "Cooldown": 0.25,
+        "Bleed": 0.75,
+        "BleedTime": 1
       },
       {
         "Price": 8500,
         "Range": 27,
         "Damage": 1000,
-        "Cooldown": 0.25
+        "Cooldown": 0.25,
+        "Bleed": 0.75,
+        "BleedTime": 1
       }
     ]
   },
@@ -9279,25 +9303,33 @@
         "Price": 0,
         "Range": 18,
         "Damage": 6000,
-        "Cooldown": 2
+        "Cooldown": 2,
+        "Slow": 0.6,
+        "SlowTime": 3
       },
       {
         "Price": 8000,
         "Range": 20,
         "Damage": 6500,
-        "Cooldown": 2
+        "Cooldown": 2,
+        "Slow": 0.6,
+        "SlowTime": 3
       },
       {
         "Price": 9000,
         "Range": 22,
         "Damage": 7000,
-        "Cooldown": 2
+        "Cooldown": 2,
+        "Slow": 0.6,
+        "SlowTime": 3
       },
       {
         "Price": 10000,
         "Range": 25,
         "Damage": 8000,
-        "Cooldown": 2
+        "Cooldown": 2,
+        "Slow": 0.6,
+        "SlowTime": 3
       }
     ]
   },
@@ -9309,7 +9341,7 @@
     "Max": 2,
     "Passive": {
             "Name": "Christmas In Home Town",
-            "Description": "Noelle Throws Presents Out Of Her Sleigh Every 10s Dealing x15 Splash Damage And 2s Stun. 2x Damage If Paired With Grinch Susie."
+            "Description": "Noelle Throws Presents Out Of Her Sleigh Every 15s Dealing x10 Splash Damage And 1s Stun."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -9320,26 +9352,26 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 25,
-        "Damage": 3000,
-        "Cooldown": 0.25
-      },
-      {
-        "Price": 15000,
-        "Range": 28,
+        "Range": 29,
         "Damage": 4250,
         "Cooldown": 0.25
       },
       {
+        "Price": 15000,
+        "Range": 32,
+        "Damage": 4500,
+        "Cooldown": 0.25
+      },
+      {
         "Price": 20000,
-        "Range": 31,
-        "Damage": 5500,
+        "Range": 35,
+        "Damage": 4750,
         "Cooldown": 0.25
       },
       {
         "Price": 25000,
-        "Range": 34,
-        "Damage": 6000,
+        "Range": 38,
+        "Damage": 5000,
         "Cooldown": 0.25
       }
     ]
@@ -9395,7 +9427,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Im Totally Santa! See Look At My Huge Bag!",
-            "Description": "Mall Santa Queen Hurls Coal From Her Present, Dealing 5x Damage And 3s Stun Every 10s."
+            "Description": "Mall Santa Queen Hurls Coal From Her Present, Dealing 5x Damage And 3s Stun Every 20s."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -9481,7 +9513,7 @@
     "Max": 3,
     "Passive": {
             "Name": "Would You Like a Christmas Flavored Pie? Straight To The Face?",
-            "Description": "Mrs. Claus Toriel Hurls A Christmas Pie At Her Enemies, Dealing 2x Damage And 50% Burn For 2s."
+            "Description": "Mrs. Claus Toriel Hurls A Christmas Pie At Her Enemies Every 30s, Dealing 2x Damage And 50% Burn For 2s."
         },
     "Offset": 0,
     "hitboxOffset": {
