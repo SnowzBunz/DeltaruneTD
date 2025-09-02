@@ -3111,16 +3111,16 @@
       {
         "Price": 0,
         "Range": 25,
-        "Damage": 250000,
-        "Cooldown": 6.45,
+        "Damage": 200000,
+        "Cooldown": 6.5,
         "Slow": 0,
         "SlowTime": 1
       },
       {
         "Price": 100000,
         "Range": 30,
-        "Damage": 250000,
-        "Cooldown": 6.45,
+        "Damage": 225000,
+        "Cooldown": 6.5,
         "Slow": 0,
         "SlowTime": 1
       },
@@ -3128,15 +3128,15 @@
         "Price": 125000,
         "Range": 32,
         "Damage": 250000,
-        "Cooldown": 6.45,
+        "Cooldown": 6.5,
         "Slow": 0,
         "SlowTime": 1
       },
       {
         "Price": 150000,
         "Range": 35,
-        "Damage": 300000,
-        "Cooldown": 6.45,
+        "Damage": 275000,
+        "Cooldown": 6.5,
         "Slow": 0,
         "SlowTime": 1
       }
@@ -5973,25 +5973,25 @@
         "Price": 0,
         "Range": 24,
         "Damage": 70000,
-        "Cooldown": 4
+        "Cooldown": 4.5
       },
       {
         "Price": 70000,
         "Range": 27,
         "Damage": 75000,
-        "Cooldown": 4
+        "Cooldown": 4.5
       },
       {
         "Price": 75000,
         "Range": 31,
         "Damage": 80000,
-        "Cooldown": 4
+        "Cooldown": 4.5
       },
       {
         "Price": 80000,
         "Range": 35,
         "Damage": 90000,
-        "Cooldown": 4
+        "Cooldown": 4.5
       }
     ]
   },
@@ -6191,7 +6191,7 @@
     "Type": "Splash + Passive",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
-    "PlacePrice": 5997,
+    "PlacePrice": 250,
     "Max": 2,
     "Passive": {
             "Name": "Glory To Our Princess!",
@@ -6207,34 +6207,42 @@
       {
         "Price": 0,
         "Range": 22,
-        "Damage": 14000,
-        "Cooldown": 2,
-        "SoulLeak": 1.1997,
-        "SoulLeakTime": 1.997
+        "Damage": 200,
+        "Cooldown": 0.25,
+        "Slow": 0.6,
+        "SlowTime": 3,
+        "SoulLeak": 1.05,
+        "SoulLeakTime": 3
       },
       {
-        "Price": 6997,
+        "Price": 300,
         "Range": 24,
-        "Damage": 16500,
-        "Cooldown": 2,
-        "SoulLeak": 1.1997,
-        "SoulLeakTime": 1.997
+        "Damage": 250,
+        "Cooldown": 0.25,
+        "Slow": 0.6,
+        "SlowTime": 3,
+        "SoulLeak": 1.05,
+        "SoulLeakTime": 3
       },
       {
-        "Price": 7997,
+        "Price": 350,
         "Range": 26,
-        "Damage": 17000,
-        "Cooldown": 2,
-        "SoulLeak": 1.1997,
-        "SoulLeakTime": 1.997
+        "Damage": 300,
+        "Cooldown": 0.25,
+        "Slow": 0.6,
+        "SlowTime": 3,
+        "SoulLeak": 1.05,
+        "SoulLeakTime": 3
       },
       {
-        "Price": 8997,
+        "Price": 400,
         "Range": 28,
-        "Damage": 19970,
-        "Cooldown": 2,
-        "SoulLeak": 1.1997,
-        "SoulLeakTime": 1.997
+        "Damage": 350,
+        "Cooldown": 0.25,
+        "Slow": 0.6,
+        "SlowTime": 3,
+        "SoulLeak": 1.05,
+        "SoulLeakTime": 3
       }
     ]
   },
@@ -6337,7 +6345,7 @@
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 12500,
-    "Max": 2,
+    "Max": 1,
     "Passive": {
             "Name": "Trapped In An Endless Pain",
             "Description": "Attacks Deal 100% Darkness Over 1 Second"
@@ -6434,7 +6442,7 @@
     "Max": 1,
     "Passive": {
             "Name": "THIS [Big Shot Suit] IS EQUIPPED WITH OVER-THE-TOP [InternalHeating]!",
-            "Description": "Attacks Execute Enemies Under 10% Health (5% Bosses/Mini-Bosses) GIGA Spamton opens His CORE every 30s, Completely Executing Enemies Hit If Under 30% Health, If Not Then He Deals x30 Damage."
+            "Description": "Attacks Execute Enemies Under 10% Health (5% Bosses/Mini-Bosses) And Apply 25% Burn For 1s. GIGA Spamton opens His CORE every 30s, Completely Executing Enemies Hit If Under 30% Health, If Not Then He Deals x30 Damage."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -6447,25 +6455,186 @@
         "Price": 0,
         "Range": 30,
         "Damage": 150000,
-        "Cooldown": 5
+        "Cooldown": 4.75,
+        "Burn": 37500,
+        "BurnTime": 1
       },
       {
         "Price": 600000,
         "Range": 34,
         "Damage": 175000,
-        "Cooldown": 5
+        "Cooldown": 4.75,
+        "Burn": 43750,
+        "BurnTime": 1
       },
       {
         "Price": 700000,
         "Range": 38,
         "Damage": 200000,
-        "Cooldown": 5
+        "Cooldown": 4.75,
+        "Burn": 50000,
+        "BurnTime": 1
       },
       {
         "Price": 800000,
         "Range": 42,
         "Damage": 225000,
-        "Cooldown": 5
+        "Cooldown": 4.75,
+        "Burn": 56250,
+        "BurnTime": 1
+      }
+    ]
+  },
+    "The Addisons": {
+    "Type": "Cone Aoe + Damage Booster",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Epic",
+    "PlacePrice": 5000,
+    "Max": 3,
+    "Passive": {
+            "Name": "A True Flashy Salesman! Not a trashy Bigshot.",
+            "Description": "All units in range are given a 20% (40% Shiny) Damage Boost."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 23,
+        "Damage": 4000,
+        "Cooldown": 1,
+        "DamageBoost": 1.2,
+        "ShinyDamageBoost": 1.4
+      },
+      {
+        "Price": 6000,
+        "Range": 25,
+        "Damage": 4500,
+        "Cooldown": 1,
+        "DamageBoost": 1.2,
+        "ShinyDamageBoost": 1.4
+      },
+      {
+        "Price": 7000,
+        "Range": 27,
+        "Damage": 5000,
+        "Cooldown": 1,
+        "DamageBoost": 1.2,
+        "ShinyDamageBoost": 1.4
+      },
+      {
+        "Price": 8000,
+        "Range": 29,
+        "Damage": 5500,
+        "Cooldown": 1,
+        "DamageBoost": 1.2,
+        "ShinyDamageBoost": 1.4
+      }
+    ]
+  },
+    "Bigshot Auto Repairs": {
+    "Type": "Splash Stun + Summoner",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Unique",
+    "PlacePrice": 19970,
+    "Max": 2,
+    "Passive": {
+            "Name": "Welcome To Spamtons BIGSHOT Auto Repairs! BUY NOW BUY NOW!!",
+            "Description": "Attacks Stun For 0.5s. Summons a Bigshot Car Every 30s With x25 Health Of His Current Damage."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 23,
+        "Damage": 25000,
+        "SummonTime": 30,
+        "WalkSpeed": 30,
+        "Unit": "BigShotCar",
+        "Health": 625000,
+        "Cooldown": 2
+      },
+      {
+        "Price": 22500,
+        "Range": 26,
+        "Damage": 27500,
+        "SummonTime": 30,
+        "WalkSpeed": 30,
+        "Unit": "BigShotCar",
+        "Health": 687500,
+        "Cooldown": 2
+      },
+      {
+        "Price": 25000,
+        "Range": 29,
+        "Damage": 30000,
+        "SummonTime": 30,
+        "WalkSpeed": 30,
+        "Unit": "BigShotCar",
+        "Health": 750000,
+        "Cooldown": 2
+      },
+      {
+        "Price": 27500,
+        "Range": 31,
+        "Damage": 32500,
+        "SummonTime": 30,
+        "WalkSpeed": 30,
+        "Unit": "BigShotCar",
+        "Health": 812500,
+        "Cooldown": 2
+      }
+    ]
+  },
+    "Mr. Generosity": {
+    "Type": "Farm",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Gold",
+    "PlacePrice": 2500,
+    "Max": 3,
+    "Passive": {
+            "Name": "Do you remember this kids name? Seriously i can't remember!",
+            "Description": "Gains 3000 Cash Per Wave."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 21,
+        "Damage": 0,
+        "Cooldown": 1
+      },
+      {
+        "Price": 2750,
+        "Range": 23,
+        "Damage": 0,
+        "Cooldown": 1
+      },
+      {
+        "Price": 3000,
+        "Range": 25,
+        "Damage": 0,
+        "Cooldown": 1
+      },
+      {
+        "Price": 3250,
+        "Range": 27,
+        "Damage": 0,
+        "Cooldown": 1
       }
     ]
   },
@@ -6567,7 +6736,7 @@
     "Max": 1,
     "Passive": {
             "Name": "You're gonna have a bad time.",
-            "Description": "Every 30s Sans Spawns a Gaster Blaster dealing 4x Pierce Damage To The Nearest Enemy Every 0.25s For 3s. Attacks Apply 150% Darkness For 5 Seconds."
+            "Description": "Every 30s Sans Spawns a Gaster Blaster dealing 4x Pierce Damage To The Nearest Enemy Every 0.25s For 3s. Attacks Apply 150% Darkness For 1 Second."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -6580,33 +6749,33 @@
         "Price": 0,
         "Range": 20,
         "Damage": 6500,
-        "Cooldown": 0.25,
+        "Cooldown": 0.5,
         "Darkness": 9750,
-        "DarknessTime": 5
+        "DarknessTime": 1
       },
       {
         "Price": 95000,
         "Range": 22,
         "Damage": 7500,
-        "Cooldown": 0.25,
+        "Cooldown": 0.5,
         "Darkness": 11250,
-        "DarknessTime": 5
+        "DarknessTime": 1
       },
       {
         "Price": 115000,
         "Range": 25,
         "Damage": 8500,
-        "Cooldown": 0.25,
+        "Cooldown": 0.5,
         "Darkness": 12750,
-        "DarknessTime": 5
+        "DarknessTime": 1
       },
       {
         "Price": 135000,
         "Range": 28,
         "Damage": 11500,
-        "Cooldown": 0.25,
+        "Cooldown": 0.5,
         "Darkness": 17250,
-        "DarknessTime": 5
+        "DarknessTime": 1
       }
     ]
   },
@@ -7092,7 +7261,7 @@
         "Price": 55555,
         "Range": 30,
         "Damage": 32500,
-        "Cooldown": 1.25,
+        "Cooldown": 1.5,
         "Bleed": 0,
         "BleedTime": 3
       },
@@ -7100,7 +7269,7 @@
         "Price": 66666,
         "Range": 35,
         "Damage": 37500,
-        "Cooldown": 1,
+        "Cooldown": 1.5,
         "Bleed": 0,
         "BleedTime": 3
       }
@@ -8882,7 +9051,7 @@
     "Max": 2,
     "Passive": {
             "Name": "Candy Canes",
-            "Description": "Attacks Apply 50% Slow To Enemies For 3s, Deals 2x Damage If Paired With Any Christmas Units."
+            "Description": "Attacks Apply 50% Slow To Enemies, Deals 2x Damage If Paired With Any Christmas Units."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -8895,33 +9064,25 @@
         "Price": 0,
         "Range": 26,
         "Damage": 5000,
-        "Cooldown": 1,
-        "Slow": 0.5,
-        "SlowTime": 3
+        "Cooldown": 1
       },
       {
         "Price": 9000,
         "Range": 29,
         "Damage": 6500,
-        "Cooldown": 1,
-        "Slow": 0.5,
-        "SlowTime": 3
+        "Cooldown": 1
       },
       {
         "Price": 11000,
         "Range": 33,
         "Damage": 7500,
-        "Cooldown": 1,
-        "Slow": 0.5,
-        "SlowTime": 3
+        "Cooldown": 1
       },
       {
         "Price": 13500,
         "Range": 35,
         "Damage": 8500,
-        "Cooldown": 1,
-        "Slow": 0.5,
-        "SlowTime": 3
+        "Cooldown": 1
       }
     ]
   },
@@ -8989,33 +9150,25 @@
         "Price": 0,
         "Range": 23,
         "Damage": 12500,
-        "Cooldown": 2,
-        "Slow": 0,
-        "SlowTime": 0.5
+        "Cooldown": 2
       },
       {
         "Price": 55000,
         "Range": 25,
         "Damage": 15000,
-        "Cooldown": 2,
-        "Slow": 0,
-        "SlowTime": 0.5
+        "Cooldown": 2
       },
       {
         "Price": 60000,
         "Range": 27,
         "Damage": 17500,
-        "Cooldown": 2,
-        "Slow": 0,
-        "SlowTime": 0.5
+        "Cooldown": 2
       },
       {
         "Price": 65000,
         "Range": 30,
         "Damage": 20000,
-        "Cooldown": 2,
-        "Slow": 0,
-        "SlowTime": 0.5
+        "Cooldown": 2
       }
     ]
   },
@@ -9024,10 +9177,10 @@
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 5000,
-    "Max": 2,
+    "Max": 3,
     "Passive": {
             "Name": "Krismas Tree... Get It! Kris Mas! - From Noelle",
-            "Description": "Attacks Apply 75% Anti-Regen For 1s."
+            "Description": "Attacks Apply 75% Anti-Regen."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -9040,33 +9193,25 @@
         "Price": 0,
         "Range": 21,
         "Damage": 500,
-        "Cooldown": 0.25,
-        "Bleed": 0.75,
-        "BleedTime": 1
+        "Cooldown": 0.25
       },
       {
         "Price": 6500,
         "Range": 23,
         "Damage": 600,
-        "Cooldown": 0.25,
-        "Bleed": 0.75,
-        "BleedTime": 1
+        "Cooldown": 0.25
       },
       {
         "Price": 7500,
         "Range": 25,
         "Damage": 800,
-        "Cooldown": 0.25,
-        "Bleed": 0.75,
-        "BleedTime": 1
+        "Cooldown": 0.25
       },
       {
         "Price": 8500,
         "Range": 27,
         "Damage": 1000,
-        "Cooldown": 0.25,
-        "Bleed": 0.75,
-        "BleedTime": 1
+        "Cooldown": 0.25
       }
     ]
   },
@@ -9134,33 +9279,25 @@
         "Price": 0,
         "Range": 18,
         "Damage": 6000,
-        "Cooldown": 2,
-        "Slow": 0.6,
-        "SlowTime": 3
+        "Cooldown": 2
       },
       {
         "Price": 8000,
         "Range": 20,
         "Damage": 6500,
-        "Cooldown": 2,
-        "Slow": 0.6,
-        "SlowTime": 3
+        "Cooldown": 2
       },
       {
         "Price": 9000,
         "Range": 22,
         "Damage": 7000,
-        "Cooldown": 2,
-        "Slow": 0.6,
-        "SlowTime": 3
+        "Cooldown": 2
       },
       {
         "Price": 10000,
         "Range": 25,
         "Damage": 8000,
-        "Cooldown": 2,
-        "Slow": 0.6,
-        "SlowTime": 3
+        "Cooldown": 2
       }
     ]
   },
@@ -9169,10 +9306,10 @@
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 12250,
-    "Max": 1,
+    "Max": 2,
     "Passive": {
             "Name": "Christmas In Home Town",
-            "Description": "Noelle Throws Presents Out Of Her Sleigh Every 10s Dealing x15 Splash Damage And 2s Stun."
+            "Description": "Noelle Throws Presents Out Of Her Sleigh Every 10s Dealing x15 Splash Damage And 2s Stun. 2x Damage If Paired With Grinch Susie."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -9258,7 +9395,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Im Totally Santa! See Look At My Huge Bag!",
-            "Description": "Mall Santa Queen Hurls Coal From Her Present Every 10s, Dealing 5x Damage And 3s Stun Every 10s."
+            "Description": "Mall Santa Queen Hurls Coal From Her Present, Dealing 5x Damage And 3s Stun Every 10s."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -9344,7 +9481,7 @@
     "Max": 3,
     "Passive": {
             "Name": "Would You Like a Christmas Flavored Pie? Straight To The Face?",
-            "Description": "Mrs. Claus Toriel Hurls A Christmas Pie At Her Enemies Every 30s, Dealing 2x Damage And 50% Burn For 2s."
+            "Description": "Mrs. Claus Toriel Hurls A Christmas Pie At Her Enemies, Dealing 2x Damage And 50% Burn For 2s."
         },
     "Offset": 0,
     "hitboxOffset": {
