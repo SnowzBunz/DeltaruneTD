@@ -4415,15 +4415,15 @@
       }
     ]
   },
-    "THE ROARING TITANS": {
-    "Type": "Nuke Stun + Passive",
+    "Titan Ralsei": {
+    "Type": "Slash Stun + Passive",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Forgotten",
-    "PlacePrice": 1000000,
+    "PlacePrice": 750000,
     "Max": 1,
     "Passive": {
-            "Name": "It's the end.",
-            "Description": "Attacks Apply 1.5s Normal Stun. Every 60s All 3 Titans Unleash A Large Nuke Attack Dealing x10 Damage Upon Impact Applying 150% Darkness And 10s Darkened Stun. "
+            "Name": "A Dark.. Dark... Dark.. Prince Has Awoken...",
+            "Description": "Attacks Apply 20% SoulLeak For 3 Seconds And 50% Regen For 3 Seconds. Attacks Also Apply 0.5s Stun. Stabs Into The Ground Every 30s Creating A Dark Fountain Dealing x5 AOE Damage To All Enemies In Range."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -4435,42 +4435,62 @@
       {
         "Price": 0,
         "Range": 25,
-        "Damage": 325000,
-        "Cooldown": 8,
+        "Damage": 85000,
+        "Cooldown": 3,
         "Slow": 0,
-        "SlowTime": 1.5
+        "SlowTime": 0.5,
+        "SoulLeak": 1.2,
+        "SoulLeakTime": 3,
+        "Bleed": 0.5,
+        "BleedTime": 3
+      },
+      {
+        "Price": 800000,
+        "Range": 30,
+        "Damage": 95000,
+        "Cooldown": 3,
+        "Slow": 0,
+        "SlowTime": 0.5,
+        "SoulLeak": 1.2,
+        "SoulLeakTime": 3,
+        "Bleed": 0.5,
+        "BleedTime": 3
+      },
+      {
+        "Price": 900000,
+        "Range": 35,
+        "Damage": 105000,
+        "Cooldown": 3,
+        "Slow": 0,
+        "SlowTime": 0.5,
+        "SoulLeak": 1.2,
+        "SoulLeakTime": 3,
+        "Bleed": 0.5,
+        "BleedTime": 3
+      },
+      {
+        "Price": 1000000,
+        "Range": 40,
+        "Damage": 115000,
+        "Cooldown": 3,
+        "Slow": 0,
+        "SlowTime": 0.5,
+        "SoulLeak": 1.2,
+        "SoulLeakTime": 3,
+        "Bleed": 0.5,
+        "BleedTime": 3
       },
       {
         "Price": 1250000,
-        "Range": 30,
-        "Damage": 350000,
-        "Cooldown": 8,
-        "Slow": 0,
-        "SlowTime": 1.5
-      },
-      {
-        "Price": 1500000,
-        "Range": 35,
-        "Damage": 375000,
-        "Cooldown": 8,
-        "Slow": 0,
-        "SlowTime": 1.5
-      },
-      {
-        "Price": 2000000,
-        "Range": 40,
-        "Damage": 400000,
-        "Cooldown": 8,
-        "Slow": 0,
-        "SlowTime": 1.5
-      },
-      {
-        "Price": 3000000,
         "Range": 45,
-        "Damage": 425000,
-        "Cooldown": 8,
+        "Damage": 155000,
+        "Cooldown": 3,
         "Slow": 0,
-        "SlowTime": 1.5
+        "SlowTime": 0.5,
+        "SoulLeak": 1.2,
+        "SoulLeakTime": 3,
+        "Bleed": 0.5,
+        "BleedTime": 3
       }
     ]
   },
