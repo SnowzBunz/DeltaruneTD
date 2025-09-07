@@ -1,0 +1,40 @@
+{
+    "On": false,
+    "Message": "x2 Luck Event",
+    "Luck": 2,
+    "UpdateTimerStart": 0
+}
+{
+    "On": false,
+    "Message": "x2 Coin Event",
+    "Coins": 2,
+    "UpdateTimerStart": 0
+}
+{
+    "On": false,
+    "Message": "x2 Soul Event",
+    "Souls": 2,
+    "UpdateTimerStart": 0
+}
+{
+    "On": false,
+    "Message": "x2 Coins & Luck Event",
+    "Coins": 2,
+    "Luck": 2,
+    "UpdateTimerStart": 0
+}
+{
+    "On": false,
+    "Message": "2x Everything Event",
+    "Luck": 2,
+    "Coins": 2,
+    "Souls": 2,
+    "UpdateTimerStart": 0
+}
+{
+    "On": false,
+    "Message": "3x Luck & Coins Event",
+    "Luck": 3,
+    "Coins": 3,
+    "UpdateTimerStart": 0
+}
