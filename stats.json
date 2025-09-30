@@ -5,6 +5,8 @@
         "Rarity": "Common",
         "PlacePrice": 250,
         "Max": 3,
+        "AttackSound": "rbxassetid://0",
+        "PassiveSound": "rbxassetid://0",
         "Passive": {
             "Name": "The Fun Gang",
             "Description": "When On The Same Team With Ralsei And Susie, Kris will deal +125% Damage"
@@ -48,6 +50,8 @@
         "Rarity": "Uncommon",
         "PlacePrice": 750,
         "Max": 2,
+        "AttackSound": "rbxassetid://0",
+        "PassiveSound": "rbxassetid://0",
         "Passive": {
             "Name": "Rude Buster",
             "Description": "Every 3rd Attack Deals 2x Damage. +50% Damage If On The Same Team As Lightworld/Darkworld Noelle."
@@ -91,6 +95,8 @@
         "Rarity": "Uncommon",
         "PlacePrice": 250,
         "Max": 3,
+        "AttackSound": "rbxassetid://0",
+        "PassiveSound": "rbxassetid://0",
         "NoEnemyAttack": true,
         "Passive": {
             "Name": "Dark Prince Magic",
@@ -143,6 +149,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 7500,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Sweet Ride",
             "Description": "Every 10s Lancer Summons a clone of his bike that deals 500 damage every 0.25 seconds (Max 5 On Field), with health being 2x of lancers current damage."
@@ -222,6 +230,8 @@
     "Rarity": "Epic",
     "PlacePrice": 5000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Snowgrave",
             "Description": "Every 30s Noelles Next 3 Attacks Will Stun For 2.5 seconds, Dealing x5 Damage To Each Enemy"
@@ -265,6 +275,8 @@
     "Rarity": "Epic",
     "PlacePrice": 1500,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "NoEnemyAttack": true,
     "Passive": {
             "Name": "Travelers... Would You Like A Gift...?",
@@ -317,6 +329,8 @@
     "Rarity": "Gold",
     "PlacePrice": 17500,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Go forth!! My Squeakie Duckie!!",
             "Description": "Every 25s Rouxls Kaard will explode a random enemy with the thrash machine, Dealing x5 Of His Current Damage To it and dealing x2 damage to all enemies near the explosion"
@@ -360,6 +374,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 25000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Dance Party",
             "Description": "Every 15s Sweet Cap'n Cakes will throw a dance party, stunning all enemies in range for 2.5s"
@@ -446,6 +462,8 @@
     "Rarity": "Gold",
     "PlacePrice": 5000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Queen's Mansion",
             "Description": "Swatch Gives All Towers In Range A +25% Damage Boost, and Generates 5000->10000 Cash Every Wave."
@@ -497,6 +515,8 @@
     "Rarity": "Common",
     "PlacePrice": 500,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "NoEnemyAttack": true,
     "Passive": {
             "Name": "Training Manual",
@@ -549,6 +569,14 @@
     "Rarity": "Unique",
     "PlacePrice": 65000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Tasks assigned, tasks complete!",
+    "VoiceLineAttackCaptions": "Productivity!",
+    "VoiceLineSellCaptions": "Workday over.",
     "Passive": {
             "Name": "Order! Order!",
             "Description": "Attacks Stun Enemies for 0.5 Seconds, chaining up to 15 nearby enemies."
@@ -604,6 +632,8 @@
     "Rarity": "Gold",
     "PlacePrice": 5000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Two heads are better than one! Three... maybe not.",
             "Description": "Attacks Hit 3 times."
@@ -647,6 +677,8 @@
     "Rarity": "Epic",
     "PlacePrice": 2000,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Circut Malfunction",
             "Description": "Every 10s Werewire Places A Glitched Trap That Deals x25 Damage To The First Enemy To Walk On It, Also Dealing 1s Darkened Stun. Trap Cooldown Cannot Be Changed. (Max 100 Traps On Field)"
@@ -690,6 +722,8 @@
     "Rarity": "Gold",
     "PlacePrice": 1500,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Computer Virus",
             "Description": "All Towers In Range Of This Unit Are Given A +10% Damage Boost (20% If Shiny), and Enemies In Range Are Given 5% Soul Leak (10% If Shiny)"
@@ -753,6 +787,8 @@
     "Rarity": "Gold",
     "PlacePrice": 25000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Aggressive Anti-Virus",
             "Description": "Enemies Hit by Ambyu-Lance are given 45% Slow"
@@ -804,6 +840,8 @@
     "Rarity": "Gold",
     "PlacePrice": 500,
     "Max": 4,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Criminal Virus",
             "Description": "Attacks Apply 25% Slow"
@@ -855,6 +893,8 @@
     "Rarity": "Gold",
     "PlacePrice": 1000,
     "Max": 8,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "meowowow meowowow meowowow meowowow",
             "Description": "Enemies Hit by Tasque are given 5% SoulLeak For 1s."
@@ -906,6 +946,8 @@
     "Rarity": "Uncommon",
     "PlacePrice": 200,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -945,6 +987,8 @@
     "Rarity": "Epic",
     "PlacePrice": 5000,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Warmify",
             "Description": "Swatchling Deals 50% Burn Damage Over 3 Seconds, 100% Burn Damage If Swatch Is On The Same Team."
@@ -996,6 +1040,8 @@
     "Rarity": "Gold",
     "PlacePrice": 33333,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Broken Free From Their Control",
             "Description": "Attacks Chain Up to 5 Nearby Enemies, giving them 50% Slow for 2.5 seconds."
@@ -1051,6 +1097,8 @@
     "Rarity": "Uncommon",
     "PlacePrice": 600,
     "Max": 4,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Bake Sale",
             "Description": "All Towers In Range Of Rudinn are Given a +25% Cash Boost."
@@ -1098,6 +1146,8 @@
     "Rarity": "Epic",
     "PlacePrice": 2000,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "What? Only a Support Unit!?",
             "Description": "All Towers In Range Of This Unit Are Given A +20% Damage Boost (40% If Shiny)."
@@ -1149,6 +1199,8 @@
     "Rarity": "Uncommon",
     "PlacePrice": 1250,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -1188,6 +1240,8 @@
     "Rarity": "Common",
     "PlacePrice": 800,
     "Max": 6,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -1227,6 +1281,8 @@
     "Rarity": "Epic",
     "PlacePrice": 25000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Checker Dance",
             "Description": "K. Round's Attacks Deal 3x More Damage To Enemies With 20% Or Less Health. Does Not Effect Bosses/Mini-Bosses."
@@ -1270,6 +1326,8 @@
     "Rarity": "Uncommon",
     "PlacePrice": 2600,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -1309,6 +1367,8 @@
     "Rarity": "Uncommon",
     "PlacePrice": 500,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Blown Away!",
             "Description": "Rabbick gives all towers in range a +10% Damage Boost (20% If Shiny) and a +5% CoolDown Reduction (10% If Shiny)."
@@ -1368,6 +1428,14 @@
     "Rarity": "Unique",
     "PlacePrice": 100000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "I CAN DO ANYTHING!!",
+    "VoiceLineAttackCaptions": "Chaos, chaos!!",
+    "VoiceLineSellCaptions": "The game ends here…",
     "Passive": {
             "Name": "CHAOS! CHAOS!",
             "Description": "Jevils Attacks Instantly Kill Enemies With 25% or Less Health, and Bosses with 10% Or Less Health"
@@ -1411,6 +1479,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 45000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "I'M THE BAD GUY!!!",
             "Description": "All CH1 Towers In Range Of King Are Given A +32.5% Damage Boost (65% If Shiny), and Enemies Hit by King Are Given 10% SoulLeak (20% If Shiny)"
@@ -1474,6 +1544,8 @@
     "Rarity": "Gold",
     "PlacePrice": 7500,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Study Buddies",
             "Description": "Berdly Deals +50% More Damage if paired with Noelle. +250% Damage If Paired With Noelle, Kris, And Susie."
@@ -1517,6 +1589,14 @@
     "Rarity": "Unique",
     "PlacePrice": 150000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "LOOKS LIKE YOU NEED A [[BIG SHOT]]!",
+    "VoiceLineAttackCaptions": "HYPERLINK BLOCKED!!",
+    "VoiceLineSellCaptions": "DON’T LEAVE ME, KID!!",
     "Passive": {
             "Name": "[[BIGGER AND BETTER THAN EVER!!]]",
             "Description": "Every 30s Spamton NEO Becomes Enraged, Dealing 3x More Damage For 10s And Making Attacks Apply 3s Darkened Stun."
@@ -1560,6 +1640,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 75000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "It's Just A Duck?",
             "Description": "Attacks Apply 100% Anti-Regen For 10 Seconds, and Enemies Hit by Thrash Machine are given 40% Slow for 3 seconds."
@@ -1619,6 +1701,8 @@
     "Rarity": "Gold",
     "PlacePrice": 2250,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "CatchX",
             "Description": "Attacks Trap Enemies Stunning Them For 0.1 Seconds."
@@ -1670,6 +1754,8 @@
     "Rarity": "Common",
     "PlacePrice": 250,
     "Max": 8,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -1709,6 +1795,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 54729,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Serial Number: Q5U4EX7YY2E9N",
             "Description": "Every 15s Queen Throws A Puddle Of Acid From Her Cup At A Random Enemy, Dealing 2x Of Her Damage In Splash, Applying 100% Darkness To Effected Enemies For 5s"
@@ -1752,6 +1840,8 @@
     "Rarity": "Common",
     "PlacePrice": 500,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Saxophone",
             "Description": "For Every Enemy In Range of Shadowguy, Increase Damage by 5% (Max 50%)"
@@ -1795,6 +1885,8 @@
     "Rarity": "Gold",
     "PlacePrice": 12500,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Pose For The Camera!",
             "Description": "Attacks Stun Enemies for 1 second."
@@ -1846,6 +1938,8 @@
     "Rarity": "Gold",
     "PlacePrice": 10000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "The Weather Always Sticks Together.",
             "Description": "Lanino Does +100% Damage If Paired With Elnina, and +250% Damage If Paired With Elnina And Rouxls Kaard."
@@ -1889,6 +1983,8 @@
     "Rarity": "Gold",
     "PlacePrice": 10000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "The Weather Always Sticks Together.",
             "Description": "Elnina Does +50% Damage If Paired With Lanino, and +150% Damage If Paired With Lanino And Rouxls Kaard."
@@ -1932,6 +2028,8 @@
     "Rarity": "Epic",
     "PlacePrice": 1250,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Turn Off",
             "Description": "Enemys Hit By Zapper Are Given 25% Slow For 2 Seconds And 0.1s Stun."
@@ -1983,6 +2081,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 50000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Metaphysical Challenge",
             "Description": "Every 15s, Picks The Strongest Enemy In Tenna's range And Traps Them In A Ball Dealing Darkened Stun For 3s, And Dealing x10 Damage To Them. Excludes Bosses/Mini-Bosses."
@@ -2026,6 +2126,8 @@
     "Rarity": "Epic",
     "PlacePrice": 600,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Card Reader",
             "Description": "Attacks Deal 2x More Damage If Theres More Than 10 Enemies In Range."
@@ -2069,6 +2171,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 999999,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Gerson's Wisdom",
             "Description": "Im Old!"
@@ -2120,7 +2224,7 @@
         "Price": 999999,
         "Range": 25,
         "Damage": 1000000,
-        "Cooldown": 5
+        "Cooldown": 4
       }
     ]
   },
@@ -2130,6 +2234,14 @@
     "Rarity": "Unique",
     "PlacePrice": 250000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Water You Doing?",
+    "VoiceLineAttackCaptions": "Glory To Me.",
+    "VoiceLineSellCaptions": "Cease, Peasents",
     "Passive": {
             "Name": "Glory. Glory.",
             "Description": "Every Attack Miss Mizzle has a 10% Chance To Use a BitterTear Stunning All Enemies In Range For 5 Seconds, and Dealing 250% of Miss Mizzle's Damage in Darkness."
@@ -2173,6 +2285,8 @@
     "Rarity": "Epic",
     "PlacePrice": 5000,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Mist",
             "Description": "Mizzle Deals +25% Damage For Every Miss Mizzle Or WaterCooler In Range (Max 100%)"
@@ -2216,6 +2330,8 @@
     "Rarity": "Epic",
     "PlacePrice": 850,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "NoEnemyAttack": true,
     "Passive": {
             "Name": "Mysterious Ringing",
@@ -2268,6 +2384,14 @@
     "Rarity": "Unique",
     "PlacePrice": 250000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "The dark shall rise.",
+    "VoiceLineAttackCaptions": "The Wind is Howling!",
+    "VoiceLineSellCaptions": "The roar fades…",
     "Passive": {
             "Name": "Suddenly, the north and east winds blew fiercely.",
             "Description": "Every 5s The Roaring Knight Picks The Currently Targeted Enemy And Instantly Kills Them (x50 Damage & 3s Darkened Stun To Bosses & Mini-Bosses)."
@@ -2311,6 +2435,14 @@
     "Rarity": "Forgotten",
     "PlacePrice": 500000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Protecting The Fountain.",
+    "VoiceLineAttackCaptions": "Must... Kill... All... Lightners...",
+    "VoiceLineSellCaptions": "The legend... falls silent.",
     "Passive": {
             "Name": "The Last Guardian Of The Sanctuary.",
             "Description": "Attacks Apply 25% SoulLeak For 5 Seconds. Every 60 Seconds, The Titan Will Charge Up His Eye Beam For 3s And Deal 3x His Current Damage Every 0.25 For 5s As Pierce, The Titan Can Not Attack While Charging Up And Using His Eye Beam."
@@ -2378,6 +2510,14 @@
     "Rarity": "Forgotten",
     "PlacePrice": 374363,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Darker Than Dark...",
+    "VoiceLineAttackCaptions": "Random Gurgling",
+    "VoiceLineSellCaptions": "Random Laugh",
     "Passive": {
             "Name": "The Tail Of Hell Begins To Crawl...",
             "Description": "Enemies Hit By IMAGE_FRIEND Are Given 65% Slow For 3 Seconds."
@@ -2437,6 +2577,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 25000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "NoEnemyAttack": true,
     "Passive": {
             "Name": "The Scent Of Mist Emits From Nearby",
@@ -2505,6 +2647,8 @@
     "Rarity": "Epic",
     "PlacePrice": 1250,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "NoEnemyAttack": true,
     "Passive": {
             "Name": "Butterscotch Cinnamon Pie",
@@ -2557,6 +2701,8 @@
     "Rarity": "Gold",
     "PlacePrice": 7500,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Holiday Season",
             "Description": "All Enemies In Range Are Slowed by 65%."
@@ -2608,6 +2754,8 @@
     "Rarity": "Gold",
     "PlacePrice": 25000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "STOP! POLICE!",
             "Description": "Enemies Hit By Undyne Are Slowed by 50%."
@@ -2651,6 +2799,14 @@
     "Rarity": "Unique",
     "PlacePrice": 350,
     "Max": 10,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Bark bark!",
+    "VoiceLineAttackCaptions": "Yip! Yip!",
+    "VoiceLineSellCaptions": "Woof!",
     "NoEnemyAttack": true,
     "Passive": {
             "Name": "Toby Is That You?",
@@ -2711,6 +2867,8 @@
     "Rarity": "Gold",
     "PlacePrice": 27500,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Asgore Found Freedom In His Heartache",
             "Description": "Every Third Attack Deals 2x Damage And Applies 15% SoulLeak And 50% Slow."
@@ -2754,6 +2912,8 @@
     "Rarity": "Epic",
     "PlacePrice": 1500,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "NoEnemyAttack": true,
     "Passive": {
             "Name": "Asriel II",
@@ -2806,6 +2966,8 @@
     "Rarity": "Epic",
     "PlacePrice": 2700,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Are Things Getting Hot In Here?",
             "Description": "Attacks Apply 50% Burn Damage Over 2 Seconds"
@@ -2857,6 +3019,8 @@
     "Rarity": "Uncommon",
     "PlacePrice": 2350,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -2896,6 +3060,8 @@
     "Rarity": "Epic",
     "PlacePrice": 25000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Huh-hah! Let's feel my technique!",
             "Description": "Attacks Give Enemies 25% Slow For 3 Seconds And 1 Second of Stun"
@@ -2947,6 +3113,8 @@
     "Rarity": "Gold",
     "PlacePrice": 35000,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "NoEnemyAttack": true,
     "Passive": {
             "Name": "Everyone Loves Nubert",
@@ -3007,6 +3175,8 @@
     "Rarity": "Epic",
     "PlacePrice": 1500,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Code Breaker",
             "Description": "Enemies Hit by Hacker Are Given 35% Slow"
@@ -3058,6 +3228,8 @@
     "Rarity": "Common",
     "PlacePrice": 200,
     "Max": 4,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -3094,9 +3266,17 @@
   "Giga Queen": {
     "Type": "Nuke Stun + Passive",
     "Image": "rbxassetid://131226586458594",
-    "Rarity": "Legendary",
+    "Rarity": "Unique",
     "PlacePrice": 75000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Round 1! FIGHT!",
+    "VoiceLineAttackCaptions": "Ohohohohoho!",
+    "VoiceLineSellCaptions": "Back To The Mansion!",
     "Passive": {
             "Name": "Round 1!",
             "Description": "Attacks Stun Enemies For 1 Second. Every 3rd Attack, Giga Queen Throws a Comically Large Baseball That Does x15 Splash Damage And 100% Anti-Regen."
@@ -3148,6 +3328,14 @@
     "Rarity": "Unique",
     "PlacePrice": 44444,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Gyaa! Ha Ha! Is that all you got kid?",
+    "VoiceLineAttackCaptions": "Judgment strike!",
+    "VoiceLineSellCaptions": "Justice… adjourned.",
     "Passive": {
             "Name": "Dual Buster",
             "Description": "Gains +0.5% Damage For Every 1 Health Lost From Your Base. Every 3rd Attack Breaks All Armor/Defense On Hit Enemies And Deals 2x Damage."
@@ -3197,6 +3385,8 @@
     "Rarity": "Gold",
     "PlacePrice": 10000,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Away At College",
             "Description": "Asriel Deals 100% More Damage If Paired With Dess Or Any Dreemurr Family Unit."
@@ -3240,6 +3430,14 @@
     "Rarity": "Forgotten",
     "PlacePrice": 103118,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "…",
+    "VoiceLineAttackCaptions": "Reality cracking... At Its Seams",
+    "VoiceLineSellCaptions": "The void calls me back.",
     "Passive": {
             "Name": "VERY VERY INTERESTING...",
             "Description": "Every 30 Seconds (Global Cooldown) Gaster Will Summon A Fountain At A Random Exit for 5 Seconds, Causing enemies that walk into it To Teleport Back To Their Original Entrance With 50% Of Their Health Removed."
@@ -3289,6 +3487,14 @@
     "Rarity": "Forgotten",
     "PlacePrice": 50000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Empty… but still moving.",
+    "VoiceLineAttackCaptions": "Release.",
+    "VoiceLineSellCaptions": "Hollow once more.",
     "NoEnemyAttack": true,
     "Passive": {
             "Name": "YOUR CREATION...",
@@ -3331,8 +3537,16 @@
     "Type": "AOE Burn + Summoner",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
-    "PlacePrice": 518113,
+    "PlacePrice": 118113,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Well Done Kris.",
+    "VoiceLineAttackCaptions": "Random Laughing",
+    "VoiceLineSellCaptions": "Ill be Back Kris.",
     "Passive": {
             "Name": "Shadow Mantle...?",
             "Description": "Attacks Apply 100% Burn For 1s. Every 15s ERAM Spawns a FRIEND With x50 Of His Current Damage As Its Health"
@@ -3400,6 +3614,14 @@
     "Rarity": "Forgotten",
     "PlacePrice": 12250,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Heh, I’m here to cause some chaos!",
+    "VoiceLineAttackCaptions": "Bang, bang!",
+    "VoiceLineSellCaptions": "Party’s over? Lame.",
     "Passive": {
             "Name": "A Lost... Lost... Girl...",
             "Description": "Enemies (20 -> 10) Mini-Bosses (50 -> 25) And Bosses (100 -> 50) Do 50% Less Damage When Reaching The Exit."
@@ -3455,6 +3677,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 6453,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "WHOS MIKE!?!",
             "Description": "Small Mike Will Deal 50% More Damage If Paired With Any Other Mike, 100% If Paired With Both Other Mikes."
@@ -3498,6 +3722,14 @@
     "Rarity": "Unique",
     "PlacePrice": 100000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "HELLO FRAINDS!!!",
+    "VoiceLineAttackCaptions": "OAUCH!!",
+    "VoiceLineSellCaptions": "GOODBYE FRAINDS...",
     "Passive": {
             "Name": "YOUR TAKING TOO LONG",
             "Description": "Every 5s Jackenstein Will Spawn A Scairy That Has x5 His Current Damage As Its Health"
@@ -3557,6 +3789,8 @@
     "Rarity": "Epic",
     "PlacePrice": 3000,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -3596,6 +3830,14 @@
     "Rarity": "Unique",
     "PlacePrice": 1500,
     "Max": 8,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Riddle me this…",
+    "VoiceLineAttackCaptions": "Ancient strike!",
+    "VoiceLineSellCaptions": "The sands reclaim me.",
     "NoEnemyAttack": true,
     "Passive": {
             "Name": "Give Me My Q's!",
@@ -3664,6 +3906,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 50000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "WHOS MIKE!?!",
             "Description": "Cat Mike Will Deal 50% More Damage If Paired With Any Other Mike, 100% If Paired With Both Other Mikes."
@@ -3707,6 +3951,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 25000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "WHOS MIKE!?!",
             "Description": "Cowboy Hat Mike Will Deal 50% More Damage If Paired With Any Other Mike, 100% If Paired With Both Other Mikes."
@@ -3750,6 +3996,14 @@
     "Rarity": "Unique",
     "PlacePrice": 75000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Do You Hear It?",
+    "VoiceLineAttackCaptions": "Order through sound!",
+    "VoiceLineSellCaptions": "Silenced.",
     "NoEnemyAttack": true,
     "Passive": {
             "Name": "Ripple",
@@ -3798,6 +4052,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 1500,
     "Max": 6,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "WHY DIDN'T YOU PUSH HIM?",
             "Description": "Attacks Have A 33.3% Chance To Cause A Random Effect (50% Slow For 1s, 0.5s Stun, 15% SoulLeak For 1s)"
@@ -3841,6 +4097,8 @@
     "Rarity": "Gold",
     "PlacePrice": 300,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Slumber Party!",
             "Description": "All Towers In Range Are Given a 25% Cooldown Reduction (50% If Shiny)"
@@ -3892,6 +4150,8 @@
     "Rarity": "Gold",
     "PlacePrice": 5000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Dodge!",
             "Description": "Boosts All Summoners And Cowboy Units By 50% Damage."
@@ -3935,6 +4195,8 @@
     "Rarity": "Gold",
     "PlacePrice": 15000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Sound Check!",
             "Description": "Every 3rd Attack Deals x4 Damage And Applies 60% Slow For 3 Seconds."
@@ -3978,6 +4240,8 @@
     "Rarity": "Gold",
     "PlacePrice": 1750,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Popularity!",
             "Description": "This Unit Gains A +25% Damage Increase For Every Tower Placed In Its Range (Max 100%). Attacks Deal +100% Burn Damage Over 2 Seconds."
@@ -4029,6 +4293,14 @@
     "Rarity": "Unique",
     "PlacePrice": 50000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Dinner is served!",
+    "VoiceLineAttackCaptions": "Chop chop!",
+    "VoiceLineSellCaptions": "Kitchen closed.",
     "Passive": {
             "Name": "IT'S TV TIME!",
             "Description": "Attacks Deal 300% Burn Damage Over 1 Second."
@@ -4080,6 +4352,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 40000,
     "Max": 4,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Ralsei Rancher Was Unlocked For Your Castle Town",
             "Description": "Every 15s Horse Ralsei Summons a Mini Version Of Himself That Has x50 Health of His Current Damage."
@@ -4139,6 +4413,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 84000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "SHOOT THAT LITTLE MAILMAN!!",
             "Description": "Attacks Apply 15% SoulLeak for 1s. +100% More Damage If Paired With Spamton, Scampton The Great Or Spamton NEO"
@@ -4190,6 +4466,8 @@
     "Rarity": "Common",
     "PlacePrice": 750,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Holiday Spirit",
             "Description": "Noelles Attacks Stun For 0.1 Seconds."
@@ -4241,6 +4519,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 40000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "The Legend",
             "Description": "Ralsei's Attacks Apply 65% Slow For 5 Seconds. Every 5 Kills Heals Your Base By +1 (Max 100 Heals Per Placement)"
@@ -4292,6 +4572,8 @@
     "Rarity": "Uncommon",
     "PlacePrice": 3445,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Before The Story",
             "Description": "Kris Deals +50% Damage if Paired With Any Lightworld Troops"
@@ -4335,6 +4617,8 @@
     "Rarity": "Gold",
     "PlacePrice": 8500,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Chalk",
             "Description": "Susie Deals +100% More Damage To Enemys In A 10 Stud Radius Of Her"
@@ -4378,6 +4662,8 @@
     "Rarity": "Common",
     "PlacePrice": 1350,
     "Max": 4,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Bluebird Of Misfortune",
             "Description": "Deals +25% More Damage For The First 5 Rounds Of Placement"
@@ -4421,9 +4707,17 @@
     "Rarity": "Forgotten",
     "PlacePrice": 750000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "I’ll protect you… even like this!",
+    "VoiceLineAttackCaptions": "LIGHT, STRIKE TRUE!",
+    "VoiceLineSellCaptions": "I… can’t hold this form forever.",
     "Passive": {
             "Name": "A Dark.. Dark... Dark.. Prince Has Awoken...",
-            "Description": "Attacks Apply 20% SoulLeak For 3 Seconds And 50% Regen For 3 Seconds. Attacks Also Apply 0.5s Stun. Stabs Into The Ground Every 30s Creating A Dark Fountain Dealing x5 AOE Damage To All Enemies In Range."
+            "Description": "Attacks Apply 20% SoulLeak For 3 Seconds And 50% Regen For 3 Seconds. Attacks Also Apply 0.5s Stun. Stabs Into The Ground Every 30s Creating A Dark Fountain Dealing x5 AOE Damage To All Enemies In Range. (Voice Actor: SnowzBunz)"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -4500,6 +4794,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 101000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "SCARED OF A LITTLE [Change of perspective?]",
             "Description": "Every 5th Attack Perrys A Single Enemy Hit, Turning Them Around With 25% Of Their Health Restored And Making Them Walk Towards The Closet Entrance. (Perrys Do x10 Damage To Bosses)"
@@ -4543,6 +4839,14 @@
     "Rarity": "Unique",
     "PlacePrice": 135000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "TIME TO SMASH!!",
+    "VoiceLineAttackCaptions": "RAAARGH!!",
+    "VoiceLineSellCaptions": "Aw, I was having fun!",
     "Passive": {
             "Name": "The Atomic Roar Of Darkness And Annihilation",
             "Description": "Susiezilla Charges Her Beam For 5s Causing A Pierce Beam Dealing 2x Her Current Damage In Darkness Every 0.25s For 5s. 45s Recharge."
@@ -4586,6 +4890,8 @@
     "Rarity": "Gold",
     "PlacePrice": 250000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "The Upper Hand",
             "Description": "Every 60s HANDROMEDA Drops Stars From The Sky Dealing an 5x AOE Attack To All Enemies In Range."
@@ -4629,6 +4935,14 @@
     "Rarity": "Unique",
     "PlacePrice": 25000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Ones trouble, twos chaos!",
+    "VoiceLineAttackCaptions": "Chaos Cash strike!",
+    "VoiceLineSellCaptions": "The band breaks up.",
     "Passive": {
             "Name": "The Deals Revolving",
             "Description": "Spamton Applies 50% Darkness For 1s And 50% Slow To All Enemies In Range, While Jevil Does A 5x AOE Attack Every 30s That Deals 10% SoulLeak For 5s."
@@ -4688,6 +5002,8 @@
     "Rarity": "Epic",
     "PlacePrice": 1250,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Mama Miba! Mama SHIBA!",
             "Description": "Attacks Apply 100% Burn For 1 Second"
@@ -4739,6 +5055,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 6000,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "A Fathers Love",
             "Description": "Rudolph Holiday Boosts All Units Damage In Range By 25% (50% Shiny) And Does 10% AOE SoulLeak"
@@ -4798,6 +5116,14 @@
     "Rarity": "Unique",
     "PlacePrice": 40000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "I… I’ll do it!",
+    "VoiceLineAttackCaptions": "Snowgrave? I... I Dont Know That Spell...",
+    "VoiceLineSellCaptions": "I can’t… anymore…",
     "Passive": {
             "Name": "The Frozen Heart",
             "Description": "Noelles Damage And Slow Amount Ramp Up Based On More Enemies In Range, With A Minimum Of 1x More Damage And 50% Slow, Up to 2.5x More Damage And 70% Slow At 15+ Enemies."
@@ -4877,6 +5203,14 @@
     "Rarity": "Unique",
     "PlacePrice": 60000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Classy and deadly.",
+    "VoiceLineAttackCaptions": "Tip of the hat!",
+    "VoiceLineSellCaptions": "Leaving in style.",
     "Passive": {
             "Name": "Welcome to the Hall Of Fame!",
             "Description": "Attacks Apply 0.5s Stun, Every 30s Tophat Tenna Adds A random enemy to the hall of fame, Causing Them To Take 2x More Damage For Their Entire Life Duration"
@@ -4928,9 +5262,17 @@
     "Rarity": "Unique",
     "PlacePrice": 3000,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Pick up the phone spamton...",
+    "VoiceLineAttackCaptions": "Its Ringing.",
+    "VoiceLineSellCaptions": "Call ended.",
     "Passive": {
             "Name": "It Pulls The Strings And Makes Them Ring",
-            "Description": "All Enemies In Range Are Slowed By 60%. The Phone Rings every 10s, Dealing 3s Stun."
+            "Description": "All Enemies In Range Are Slowed By 60%. The Phone Rings every 10s, Dealing 3s Stun. (Voice Actor: -)"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -4979,6 +5321,8 @@
     "Rarity": "Uncommon",
     "PlacePrice": 650,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -5018,6 +5362,8 @@
     "Rarity": "Epic",
     "PlacePrice": 3500,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -5057,6 +5403,8 @@
     "Rarity": "Gold",
     "PlacePrice": 7500,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Cat Got Your Tail?",
             "Description": "Attacks Stun For 0.5s, 50% Slow Is Applied If Paired With Bratty"
@@ -5100,6 +5448,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 30000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "An ancient aromancer, it generates magic incense and stores it in its steel shell.",
             "Description": "Attacks Apply 100% Darkness for 1 second."
@@ -5151,6 +5501,14 @@
     "Rarity": "Unique",
     "PlacePrice": 10000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Knowledge is my weapon.",
+    "VoiceLineAttackCaptions": "Turn the page…",
+    "VoiceLineSellCaptions": "The story ends here.",
     "Passive": {
             "Name": "A worldly wizard that casts spells by spelling. Unfortunately prone to typos.",
             "Description": "50% Chance For Attacks To Completely Remove Anti-Magic, Anti-Slow, Anti-Bleed, Anti-Stun, Armor, Shielded Defense And Anti-SoulLeak On Hit Enemies."
@@ -5194,6 +5552,14 @@
     "Rarity": "Forgotten",
     "PlacePrice": 50000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Wings of steel, blades of fate.",
+    "VoiceLineAttackCaptions": "Open Your Eyes...",
+    "VoiceLineSellCaptions": "The wind carries me away.",
     "Passive": {
             "Name": "A radical blade with feathers at the hilt.",
             "Description": "Attacks Apply 65% Slow For 3s, When Hitting an air enemy, Winglade deals 2x damage and turns them into a ground enemy."
@@ -5245,6 +5611,8 @@
     "Rarity": "Gold",
     "PlacePrice": 300,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "This guy just loves dancing so much it slows everyone around him!",
             "Description": "Attacks Apply 30% Slow For 3 Seconds."
@@ -5296,6 +5664,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 12500,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "No Longer Powering the CORE, Only Destruction.",
             "Description": "Throws Blocks Of ice At Enemies, Stunning them for 1s and applying 65% slow for 5s."
@@ -5347,6 +5717,8 @@
     "Rarity": "Gold",
     "PlacePrice": 22500,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -5386,6 +5758,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 3000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Unpredictabell",
             "Description": "Attacks Stun For 1s"
@@ -5437,6 +5811,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 750,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Summoned To Be A Guardian",
             "Description": "Attacks Slow By 50% For 3s, Deals +50% Damage If Paired With The Roaring Knight Or Titan"
@@ -5488,6 +5864,8 @@
     "Rarity": "Gold",
     "PlacePrice": 7500,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "This Dog Loves Bones!",
             "Description": "Attacks Slow By 50% For 3s"
@@ -5539,6 +5917,8 @@
     "Rarity": "Gold",
     "PlacePrice": 22500,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "This Dog Also Loves Bones! But Loves Destruction More!",
             "Description": "Attacks Deal 100% More Damage If Paired With Any Dog Unit."
@@ -5582,6 +5962,8 @@
     "Rarity": "Gold",
     "PlacePrice": 3500,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "You're Banned From Ham Sandwich Day!",
             "Description": "QC Earns 5000-10000 Cash Per Round, Generates 100-250 Cash Per Attack."
@@ -5633,6 +6015,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 17500,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Kris! Susie! Look! This fireworks the shape of my face!",
             "Description": "Attacks Apply 50% Burn Over 2s"
@@ -5684,6 +6068,14 @@
     "Rarity": "Unique",
     "PlacePrice": 100000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Kris! Shoot me into the sky!",
+    "VoiceLineAttackCaptions": "FIRE!",
+    "VoiceLineSellCaptions": "Aww, no more fun?",
     "Passive": {
             "Name": "Kris, Susie, Ralsei And Noelle Pair Up To Shoot Lancer Out Of Their Artillery Battery!",
             "Description": "Attacks Apply 2s Stun, 60% Slow For 5s And 10% SoulLeak For 5s."
@@ -5743,6 +6135,8 @@
     "Rarity": "Gold",
     "PlacePrice": 5997,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Happy new year 1997!",
             "Description": "Attacks Apply 19.97% SoulLeak For 1.997s"
@@ -5794,6 +6188,8 @@
     "Rarity": "Uncommon",
     "PlacePrice": 1000,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Pipis Nest",
             "Description": "Attacks Drop a Pipis Trap With x5 Damage."
@@ -5837,6 +6233,8 @@
     "Rarity": "Epic",
     "PlacePrice": 400,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -5876,6 +6274,8 @@
     "Rarity": "Gold",
     "PlacePrice": 30000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Holy Hymn Chanting",
             "Description": "Attacks Apply 0.5s Stun"
@@ -5919,6 +6319,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 10000,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Wish Upon A Star",
             "Description": "Nightlight Tenna Applies 75% Slow And 5% SoulLeak In a 90 Degree Cone."
@@ -5978,6 +6380,14 @@
     "Rarity": "Unique",
     "PlacePrice": 65000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Feel My Colors!",
+    "VoiceLineAttackCaptions": "Take this!",
+    "VoiceLineSellCaptions": "Rainbows Never Fail To Shine!",
     "Passive": {
             "Name": "Colors Of The Rainbow!",
             "Description": "Gains +35% Damage For Every Different Rarity On Your Team (Includes Herself)"
@@ -6021,6 +6431,14 @@
     "Rarity": "Forgotten",
     "PlacePrice": 40000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "DINNER IS [[SERVE-ED]]",
+    "VoiceLineAttackCaptions": "Eat up, CHUMP!",
+    "VoiceLineSellCaptions": "No DOGGY BAG??",
     "Passive": {
             "Name": "KRIS! ITS GETTING TOO [400 Degrees Fahrenheit] IN HERE!",
             "Description": "Attacks Apply 100% Burn Over 3 Seconds."
@@ -6072,6 +6490,8 @@
     "Rarity": "Gold",
     "PlacePrice": 4000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -6111,6 +6531,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 17000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Sleep To Skip Time?",
             "Description": "All Units In Range Get a 20% (40% Shiny) Cooldown Reduction"
@@ -6162,6 +6584,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 2000,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Debug Asset",
             "Description": "Attacks Glitch Out Enemys Causing Them To Take 0.1s Stun"
@@ -6213,6 +6637,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 250,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Glory To Our Princess!",
             "Description": "Attacks Apply 40% Slow And 5% SoulLeak For 3s"
@@ -6272,6 +6698,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 20000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Not The Original Starwalker",
             "Description": "Attacks Slow Enemies By 65% For 3s"
@@ -6323,6 +6751,8 @@
     "Rarity": "Gold",
     "PlacePrice": 7000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "LVL 3",
             "Description": "Gains +0.25% Damage For Every Kill, At A Max Of 25%"
@@ -6366,6 +6796,8 @@
     "Rarity": "Gold",
     "PlacePrice": 12500,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Trapped In An Endless Pain",
             "Description": "Attacks Deal 100% Darkness Over 1 Second"
@@ -6417,6 +6849,8 @@
     "Rarity": "Gold",
     "PlacePrice": 35000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Zzz",
             "Description": "If an enemy is in HERO_AXE's Range For More Than 10s, They Get 70% Slow."
@@ -6460,6 +6894,14 @@
     "Rarity": "Forgotten",
     "PlacePrice": 500000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "[[WELCOME TO HYPERLINK BLOCKED]]",
+    "VoiceLineAttackCaptions": "DEAL OF A LIFETIME!!!",
+    "VoiceLineSellCaptions": "NO REFUNDS—!!",
     "Passive": {
             "Name": "THIS [Big Shot Suit] IS EQUIPPED WITH OVER-THE-TOP [InternalHeating]!",
             "Description": "Attacks Execute Enemies Under 10% Health (5% Bosses/Mini-Bosses) And Apply 25% Burn For 1s. GIGA Spamton opens His CORE every 30s, Completely Executing Enemies Hit If Under 30% Health, If Not Then He Deals x30 Damage."
@@ -6511,6 +6953,8 @@
     "Rarity": "Epic",
     "PlacePrice": 5000,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "A True Flashy Salesman! Not a trashy Bigshot.",
             "Description": "All units in range are given a 20% (40% Shiny) Damage Boost."
@@ -6562,9 +7006,17 @@
     "Rarity": "Unique",
     "PlacePrice": 19970,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "CARS! DEALS! POWER!!",
+    "VoiceLineAttackCaptions": "TUNE-UP ATTACK!",
+    "VoiceLineSellCaptions": "Out of business already?!",
     "Passive": {
             "Name": "Welcome To Spamtons BIGSHOT Auto Repairs! BUY NOW BUY NOW!!",
-            "Description": "Attacks Stun For 0.5s. Summons a Bigshot Car Every 30s With x25 Health Of His Current Damage."
+            "Description": "Summons a Bigshot Car Every 30s With x25 Health Of His Current Damage."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -6621,9 +7073,11 @@
     "Rarity": "Gold",
     "PlacePrice": 2500,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Do you remember this kids name? Seriously i can't remember!",
-            "Description": "Gains 3000 Cash Per Wave."
+            "Description": "Gains 3000->6000 Cash Per Wave."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -6636,25 +7090,29 @@
         "Price": 0,
         "Range": 21,
         "Damage": 0,
-        "Cooldown": 1
+        "Cooldown": 1,
+        "FarmAmount": 3000
       },
       {
         "Price": 2750,
         "Range": 23,
         "Damage": 0,
-        "Cooldown": 1
+        "Cooldown": 1,
+        "FarmAmount": 4000
       },
       {
         "Price": 3000,
         "Range": 25,
         "Damage": 0,
-        "Cooldown": 1
+        "Cooldown": 1,
+        "FarmAmount": 5000
       },
       {
         "Price": 3250,
         "Range": 27,
         "Damage": 0,
-        "Cooldown": 1
+        "Cooldown": 1,
+        "FarmAmount": 6000
       }
     ]
   },
@@ -6664,6 +7122,14 @@
     "Rarity": "Forgotten", 
     "PlacePrice": 999999,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Let’s finish what we started.",
+    "VoiceLineAttackCaptions": "Stab. Slash. Repeat.",
+    "VoiceLineSellCaptions": "You think you’re safe without me?",
     "Passive": {
             "Name": "Genocide",
             "Description": "Every 9th Attack Deals 999% More Damage And Applies 5s Darkened Stun"
@@ -6707,6 +7173,14 @@
     "Rarity": "Unique",
     "PlacePrice": 7500,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Howdy! Ready to die?",
+    "VoiceLineAttackCaptions": "Kill or be killed!",
+    "VoiceLineSellCaptions": "You’ll regret this…",
     "Passive": {
             "Name": "Your Best Friend",
             "Description": "Attacks Chain Up To 5 Different Enemies. Every 25s Flowey Uses His Vines and grabs a random enemy, dealing 3x damage and stunning them for 5 seconds."
@@ -6754,6 +7228,14 @@
     "Rarity": "Unique",
     "PlacePrice": 185000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "heh. here we go.",
+    "VoiceLineAttackCaptions": "get dunked on.",
+    "VoiceLineSellCaptions": "guess i’ll take a break.",
     "Passive": {
             "Name": "You're gonna have a bad time.",
             "Description": "Every 30s Sans Spawns a Gaster Blaster dealing 4x Pierce Damage To The Nearest Enemy Every 0.25s For 3s. Attacks Apply 150% Darkness For 1 Second."
@@ -6805,6 +7287,8 @@
     "Rarity": "Epic",
     "PlacePrice": 5000,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Bonetrousle",
             "Description": "Attacks Slow By 50% For 2 Seconds."
@@ -6854,7 +7338,15 @@
     "Type": "Pierce Spread + Passive",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Forgotten",
-    "PlacePrice": 700000,
+    "PlacePrice": 300000,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "This time, I won’t fall!",
+    "VoiceLineAttackCaptions": "JUSTICE!",
+    "VoiceLineSellCaptions": "No… I’ll never stop fighting!",
     "Max": 1,
     "Passive": {
             "Name": "Battle Against A True Hero",
@@ -6907,6 +7399,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 14500,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Royal Scientist",
             "Description": "Alphys Spawns 4 Mettaton Turrets That Deal 2x Her Current Damage every 0.5s in single target."
@@ -6960,6 +7454,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 10000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Oh My...",
             "Description": "Mettaton Deals 200% More Damage To Enemies That Are Actively Being Burned, Or Have Darkness Applied To Them."
@@ -7003,6 +7499,14 @@
     "Rarity": "Unique",
     "PlacePrice": 95000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "For the kingdom… I must fight.",
+    "VoiceLineAttackCaptions": "Feel my trident!",
+    "VoiceLineSellCaptions": "Even kings must fall…",
     "Passive": {
             "Name": "Bergentrückung",
             "Description": "Attacks Apply 35% SoulLeak for 3 seconds. Every 3rd Attack Deals 300% More Damage And Applies 2s Darkened Stun"
@@ -7054,9 +7558,17 @@
     "Rarity": "Forgotten",
     "PlacePrice": 142000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "I will show you my true power.",
+    "VoiceLineAttackCaptions": "Feel the light of the end!",
+    "VoiceLineSellCaptions": "…Is this really goodbye?",
     "Passive": {
             "Name": "The Absolute GOD Of Hyperdeath!",
-            "Description": "Every 60s Asriel Dreemurr Charges Up Hyper Goner For 5s, Dealing 10x His Current Damage Every 0.25s As Pierce Spread for 10s. Asriel Dreemurr Cannot Attack While Charging Or Using Hyper Goner."
+            "Description": "Every 60s Asriel Dreemurr Charges Up Hyper Goner For 5s, Dealing 5x His Current Damage Every 0.25s As Pierce Spread for 7s. Asriel Dreemurr Cannot Attack While Charging Or Using Hyper Goner"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -7068,25 +7580,25 @@
       {
         "Price": 0,
         "Range": 30,
-        "Damage": 20000,
-        "Cooldown": 1
-      },
-      {
-        "Price": 175000,
-        "Range": 33,
         "Damage": 30000,
         "Cooldown": 1
       },
       {
-        "Price": 225000,
-        "Range": 36,
+        "Price": 175000,
+        "Range": 35,
         "Damage": 35000,
         "Cooldown": 1
       },
       {
+        "Price": 225000,
+        "Range": 40,
+        "Damage": 40000,
+        "Cooldown": 1
+      },
+      {
         "Price": 275000,
-        "Range": 39,
-        "Damage": 42500,
+        "Range": 45,
+        "Damage": 45000,
         "Cooldown": 1
       }
     ]
@@ -7097,6 +7609,8 @@
     "Rarity": "Gold",
     "PlacePrice": 5000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Heartache",
             "Description": "Attacks Deal 150% Burn Damage Over 1 Second. Deals x2 More Damage To Enemies That Are Actively Being Burned."
@@ -7148,6 +7662,8 @@
     "Rarity": "Common",
     "PlacePrice": 500,
     "Max": 4,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow Or Anything",
             "Description": "Attacks Slow By 25% For 2 Seconds"
@@ -7199,6 +7715,8 @@
     "Rarity": "Gold",
     "PlacePrice": 2000,
     "Max": 4,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "College Fund",
             "Description": "Gains 750->1500 Cash Every 10 Seconds."
@@ -7250,6 +7768,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 33333,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Death By Glamour",
             "Description": "Attacks Apply 100% Anti Regen for 3s, Mettaton EX Dances Every 35s Dealing A 5x AOE Attack Of His Current Damage"
@@ -7301,6 +7821,14 @@
     "Rarity": "Unique",
     "PlacePrice": 80000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "SHOWTIME!",
+    "VoiceLineAttackCaptions": "GLAM ATTACK!",
+    "VoiceLineSellCaptions": "The curtain falls…",
     "Passive": {
             "Name": "The Lights Are Blaring",
             "Description": "Decreases Your First Slots Placements by -1 But Gains +125% Damage, -15% Cooldown And +150% Range"
@@ -7344,6 +7872,14 @@
     "Rarity": "Unique",
     "PlacePrice": 99999,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "LET’S SEE HOW YOU HANDLE THIS!",
+    "VoiceLineAttackCaptions": "WRITHING VINES!!",
+    "VoiceLineSellCaptions": "You’re letting me go?!",
     "Passive": {
             "Name": "Your Best Nightmare",
             "Description": "Attacks Slow By 65% For 5s, Every 45s Photoshop Flowey Drops An AOE Bomb That Deals 10x Damage And 10s Of Stun To All Enemies In Range."
@@ -7395,6 +7931,8 @@
     "Rarity": "Gold",
     "PlacePrice": 10000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Amalgamation",
             "Description": "The Amalgamations Gain 0.5% Damage For Every Enemy Killed (Max 50%) and 0.5% For Every 1 Base HP Lost."
@@ -7438,6 +7976,8 @@
     "Rarity": "Gold",
     "PlacePrice": 10000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Amalgamation",
             "Description": "The Amalgamations Gain 0.5% Damage For Every Enemy Killed (Max 50%) and 0.5% For Every 1 Base HP Lost."
@@ -7481,6 +8021,8 @@
     "Rarity": "Gold",
     "PlacePrice": 10000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Amalgamation",
             "Description": "The Amalgamations Gain 0.5% Damage For Every Enemy Killed (Max 50%) and 0.5% For Every 1 Base HP Lost."
@@ -7524,6 +8066,8 @@
     "Rarity": "Gold",
     "PlacePrice": 10000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Amalgamation",
             "Description": "The Amalgamations Gain 0.5% Damage For Every Enemy Killed (Max 50%) and 0.5% For Every 1 Base HP Lost."
@@ -7567,6 +8111,8 @@
     "Rarity": "Epic",
     "PlacePrice": 40000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Day And Night",
             "Description": "Attacks Hit Twice If Paired With Madjick"
@@ -7610,6 +8156,8 @@
     "Rarity": "Uncommon",
     "PlacePrice": 25000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Mercenaries emerge from the shadows.",
             "Description": "Attacks Hit Twice If Paired With Knight Knight"
@@ -7653,6 +8201,8 @@
     "Rarity": "Gold",
     "PlacePrice": 7500,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Blindness",
             "Description": "Attacks Stun Enemys For 0.5s"
@@ -7704,6 +8254,8 @@
     "Rarity": "Uncommon",
     "PlacePrice": 500,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Flys",
             "Description": "Every 3rd Attack Deals x2 More Damage"
@@ -7747,6 +8299,8 @@
     "Rarity": "Common",
     "PlacePrice": 6000,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "No Longer Scared",
             "Description": "Attacks Deal 2x Damage To Enemys 15 Range Or Closer"
@@ -7790,6 +8344,14 @@
     "Rarity": "Unique",
     "PlacePrice": 99999,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Heehee~ care for some tea?",
+    "VoiceLineAttackCaptions": "Sticky surprise!",
+    "VoiceLineSellCaptions": "All sales are final~",
     "Passive": {
             "Name": "Giant Muffin",
             "Description": "Every 15s Muffet Summons Her Pet Muffin, Killing a random enemy in her range and stunning all other enemies in range for 1s."
@@ -7833,6 +8395,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 50000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Flaming Hot",
             "Description": "Attacks Deal 200% Burn Over 3 Seconds."
@@ -7884,6 +8448,8 @@
     "Rarity": "Common",
     "PlacePrice": 500,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Volcanic Eruption",
             "Description": "Attacks Deal 100% Burn Damage Over 3 Seconds."
@@ -7935,6 +8501,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 95000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Bombs Away!",
             "Description": "Attacks Deal 250% Burn Damage Over 1s. Enemies Hit Are Darkened Stunned For 3s"
@@ -7990,6 +8558,8 @@
     "Rarity": "Gold",
     "PlacePrice": 25000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Foolish. Foolish! FOOLISH!",
             "Description": "Summons Two Dummy Bots That Deal 2000->4000 Every 0.5s In Splash."
@@ -8038,6 +8608,8 @@
     "Rarity": "Uncommon",
     "PlacePrice": 4500,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Unnecessary Tension",
             "Description": "Enemies In Range Are Slowed By 35% For 5s. Boosts All Towers In Range For A 30% Range Boost (60% If Shiny)"
@@ -8097,6 +8669,8 @@
     "Rarity": "Gold",
     "PlacePrice": 7500,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Song For You",
             "Description": "All Towers In Range Are Given a 10% Cooldown Reduction (20% If Shiny)"
@@ -8148,6 +8722,8 @@
     "Rarity": "Gold",
     "PlacePrice": 2500,
     "Max": 4,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Squeaky Clean",
             "Description": "Applys 50% AOE Anti Regen Every 2s For 5s. All Units In Range Are Given A +25% Damage Boost (50% Shiny)"
@@ -8207,6 +8783,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 52500,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Ticklish",
             "Description": "Increases Your 5th Units Placement by +1. Attacks Apply 0.5s Stun"
@@ -8258,6 +8836,8 @@
     "Rarity": "Gold",
     "PlacePrice": 35000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Dogsong",
             "Description": "The Closer An Enemy Is, The More Damage Greater Dog Does To It (1% For Every 1 Range, Max 50% Per Enemy). Gains +1% Damage For Every 2 Enemies Killed. (Max 50%)"
@@ -8301,6 +8881,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 75000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Mysterious Creature",
             "Description": "Deals 3x Damage To Enemies That Are Slowed Or Stunned."
@@ -8344,6 +8926,8 @@
     "Rarity": "Common",
     "PlacePrice": 600,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -8383,6 +8967,8 @@
     "Rarity": "Gold",
     "PlacePrice": 101,
     "Max": 8,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Everyone Knows Jerry",
             "Description": "Jerry Does Nothing Useful, But He Is Known By All."
@@ -8426,6 +9012,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 15000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Love Wins",
             "Description": "Attacks Hit Twice And Deal 0.5s Stun."
@@ -8477,6 +9065,8 @@
     "Rarity": "Uncommon",
     "PlacePrice": 8000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Not As Great, but still a dog.",
             "Description": "Deals 50% More Damage If Paired With any other dog units."
@@ -8520,6 +9110,8 @@
     "Rarity": "Epic",
     "PlacePrice": 6000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Not A Chill Guy",
             "Description": "Attacks Apply 10% SoulLeak And 20% Anti Regen For 2 Seconds"
@@ -8579,6 +9171,8 @@
     "Rarity": "Gold",
     "PlacePrice": 7500,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Do You Like My Hat?",
             "Description": "Attacks Slow By 50% For 4 Seconds."
@@ -8622,6 +9216,8 @@
     "Rarity": "Uncommon",
     "PlacePrice": 1750,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Stare",
             "Description": "The Longer An Enemy Is Stared At The More Damage It Takes (1% A Second. Max 100%)."
@@ -8665,6 +9261,8 @@
     "Rarity": "Common",
     "PlacePrice": 500,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Spirit",
             "Description": "Dummy Deals 250% More Damage If Paired With Mad Mew Mew, Ralsei's Dummy Or Mad Dummy."
@@ -8708,6 +9306,8 @@
     "Rarity": "Gold",
     "PlacePrice": 5000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Frogs",
             "Description": "Every 10s Froggit Will Spawn A Mini Froggit That Deals x2 Damage To The Nearest Enemy."
@@ -8751,6 +9351,8 @@
     "Rarity": "Uncommon",
     "PlacePrice": 250,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Scared Of You",
             "Description": "Whimsun Deals 50% More Damage When Enemies Are 10% Or Less Health."
@@ -8794,6 +9396,8 @@
     "Rarity": "Uncommon",
     "PlacePrice": 2350,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Alone Time",
             "Description": "Migosp Deals x2 More Damage When Alone."
@@ -8837,6 +9441,8 @@
     "Rarity": "Uncommon",
     "PlacePrice": 1350,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -8876,6 +9482,8 @@
     "Rarity": "Gold",
     "PlacePrice": 250,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Share An Umbrella?",
             "Description": "Attacks Apply 80% Slow For 1 Second."
@@ -8927,6 +9535,8 @@
     "Rarity": "Epic",
     "PlacePrice": 17500,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Everyone Loves Nice Cream!",
             "Description": "Attacks Apply 60% Slow For 2 Seconds."
@@ -8978,6 +9588,14 @@
     "Rarity": "Forgotten",
     "PlacePrice": 100000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Oh, excuse me… sorry!",
+    "VoiceLineAttackCaptions": "Sorry, sorry, sorry!",
+    "VoiceLineSellCaptions": "I’ll… just leave. Sorry!",
     "Passive": {
             "Name": "Wrong Enemy !?",
             "Description": "Spawns Two Drawing Turrets That Deal The Units Current Damage In Single Target Every 0.5 Seconds. Every 25s Draws a Random Picture Of An Enemy, summoning them to the field at a random exit with x15 of their damage becoming the summoned units health."
@@ -9026,6 +9644,14 @@
     "Rarity": "Unique",
     "PlacePrice": 120000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "I’ll protect everyone!",
+    "VoiceLineAttackCaptions": "Take my spear!",
+    "VoiceLineSellCaptions": "I’ll be back stronger!",
     "Passive": {
             "Name": "The Spear Of Justice",
             "Description": "Attacks Apply 100% Anti-Regen For 5s, Deals 2x Damage And 1s Stun if Paired With Hammer of Justice."
@@ -9069,6 +9695,8 @@
     "Rarity": "Gold",
     "PlacePrice": 7000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Candy Canes",
             "Description": "Attacks Apply 50% Slow To Enemies, Deals 2x Damage If Paired With Any Christmas Units."
@@ -9120,6 +9748,14 @@
     "Rarity": "Unique",
     "PlacePrice": 50000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Merry magic to all!",
+    "VoiceLineAttackCaptions": "Ho-ho-heal!",
+    "VoiceLineSellCaptions": "Back to the workshop!",
     "Passive": {
             "Name": "Festive Cake Bombs",
             "Description": "Every 15s Santa Ralsei Will Throw A Festive Cake Bomb That Deals 5x Its Damage In Nuke With 200% Burn Over 1 Second."
@@ -9163,6 +9799,8 @@
     "Rarity": "Gold",
     "PlacePrice": 10000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Festive Supplies",
             "Description": "Attacks Stun Enemys For 0.5s By Wrapping Them In Gift Boxes."
@@ -9214,6 +9852,8 @@
     "Rarity": "Gold",
     "PlacePrice": 5000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Krismas Tree... Get It! Kris Mas! - From Noelle",
             "Description": "Attacks Apply 75% Anti-Regen For 1s."
@@ -9265,6 +9905,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 12500,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Here to Ruin Your Christmas!",
             "Description": "Steals 25% Of The Currently Targeted Enemy's Health Every 3s"
@@ -9308,6 +9950,8 @@
     "Rarity": "Epic",
     "PlacePrice": 7000,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "HoHoHo! Im Even Uglier Than Before!",
             "Description": "Attacks Slow By 40% For 3s"
@@ -9359,6 +10003,14 @@
     "Rarity": "Unique",
     "PlacePrice": 12250,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Let’s spread some cheer!",
+    "VoiceLineAttackCaptions": "Have A Gift!",
+    "VoiceLineSellCaptions": "The sleigh departs.",
     "Passive": {
             "Name": "Christmas In Home Town",
             "Description": "Noelle Throws Presents Out Of Her Sleigh Every 15s Dealing x10 Splash Damage And 1s Stun."
@@ -9402,6 +10054,14 @@
     "Rarity": "Unique",
     "PlacePrice": 40000,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "You Wont Stop Us! Right Noelle?",
+    "VoiceLineAttackCaptions": "Double Trouble Incoming!",
+    "VoiceLineSellCaptions": "Susie! Theres A Mouse!! Run!",
     "Passive": {
             "Name": "Can We Stand Under The MistleToe Instead?",
             "Description": "Susie Carries Noelle On Her Shoulder, Allowing Noelle To Mimic Susies Damage In Splash Every 2s"
@@ -9445,6 +10105,8 @@
     "Rarity": "Legendary",
     "PlacePrice": 22222,
     "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Im Totally Santa! See Look At My Huge Bag!",
             "Description": "Mall Santa Queen Hurls Coal From Her Present, Dealing 5x Damage And 3s Stun Every 20s."
@@ -9488,6 +10150,8 @@
     "Rarity": "Uncommon",
     "PlacePrice": 60000,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Delivering Presents & Flowers, While Eating Cookies And Drinking Milk.",
             "Description": "Santa Asgore Has A 50/50 Chance To Either Apply 10% SoulLeak Or 100% Darkness Every Other Attack."
@@ -9531,6 +10195,8 @@
     "Rarity": "Uncommon",
     "PlacePrice": 5000,
     "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Would You Like a Christmas Flavored Pie? Straight To The Face?",
             "Description": "Mrs. Claus Toriel Hurls A Christmas Pie At Her Enemies Every 30s, Dealing 2x Damage And 50% Burn For 2s."
@@ -9574,6 +10240,8 @@
     "Rarity": "Common",
     "PlacePrice": 700,
     "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Festive Buster",
             "Description": "Every 3rd Attack Santa Susie Uses Festive Buster Dealing 3x Damage."
@@ -9608,6 +10276,57 @@
         "Range": 25,
         "Damage": 800,
         "Cooldown": 2
+      }
+    ]
+  },
+    "Togore Dreemurr": {
+    "Type": "Togore + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Unique",
+    "PlacePrice": 9999,
+    "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "This is Togoretastic!",
+    "VoiceLineAttackCaptions": "This is Togoretastic!",
+    "VoiceLineSellCaptions": "This is Togoretastic!",
+    "Passive": {
+            "Name": "Togore Tastic",
+            "Description": "Togore Mimics The Nearest Units Damage Every 5s, Dealing It On His Next Attack Alongside His Own."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 39,
+        "Damage": 9000,
+        "Cooldown": 0.9
+      },
+      {
+        "Price": 19999,
+        "Range": 39,
+        "Damage": 12000,
+        "Cooldown": 0.9
+      },
+      {
+        "Price": 29999,
+        "Range": 39,
+        "Damage": 15000,
+        "Cooldown": 0.9
+      },
+      {
+        "Price": 39999,
+        "Range": 39,
+        "Damage": 19000,
+        "Cooldown": 0.9
       }
     ]
   }
