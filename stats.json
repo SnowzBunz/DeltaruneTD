@@ -7567,7 +7567,7 @@
     "VoiceLineAttackCaptions": "Feel the light of the end!",
     "VoiceLineSellCaptions": "…Is this really goodbye?",
     "Passive": {
-            "Name": "The Absolute GOD Of Hyperdeath!",
+            "Name": "Hopes And Dreams...",
             "Description": "Every 60s Asriel Dreemurr Charges Up Hyper Goner For 5s, Dealing 5x His Current Damage Every 0.25s As Pierce Spread for 7s. Asriel Dreemurr Cannot Attack While Charging Or Using Hyper Goner"
         },
     "Offset": 0,
@@ -7604,7 +7604,7 @@
     ]
   },
     "God Of Hyperdeath": {
-    "Type": "Piere Spread + Passive",
+    "Type": "Pierce Spread + Passive",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Forgotten",
     "PlacePrice": 191225,
