@@ -7603,6 +7603,65 @@
       }
     ]
   },
+    "God Of Hyperdeath": {
+    "Type": "Piere Spread + Passive",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Forgotten",
+    "PlacePrice": 191225,
+    "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "Behold, my TRUE Form!",
+    "VoiceLineAttackCaptions": "Your life ends here, in a world where no one remembers you!",
+    "VoiceLineSellCaptions": "JUST LET ME WIN!!!!",
+    "Passive": {
+            "Name": "SAVE the WORLD!",
+            "Description": "All SAVED Monster Units In Range Get +1 Placements! Attacks Stun For 1s And Apply 65% Slow For 3s."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 32,
+        "Damage": 85000,
+        "Cooldown": 3,
+        "Slow": 0.35,
+        "SlowTime": 3
+      },
+      {
+        "Price": 250000,
+        "Range": 36,
+        "Damage": 100000,
+        "Cooldown": 3,
+        "Slow": 0.35,
+        "SlowTime": 3
+      },
+      {
+        "Price": 400000,
+        "Range": 42,
+        "Damage": 125000,
+        "Cooldown": 3,
+        "Slow": 0.35,
+        "SlowTime": 3
+      },
+      {
+        "Price": 500000,
+        "Range": 48,
+        "Damage": 150000,
+        "Cooldown": 3,
+        "Slow": 0.35,
+        "SlowTime": 3
+      }
+    ]
+  },
     "Toriel Dreemurr": {
     "Type": "Continuous Cone Aoe Burn + Passive",
     "Image": "rbxassetid://131226586458594",
@@ -10294,7 +10353,7 @@
     "VoiceLineAttackCaptions": "This is Togoretastic!",
     "VoiceLineSellCaptions": "This is Togoretastic!",
     "Passive": {
-            "Name": "Togore Tastic",
+            "Name": "Togore Tastic!",
             "Description": "Togore Mimics The Nearest Units Damage Every 5s, Dealing It On His Next Attack Alongside His Own."
         },
     "Offset": 0,
