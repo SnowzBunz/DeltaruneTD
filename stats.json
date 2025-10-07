@@ -7567,7 +7567,7 @@
     "VoiceLineAttackCaptions": "Feel the light of the end!",
     "VoiceLineSellCaptions": "…Is this really goodbye?",
     "Passive": {
-            "Name": "Hopes And Dreams...",
+            "Name": "The Absolute GOD Of Hyperdeath!",
             "Description": "Every 60s Asriel Dreemurr Charges Up Hyper Goner For 5s, Dealing 5x His Current Damage Every 0.25s As Pierce Spread for 7s. Asriel Dreemurr Cannot Attack While Charging Or Using Hyper Goner"
         },
     "Offset": 0,
@@ -7604,7 +7604,7 @@
     ]
   },
     "God Of Hyperdeath": {
-    "Type": "Pierce Spread + Passive",
+    "Type": "Piere Spread + Passive",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Forgotten",
     "PlacePrice": 191225,
@@ -10353,7 +10353,7 @@
     "VoiceLineAttackCaptions": "This is Togoretastic!",
     "VoiceLineSellCaptions": "This is Togoretastic!",
     "Passive": {
-            "Name": "Togore Tastic!",
+            "Name": "Togore Tastic",
             "Description": "Togore Mimics The Nearest Units Damage Every 5s, Dealing It On His Next Attack Alongside His Own."
         },
     "Offset": 0,
@@ -10386,6 +10386,51 @@
         "Range": 39,
         "Damage": 19000,
         "Cooldown": 0.9
+      }
+    ]
+  },
+    "Testing Unit": {
+    "Type": "AOE + Passive",
+    "Image": "rbxassetid://0",
+    "Rarity": "Common",
+    "PlacePrice": 500,
+    "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Test",
+            "Description": "Attacks Make Enemys Say \"HIT SUCCESS\" Above Them"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 500,
+        "Cooldown": 0.25
+      },
+      {
+        "Price": 500,
+        "Range": 22,
+        "Damage": 1000,
+        "Cooldown": 0.25
+      },
+      {
+        "Price": 500,
+        "Range": 24,
+        "Damage": 1500,
+        "Cooldown": 0.25
+      },
+      {
+        "Price": 500,
+        "Range": 26,
+        "Damage": 2000,
+        "Cooldown": 0.25
       }
     ]
   }
