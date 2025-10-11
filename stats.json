@@ -1,6 +1,7 @@
 {
     "Darkworld Kris": {
         "Type": "Single + Passive",
+        "UnitModelName": "DW_KRIS",
         "Image": "rbxassetid://131226586458594",
         "Rarity": "Common",
         "PlacePrice": 250,
@@ -46,6 +47,7 @@
     },
     "Darkworld Susie": {
         "Type": "Slash + Passive",
+        "UnitModelName": "DW_SUSIE",
         "Image": "rbxassetid://131226586458594",
         "Rarity": "Uncommon",
         "PlacePrice": 750,
@@ -91,6 +93,7 @@
     },
     "Ralsei": {
         "Type": "Range Booster",
+        "UnitModelName": "DW_RALSEI",
         "Image": "rbxassetid://131226586458594",
         "Rarity": "Uncommon",
         "PlacePrice": 250,
@@ -145,6 +148,7 @@
     },
     "Lancer": {
     "Type": "Cone Aoe + Summoner",
+    "UnitModelName": "LANCER",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 7500,
@@ -172,6 +176,7 @@
         "WalkSpeed": 25,
         "MaxAmount": 5,
         "Unit": "Lancers Bike",
+        "UnitModelName": "LANCER_BIKE",
         "Offset": 0,
         "SummonRange": 25,
         "SummonDamage": 500,
@@ -187,6 +192,7 @@
         "WalkSpeed": 25,
         "MaxAmount": 5,
         "Unit": "Lancers Bike",
+        "UnitModelName": "LANCER_BIKE",
         "Offset": 0,
         "SummonRange": 25,
         "SummonDamage": 500,
@@ -202,6 +208,7 @@
         "WalkSpeed": 25,
         "MaxAmount": 5,
         "Unit": "Lancers Bike",
+        "UnitModelName": "LANCER_BIKE",
         "Offset": 0,
         "SummonRange": 25,
         "SummonDamage": 500,
@@ -217,6 +224,7 @@
         "WalkSpeed": 25,
         "MaxAmount": 5,
         "Unit": "Lancers Bike",
+        "UnitModelName": "LANCER_BIKE",
         "Offset": 0,
         "SummonRange": 25,
         "SummonDamage": 500,
@@ -226,6 +234,7 @@
   },
   "Darkworld Noelle": {
     "Type": "Cone Aoe + Passive",
+    "UnitModelName": "DW_NOELLE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 5000,
@@ -271,6 +280,7 @@
   },
   "Seam": {
     "Type": "Farm + Passive",
+    "UnitModelName": "SEAM",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 1500,
@@ -325,6 +335,7 @@
   },
   "Rouxls Kaard": {
     "Type": "Melee + Passive",
+    "UnitModelName": "ROUXLS_KAARD",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 17500,
@@ -370,6 +381,7 @@
   },
   "Sweet Cap'n Cakes": {
     "Type": "Cone Aoe + Passive",
+    "UnitModelName": "SWEET_CAPN_CAKES",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 25000,
@@ -415,6 +427,7 @@
   },
   "Spamton": {
     "Type": "Cone Aoe + Passive",
+    "UnitModelName": "SPAMTON",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 19970,
@@ -458,6 +471,7 @@
   },
   "Swatch": {
     "Type": "Farm + Passive",
+    "UnitModelName": "SWATCH",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 5000,
@@ -511,6 +525,7 @@
   },
   "Ralseis Dummy": {
     "Type": "Single",
+    "UnitModelName": "RALSEI_DUMMY",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Common",
     "PlacePrice": 500,
@@ -565,6 +580,7 @@
   },
   "Tasque Manager": {
     "Type": "Chain Stun",
+    "UnitModelName": "TASQUE_MANAGER",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 65000,
@@ -628,6 +644,7 @@
   },
   "Clover": {
     "Type": "Cone Aoe + Passive",
+    "UnitModelName": "CLOVER",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 5000,
@@ -673,6 +690,7 @@
   },
   "Werewire": {
     "Type": "Trapper",
+    "UnitModelName": "WEREWIRE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 2000,
@@ -718,6 +736,7 @@
   },
   "Poppup": {
     "Type": "Melee + Passive",
+    "UnitModelName": "POPPUP",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 1500,
@@ -783,6 +802,7 @@
   },
   "Ambyu-Lance": {
     "Type": "Pierce + Slow",
+    "UnitModelName": "AMBYU_LANCE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 25000,
@@ -836,6 +856,7 @@
   },
   "Virovirokun": {
     "Type": "Splash + Slow",
+    "UnitModelName": "VIROVIROKUN",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 500,
@@ -889,6 +910,7 @@
   },
   "Tasque": {
     "Type": "Pierce Spread + SoulLeak",
+    "UnitModelName": "TASQUE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 1000,
@@ -942,6 +964,7 @@
   },
   "Maus": {
     "Type": "Melee",
+    "UnitModelName": "MAUS",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Uncommon",
     "PlacePrice": 200,
@@ -983,6 +1006,7 @@
   },
   "Swatchling": {
     "Type": "Splash Burn + Passive",
+    "UnitModelName": "SWATCHLING",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 5000,
@@ -1036,6 +1060,7 @@
   },
   "Werewerewire": {
     "Type": "Chain + Passive",
+    "UnitModelName": "WEREWEREWIRE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 33333,
@@ -1093,6 +1118,7 @@
   },
   "Rudinn": {
     "Type": "Melee + Passive",
+    "UnitModelName": "RUDINN",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Uncommon",
     "PlacePrice": 600,
@@ -1142,6 +1168,7 @@
   },
   "Hathy": {
     "Type": "Damage Booster",
+    "UnitModelName": "HATHY",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 2000,
@@ -1195,6 +1222,7 @@
   },
   "C. Round": {
     "Type": "Splash",
+    "UnitModelName": "C_ROUND",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Uncommon",
     "PlacePrice": 1250,
@@ -1236,6 +1264,7 @@
   },
   "Ponman": {
     "Type": "Pierce",
+    "UnitModelName": "PONMAN",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Common",
     "PlacePrice": 800,
@@ -1277,6 +1306,7 @@
   },
   "K. Round": {
     "Type": "Nuke + Passive",
+    "UnitModelName": "K_ROUND",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 25000,
@@ -1322,6 +1352,7 @@
   },
   "Bloxer": {
     "Type": "Continuous Dual",
+    "UnitModelName": "BLOXER",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Uncommon",
     "PlacePrice": 2600,
@@ -1363,6 +1394,7 @@
   },
   "Rabbick": {
     "Type": "AOE + Damage And Cooldown Booster",
+    "UnitModelName": "RABBICK",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Uncommon",
     "PlacePrice": 500,
@@ -1424,6 +1456,7 @@
   },
   "Jevil": {
     "Type": "Pierce + Passive",
+    "UnitModelName": "JEVIL",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 100000,
@@ -1475,6 +1508,7 @@
   },
   "King": {
     "Type": "Pierce + Passive",
+    "UnitModelName": "KING",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 45000,
@@ -1538,8 +1572,9 @@
       }
     ]
   },
-  "Berdly": {
+  "Darkworld Berdly": {
     "Type": "Melee + Passive",
+    "UnitModelName": "DW_BERDLY",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 7500,
@@ -1585,6 +1620,7 @@
   },
   "Spamton NEO": {
     "Type": "Pierce Spread + Passive",
+    "UnitModelName": "S_NEO",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 150000,
@@ -1636,6 +1672,7 @@
   },
   "Thrash Machine": {
     "Type": "Nuke + Passive",
+    "UnitModelName": "T_MACHINE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 75000,
@@ -1697,6 +1734,7 @@
   },
   "Mauswheel": {
     "Type": "AOE + Passive",
+    "UnitModelName": "MAUSWHEEL",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 2250,
@@ -1750,6 +1788,7 @@
   },
   "Pipis": {
     "Type": "Explosion",
+    "UnitModelName": "PIPIS",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Common",
     "PlacePrice": 250,
@@ -1791,6 +1830,7 @@
   },
   "Queen": {
     "Type": "Splash + Passive",
+    "UnitModelName": "QUEEN",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 54729,
@@ -1836,6 +1876,7 @@
   },
   "Shadowguy": {
     "Type": "Cone Aoe",
+    "UnitModelName": "S_GUY",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Common",
     "PlacePrice": 500,
@@ -1881,6 +1922,7 @@
   },
   "Shuttah": {
     "Type": "Splash Stun",
+    "UnitModelName": "SHUTTAH",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 12500,
@@ -1934,6 +1976,7 @@
   },
   "Lanino": {
     "Type": "Pierce + Passive",
+    "UnitModelName": "LANINO",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 10000,
@@ -1979,6 +2022,7 @@
   },
   "Elnina": {
     "Type": "Splash + Passive",
+    "UnitModelName": "ELNINA",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 10000,
@@ -2024,6 +2068,7 @@
   },
   "Zapper": {
     "Type": "Cone Aoe Slow",
+    "UnitModelName": "ZAPPER",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 1250,
@@ -2077,6 +2122,7 @@
   },
   "Tenna": {
     "Type": "Splash + Passive",
+    "UnitModelName": "TENNA",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 50000,
@@ -2122,6 +2168,7 @@
   },
   "Pippins": {
     "Type": "Splash + Passive",
+    "UnitModelName": "PIPPINS",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 600,
@@ -2167,6 +2214,7 @@
   },
   "Gerson Boom": {
     "Type": "Single + Wisdom",
+    "UnitModelName": "G_BOOM",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 999999,
@@ -2230,6 +2278,7 @@
   },
   "Miss Mizzle": {
     "Type": "AOE + Passive",
+    "UnitModelName": "M_MIZZLE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 250000,
@@ -2281,6 +2330,7 @@
   },
   "Mizzle": {
     "Type": "Splash + Passive",
+    "UnitModelName": "MIZZLE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 5000,
@@ -2326,6 +2376,7 @@
   },
   "Organikk": {
     "Type": "Cooldown Booster",
+    "UnitModelName": "ORGANIKK",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 850,
@@ -2380,6 +2431,7 @@
   },
   "Roaring Knight": {
     "Type": "Slash + Passive",
+    "UnitModelName": "R_KNIGHT",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 250000,
@@ -2431,6 +2483,7 @@
   },
   "TITAN": {
     "Type": "Nuke + Passive",
+    "UnitModelName": "TITAN",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Forgotten",
     "PlacePrice": 500000,
@@ -2506,6 +2559,7 @@
   },
   "IMAGE_FRIEND": {
     "Type": "Pierce + Passive",
+    "UnitModelName": "I_FRIEND",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Forgotten",
     "PlacePrice": 374363,
@@ -2516,8 +2570,8 @@
     "VoiceLineSell": "rbxassetid://0",
     "PassiveSound": "rbxassetid://0",
     "VoiceLinePlaceCaptions": "Darker Than Dark...",
-    "VoiceLineAttackCaptions": "Random Gurgling",
-    "VoiceLineSellCaptions": "Random Laugh",
+    "VoiceLineAttackCaptions": "*Random Gurgling*",
+    "VoiceLineSellCaptions": "*Random Laugh*",
     "Passive": {
             "Name": "The Tail Of Hell Begins To Crawl...",
             "Description": "Enemies Hit By IMAGE_FRIEND Are Given 65% Slow For 3 Seconds."
@@ -2573,6 +2627,7 @@
   },
   "Watercooler": {
     "Type": "AOE + Damage, Range And Cooldown Booster",
+    "UnitModelName": "W_COOLER",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 25000,
@@ -2643,6 +2698,7 @@
   },
   "Toriel": {
     "Type": "Damage Booster",
+    "UnitModelName": "TORIEL",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 1250,
@@ -2697,6 +2753,7 @@
   },
   "Carol Holiday": {
     "Type": "AOE + Passive",
+    "UnitModelName": "C_HOLIDAY",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 7500,
@@ -2750,6 +2807,7 @@
   },
   "Darkworld Undyne": {
     "Type": "Pierce + Passive",
+    "UnitModelName": "DW_UNDYNE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 25000,
@@ -2795,6 +2853,7 @@
   },
   "Annoying Dog": {
     "Type": "Damage + Cooldown Booster",
+    "UnitModelName": "A_DOG",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 350,
@@ -2863,6 +2922,7 @@
   },
   "Asgore": {
     "Type": "Cone Aoe + Passive",
+    "UnitModelName": "ASGORE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 27500,
@@ -2908,6 +2968,7 @@
   },
   "Onionsan": {
     "Type": "Range Booster",
+    "UnitModelName": "ONIONSAN",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 1500,
@@ -2962,6 +3023,7 @@
   },
   "Royal Guards": {
     "Type": "Dual Slash + Passive",
+    "UnitModelName": "R_GUARDS",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 2700,
@@ -3015,6 +3077,7 @@
   },
   "Starwalker": {
     "Type": "Pierce",
+    "UnitModelName": "STARWALKER",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Uncommon",
     "PlacePrice": 2350,
@@ -3056,6 +3119,7 @@
   },
   "Malius": {
     "Type": "Splash + Passive",
+    "UnitModelName": "MALIUS",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 25000,
@@ -3109,6 +3173,7 @@
   },
   "Nubert": {
     "Type": "Summoner",
+    "UnitModelName": "NUBERT",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 35000,
@@ -3134,6 +3199,7 @@
         "SummonTime": 10,
         "WalkSpeed": 25,
         "Unit": "NubertHelper",
+        "UnitModelName": "NUBERTSPAWN",
         "Health": 150000,
         "Cooldown": 1
       },
@@ -3144,6 +3210,7 @@
         "SummonTime": 8.5,
         "WalkSpeed": 25,
         "Unit": "NubertHelper",
+        "UnitModelName": "NUBERTSPAWN",
         "Health": 150000,
         "Cooldown": 1
       },
@@ -3154,6 +3221,7 @@
         "SummonTime": 7,
         "WalkSpeed": 25,
         "Unit": "NubertHelper",
+        "UnitModelName": "NUBERTSPAWN",
         "Health": 150000,
         "Cooldown": 1
       },
@@ -3164,6 +3232,7 @@
         "SummonTime": 5,
         "WalkSpeed": 25,
         "Unit": "NubertHelper",
+        "UnitModelName": "NUBERTSPAWN",
         "Health": 150000,
         "Cooldown": 1
       }
@@ -3171,6 +3240,7 @@
   },
   "Hacker": {
     "Type": "Splash",
+    "UnitModelName": "HACKER",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 1500,
@@ -3224,6 +3294,7 @@
   },
   "Trashy": {
     "Type": "Explosion",
+    "UnitModelName": "TRASHY",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Common",
     "PlacePrice": 200,
@@ -3265,6 +3336,7 @@
   },
   "Giga Queen": {
     "Type": "Nuke Stun + Passive",
+    "UnitModelName": "G_QUEEN",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 75000,
@@ -3324,6 +3396,7 @@
   },
   "Hammer Of Justice": {
     "Type": "Nuke + Passive",
+    "UnitModelName": "H_JUSTICE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 44444,
@@ -3381,6 +3454,7 @@
   },
   "Asriel": {
     "Type": "Continuous Cone Aoe + Passive",
+    "UnitModelName": "ASRIEL",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 10000,
@@ -3426,16 +3500,17 @@
   },
   "W. D. Gaster": {
     "Type": "Continuous Cone Aoe + Passive",
+    "UnitModelName": "WD_GASTER",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Forgotten",
-    "PlacePrice": 103118,
+    "PlacePrice": 91515,
     "Max": 1,
     "AttackSound": "rbxassetid://0",
     "VoiceLinePlace": "rbxassetid://0",
     "VoiceLineAttack": "rbxassetid://0",
     "VoiceLineSell": "rbxassetid://0",
     "PassiveSound": "rbxassetid://0",
-    "VoiceLinePlaceCaptions": "…",
+    "VoiceLinePlaceCaptions": "...Very Interesting...",
     "VoiceLineAttackCaptions": "Reality cracking... At Its Seams",
     "VoiceLineSellCaptions": "The void calls me back.",
     "Passive": {
@@ -3456,25 +3531,25 @@
         "Cooldown": 0.25
       },
       {
-        "Price": 103118,
+        "Price": 91515,
         "Range": 10,
         "Damage": 12000,
         "Cooldown": 0.25
       },
       {
-        "Price": 103118,
+        "Price": 91515,
         "Range": 15,
         "Damage": 12500,
         "Cooldown": 0.25
       },
       {
-        "Price": 103118,
+        "Price": 91515,
         "Range": 20,
         "Damage": 13000,
         "Cooldown": 0.25
       },
       {
-        "Price": 103118,
+        "Price": 91515,
         "Range": 25,
         "Damage": 13500,
         "Cooldown": 0.25
@@ -3483,6 +3558,7 @@
   },
   "VESSEL": {
     "Type": "AOE + Trapper",
+    "UnitModelName": "VESSEL",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Forgotten",
     "PlacePrice": 50000,
@@ -3535,6 +3611,7 @@
   },
  "ERAM": {
     "Type": "AOE Burn + Summoner",
+    "UnitModelName": "ERAM",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 118113,
@@ -3545,7 +3622,7 @@
     "VoiceLineSell": "rbxassetid://0",
     "PassiveSound": "rbxassetid://0",
     "VoiceLinePlaceCaptions": "Well Done Kris.",
-    "VoiceLineAttackCaptions": "Random Laughing",
+    "VoiceLineAttackCaptions": "*Random Laughing*",
     "VoiceLineSellCaptions": "Ill be Back Kris.",
     "Passive": {
             "Name": "Shadow Mantle...?",
@@ -3567,6 +3644,7 @@
         "SummonTime": 15,
         "WalkSpeed": 50,
         "Unit": "FRIEND",
+        "UnitModelName": "FRIEND",
         "Health": 750000,
         "Cooldown": 0.75
       },
@@ -3579,6 +3657,7 @@
         "SummonTime": 15,
         "WalkSpeed": 50,
         "Unit": "FRIEND",
+        "UnitModelName": "FRIEND",
         "Health": 875000,
         "Cooldown": 0.75
       },
@@ -3591,6 +3670,7 @@
         "SummonTime": 15,
         "WalkSpeed": 50,
         "Unit": "FRIEND",
+        "UnitModelName": "FRIEND",
         "Health": 1000000,
         "Cooldown": 0.75
       },
@@ -3603,6 +3683,7 @@
         "SummonTime": 15,
         "WalkSpeed": 50,
         "Unit": "FRIEND",
+        "UnitModelName": "FRIEND",
         "Health": 1125000,
         "Cooldown": 0.75
       }
@@ -3610,6 +3691,7 @@
   },
   "Dess": {
     "Type": "Melee + Passive",
+    "UnitModelName": "DESS",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Forgotten",
     "PlacePrice": 12250,
@@ -3673,6 +3755,7 @@
   },
   "Small Mike": {
     "Type": "Explosion + Passive",
+    "UnitModelName": "S_MIKE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 6453,
@@ -3718,6 +3801,7 @@
   },
   "Jackenstein": {
     "Type": "Cone Aoe + Summoner",
+    "UnitModelName": "JACKENSTEIN",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 100000,
@@ -3748,6 +3832,7 @@
         "SummonTime": 5,
         "WalkSpeed": 40,
         "Unit": "Scairy",
+        "UnitModelName": "SCAIRY",
         "Health": 250000,
         "Cooldown": 2
       },
@@ -3758,6 +3843,7 @@
         "SummonTime": 5,
         "WalkSpeed": 40,
         "Unit": "Scairy",
+        "UnitModelName": "SCAIRY",
         "Health": 262500,
         "Cooldown": 2
       },
@@ -3768,6 +3854,7 @@
         "SummonTime": 5,
         "WalkSpeed": 40,
         "Unit": "Scairy",
+        "UnitModelName": "SCAIRY",
         "Health": 275000,
         "Cooldown": 2
       },
@@ -3778,6 +3865,7 @@
         "SummonTime": 5,
         "WalkSpeed": 40,
         "Unit": "Scairy",
+        "UnitModelName": "SCAIRY",
         "Health": 300000,
         "Cooldown": 2
       }
@@ -3785,6 +3873,7 @@
   },
   "Guei": {
     "Type": "Splash",
+    "UnitModelName": "GUEI",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 3000,
@@ -3826,6 +3915,7 @@
   },
   "Sphinx-Tenna": {
     "Type": "Damage + Range + Cooldown Booster",
+    "UnitModelName": "S_TENNA",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 1500,
@@ -3902,6 +3992,7 @@
   },
   "Cat Mike": {
     "Type": "Splash + Passive",
+    "UnitModelName": "C_MIKE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 50000,
@@ -3947,6 +4038,7 @@
   },
   "Cowboy Hat Mike": {
     "Type": "Cone Aoe + Passive",
+    "UnitModelName": "CH_MIKE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 25000,
@@ -3992,6 +4084,7 @@
   },
     "Sound Of Justice": {
     "Type": "Pierce Spread + Passive",
+    "UnitModelName": "S_JUSTICE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 75000,
@@ -4048,6 +4141,7 @@
   },
     "Plushie Ralsei": {
     "Type": "AOE + Passive",
+    "UnitModelName": "P_RALSEI",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 1500,
@@ -4093,6 +4187,7 @@
   },
     "Fun Gang Onesies": {
     "Type": "Cooldown Booster",
+    "UnitModelName": "FG_ONESIES",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 300,
@@ -4146,6 +4241,7 @@
   },
     "Fun Gang Cowboys": {
     "Type": "Continuous Splash + Passive",
+    "UnitModelName": "FG_COWBOYS",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 5000,
@@ -4154,7 +4250,7 @@
     "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Dodge!",
-            "Description": "Boosts All Summoners And Cowboy Units By 50% Damage."
+            "Description": "The Fun Gang Cowboys Boosts All Summoners And Cowboy Units By 125% Damage On Your Team."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -4191,6 +4287,7 @@
   },
     "Fun Gang Rockstars": {
     "Type": "Cone Aoe + Passive",
+    "UnitModelName": "FG_ROCKSTARS",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 15000,
@@ -4236,6 +4333,7 @@
   },
     "Fun Gang Chefs": {
     "Type": "Explosion Burn + Passive",
+    "UnitModelName": "FG_CHEFS",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 1750,
@@ -4289,6 +4387,7 @@
   },
     "Chef Tenna": {
     "Type": "Splash Burn + Passive",
+    "UnitModelName": "C_TENNA",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 50000,
@@ -4348,6 +4447,7 @@
   },
     "Horse Ralsei": {
     "Type": "Dual Pierce + Summoner",
+    "UnitModelName": "H_RALSEI",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 40000,
@@ -4372,6 +4472,7 @@
         "SummonTime": 15,
         "WalkSpeed": 30,
         "Unit": "Horse Ralsei",
+        "UnitModelName": "HRALSEI",
         "Health": 125000,
         "Cooldown": 3
       },
@@ -4382,6 +4483,7 @@
         "SummonTime": 15,
         "WalkSpeed": 30,
         "Unit": "Horse Ralsei",
+        "UnitModelName": "HRALSEI",
         "Health": 250000,
         "Cooldown": 3
       },
@@ -4392,6 +4494,7 @@
         "SummonTime": 15,
         "WalkSpeed": 30,
         "Unit": "Horse Ralsei",
+        "UnitModelName": "HRALSEI",
         "Health": 375000,
         "Cooldown": 3
       },
@@ -4402,6 +4505,7 @@
         "SummonTime": 15,
         "WalkSpeed": 30,
         "Unit": "Horse Ralsei",
+        "UnitModelName": "HRALSEI",
         "Health": 500000,
         "Cooldown": 3
       }
@@ -4409,6 +4513,7 @@
   },
     "Cowboy Tenna": {
     "Type": "Pierce + Passive",
+    "UnitModelName": "CB_TENNA",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 84000,
@@ -4462,6 +4567,7 @@
   },
   "Lightworld Noelle": {
     "Type": "Splash Stun",
+    "UnitModelName": "LW_NOELLE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Common",
     "PlacePrice": 750,
@@ -4515,6 +4621,7 @@
   },
   "Fluffy Ralsei": {
     "Type": "Splash + Passive",
+    "UnitModelName": "F_RALSEI",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 40000,
@@ -4568,6 +4675,7 @@
   },
   "Lightworld Kris": {
     "Type": "Melee + Passive",
+    "UnitModelName": "LW_KRIS",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Uncommon",
     "PlacePrice": 3445,
@@ -4613,6 +4721,7 @@
   },
   "Lightworld Susie": {
     "Type": "Melee + Passive",
+    "UnitModelName": "LW_SUSIE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 8500,
@@ -4658,6 +4767,7 @@
   },
   "Lightworld Berdly": {
     "Type": "Cone Aoe + Passive",
+    "UnitModelName": "LW_BERDLY",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Common",
     "PlacePrice": 1350,
@@ -4703,6 +4813,7 @@
   },
     "Titan Ralsei": {
     "Type": "Slash Stun + Passive",
+    "UnitModelName": "T_RALSEI",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Forgotten",
     "PlacePrice": 750000,
@@ -4790,6 +4901,7 @@
   },
     "SCAMPTON THE GREAT": {
     "Type": "Nuke + Passive",
+    "UnitModelName": "S_GREAT",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 101000,
@@ -4835,6 +4947,7 @@
   },
     "Susiezilla": {
     "Type": "Slash + Passive",
+    "UnitModelName": "SUSIEZILLA",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 135000,
@@ -4886,6 +4999,7 @@
   },
     "HANDROMEDA": {
     "Type": "Pierce + Passive",
+    "UnitModelName": "HANDROMEDA",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 250000,
@@ -4931,6 +5045,7 @@
   },
     "Pandemonium Partners": {
     "Type": "Cone Aoe + Passive",
+    "UnitModelName": "P_PARTNERS",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 25000,
@@ -4944,7 +5059,7 @@
     "VoiceLineAttackCaptions": "Chaos Cash strike!",
     "VoiceLineSellCaptions": "The band breaks up.",
     "Passive": {
-            "Name": "The Deals Revolving",
+            "Name": "[SUDDENLY, THE DEALMAKER AND JEVILSTAIL COME OUT OF YOUR POCKET!]",
             "Description": "Spamton Applies 50% Darkness For 1s And 50% Slow To All Enemies In Range, While Jevil Does A 5x AOE Attack Every 30s That Deals 10% SoulLeak For 5s."
         },
     "Offset": 0,
@@ -4998,6 +5113,7 @@
   },
     "Top Chef": {
     "Type": "Splash + Burn",
+    "UnitModelName": "T_CHEF",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 1250,
@@ -5051,6 +5167,7 @@
   },
     "Rudolph Holiday": {
     "Type": "Cone Aoe + Passive",
+    "UnitModelName": "R_HOLIDAY",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 6000,
@@ -5112,6 +5229,7 @@
   },
     "Snowgrave Noelle": {
     "Type": "AOE + Passive",
+    "UnitModelName": "SG_NOELLE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 40000,
@@ -5199,6 +5317,7 @@
   },
     "Tophat Tenna": {
     "Type": "Nuke + Passive",
+    "UnitModelName": "TH_TENNA",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 60000,
@@ -5258,6 +5377,7 @@
   },
     "Mikes Phone": {
     "Type": "AOE Slow + Passive",
+    "UnitModelName": "M_PHONE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 3000,
@@ -5317,6 +5437,7 @@
   },
     "Father Alvin": {
     "Type": "Single",
+    "UnitModelName": "F_ALVIN",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Uncommon",
     "PlacePrice": 650,
@@ -5358,6 +5479,7 @@
   },
     "Bratty": {
     "Type": "Melee",
+    "UnitModelName": "BRATTY",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 3500,
@@ -5399,6 +5521,7 @@
   },
     "Catty": {
     "Type": "Cone Aoe + Passive",
+    "UnitModelName": "CATTY",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 7500,
@@ -5444,6 +5567,7 @@
   },
     "Balthizard": {
     "Type": "AOE + Passive",
+    "UnitModelName": "BALTHIZARD",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 30000,
@@ -5497,6 +5621,7 @@
   },
     "Bibilox": {
     "Type": "Splash + Passive",
+    "UnitModelName": "BIBILOX",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 10000,
@@ -5548,6 +5673,7 @@
   },
     "Winglade": {
     "Type": "Pierce Spread + Passive",
+    "UnitModelName": "WINGLADE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Forgotten",
     "PlacePrice": 50000,
@@ -5607,6 +5733,7 @@
   },
     "Rainy": {
     "Type": "AOE + Slow",
+    "UnitModelName": "RAINY",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 300,
@@ -5660,6 +5787,7 @@
   },
     "Ice Wolf": {
     "Type": "Nuke + Passive",
+    "UnitModelName": "ICE_WOLF",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 12500,
@@ -5713,6 +5841,7 @@
   },
     "The Warrior": {
     "Type": "Splash",
+    "UnitModelName": "T_WARRIOR",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 22500,
@@ -5754,6 +5883,7 @@
   },
     "Wicabell": {
     "Type": "AOE Stun",
+    "UnitModelName": "WICABELL",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 3000,
@@ -5807,6 +5937,7 @@
   },
     "Titan Spawn": {
     "Type": "Cone Aoe + Passive",
+    "UnitModelName": "T_SPAWN",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 750,
@@ -5860,6 +5991,7 @@
   },
     "Dogaressa": {
     "Type": "Splash + Slow",
+    "UnitModelName": "DOGARESSA",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 7500,
@@ -5913,6 +6045,7 @@
   },
     "Dogamy": {
     "Type": "Melee + Passive",
+    "UnitModelName": "DOGAMY",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 22500,
@@ -5958,6 +6091,7 @@
   },
     "QC": {
     "Type": "Cone Aoe + Farm",
+    "UnitModelName": "QC",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 3500,
@@ -6011,6 +6145,7 @@
   },
     "Firework Ralsei": {
     "Type": "Nuke Burn + Passive",
+    "UnitModelName": "F_RALSEI",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 17500,
@@ -6064,6 +6199,7 @@
   },
     "Lancer Artillery Battery": {
     "Type": "Nuke Stun + Passive",
+    "UnitModelName": "L_ARTILLERY",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 100000,
@@ -6131,6 +6267,7 @@
   },
     "Sparkler Spamton": {
     "Type": "Explosion + Passive",
+    "UnitModelName": "S_SPAMTON",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 5997,
@@ -6184,6 +6321,7 @@
   },
     "Pigeon Spamton": {
     "Type": "Trapper",
+    "UnitModelName": "P_SPAMTON",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Uncommon",
     "PlacePrice": 1000,
@@ -6229,6 +6367,7 @@
   },
     "Ramb": {
     "Type": "Cone Aoe",
+    "UnitModelName": "RAMB",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 400,
@@ -6270,6 +6409,7 @@
   },
     "Wafer": {
     "Type": "AOE + Passive",
+    "UnitModelName": "WAFER",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 30000,
@@ -6315,6 +6455,7 @@
   },
     "Nightlight Tenna": {
     "Type": "Cone Aoe Slow + SoulLeak",
+    "UnitModelName": "N_TENNA",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 10000,
@@ -6376,6 +6517,7 @@
   },
     "Ella": {
     "Type": "Pierce Spread + Passive",
+    "UnitModelName": "ELLA",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 65000,
@@ -6427,6 +6569,7 @@
   },
     "Spamtons Dinner": {
     "Type": "AOE Burn",
+    "UnitModelName": "S_DINNER",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Forgotten",
     "PlacePrice": 40000,
@@ -6486,6 +6629,7 @@
   },
     "Dust Pile": {
     "Type": "AOE",
+    "UnitModelName": "D_PILE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 4000,
@@ -6527,6 +6671,7 @@
   },
     "Couch": {
     "Type": "Cone Aoe + Passive",
+    "UnitModelName": "COUCH",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 17000,
@@ -6580,6 +6725,7 @@
   },
     "Tao": {
     "Type": "Slash + Passive",
+    "UnitModelName": "TAO",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 2000,
@@ -6633,6 +6779,7 @@
   },
     "Cupitain": {
     "Type": "Splash + Passive",
+    "UnitModelName": "CUPITAIN",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 250,
@@ -6694,6 +6841,7 @@
   },
     "Starwalker Bird": {
     "Type": "Pierce Spread + Passive",
+    "UnitModelName": "S_BIRD",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 20000,
@@ -6747,6 +6895,7 @@
   },
     "HERO_SWORD": {
     "Type": "Pierce + Passive",
+    "UnitModelName": "H_SWORD",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 7000,
@@ -6792,6 +6941,7 @@
   },
     "HERO_SCARF": {
     "Type": "Splash + Passive",
+    "UnitModelName": "H_SCARF",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 12500,
@@ -6845,6 +6995,7 @@
   },
     "HERO_AXE": {
     "Type": "Slash + Passive",
+    "UnitModelName": "H_AXE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 35000,
@@ -6890,6 +7041,7 @@
   },
     "GIGA Spamton": {
     "Type": "Pierce Spread + Passive",
+    "UnitModelName": "G_SPAMTON",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Forgotten",
     "PlacePrice": 500000,
@@ -6949,6 +7101,7 @@
   },
     "The Addisons": {
     "Type": "Cone Aoe + Damage Booster",
+    "UnitModelName": "T_ADDISONS",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 5000,
@@ -7002,6 +7155,7 @@
   },
     "Bigshot Auto Repairs": {
     "Type": "Splash Stun + Summoner",
+    "UnitModelName": "B_AUTO",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 19970,
@@ -7032,6 +7186,7 @@
         "SummonTime": 30,
         "WalkSpeed": 30,
         "Unit": "BigShotCar",
+        "UnitModelName": "BIGSHOTCAR",
         "Health": 625000,
         "Cooldown": 2
       },
@@ -7042,6 +7197,7 @@
         "SummonTime": 30,
         "WalkSpeed": 30,
         "Unit": "BigShotCar",
+        "UnitModelName": "BIGSHOTCAR",
         "Health": 687500,
         "Cooldown": 2
       },
@@ -7052,6 +7208,7 @@
         "SummonTime": 30,
         "WalkSpeed": 30,
         "Unit": "BigShotCar",
+        "UnitModelName": "BIGSHOTCAR",
         "Health": 750000,
         "Cooldown": 2
       },
@@ -7062,6 +7219,7 @@
         "SummonTime": 30,
         "WalkSpeed": 30,
         "Unit": "BigShotCar",
+        "UnitModelName": "BIGSHOTCAR",
         "Health": 812500,
         "Cooldown": 2
       }
@@ -7069,6 +7227,7 @@
   },
     "Mr. Generosity": {
     "Type": "Farm",
+    "UnitModelName": "M_GENEROSITY",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 2500,
@@ -7118,6 +7277,7 @@
   },
     "Chara": {
     "Type": "Melee + Passive",
+    "UnitModelName": "CHARA",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Forgotten", 
     "PlacePrice": 999999,
@@ -7169,6 +7329,7 @@
   },
     "Flowey": {
     "Type": "Chain + Passive",
+    "UnitModelName": "FLOWEY",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 7500,
@@ -7224,6 +7385,7 @@
   },
     "Sans": {
     "Type": "Continuous Pierce + Passive",
+    "UnitModelName": "SANS",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 185000,
@@ -7283,6 +7445,7 @@
   },
     "Papyrus": {
     "Type": "Splash + Slow",
+    "UnitModelName": "PAPYRUS",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 5000,
@@ -7336,6 +7499,7 @@
   },
     "Undyne The Undying": {
     "Type": "Pierce Spread + Passive",
+    "UnitModelName": "UNDYNE_UNDYING",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Forgotten",
     "PlacePrice": 300000,
@@ -7395,6 +7559,7 @@
   },
     "Alphys": {
     "Type": "Splash + Turret Spawner",
+    "UnitModelName": "ALPHYS",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 14500,
@@ -7450,6 +7615,7 @@
   },
     "Mettaton": {
     "Type": "Splash + Passive",
+    "UnitModelName": "METTATON",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 10000,
@@ -7495,6 +7661,7 @@
   },
     "Asgore Dreemurr": {
     "Type": "Pierce + Passive",
+    "UnitModelName": "ASGORE_DREEMURR",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 95000,
@@ -7554,6 +7721,7 @@
   },
     "Asriel Dreemurr": {
     "Type": "Nuke + Passive",
+    "UnitModelName": "ASRIEL_DREEMURR",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Forgotten",
     "PlacePrice": 142000,
@@ -7605,6 +7773,7 @@
   },
     "God Of Hyperdeath": {
     "Type": "Pierce Spread + Passive",
+    "UnitModelName": "GOD_HYPERDEATH",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Forgotten",
     "PlacePrice": 191225,
@@ -7664,6 +7833,7 @@
   },
     "Toriel Dreemurr": {
     "Type": "Continuous Cone Aoe Burn + Passive",
+    "UnitModelName": "TORIEL_DREEMURR",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 5000,
@@ -7717,6 +7887,7 @@
   },
     "Frisk": {
     "Type": "Slash + Passive",
+    "UnitModelName": "FRISK",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Common",
     "PlacePrice": 500,
@@ -7770,6 +7941,7 @@
   },
     "Temmie": {
     "Type": "AOE + Farm",
+    "UnitModelName": "TEMMIE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 2000,
@@ -7823,6 +7995,7 @@
   },
     "Mettaton EX": {
     "Type": "Cone Aoe + Passive",
+    "UnitModelName": "METTATON_EX",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 33333,
@@ -7876,6 +8049,7 @@
   },
     "Mettaton NEO": {
     "Type": "Cone Aoe + Passive",
+    "UnitModelName": "METTATON_NEO",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 80000,
@@ -7927,6 +8101,7 @@
   },
     "Photoshop Flowey": {
     "Type": "Nuke Slow + Passive",
+    "UnitModelName": "P_FLOWEY",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 99999,
@@ -7986,6 +8161,7 @@
   },
     "Memoryhead": {
     "Type": "Cone Aoe + Passive",
+    "UnitModelName": "MEMORYHEAD",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 10000,
@@ -8031,6 +8207,7 @@
   },
     "Reaper Bird": {
     "Type": "Pierce + Passive",
+    "UnitModelName": "R_BIRD",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 10000,
@@ -8076,6 +8253,7 @@
   },
     "Endogeny": {
     "Type": "AOE + Passive",
+    "UnitModelName": "ENDOGENY",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 10000,
@@ -8121,6 +8299,7 @@
   },
     "Lemon Bread": {
     "Type": "Melee + Passive",
+    "UnitModelName": "L_BREAD",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 10000,
@@ -8166,6 +8345,7 @@
   },
     "Knight Knight": {
     "Type": "Melee + Passive",
+    "UnitModelName": "K_KNIGHT",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 40000,
@@ -8211,6 +8391,7 @@
   },
     "Madjick": {
     "Type": "Splash + Passive",
+    "UnitModelName": "MADJICK",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Uncommon",
     "PlacePrice": 25000,
@@ -8256,6 +8437,7 @@
   },
     "Astigmatism": {
     "Type": "Cone Aoe + Passive",
+    "UnitModelName": "ASTIGMATISM",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 7500,
@@ -8309,6 +8491,7 @@
   },
     "Final Froggit": {
     "Type": "Splash + Passive",
+    "UnitModelName": "F_FROGGIT",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Uncommon",
     "PlacePrice": 500,
@@ -8354,6 +8537,7 @@
   },
     "Whimsalot": {
     "Type": "Splash + Passive",
+    "UnitModelName": "WHIMSALOT",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Common",
     "PlacePrice": 6000,
@@ -8399,6 +8583,7 @@
   },
     "Muffet": {
     "Type": "AOE + Passive",
+    "UnitModelName": "MUFFET",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 99999,
@@ -8450,6 +8635,7 @@
   },
     "Pyrope": {
     "Type": "Nuke Burn",
+    "UnitModelName": "PYROPE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 50000,
@@ -8503,6 +8689,7 @@
   },
     "Vulkin": {
     "Type": "Splash Burn + Passive",
+    "UnitModelName": "VULKIN",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Common",
     "PlacePrice": 500,
@@ -8556,6 +8743,7 @@
   },
     "Tsunderplane": {
     "Type": "Nuke + Passive",
+    "UnitModelName": "TSUNDERPLANE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 95000,
@@ -8613,6 +8801,7 @@
   },
     "Mad Dummy": {
     "Type": "Cone Aoe + Turret Spawner",
+    "UnitModelName": "M_DUMMY",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 25000,
@@ -8663,6 +8852,7 @@
   },
     "Moldbygg": {
     "Type": "AOE Slow + Range Boost",
+    "UnitModelName": "MOLDBYGG",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Uncommon",
     "PlacePrice": 4500,
@@ -8724,6 +8914,7 @@
   },
     "Shyren": {
     "Type": "Cooldown Booster",
+    "UnitModelName": "SHYREN",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 7500,
@@ -8777,6 +8968,7 @@
   },
     "Woshua": {
     "Type": "AOE Anti Regen + Damage Booster",
+    "UnitModelName": "WOSHUA",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 2500,
@@ -8838,6 +9030,7 @@
   },
     "Mad Mew Mew": {
     "Type": "Splash + Passive",
+    "UnitModelName": "M_MEW",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 52500,
@@ -8891,6 +9084,7 @@
   },
     "Greater Dog": {
     "Type": "Melee + Passive",
+    "UnitModelName": "G_DOG",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 35000,
@@ -8936,6 +9130,7 @@
   },
     "Glyde": {
     "Type": "AOE + Passive",
+    "UnitModelName": "GLYDE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 75000,
@@ -8981,6 +9176,7 @@
   },
     "Gyftrot": {
     "Type": "Continuous Pierce",
+    "UnitModelName": "GYFTROT",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Common",
     "PlacePrice": 600,
@@ -9022,6 +9218,7 @@
   },
     "Jerry": {
     "Type": "AOE + Passive",
+    "UnitModelName": "JERRY",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 101,
@@ -9067,6 +9264,7 @@
   },
     "Dogamy And Dogaressa": {
     "Type": "Slash + Passive",
+    "UnitModelName": "DOGAMY_DOGARESSA",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 15000,
@@ -9120,6 +9318,7 @@
   },
     "Lesser Dog": {
     "Type": "Slash + Passive",
+    "UnitModelName": "L_DOG",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Uncommon",
     "PlacePrice": 8000,
@@ -9165,6 +9364,7 @@
   },
     "Snowdrake": {
     "Type": "Cone Aoe + Passive",
+    "UnitModelName": "SNOWDRAKE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 6000,
@@ -9226,6 +9426,7 @@
   },
     "Ice Cap": {
     "Type": "Pierce + Passive",
+    "UnitModelName": "I_CAP",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 7500,
@@ -9271,6 +9472,7 @@
   },
     "Loox": {
     "Type": "Pierce + Passive",
+    "UnitModelName": "LOOX",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Uncommon",
     "PlacePrice": 1750,
@@ -9316,6 +9518,7 @@
   },
     "Dummy": {
     "Type": "Single + Passive",
+    "UnitModelName": "DUMMY",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Common",
     "PlacePrice": 500,
@@ -9361,6 +9564,7 @@
   },
     "Froggit": {
     "Type": "Splash + Passive",
+    "UnitModelName": "FROGGIT",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 5000,
@@ -9406,6 +9610,7 @@
   },
     "Whimsun": {
     "Type": "Single + Passive",
+    "UnitModelName": "WHIMSUN",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Uncommon",
     "PlacePrice": 250,
@@ -9451,6 +9656,7 @@
   },
     "Migosp": {
     "Type": "Cone Aoe + Passive",
+    "UnitModelName": "MIGOSP",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Uncommon",
     "PlacePrice": 2350,
@@ -9496,6 +9702,7 @@
   },
     "Vegetoid": {
     "Type": "Pierce",
+    "UnitModelName": "VEGETOID",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Uncommon",
     "PlacePrice": 1350,
@@ -9537,6 +9744,7 @@
   },
     "Monster Kid": {
     "Type": "Single + Passive",
+    "UnitModelName": "M_KID",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 250,
@@ -9590,6 +9798,7 @@
   },
     "Nice Cream Guy": {
     "Type": "Splash + Passive",
+    "UnitModelName": "NC_GUY",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 17500,
@@ -9643,6 +9852,7 @@
   },
     "So Sorry!": {
     "Type": "Cone Aoe + Turret Spawner + Passive",
+    "UnitModelName": "S_SORRY",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Forgotten",
     "PlacePrice": 100000,
@@ -9699,6 +9909,7 @@
   },
     "Undyne": {
     "Type": "Pierce Spread + Passive",
+    "UnitModelName": "UNDYNE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 120000,
@@ -9750,6 +9961,7 @@
   },
     "Festive Plushie Ralsei": {
     "Type": "AOE + Passive",
+    "UnitModelName": "FP_RALSEI",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 7000,
@@ -9803,6 +10015,7 @@
   },
     "Santa Ralsei": {
     "Type": "Explosion + Passive",
+    "UnitModelName": "S_RALSEI",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 50000,
@@ -9854,6 +10067,7 @@
   },
     "Elf Kris": {
     "Type": "Slash + Passive",
+    "UnitModelName": "E_KRIS",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 10000,
@@ -9907,6 +10121,7 @@
   },
     "Krismas Tree": {
     "Type": "AOE + Passive",
+    "UnitModelName": "K_TREE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 5000,
@@ -9960,6 +10175,7 @@
   },
     "Grinch Susie": {
     "Type": "Slash + Passive",
+    "UnitModelName": "G_SUSIE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 12500,
@@ -10005,6 +10221,7 @@
   },
     "Ugly Sweater Lancer": {
     "Type": "Cone Aoe + Passive",
+    "UnitModelName": "US_LANCER",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
     "PlacePrice": 7000,
@@ -10058,6 +10275,7 @@
   },
     "Noelles Sleigh": {
     "Type": "AOE + Passive",
+    "UnitModelName": "N_SLEIGH",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 12250,
@@ -10109,6 +10327,7 @@
   },
     "Christmas Misfits": {
     "Type": "Melee + Passive",
+    "UnitModelName": "C_MISFITS",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 40000,
@@ -10160,6 +10379,7 @@
   },
     "Mall Santa Queen": {
     "Type": "Splash + Passive",
+    "UnitModelName": "MS_QUEEN",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 22222,
@@ -10205,6 +10425,7 @@
   },
     "Santa Asgore": {
     "Type": "Cone Aoe + Passive",
+    "UnitModelName": "S_ASGORE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Uncommon",
     "PlacePrice": 60000,
@@ -10250,6 +10471,7 @@
   },
     "Mrs. Claus Toriel": {
     "Type": "Explosion + Passive",
+    "UnitModelName": "MC_TORIEL",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Uncommon",
     "PlacePrice": 5000,
@@ -10295,6 +10517,7 @@
   },
     "Santa Susie": {
     "Type": "Slash + Passive",
+    "UnitModelName": "S_SUSIE",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Common",
     "PlacePrice": 700,
@@ -10340,6 +10563,7 @@
   },
     "Togore Dreemurr": {
     "Type": "Togore + Passive",
+    "UnitModelName": "TOGORE_DREEMURR",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Unique",
     "PlacePrice": 9999,
@@ -10389,8 +10613,67 @@
       }
     ]
   },
-    "Testing Unit": {
-    "Type": "AOE + Passive",
+  "HIM": {
+    "Type": "Nuke + Passive",
+    "UnitModelName": "HIM",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Forgotten",
+    "PlacePrice": 1031018,
+    "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "DIMENSION SHATTERING OCCURS OFTEN...",
+    "VoiceLineAttackCaptions": "THIS EXPERIMENT MUST CONTINUE...",
+    "VoiceLineSellCaptions": "CONTINUE PULLING THE STRINGS...",
+    "Passive": {
+            "Name": "It's HIM",
+            "Description": "Every 15s HIM Takes Control Of One Of Your Random Units, Tripling Their Damage And Attack Speed For 3s. Attacks Also Have A 10% Chance To Shatter Reality, Dealing 10x Damage And 5s Stun"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 50000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 3031018,
+        "Range": 25,
+        "Damage": 75000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 5031018,
+        "Range": 30,
+        "Damage": 100000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 7031018,
+        "Range": 35,
+        "Damage": 125000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 10312018,
+        "Range": 40,
+        "Damage": 200000,
+        "Cooldown": 3
+      }
+    ]
+  },
+   "Testing Unit": {
+    "Type": "Cone Aoe + Passive",
+    "UnitModelName": "TEST_UNIT",
     "Image": "rbxassetid://0",
     "Rarity": "Common",
     "PlacePrice": 500,
@@ -10433,5 +10716,5 @@
         "Cooldown": 0.25
       }
     ]
-  }
+ }
 }
