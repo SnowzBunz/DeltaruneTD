@@ -1,17 +1,20 @@
 {
-    "Regular", 
-     "D$": 50,
-     "Souls": 5,
-     "SecondsPerGiven": 60,
-     "PresentChance": 0.1,
-    "Vip",
-     "D$": 100,
-     "Souls": 15,
-     "SecondsPerGiven": 60,
-     "PresentChance": 0.25,
-    "Premium",
-     "D$": 125,
-     "Souls": 20,
-     "SecondsPerGiven": 60,
-     "PresentChance": 0.4
+  "Regular": {
+    "D$": 50,
+    "Souls": 5,
+    "SecondsPerGiven": 60,
+    "PresentChance": 0.1
+  },
+  "Vip": {
+    "D$": 100,
+    "Souls": 15,
+    "SecondsPerGiven": 60,
+    "PresentChance": 0.25
+  },
+  "Premium": {
+    "D$": 125,
+    "Souls": 20,
+    "SecondsPerGiven": 60,
+    "PresentChance": 0.4
+  }
 }
