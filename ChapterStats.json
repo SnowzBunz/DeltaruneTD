@@ -1,1 +1,116 @@
+{
+  "Chapter 1": {
+    "Games": {
+      "1": "FIELD_ROOM_1",
+      "2": "FIELD_ROOM_2",
+      "3": "FIELD_ROOM_3",
+      "4": "FIELD_ROOM_4",
+      "5": "BOARD_ROOM_1",
+      "6": "BOARD_ROOM_2",
+      "7": "KINGS_CASTLE_1",
+      "8": "KINGS_CASTLE_2",
+      "9": "KINGS_CASTLE_3",
+      "10": "KINGS_CASTLE_4"
+    },
+    "Secret Boss": {
+      "Name": "Jevil_Fight",
+      "RequiredToComplete": false
+    },
+    "Mini-Bosses": {
+      "1": null,
+      "2": null
+    },
+    "Final Boss": {
+      "Name": "King_Fight",
+      "RequiredToComplete": true
+    }
+  },
+  "Chapter 2": {
+    "Games": {
+      "1": "CYBER_WORLD_1",
+      "2": "CYBER_WORLD_2",
+      "3": "CYBER_WORLD_3",
+      "4": "CYBER_WORLD_4",
+      "5": "CYBER_CITY_1",
+      "6": "CYBER_CITY_2",
+      "7": "SPAMTONS_DUMP_1",
+      "8": "QUEENS_MANSION_1",
+      "9": "ACID_TUNNEL_1",
+      "10": "QUEENS_MANSION_2"
+    },
+    "Secret Boss": {
+      "Name": "Spamton_NEO_Fight",
+      "RequiredToComplete": false
+    },
+    "Mini-Bosses": {
+      "1": {
+        "Name": "Queen_Fight",
+        "RequiredToComplete": true
+      },
+      "2": null
+    },
+    "Final Boss": {
+      "Name": "Giga_Queen_Fight",
+      "RequiredToComplete": true
+    }
+  },
+  "Chapter 3": {
+    "Games": {
+      "1": "DESERT_BOARD_1",
+      "2": "DESERT_BOARD_1",
+      "3": "ISLAND_BOARD_1",
+      "4": "ISLAND_BOARD_1",
+      "5": "DOOM_BOARD_1",
+      "6": "DOOM_BOARD_2",
+      "7": "GREEN_ROOM_1",
+      "8": "COLD_PLACE_1",
+      "9": "TV_WORLD_1",
+      "10": "TV_WORLD_2"
+    },
+    "Secret Boss": {
+      "Name": "RoaringKnight_Fight",
+      "RequiredToComplete": false
+    },
+    "Mini-Bosses": {
+      "1": null,
+      "2": null
+    },
+    "Final Boss": {
+      "Name": "Tenna_Fight",
+      "RequiredToComplete": true
+    }
+  },
+  "Chapter 4": {
+    "Games": {
+      "1": "CHURCH_1",
+      "2": "ATRIUM_1",
+      "3": "DARK_SANCTUARY_1",
+      "4": "DARK_SANCTUARY_2",
+      "5": "OLD_MAN_STUDY_1",
+      "6": "OLD_MAN_STUDY_2",
+      "7": "SECOND_SANCTUARY_1",
+      "8": "SECOND_SANCTUARY_2",
+      "9": "THIRD_SANCTUARY_1",
+      "10": "THIRD_SANCTUARY_2"
+    },
+    "Secret Boss": {
+      "Name": "Hammer_Of_Justice_Fight",
+      "RequiredToComplete": false
+    },
+    "Mini-Bosses": {
+      "1": {
+        "Name": "Miss_Mizzle_Fight",
+        "RequiredToComplete": false
+      },
+      "2": {
+        "Name": "TITAN_Sequence_Climb_Spawns_Fight",
+        "RequiredToComplete": true
+      }
+    },
+    "Final Boss": {
+      "Name": "TITAN_Fight",
+      "RequiredToComplete": true
+    }
+  }
+}
 
