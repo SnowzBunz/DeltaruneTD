@@ -1,1 +1,21 @@
 
+{
+  "CH1G1": {
+    "Enemies": [
+      {
+        "Name": "RalseiTest",
+        "Health": 50,
+        "Speed": 12,
+        "Type": "Enemy",
+        "Debuffs": ["None"]
+      },
+      {
+        "Name": "RudinnTest",
+        "Health": 500,
+        "Speed": 15,
+        "Type": "Mini-Boss",
+        "Debuffs": ["Anti-Stun"]
+      }
+    ]
+  },
+}
