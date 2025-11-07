@@ -1,12 +1,15 @@
-{
-    "Locked": false,
-    "Type": "PVP",
-    "EndTime": 0
-    "Reward": "Snowgrave Noelle"
-}
-{
-    "Locked": false,
-    "Type": "CLANS_SEASON1",
-    "EndTime": 0
-    "Reward": "Pandemonium Partners"
-}
+[
+    {
+        "Locked": false,
+        "Type": "PVP",
+        "EndTime": 0,
+        "Reward": "Snowgrave Noelle"
+    },
+    {
+        "Locked": false,
+        "Type": "CLANS_SEASON1",
+        "EndTime": 0,
+        "Reward": "Pandemonium Partners"
+    }
+]
+
