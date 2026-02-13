@@ -10671,18 +10671,24 @@
       }
     ]
   },
-   "Testing Unit": {
-    "Type": "Cone Aoe + Passive",
-    "UnitModelName": "TEST_UNIT",
+   "???": {
+    "Type": "HyperSlash + Passive",
+    "UnitModelName": "DECEMBER_HOLIDAY",
     "Image": "rbxassetid://0",
-    "Rarity": "Common",
-    "PlacePrice": 500,
-    "Max": 3,
+    "Rarity": "Deity",
+    "PlacePrice": 58403680,
+    "Max": 1,
     "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
     "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "So we finally meet, after all this time.",
+    "VoiceLineAttackCaptions": "NO ONE can choose who they are in this world!",
+    "VoiceLineSellCaptions": "It appears we are approaching an end.",
     "Passive": {
-            "Name": "Test",
-            "Description": "Attacks Make Enemys Say \"HIT SUCCESS\" Above Them"
+            "Name": "The True Angel",
+            "Description": "??? Cannot Gain More Placements, Or Be Boosted By Certain Boosters, But ??? Gains +25% Damage, +25% Range, And -10% Cooldown For Every Unit In Range. ??? Has a 25% Chance Every Attack To Deal 100x Damage, And Instantly Kill Any Non-Boss Enemy."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -10693,27 +10699,45 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 20,
-        "Damage": 500,
-        "Cooldown": 0.25
+        "Range": 35,
+        "Damage": 500000,
+        "Cooldown": 4
       },
       {
-        "Price": 500,
-        "Range": 22,
+        "Price": 68403680,
+        "Range": 40,
         "Damage": 1000,
-        "Cooldown": 0.25
+        "Cooldown": 3.75
       },
       {
-        "Price": 500,
-        "Range": 24,
-        "Damage": 1500,
-        "Cooldown": 0.25
+        "Price": 78403680,
+        "Range": 45,
+        "Damage": 625000,
+        "Cooldown": 3.5
       },
       {
-        "Price": 500,
-        "Range": 26,
-        "Damage": 2000,
-        "Cooldown": 0.25
+        "Price": 88403680,
+        "Range": 50,
+        "Damage": 750000,
+        "Cooldown": 3.25
+      },
+      {
+        "Price": 98403680,
+        "Range": 62.5,
+        "Damage": 825000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 108403680,
+        "Range": 70,
+        "Damage": 900000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 122500000,
+        "Range": 75,
+        "Damage": 1000000,
+        "Cooldown": 2.5
       }
     ]
  }
