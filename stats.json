@@ -10747,12 +10747,12 @@
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Legendary",
     "PlacePrice": 7500,
-    "Max": 2,
+    "Max": 3,
     "AttackSound": "rbxassetid://0",
     "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Fangs",
-            "Description": "Attacks Deal 150% Bleed Damage Over 3s"
+            "Description": "Attacks Deal 150% Bleed Damage Over 4s"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -10765,25 +10765,25 @@
         "Price": 0,
         "Range": 19,
         "Damage": 5500,
-        "Cooldown": 2.5
+        "Cooldown": 1.5
       },
       {
         "Price": 8250,
         "Range": 23,
         "Damage": 6250,
-        "Cooldown": 2.25
+        "Cooldown": 1.25
       },
       {
         "Price": 9500,
         "Range": 27,
         "Damage": 6500,
-        "Cooldown": 2
+        "Cooldown": 1
       },
       {
         "Price": 11500,
         "Range": 30,
         "Damage": 7000,
-        "Cooldown": 1.5
+        "Cooldown": 0.75
       }
     ]
   },
@@ -11041,25 +11041,25 @@
         "Price": 0,
         "Range": 25,
         "Damage": 30000,
-        "Cooldown": 2
+        "Cooldown": 4
       },
       {
         "Price": 25000,
         "Range": 28,
         "Damage": 35000,
-        "Cooldown": 1.75
+        "Cooldown": 3.75
       },
       {
         "Price": 30000,
         "Range": 32,
         "Damage": 40000,
-        "Cooldown": 1.75
+        "Cooldown": 3.5
       },
       {
         "Price": 31978,
         "Range": 35,
         "Damage": 42500,
-        "Cooldown": 1.5
+        "Cooldown": 2.75
       }
     ]
   },
@@ -11225,30 +11225,30 @@
         "Price": 0,
         "Range": 21,
         "Damage": 25000,
-        "Cooldown": 1
+        "Cooldown": 3
       },
       {
         "Price": 32500,
         "Range": 24,
         "Damage": 27500,
-        "Cooldown": 1
+        "Cooldown": 3
       },
       {
         "Price": 35000,
         "Range": 27,
         "Damage": 30000,
-        "Cooldown": 1
+        "Cooldown": 3
       },
       {
         "Price": 37500,
         "Range": 31,
         "Damage": 32500,
-        "Cooldown": 1
+        "Cooldown": 3
       }
     ]
   },
     "Witch Toriel": {
-    "Type": "Splash + Passive",
+    "Type": "Single + Passive",
     "UnitModelName": "W_TORIEL",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Epic",
@@ -11317,25 +11317,25 @@
         "Price": 0,
         "Range": 23,
         "Damage": 30000,
-        "Cooldown": 3
+        "Cooldown": 5
       },
       {
         "Price": 6000,
         "Range": 26,
         "Damage": 40000,
-        "Cooldown": 3
+        "Cooldown": 5
       },
       {
         "Price": 7000,
         "Range": 30,
         "Damage": 50000,
-        "Cooldown": 3
+        "Cooldown": 5
       },
       {
         "Price": 8000,
         "Range": 34,
         "Damage": 60000,
-        "Cooldown": 3
+        "Cooldown": 5
       }
     ]
   }
