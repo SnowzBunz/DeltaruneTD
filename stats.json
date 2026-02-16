@@ -10740,5 +10740,603 @@
         "Cooldown": 2.5
       }
     ]
- }
+ },
+    "Vampire Kris": {
+    "Type": "Cone Aoe + Passive",
+    "UnitModelName": "VAMP_KRIS",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Legendary",
+    "PlacePrice": 7500,
+    "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Fangs",
+            "Description": "Attacks Deal 150% Bleed Damage Over 3s"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 19,
+        "Damage": 5500,
+        "Cooldown": 2.5
+      },
+      {
+        "Price": 8250,
+        "Range": 23,
+        "Damage": 6250,
+        "Cooldown": 2.25
+      },
+      {
+        "Price": 9500,
+        "Range": 27,
+        "Damage": 6500,
+        "Cooldown": 2
+      },
+      {
+        "Price": 11500,
+        "Range": 30,
+        "Damage": 7000,
+        "Cooldown": 1.5
+      }
+    ]
+  },
+    "Frankenstein Susie": {
+    "Type": "Chain Shock + Passive",
+    "UnitModelName": "FRANK_SUSIE",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Common",
+    "PlacePrice": 15000,
+    "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Back From The Dead!",
+            "Description": "Attacks Chain Up To 3 Nearby Enemies. If an attack kills an enemy, it has a 10% chance to fully heal the enemy, and have the enemy fight for you until it is killed."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 24,
+        "Damage": 20000,
+        "Cooldown": 4
+      },
+      {
+        "Price": 17500,
+        "Range": 28,
+        "Damage": 27500,
+        "Cooldown": 4
+      },
+      {
+        "Price": 20000,
+        "Range": 33,
+        "Damage": 32500,
+        "Cooldown": 4
+      },
+      {
+        "Price": 21816,
+        "Range": 39,
+        "Damage": 35000,
+        "Cooldown": 4
+      }
+    ]
+  },
+    "Baker Ralsei": {
+    "Type": "Explosion + Passive",
+    "UnitModelName": "BAK_RALSEI",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Common",
+    "PlacePrice": 9000,
+    "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "I Made Candy Corn Cake!! Who Wants Some??",
+            "Description": "When this unit is placed, it creates a candy corn cake that heals your base for 1 health for every 5 enemies killed in its range (50 range)"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 21,
+        "Damage": 2000,
+        "Cooldown": 1
+      },
+      {
+        "Price": 6000,
+        "Range": 23,
+        "Damage": 3000,
+        "Cooldown": 1
+      },
+      {
+        "Price": 7000,
+        "Range": 25,
+        "Damage": 3500,
+        "Cooldown": 0.9
+      },
+      {
+        "Price": 8000,
+        "Range": 27,
+        "Damage": 4000,
+        "Cooldown": 0.8
+      }
+    ]
+  },
+    "Angel Noelle": {
+    "Type": "Slash + Passive",
+    "UnitModelName": "ANG_NOELLE",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Uncommon",
+    "PlacePrice": 1250,
+    "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "THE ANGEL...?",
+            "Description": "Attacks Gain 10% Darkness For Every Enemy In Range, Up To 100%. At 100% Darkness, Angel Noelle's Next Attack Deals 5x Damage And Stuns Enemies For 3s."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 21,
+        "Damage": 2000,
+        "Cooldown": 1.5
+      },
+      {
+        "Price": 1750,
+        "Range": 24,
+        "Damage": 2250,
+        "Cooldown": 1.25
+      },
+      {
+        "Price": 2500,
+        "Range": 26,
+        "Damage": 2500,
+        "Cooldown": 1
+      },
+      {
+        "Price": 4000,
+        "Range": 28,
+        "Damage": 3000,
+        "Cooldown": 0.75
+      }
+    ]
+  },
+    "Cyborg Berdly": {
+    "Type": "Continuous Pierce + Passive",
+    "UnitModelName": "CYB_BERDLY",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Uncommon",
+    "PlacePrice": 600,
+    "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Mechanical Genius!",
+            "Description": "The Longer Cyborg Berdly Attacks An Enemy, The More Damage Cyborg Berdly Deals, Gaining 5% More Damage Every Second, Up To 500%."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 14,
+        "Damage": 400,
+        "Cooldown": 0.25
+      },
+      {
+        "Price": 750,
+        "Range": 17,
+        "Damage": 525,
+        "Cooldown": 0.25
+      },
+      {
+        "Price": 1000,
+        "Range": 20,
+        "Damage": 650,
+        "Cooldown": 0.25
+      },
+      {
+        "Price": 1250,
+        "Range": 23,
+        "Damage": 800,
+        "Cooldown": 0.25
+      }
+    ]
+  },
+    "Candy Corn Lancer": {
+    "Type": "Continuous AOE + Passive",
+    "UnitModelName": "C_C_LANCER",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Epic",
+    "PlacePrice": 25000,
+    "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Terrible Tasting Treats",
+            "Description": "All Enemies In Range Are Given A Piece Of Candy Corn, Reducing Their Health By 5% And Speed By 2.5% For Every Piece, Stacking Up To 5 Pieces, Each Piece Lasts For 3s."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 22,
+        "Damage": 1500,
+        "Cooldown": 0.25
+      },
+      {
+        "Price": 27500,
+        "Range": 25,
+        "Damage": 2000,
+        "Cooldown": 0.25
+      },
+      {
+        "Price": 30000,
+        "Range": 27,
+        "Damage": 2500,
+        "Cooldown": 0.25
+      },
+      {
+        "Price": 32500,
+        "Range": 29,
+        "Damage": 3250,
+        "Cooldown": 0.25
+      }
+    ]
+  },
+    "Michael Myers Dess": {
+    "Type": "Slash + Passive",
+    "UnitModelName": "M_M_DESS",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Unique",
+    "PlacePrice": 21978,
+    "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Chef's Bloody Kiss",
+            "Description": "Attacks Apply 250% Bleed For 5s, And Cause Enemies To Permanently Recieve 25% More Damage From Halloween Units."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 25,
+        "Damage": 30000,
+        "Cooldown": 2
+      },
+      {
+        "Price": 25000,
+        "Range": 28,
+        "Damage": 35000,
+        "Cooldown": 1.75
+      },
+      {
+        "Price": 30000,
+        "Range": 32,
+        "Damage": 40000,
+        "Cooldown": 1.75
+      },
+      {
+        "Price": 31978,
+        "Range": 35,
+        "Damage": 42500,
+        "Cooldown": 1.5
+      }
+    ]
+  },
+    "Job Application Spamton": {
+    "Type": "Damage + Range + Cooldown Booster",
+    "UnitModelName": "J_A_SPAMTON",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Forgotten",
+    "PlacePrice": 2000,
+    "Max": 25,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "[KRIS!] AM I [scary] OR WHAT!?!",
+            "Description": "All Units In Range Get a 10% (20% Shiny) Cooldown Reduction, 15% (30% Shiny) Range Increase, And 15% (30% Shiny) Damage Increase."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 22,
+        "Damage": 0,
+        "Cooldown": 1
+      },
+      {
+        "Price": 3000,
+        "Range": 26,
+        "Damage": 0,
+        "Cooldown": 1
+      },
+      {
+        "Price": 3250,
+        "Range": 29,
+        "Damage": 0,
+        "Cooldown": 1
+      },
+      {
+        "Price": 3750,
+        "Range": 35,
+        "Damage": 0,
+        "Cooldown": 1
+      }
+    ]
+  },
+    "Princess Jackenstein": {
+    "Type": "Cone Aoe + Damage Booster",
+    "UnitModelName": "P_JACKENSTEIN",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Legendary",
+    "PlacePrice": 35000,
+    "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "FRAINDS!! DO YOU LAIKE MY PRINCESS DRESS!!?",
+            "Description": "All Units In Range Get A 25% (50% Shiny) Damage Boost."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 23,
+        "Damage": 25000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 37500,
+        "Range": 26,
+        "Damage": 30000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 40000,
+        "Range": 28,
+        "Damage": 35000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 42500,
+        "Range": 32,
+        "Damage": 40000,
+        "Cooldown": 3
+      }
+    ]
+  },
+    "Grim Reaper Knight": {
+    "Type": "Slash + Passive",
+    "UnitModelName": "G_R_KNIGHT",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Legendary",
+    "PlacePrice": 40000,
+    "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Reaper's Curse",
+            "Description": "Gains 1% More Damage Per Every Enemy Killed By Grim Reaper Knight, Stacking Up To 500%"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 23,
+        "Damage": 40000,
+        "Cooldown": 2.5
+      },
+      {
+        "Price": 47500,
+        "Range": 26,
+        "Damage": 45000,
+        "Cooldown": 2.5
+      },
+      {
+        "Price": 55000,
+        "Range": 29,
+        "Damage": 50000,
+        "Cooldown": 2.5
+      },
+      {
+        "Price": 60000,
+        "Range": 34,
+        "Damage": 52500,
+        "Cooldown": 2.5
+      }
+    ]
+  },
+    "Detective Gerson": {
+    "Type": "Splash + Passive",
+    "UnitModelName": "D_GERSON",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Gold",
+    "PlacePrice": 30000,
+    "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Gyaa! Ha! Ha! I Solved The Case!",
+            "Description": "Attacks Remove All Modifiers On Enemys."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 21,
+        "Damage": 25000,
+        "Cooldown": 1
+      },
+      {
+        "Price": 32500,
+        "Range": 24,
+        "Damage": 27500,
+        "Cooldown": 1
+      },
+      {
+        "Price": 35000,
+        "Range": 27,
+        "Damage": 30000,
+        "Cooldown": 1
+      },
+      {
+        "Price": 37500,
+        "Range": 31,
+        "Damage": 32500,
+        "Cooldown": 1
+      }
+    ]
+  },
+    "Witch Toriel": {
+    "Type": "Splash + Passive",
+    "UnitModelName": "W_TORIEL",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Epic",
+    "PlacePrice": 6000,
+    "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Witch's Curse!",
+            "Description": "All Enemies In Range Take 25% More Damage."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 3000,
+        "Cooldown": 0.5
+      },
+      {
+        "Price": 8000,
+        "Range": 23,
+        "Damage": 3500,
+        "Cooldown": 0.5
+      },
+      {
+        "Price": 10000,
+        "Range": 26,
+        "Damage": 4000,
+        "Cooldown": 0.5
+      },
+      {
+        "Price": 12500,
+        "Range": 29,
+        "Damage": 4500,
+        "Cooldown": 0.5
+      }
+    ]
+  },
+    "Skeleton Tenna": {
+    "Type": "Slash + Passive",
+    "UnitModelName": "S_SUSIE",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Gold",
+    "PlacePrice": 50000,
+    "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Bone Shattering Strike",
+            "Description": "Attacks Hit Twice If There Are Other Halloween Units In Range."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 23,
+        "Damage": 30000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 6000,
+        "Range": 26,
+        "Damage": 40000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 7000,
+        "Range": 30,
+        "Damage": 50000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 8000,
+        "Range": 34,
+        "Damage": 60000,
+        "Cooldown": 3
+      }
+    ]
+  }
 }
