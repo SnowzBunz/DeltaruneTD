@@ -10688,7 +10688,7 @@
     "VoiceLineSellCaptions": "It appears we are approaching an end.",
     "Passive": {
             "Name": "The True Angel",
-            "Description": "??? Cannot Gain More Placements, Or Be Boosted By Certain Boosters, But ??? Gains +25% Damage, +25% Range, And -10% Cooldown For Every Unit In Range. ??? Has a 25% Chance Every Attack To Deal 100x Damage, And Instantly Kill Any Non-Boss Enemy."
+            "Description": "??? Cannot Gain More Placements, Or Be Boosted By Boosters, But ??? Gains +25% Damage, +25% Range, And -10% Cooldown For Every Unit In Range. (Max 10 Units In Range)"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -10706,7 +10706,7 @@
       {
         "Price": 68403680,
         "Range": 40,
-        "Damage": 1000,
+        "Damage": 550000,
         "Cooldown": 3.75
       },
       {
@@ -10752,7 +10752,7 @@
     "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Fangs",
-            "Description": "Attacks Deal 150% Bleed Damage Over 4s"
+            "Description": "Attacks Deal 100% Bleed Damage Over 4s"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -10765,25 +10765,33 @@
         "Price": 0,
         "Range": 19,
         "Damage": 5500,
-        "Cooldown": 1.5
+        "Cooldown": 1.5,
+        "Bleed": 0,
+        "BleedTime": 4
       },
       {
         "Price": 8250,
         "Range": 23,
         "Damage": 6250,
-        "Cooldown": 1.25
+        "Cooldown": 1.25,
+        "Bleed": 0,
+        "BleedTime": 4
       },
       {
         "Price": 9500,
         "Range": 27,
         "Damage": 6500,
-        "Cooldown": 1
+        "Cooldown": 1,
+        "Bleed": 0,
+        "BleedTime": 4
       },
       {
         "Price": 11500,
         "Range": 30,
         "Damage": 7000,
-        "Cooldown": 0.75
+        "Cooldown": 0.75,
+        "Bleed": 0,
+        "BleedTime": 4
       }
     ]
   },
@@ -10811,25 +10819,29 @@
         "Price": 0,
         "Range": 24,
         "Damage": 20000,
-        "Cooldown": 4
+        "Cooldown": 4,
+        "MaxChain": 3
       },
       {
         "Price": 17500,
         "Range": 28,
         "Damage": 27500,
-        "Cooldown": 4
+        "Cooldown": 4,
+        "MaxChain": 3
       },
       {
         "Price": 20000,
         "Range": 33,
         "Damage": 32500,
-        "Cooldown": 4
+        "Cooldown": 4,
+        "MaxChain": 3
       },
       {
         "Price": 21816,
         "Range": 39,
         "Damage": 35000,
-        "Cooldown": 4
+        "Cooldown": 4,
+        "MaxChain": 3
       }
     ]
   },
@@ -10890,7 +10902,7 @@
     "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "THE ANGEL...?",
-            "Description": "Attacks Gain 10% Darkness For Every Enemy In Range, Up To 100%. At 100% Darkness, Angel Noelle's Next Attack Deals 5x Damage And Stuns Enemies For 3s."
+            "Description": "Attacks Gain 10% Darkness For Every Enemy In Range, Up To 100%. At 100% Darkness, Angel Noelle's Next Attack Deals 5x Damage And Stuns Enemies For 3s. (Once every 60 seconds)"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -11027,8 +11039,8 @@
     "AttackSound": "rbxassetid://0",
     "PassiveSound": "rbxassetid://0",
     "Passive": {
-            "Name": "Chef's Bloody Kiss",
-            "Description": "Attacks Apply 250% Bleed For 5s, And Cause Enemies To Permanently Recieve 25% More Damage From Halloween Units."
+            "Name": "Campfire Story",
+            "Description": "Attacks Apply 100% Bleed For 5s, And Cause Enemies To Permanently Recieve 25% More Damage From Halloween Units."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -11041,25 +11053,33 @@
         "Price": 0,
         "Range": 25,
         "Damage": 30000,
-        "Cooldown": 4
+        "Cooldown": 4,
+        "Bleed": 0,
+        "BleedTime": 5
       },
       {
         "Price": 25000,
         "Range": 28,
         "Damage": 35000,
-        "Cooldown": 3.75
+        "Cooldown": 3.75,
+        "Bleed": 0,
+        "BleedTime": 5
       },
       {
         "Price": 30000,
         "Range": 32,
         "Damage": 40000,
-        "Cooldown": 3.5
+        "Cooldown": 3.5,
+        "Bleed": 0,
+        "BleedTime": 5
       },
       {
         "Price": 31978,
         "Range": 35,
         "Damage": 42500,
-        "Cooldown": 2.75
+        "Cooldown": 2.75,
+        "Bleed": 0,
+        "BleedTime": 5
       }
     ]
   },
@@ -11087,25 +11107,49 @@
         "Price": 0,
         "Range": 22,
         "Damage": 0,
-        "Cooldown": 1
+        "Cooldown": 1,
+        "DamageBoost": 1.15,
+        "ShinyDamageBoost": 1.3,
+        "RangeBoost": 1.15,
+        "ShinyRangeBoost": 1.3,
+        "CooldownReduction": 0.9,
+        "ShinyCooldownReduction": 0.8
       },
       {
         "Price": 3000,
         "Range": 26,
         "Damage": 0,
-        "Cooldown": 1
+        "Cooldown": 1,
+        "DamageBoost": 1.15,
+        "ShinyDamageBoost": 1.3,
+        "RangeBoost": 1.15,
+        "ShinyRangeBoost": 1.3,
+        "CooldownReduction": 0.9,
+        "ShinyCooldownReduction": 0.8
       },
       {
         "Price": 3250,
         "Range": 29,
         "Damage": 0,
-        "Cooldown": 1
+        "Cooldown": 1,
+        "DamageBoost": 1.15,
+        "ShinyDamageBoost": 1.3,
+        "RangeBoost": 1.15,
+        "ShinyRangeBoost": 1.3,
+        "CooldownReduction": 0.9,
+        "ShinyCooldownReduction": 0.8
       },
       {
         "Price": 3750,
         "Range": 35,
         "Damage": 0,
-        "Cooldown": 1
+        "Cooldown": 1,
+        "DamageBoost": 1.15,
+        "ShinyDamageBoost": 1.3,
+        "RangeBoost": 1.15,
+        "ShinyRangeBoost": 1.3,
+        "CooldownReduction": 0.9,
+        "ShinyCooldownReduction": 0.8
       }
     ]
   },
@@ -11133,25 +11177,33 @@
         "Price": 0,
         "Range": 23,
         "Damage": 25000,
-        "Cooldown": 3
+        "Cooldown": 3,
+        "DamageBoost": 1.25,
+        "ShinyDamageBoost": 1.5
       },
       {
         "Price": 37500,
         "Range": 26,
         "Damage": 30000,
-        "Cooldown": 3
+        "Cooldown": 3,
+        "DamageBoost": 1.25,
+        "ShinyDamageBoost": 1.5
       },
       {
         "Price": 40000,
         "Range": 28,
         "Damage": 35000,
-        "Cooldown": 3
+        "Cooldown": 3,
+        "DamageBoost": 1.25,
+        "ShinyDamageBoost": 1.5
       },
       {
         "Price": 42500,
         "Range": 32,
         "Damage": 40000,
-        "Cooldown": 3
+        "Cooldown": 3,
+        "DamageBoost": 1.25,
+        "ShinyDamageBoost": 1.5
       }
     ]
   },
@@ -11295,7 +11347,7 @@
   },
     "Skeleton Tenna": {
     "Type": "Slash + Passive",
-    "UnitModelName": "S_SUSIE",
+    "UnitModelName": "S_TENNA",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 50000,
@@ -11336,6 +11388,242 @@
         "Range": 34,
         "Damage": 60000,
         "Cooldown": 5
+      }
+    ]
+  },
+    "Art Splatter Ralsei": {
+    "Type": "Splash + Passive",
+    "UnitModelName": "ART_S_RALSEI",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Gold",
+    "PlacePrice": 5000,
+    "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Wet Paintbrush",
+            "Description": "Attacks cause enemys to be slowed by 30% for 5 seconds. If the enemy is already slowed, they take 5% more damage."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 21,
+        "Damage": 10000,
+        "Cooldown": 3,
+        "Slow": 0.7,
+        "SlowTime": 5
+      },
+      {
+        "Price": 7500,
+        "Range": 23,
+        "Damage": 20000,
+        "Cooldown": 3,
+        "Slow": 0.7,
+        "SlowTime": 5
+      },
+      {
+        "Price": 9000,
+        "Range": 27,
+        "Damage": 30000,
+        "Cooldown": 3,
+        "Slow": 0.7,
+        "SlowTime": 5
+      },
+      {
+        "Price": 11000,
+        "Range": 30,
+        "Damage": 40000,
+        "Cooldown": 3,
+        "Slow": 0.7,
+        "SlowTime": 5
+      }
+    ]
+  },
+    "Tenna Jackson": {
+    "Type": "Splash + Passive",
+    "UnitModelName": "T_JACKSON",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Gold",
+    "PlacePrice": 20000,
+    "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Blame it on the Boogie",
+            "Description": "Attacks stun enemies for 1 second, if stunned twice the stun deals 25% more damage."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 21,
+        "Damage": 50000,
+        "Cooldown": 4,
+        "Slow": 0.7,
+        "SlowTime": 1
+      },
+      {
+        "Price": 22500,
+        "Range": 23,
+        "Damage": 40000,
+        "Cooldown": 4,
+        "Slow": 0.7,
+        "SlowTime": 1
+      },
+      {
+        "Price": 30000,
+        "Range": 27,
+        "Damage": 60000,
+        "Cooldown": 4,
+        "Slow": 0.7,
+        "SlowTime": 1
+      },
+      {
+        "Price": 32500,
+        "Range": 30,
+        "Damage": 80000,
+        "Cooldown": 4,
+        "Slow": 0.7,
+        "SlowTime": 1
+      }
+    ]
+  },
+    "Chef Lancer": {
+    "Type": "Cone Aoe Burn + Passive",
+    "UnitModelName": "C_LANCER",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Gold",
+    "PlacePrice": 500,
+    "Max": 4,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Overcooked Kebab",
+            "Description": "Attacks Apply 30% Burn Damage Over 3 Seconds"
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 14,
+        "Damage": 1000,
+        "Cooldown": 1,
+        "Burn": 300,
+        "BurnTime": 3
+      },
+      {
+        "Price": 1000,
+        "Range": 17,
+        "Damage": 1500,
+        "Cooldown": 0.75,
+        "Burn": 450,
+        "BurnTime": 3
+      },
+      {
+        "Price": 1500,
+        "Range": 20,
+        "Damage": 2000,
+        "Cooldown": 0.5,
+        "Burn": 600,
+        "BurnTime": 3
+      },
+      {
+        "Price": 2000,
+        "Range": 23,
+        "Damage": 2750,
+        "Cooldown": 0.5,
+        "Burn": 825,
+        "BurnTime": 3
+      }
+    ]
+  },
+    "Circus Act": {
+    "Type": "Nuke + Passive",
+    "UnitModelName": "C_ACT",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Legendary",
+    "PlacePrice": 75000,
+    "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Fun And Games",
+            "Description": "Clown Ralsei, Clown Susie, And Clown Kris, alongside their circus tent apply 10% Soulleak, 30% Slow, and 10% Burn for 2s to all enemies hit."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 19,
+        "Damage": 60000,
+        "Cooldown": 4,
+        "Burn": 6000,
+        "BurnTime": 2,
+        "Slow": 0.7,
+        "SlowTime": 2,
+        "SoulLeak": 1.1,
+        "ShinySoulLeak": 1.1,
+        "SoulLeakTime": 2
+      },
+      {
+        "Price": 100000,
+        "Range": 23,
+        "Damage": 75000,
+        "Cooldown": 4,
+        "Burn": 7500,
+        "BurnTime": 2,
+        "Slow": 0.7,
+        "SlowTime": 2,
+        "SoulLeak": 1.1,
+        "ShinySoulLeak": 1.1,
+        "SoulLeakTime": 2
+      },
+      {
+        "Price": 130000,
+        "Range": 27,
+        "Damage": 90000,
+        "Cooldown": 4,
+        "Burn": 9000,
+        "BurnTime": 2,
+        "Slow": 0.7,
+        "SlowTime": 2,
+        "SoulLeak": 1.1,
+        "ShinySoulLeak": 1.1,
+        "SoulLeakTime": 2
+      },
+      {
+        "Price": 200000,
+        "Range": 32,
+        "Damage": 125000,
+        "Cooldown": 3.5,
+        "Burn": 12500,
+        "BurnTime": 2,
+        "Slow": 0.7,
+        "SlowTime": 2,
+        "SoulLeak": 1.1,
+        "ShinySoulLeak": 1.1,
+        "SoulLeakTime": 2
       }
     ]
   }
