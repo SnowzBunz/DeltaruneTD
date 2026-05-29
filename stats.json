@@ -10676,7 +10676,7 @@
     "UnitModelName": "DECEMBER_HOLIDAY",
     "Image": "rbxassetid://0",
     "Rarity": "Deity",
-    "PlacePrice": 58403680,
+    "PlacePrice": 4000000,
     "Max": 1,
     "AttackSound": "rbxassetid://0",
     "VoiceLinePlace": "rbxassetid://0",
@@ -10688,7 +10688,7 @@
     "VoiceLineSellCaptions": "It appears we are approaching an end.",
     "Passive": {
             "Name": "The True Angel",
-            "Description": "??? Cannot Gain More Placements, Or Be Boosted By Boosters, But ??? Gains +25% Damage, +25% Range, And -10% Cooldown For Every Unit In Range. (Max 10 Units In Range)"
+            "Description": "??? cannot gain additional placements or receive booster effects. Instead, for every allied unit within range, ??? gains +15% Damage, +7.5% Range, and -2.5% Cooldown. (Maximum 8 units)"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -10699,44 +10699,44 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 35,
-        "Damage": 500000,
+        "Range": 20,
+        "Damage": 50000,
         "Cooldown": 4
       },
       {
-        "Price": 68403680,
-        "Range": 40,
-        "Damage": 550000,
+        "Price": 5000000,
+        "Range": 20,
+        "Damage": 100000,
         "Cooldown": 3.75
       },
       {
-        "Price": 78403680,
-        "Range": 45,
-        "Damage": 625000,
+        "Price": 6000000,
+        "Range": 25,
+        "Damage": 150000,
         "Cooldown": 3.5
       },
       {
-        "Price": 88403680,
-        "Range": 50,
-        "Damage": 750000,
+        "Price": 7000000,
+        "Range": 30,
+        "Damage": 200000,
         "Cooldown": 3.25
       },
       {
-        "Price": 98403680,
-        "Range": 62.5,
-        "Damage": 825000,
+        "Price": 8000000,
+        "Range": 32.5,
+        "Damage": 250000,
         "Cooldown": 3
       },
       {
-        "Price": 108403680,
-        "Range": 70,
-        "Damage": 900000,
+        "Price": 9000000,
+        "Range": 40,
+        "Damage": 27500,
         "Cooldown": 3
       },
       {
-        "Price": 122500000,
-        "Range": 75,
-        "Damage": 1000000,
+        "Price": 11000000,
+        "Range": 50,
+        "Damage": 300000,
         "Cooldown": 2.5
       }
     ]
@@ -11624,6 +11624,202 @@
         "SoulLeak": 1.1,
         "ShinySoulLeak": 1.1,
         "SoulLeakTime": 2
+      }
+    ]
+  },
+    "Surfer Ralsei": {
+    "Type": "Splash + Passive",
+    "UnitModelName": "S_RAL",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Gold",
+    "PlacePrice": 700,
+    "Max": 4,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Waveshredder",
+            "Description": "Attacks Slow enemies by 40% for 2 seconds, Applies 10% Drown to all enemies hit for 1 second."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 15,
+        "Damage": 500,
+        "Cooldown": 1,
+        "Burn": 50,
+        "BurnTime": 1,
+        "Slow": 0.6,
+        "SlowTime": 2
+      },
+      {
+        "Price": 1000,
+        "Range": 17,
+        "Damage": 750,
+        "Cooldown": 1,
+        "Burn": 75,
+        "BurnTime": 1,
+        "Slow": 0.6,
+        "SlowTime": 2
+      },
+      {
+        "Price": 1250,
+        "Range": 20,
+        "Damage": 1000,
+        "Cooldown": 1,
+        "Burn": 100,
+        "BurnTime": 1,
+        "Slow": 0.6,
+        "SlowTime": 2
+      },
+      {
+        "Price": 1500,
+        "Range": 22,
+        "Damage": 1250,
+        "Cooldown": 1,
+        "Burn": 125,
+        "BurnTime": 1,
+        "Slow": 0.6,
+        "SlowTime": 2
+      }
+    ]
+  },
+    "Lifeguard Susie": {
+    "Type": "AOE + Passive",
+    "UnitModelName": "LG_Sus",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Legendary",
+    "PlacePrice": 7000,
+    "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Whistle",
+            "Description": "Attacks Stun enemies for 1 second, Attacks apply 20% Drown to all enemies hit for 2 seconds."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 21,
+        "Damage": 10000,
+        "Cooldown": 2,
+        "Burn": 2000,
+        "BurnTime": 2,
+        "Slow": 0,
+        "SlowTime": 1
+      },
+      {
+        "Price": 8500,
+        "Range": 23,
+        "Damage": 12500,
+        "Cooldown": 2,
+        "Burn": 2500,
+        "BurnTime": 2,
+        "Slow": 0,
+        "SlowTime": 1
+      },
+      {
+        "Price": 10000,
+        "Range": 26,
+        "Damage": 15000,
+        "Cooldown": 1.5,
+        "Burn": 3000,
+        "BurnTime": 2,
+        "Slow": 0,
+        "SlowTime": 1
+      },
+      {
+        "Price": 12500,
+        "Range": 30,
+        "Damage": 17500,
+        "Cooldown": 1,
+        "Burn": 3500,
+        "BurnTime": 2,
+        "Slow": 0,
+        "SlowTime": 1
+      }
+    ]
+  },
+    "Mighty Mo (BB-63)": {
+    "Type": "Broadside + Splash + Pierce + Passive",
+    "UnitModelName": "M_Mo",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Deity",
+    "PlacePrice": 3500000,
+    "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "The Mighty Mo has entered the battlefield.",
+    "VoiceLinePassive1Captions": "Let's drop some lead on those mother- FIRE!",
+    "VoiceLinePassive2Captions": "Everything you've got!",
+    "VoiceLineAttackCaptions": "Firing mechanism reset! Secure the hatch!... Port Side Ready!",
+    "VoiceLineSellCaptions": "They ain't gonna sink this battleship, no way.",
+    "Passive": {
+        "Name": "Art Of War",
+        "Description": "The legendary battleship fights with every battery online, commanded by Admiral Ralsei. Every 45 seconds, BB-63 unleashes a devastating 9-gun broadside, firing 16-Inch High Explosive shells that deal Explosive Nuke AoE damage equal to x15 current Damage and inflict +200% Burn for 1.5 seconds. Every 3 seconds, her 5-inch secondary battery fires explosive shells that deal 3x current Damage, briefly Stunning enemies for 0.2s. Her primary attack uses rapid-fire 40mm Bofors cannons, dealing Pierce damage using her current Damage, Cooldown, and Range."
+    },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 33,
+        "Damage": 1000,
+        "Cooldown": 0.25
+      },
+      {
+        "Price": 4000000,
+        "Range": 36,
+        "Damage": 1750,
+        "Cooldown": 0.25
+      },
+      {
+        "Price": 5000000,
+        "Range": 39,
+        "Damage": 2500,
+        "Cooldown": 0.25
+      },
+      {
+        "Price": 6000000,
+        "Range": 42,
+        "Damage": 4000,
+        "Cooldown": 0.25
+      },
+      {
+        "Price": 7000000,
+        "Range": 45,
+        "Damage": 6500,
+        "Cooldown": 0.25
+      },
+      {
+        "Price": 8500000,
+        "Range": 48,
+        "Damage": 7250,
+        "Cooldown": 0.25
+      },
+      {
+        "Price": 13500000,
+        "Range": 60,
+        "Damage": 10000,
+        "Cooldown": 0.25
       }
     ]
   }
