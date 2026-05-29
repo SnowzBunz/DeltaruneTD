@@ -10730,7 +10730,7 @@
       {
         "Price": 9000000,
         "Range": 40,
-        "Damage": 27500,
+        "Damage": 275000,
         "Cooldown": 3
       },
       {
@@ -11347,7 +11347,7 @@
   },
     "Skeleton Tenna": {
     "Type": "Slash + Passive",
-    "UnitModelName": "S_TENNA",
+    "UnitModelName": "SK_TENNA",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Gold",
     "PlacePrice": 50000,
