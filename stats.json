@@ -11391,6 +11391,70 @@
       }
     ]
   },
+    "Tasque Duchess": {
+    "Type": "Command + Passive",
+    "UnitModelName": "T_DUCHESS",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Deity",
+    "PlacePrice": 25000000,
+    "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Posthumous Employment",
+            "Description": "Every 15 seconds, Tasque Duchess enters Overtime for 5 seconds. Enemies damaged by Tasque Duchess during this time that die become Reassigned as allied Revenants. Revenants inherit the defeated enemy's maximum Health plus 3x Tasque Duchess's current Damage, retracing their path toward its entrance while damaging enemies they collide with. Revenants despawn after 60 seconds, upon reaching the entrance, or when defeated. Maximum 50 active Revenants."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+"Upgrades": [
+  {
+    "Price": 0,
+    "Range": 38,
+    "Damage": 12000,
+    "Cooldown": 0.45
+  },
+  {
+    "Price": 27000000,
+    "Range": 41,
+    "Damage": 16500,
+    "Cooldown": 0.43
+  },
+  {
+    "Price": 30000000,
+    "Range": 44,
+    "Damage": 22000,
+    "Cooldown": 0.40
+  },
+  {
+    "Price": 34000000,
+    "Range": 47,
+    "Damage": 30000,
+    "Cooldown": 0.38
+  },
+  {
+    "Price": 38000000,
+    "Range": 50,
+    "Damage": 39000,
+    "Cooldown": 0.35
+  },
+  {
+    "Price": 42000000,
+    "Range": 54,
+    "Damage": 50000,
+    "Cooldown": 0.33
+  },
+  {
+    "Price": 48000000,
+    "Range": 60,
+    "Damage": 65000,
+    "Cooldown": 0.30
+  }
+]
+  },
     "Art Splatter Ralsei": {
     "Type": "Splash + Passive",
     "UnitModelName": "ART_S_RALSEI",
