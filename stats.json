@@ -11886,5 +11886,79 @@
         "Cooldown": 0.25
       }
     ]
+  },
+    "Tobias Foxington": {
+    "Type": "Pluck + Passive",
+    "UnitModelName": "T_FOX",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Deity",
+    "PlacePrice": 16000000,
+    "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "I thought this was next week.",
+    "VoiceLinePassiveCaptions": "Well, it's public now.",
+    "VoiceLineAttackCaptions": "Please enjoy this completely intentional feature.",
+    "VoiceLineSellCaptions": "The announcement has been postponed.",
+    "Passive": {
+        "Name": "DELTARUNE TOMORROW!!!",
+        "Description": "Every 25 seconds, Tobias Foxington accidentally leaks content from a future update, randomly Plucking a unit from the entire obtainable roster. The selected unit is deployed at its maximum Upgrade Level and inherits Tobias Foxington's Enchantment, Shiny status, and any active buffs. Plucked units remain for 20 seconds. Maximum 3 globally active Plucked units at once."
+    },
+
+    "Offset": 0,
+
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 38,
+            "Damage": 12000,
+            "Cooldown": 0.55
+        },
+        {
+            "Price": 17000000,
+            "Range": 42,
+            "Damage": 18000,
+            "Cooldown": 0.52
+        },
+        {
+            "Price": 20000000,
+            "Range": 46,
+            "Damage": 24000,
+            "Cooldown": 0.50
+        },
+        {
+            "Price": 24000000,
+            "Range": 50,
+            "Damage": 32000,
+            "Cooldown": 0.48
+        },
+        {
+            "Price": 30000000,
+            "Range": 55,
+            "Damage": 42000,
+            "Cooldown": 0.45
+        },
+        {
+            "Price": 38000000,
+            "Range": 60,
+            "Damage": 55000,
+            "Cooldown": 0.42
+        },
+        {
+            "Price": 52000000,
+            "Range": 68,
+            "Damage": 70000,
+            "Cooldown": 0.40
+        }
+    ]
   }
 }
