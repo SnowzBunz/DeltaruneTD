@@ -1,0 +1,486 @@
+{
+    "SnowzBunz": {
+    "Type": "Pierce Spread + Passive",
+    "UnitModelName": "DEV_SB",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Deity",
+    "PlacePrice": 100000,
+    "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Sharp Carrots",
+            "Description": "Attacks Cause 100% Anti-Regen, 50% Soulleak and 65% Slow For 1 Second."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 35,
+        "Damage": 115000,
+        "Cooldown": 1.10,
+        "Slow": 0.35,
+        "SlowTime": 1,
+        "Bleed": 0,
+        "BleedTime": 1,
+        "SoulLeak": 1.5,
+        "ShinySoulLeak": 1.5,
+        "SoulLeakTime": 1
+      },
+      {
+        "Price": 125000,
+        "Range": 40,
+        "Damage": 122000,
+        "Cooldown": 1.05,
+        "Slow": 0.35,
+        "SlowTime": 1,
+        "Bleed": 0,
+        "BleedTime": 1,
+        "SoulLeak": 1.5,
+        "ShinySoulLeak": 1.5,
+        "SoulLeakTime": 1
+      },
+      {
+        "Price": 150000,
+        "Range": 45,
+        "Damage": 128000,
+        "Cooldown": 1.02,
+        "Slow": 0.35,
+        "SlowTime": 1,
+        "Bleed": 0,
+        "BleedTime": 1,
+        "SoulLeak": 1.5,
+        "ShinySoulLeak": 1.5,
+        "SoulLeakTime": 1
+      },
+      {
+        "Price": 175000,
+        "Range": 50,
+        "Damage": 135000,
+        "Cooldown": 1.00,
+        "Slow": 0.35,
+        "SlowTime": 1,
+        "Bleed": 0,
+        "BleedTime": 1,
+        "SoulLeak": 1.5,
+        "ShinySoulLeak": 1.5,
+        "SoulLeakTime": 1
+      },
+      {
+        "Price": 200000,
+        "Range": 60,
+        "Damage": 145000,
+        "Cooldown": 1.00,
+        "Slow": 0.35,
+        "SlowTime": 1,
+        "Bleed": 0,
+        "BleedTime": 1,
+        "SoulLeak": 1.5,
+        "ShinySoulLeak": 1.5,
+        "SoulLeakTime": 1
+      }
+    ]
+  },
+    "Noei": {
+    "Type": "Dual Chain + Passive",
+    "UnitModelName": "DEV_NO",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Deity",
+    "PlacePrice": 100000,
+    "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Vinyl Fragments",
+            "Description": "Attacks Have a Max Chain of 5. Attacks Cause 3s Stun, and break armor."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 35,
+        "Damage": 120000,
+        "Cooldown": 1.10,
+        "Slow": 0,
+        "SlowTime": 3,
+        "MaxChain": 5
+      },
+      {
+        "Price": 125000,
+        "Range": 40,
+        "Damage": 126000,
+        "Cooldown": 1.05,
+        "Slow": 0,
+        "SlowTime": 3,
+        "MaxChain": 5
+      },
+      {
+        "Price": 150000,
+        "Range": 45,
+        "Damage": 132000,
+        "Cooldown": 1.02,
+        "Slow": 0,
+        "SlowTime": 3,
+        "MaxChain": 5
+      },
+      {
+        "Price": 175000,
+        "Range": 50,
+        "Damage": 140000,
+        "Cooldown": 1.00,
+        "Slow": 0,
+        "SlowTime": 3,
+        "MaxChain": 5
+      },
+      {
+        "Price": 200000,
+        "Range": 60,
+        "Damage": 150000,
+        "Cooldown": 1.00,
+        "Slow": 0,
+        "SlowTime": 3,
+        "MaxChain": 5
+      }
+    ]
+  },
+    "Luci": {
+    "Type": "AOE + Passive",
+    "UnitModelName": "DEV_LU",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Deity",
+    "PlacePrice": 100000,
+    "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Pharohs Sandstorm",
+            "Description": "Luci Creates a Sandstorm For 5 Seconds Every 10 Seconds, Enemies In The Sandstorm Take 15% More Damage, and are Slowed by 75%."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 35,
+        "Damage": 110000,
+        "Cooldown": 1.10
+      },
+      {
+        "Price": 125000,
+        "Range": 40,
+        "Damage": 118000,
+        "Cooldown": 1.05
+      },
+      {
+        "Price": 150000,
+        "Range": 45,
+        "Damage": 125000,
+        "Cooldown": 1.02
+      },
+      {
+        "Price": 175000,
+        "Range": 50,
+        "Damage": 135000,
+        "Cooldown": 1.00
+      },
+      {
+        "Price": 175000,
+        "Range": 50,
+        "Damage": 145000,
+        "Cooldown": 1.00
+      }
+    ]
+  },
+    "FnafAlexis": {
+    "Type": "Pierce Spread + Passive",
+    "UnitModelName": "DEV_FA",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Deity",
+    "PlacePrice": 100000,
+    "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Jumpscare!",
+            "Description": "Attacks cause a 3 Second Stun, alongside 35% Soulleak for 7 Seconds."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 35,
+        "Damage": 110000,
+        "Cooldown": 1.10,
+        "Slow": 0,
+        "SlowTime": 3,
+        "SoulLeak": 1.35,
+        "ShinySoulLeak": 1.35,
+        "SoulLeakTime": 7
+      },
+      {
+        "Price": 125000,
+        "Range": 40,
+        "Damage": 118000,
+        "Cooldown": 1.05,
+        "Slow": 0,
+        "SlowTime": 3,
+        "SoulLeak": 1.35,
+        "ShinySoulLeak": 1.35,
+        "SoulLeakTime": 7
+      },
+      {
+        "Price": 150000,
+        "Range": 45,
+        "Damage": 126000,
+        "Cooldown": 1.02,
+        "Slow": 0,
+        "SlowTime": 3,
+        "SoulLeak": 1.35,
+        "ShinySoulLeak": 1.35,
+        "SoulLeakTime": 7
+      },
+      {
+        "Price": 175000,
+        "Range": 50,
+        "Damage": 135000,
+        "Cooldown": 1.00,
+        "Slow": 0,
+        "SlowTime": 3,
+        "SoulLeak": 1.35,
+        "ShinySoulLeak": 1.35,
+        "SoulLeakTime": 7
+      },
+      {
+        "Price": 200000,
+        "Range": 60,
+        "Damage": 145000,
+        "Cooldown": 1.00,
+        "Slow": 0,
+        "SlowTime": 3,
+        "SoulLeak": 1.35,
+        "ShinySoulLeak": 1.35,
+        "SoulLeakTime": 7
+      }
+    ]
+  },
+      "Narrat0r": {
+    "Type": "Slash + Passive",
+    "UnitModelName": "DEV_NR",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Deity",
+    "PlacePrice": 100000,
+    "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Oi Mate, Watch Where You're Walkin!",
+            "Description": "Attacks apply 60% Slow for 2 seconds, Attacks also have a 35% chance to instantly kill a non-boss mob under 50% health."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 35,
+        "Damage": 105000,
+        "Cooldown": 1.10,
+        "Slow": 0.4,
+        "SlowTime": 2
+      },
+      {
+        "Price": 125000,
+        "Range": 40,
+        "Damage": 115000,
+        "Cooldown": 1.05,
+        "Slow": 0.4,
+        "SlowTime": 2
+      },
+      {
+        "Price": 150000,
+        "Range": 45,
+        "Damage": 122000,
+        "Cooldown": 1.02,
+        "Slow": 0.4,
+        "SlowTime": 2
+      },
+      {
+        "Price": 175000,
+        "Range": 50,
+        "Damage": 132000,
+        "Cooldown": 1.00,
+        "Slow": 0.4,
+        "SlowTime": 2
+      },
+      {
+        "Price": 200000,
+        "Range": 60,
+        "Damage": 145000,
+        "Cooldown": 1.00,
+        "Slow": 0.4,
+        "SlowTime": 2
+      }
+    ]
+  },
+    "Gladiator": {
+    "Type": "Cone Aoe + Passive",
+    "UnitModelName": "DEV_GD",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Deity",
+    "PlacePrice": 100000,
+    "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Scammed By Spamton The Modeler!",
+            "Description": "Gladiator Causes all enemys to drop 3x Money upon death, and causes all enemys to also have a 10% chance to drop 100k Cash On Death."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 35,
+        "Damage": 100000,
+        "Cooldown": 1.10
+      },
+      {
+        "Price": 125000,
+        "Range": 40,
+        "Damage": 112000,
+        "Cooldown": 1.05
+      },
+      {
+        "Price": 150000,
+        "Range": 45,
+        "Damage": 120000,
+        "Cooldown": 1.02
+      },
+      {
+        "Price": 175000,
+        "Range": 50,
+        "Damage": 132000,
+        "Cooldown": 1.00
+      },
+      {
+        "Price": 200000,
+        "Range": 60,
+        "Damage": 145000,
+        "Cooldown": 1.00
+      }
+    ]
+  },
+    "Gizmo": {
+    "Type": "Splash + Passive",
+    "UnitModelName": "DEV_GZ",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Deity",
+    "PlacePrice": 100000,
+    "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Art Degree",
+            "Description": "Attacks Cause 60% Slow, 20% Anti-Regen, and 35% SoulLeak for 2.5 Seconds."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 35,
+        "Damage": 98000,
+        "Cooldown": 1.10,
+        "Slow": 0.4,
+        "SlowTime": 2.5,
+        "Bleed": 0.8,
+        "BleedTime": 2.5,
+        "SoulLeak": 1.35,
+        "ShinySoulLeak": 1.35,
+        "SoulLeakTime": 2.5
+      },
+      {
+        "Price": 125000,
+        "Range": 40,
+        "Damage": 110000,
+        "Cooldown": 1.05,
+        "Slow": 0.4,
+        "SlowTime": 2.5,
+        "Bleed": 0.8,
+        "BleedTime": 2.5,
+        "SoulLeak": 1.35,
+        "ShinySoulLeak": 1.35,
+        "SoulLeakTime": 2.5
+      },
+      {
+        "Price": 150000,
+        "Range": 45,
+        "Damage": 118000,
+        "Cooldown": 1.02,
+        "Slow": 0.4,
+        "SlowTime": 2.5,
+        "Bleed": 0.8,
+        "BleedTime": 2.5,
+        "SoulLeak": 1.35,
+        "ShinySoulLeak": 1.35,
+        "SoulLeakTime": 2.5
+      },
+      {
+        "Price": 175000,
+        "Range": 50,
+        "Damage": 130000,
+        "Cooldown": 1.00,
+        "Slow": 0.4,
+        "SlowTime": 2.5,
+        "Bleed": 0.8,
+        "BleedTime": 2.5,
+        "SoulLeak": 1.35,
+        "ShinySoulLeak": 1.35,
+        "SoulLeakTime": 2.5
+      },
+      {
+        "Price": 200000,
+        "Range": 60,
+        "Damage": 140000,
+        "Cooldown": 1.00,
+        "Slow": 0.4,
+        "SlowTime": 2.5,
+        "Bleed": 0.8,
+        "BleedTime": 2.5,
+        "SoulLeak": 1.35,
+        "ShinySoulLeak": 1.35,
+        "SoulLeakTime": 2.5
+      }
+    ]
+  }
+}

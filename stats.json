@@ -10676,7 +10676,7 @@
     "UnitModelName": "DECEMBER_HOLIDAY",
     "Image": "rbxassetid://0",
     "Rarity": "Deity",
-    "PlacePrice": 4000000,
+    "PlacePrice": 12000000,
     "Max": 1,
     "AttackSound": "rbxassetid://0",
     "VoiceLinePlace": "rbxassetid://0",
@@ -10704,37 +10704,37 @@
         "Cooldown": 4
       },
       {
-        "Price": 5000000,
+        "Price": 7000000,
         "Range": 20,
         "Damage": 100000,
         "Cooldown": 3.75
       },
       {
-        "Price": 6000000,
+        "Price": 9000000,
         "Range": 25,
         "Damage": 150000,
         "Cooldown": 3.5
       },
       {
-        "Price": 7000000,
+        "Price": 11000000,
         "Range": 30,
         "Damage": 200000,
         "Cooldown": 3.25
       },
       {
-        "Price": 8000000,
+        "Price": 13000000,
         "Range": 32.5,
         "Damage": 250000,
         "Cooldown": 3
       },
       {
-        "Price": 9000000,
+        "Price": 16000000,
         "Range": 40,
         "Damage": 275000,
         "Cooldown": 3
       },
       {
-        "Price": 11000000,
+        "Price": 20000000,
         "Range": 50,
         "Damage": 300000,
         "Cooldown": 2.5
@@ -11396,7 +11396,7 @@
     "UnitModelName": "T_DUCHESS",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Deity",
-    "PlacePrice": 25000000,
+    "PlacePrice": 32000000,
     "Max": 1,
     "AttackSound": "rbxassetid://0",
     "PassiveSound": "rbxassetid://0",
@@ -11418,37 +11418,37 @@
     "Cooldown": 0.45
   },
   {
-    "Price": 27000000,
+    "Price": 35000000,
     "Range": 41,
     "Damage": 16500,
     "Cooldown": 0.43
   },
   {
-    "Price": 30000000,
+    "Price": 40000000,
     "Range": 44,
     "Damage": 22000,
     "Cooldown": 0.40
   },
   {
-    "Price": 34000000,
+    "Price": 46000000,
     "Range": 47,
     "Damage": 30000,
     "Cooldown": 0.38
   },
   {
-    "Price": 38000000,
+    "Price": 52000000,
     "Range": 50,
     "Damage": 39000,
     "Cooldown": 0.35
   },
   {
-    "Price": 42000000,
+    "Price": 60000000,
     "Range": 54,
     "Damage": 50000,
     "Cooldown": 0.33
   },
   {
-    "Price": 48000000,
+    "Price": 70000000,
     "Range": 60,
     "Damage": 65000,
     "Cooldown": 0.30
@@ -11820,7 +11820,7 @@
     "UnitModelName": "M_Mo",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Deity",
-    "PlacePrice": 3500000,
+    "PlacePrice": 9000000,
     "Max": 1,
     "AttackSound": "rbxassetid://0",
     "VoiceLinePlace": "rbxassetid://0",
@@ -11850,37 +11850,37 @@
         "Cooldown": 0.25
       },
       {
-        "Price": 4000000,
+        "Price": 6000000,
         "Range": 36,
         "Damage": 1750,
         "Cooldown": 0.25
       },
       {
-        "Price": 5000000,
+        "Price": 8000000,
         "Range": 39,
         "Damage": 2500,
         "Cooldown": 0.25
       },
       {
-        "Price": 6000000,
+        "Price": 10000000,
         "Range": 42,
         "Damage": 4000,
         "Cooldown": 0.25
       },
       {
-        "Price": 7000000,
+        "Price": 13000000,
         "Range": 45,
         "Damage": 6500,
         "Cooldown": 0.25
       },
       {
-        "Price": 8500000,
+        "Price": 16000000,
         "Range": 48,
         "Damage": 7250,
         "Cooldown": 0.25
       },
       {
-        "Price": 13500000,
+        "Price": 22000000,
         "Range": 60,
         "Damage": 10000,
         "Cooldown": 0.25
@@ -11892,7 +11892,7 @@
     "UnitModelName": "T_FOX",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Deity",
-    "PlacePrice": 16000000,
+    "PlacePrice": 18000000,
     "Max": 1,
     "AttackSound": "rbxassetid://0",
     "VoiceLinePlace": "rbxassetid://0",
@@ -11924,37 +11924,37 @@
             "Cooldown": 0.55
         },
         {
-            "Price": 17000000,
+            "Price": 20000000,
             "Range": 42,
             "Damage": 18000,
             "Cooldown": 0.52
         },
         {
-            "Price": 20000000,
+            "Price": 24000000,
             "Range": 46,
             "Damage": 24000,
             "Cooldown": 0.50
         },
         {
-            "Price": 24000000,
+            "Price": 30000000,
             "Range": 50,
             "Damage": 32000,
             "Cooldown": 0.48
         },
         {
-            "Price": 30000000,
+            "Price": 38000000,
             "Range": 55,
             "Damage": 42000,
             "Cooldown": 0.45
         },
         {
-            "Price": 38000000,
+            "Price": 48000000,
             "Range": 60,
             "Damage": 55000,
             "Cooldown": 0.42
         },
         {
-            "Price": 52000000,
+            "Price": 65000000,
             "Range": 68,
             "Damage": 70000,
             "Cooldown": 0.40
