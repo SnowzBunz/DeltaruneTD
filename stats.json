@@ -12490,7 +12490,7 @@
     "VoiceLineSellCaptions": "The world is not ready for me.",
     "Passive": {
       "Name": "Nine Tails Dominion",
-      "Description": "All SAVED Monster Units In Range Get +1 Placements! Attacks Stun For 1.5s And Apply 85% Slow For 3s."
+      "Description": "Each attack has the chance to strike between 1 and 9 times, Alongside the full Pierce Spread Damage. Every strike deals 100% of this unit's current Damage as Single-target damage to a random enemy within range."
     },
     "Offset": 0,
     "hitboxOffset": {
