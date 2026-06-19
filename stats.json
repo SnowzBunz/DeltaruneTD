@@ -267,13 +267,13 @@
       {
         "Price": 10000,
         "Range": 25,
-        "Damage": 100,
+        "Damage": 4000,
         "Cooldown": 1.5
       },
       {
         "Price": 12500,
         "Range": 30,
-        "Damage": 100,
+        "Damage": 5000,
         "Cooldown": 1.25
       }
     ]
@@ -483,6 +483,7 @@
             "Description": "Swatch Gives All Towers In Range A +25% Damage Boost, and Generates 5000->10000 Cash Every Wave."
         },
     "Offset": 0,
+    "NoEnemyAttack": true,
     "hitboxOffset": {
       "X": 0,
       "Y": 0,
@@ -1180,6 +1181,7 @@
             "Description": "All Towers In Range Of This Unit Are Given A +20% Damage Boost (40% If Shiny)."
         },
     "Offset": 0,
+    "NoEnemyAttack": true,
     "hitboxOffset": {
       "X": 0,
       "Y": 0,
@@ -3889,8 +3891,8 @@
     "Upgrades": [
       {
         "Price": 0,
-        "Range": 4000,
-        "Damage": 100,
+        "Range": 13,
+        "Damage": 4000,
         "Cooldown": 2
       },
       {
@@ -4097,7 +4099,6 @@
     "VoiceLinePlaceCaptions": "Do You Hear It?",
     "VoiceLineAttackCaptions": "Order through sound!",
     "VoiceLineSellCaptions": "Silenced.",
-    "NoEnemyAttack": true,
     "Passive": {
             "Name": "Ripple",
             "Description": "Attacks Apply 5s Of Darkened Stun."
@@ -4199,6 +4200,7 @@
             "Description": "All Towers In Range Are Given a 25% Cooldown Reduction (50% If Shiny)"
         },
     "Offset": 0,
+    "NoEnemyAttack": true,
     "hitboxOffset": {
       "X": 0,
       "Y": 0,
@@ -5395,6 +5397,7 @@
             "Description": "All Enemies In Range Are Slowed By 60%. The Phone Rings every 10s, Dealing 3s Stun. (Voice Actor: -)"
         },
     "Offset": 0,
+    "NoEnemyAttack": true,
     "hitboxOffset": {
       "X": 0,
       "Y": 0,
@@ -6467,6 +6470,7 @@
             "Description": "Nightlight Tenna Applies 75% Slow And 5% SoulLeak In a 90 Degree Cone."
         },
     "Offset": 0,
+    "NoEnemyAttack": true,
     "hitboxOffset": {
       "X": 0,
       "Y": 0,
@@ -7239,6 +7243,7 @@
             "Description": "Gains 3000->6000 Cash Per Wave."
         },
     "Offset": 0,
+    "NoEnemyAttack": true,
     "hitboxOffset": {
       "X": 0,
       "Y": 0,
@@ -8336,7 +8341,7 @@
       {
         "Price": 0,
         "Range": 15,
-        "Damage": 2500,
+        "Damage": 25000,
         "Cooldown": 1.5
       },
       {
@@ -8585,8 +8590,8 @@
       },
       {
         "Price": 7000,
-        "Range": 1500,
-        "Damage": 150,
+        "Range": 17,
+        "Damage": 1500,
         "Cooldown": 0.5
       },
       {
@@ -8880,6 +8885,7 @@
             "Description": "Enemies In Range Are Slowed By 35% For 5s. Boosts All Towers In Range For A 30% Range Boost (60% If Shiny)"
         },
     "Offset": 0,
+    "NoEnemyAttack": true,
     "hitboxOffset": {
       "X": 0,
       "Y": 0,
@@ -8942,6 +8948,7 @@
             "Description": "All Towers In Range Are Given a 10% Cooldown Reduction (20% If Shiny)"
         },
     "Offset": 0,
+    "NoEnemyAttack": true,
     "hitboxOffset": {
       "X": 0,
       "Y": 0,
@@ -8996,6 +9003,7 @@
             "Description": "Applys 50% AOE Anti Regen Every 2s For 5s. All Units In Range Are Given A +25% Damage Boost (50% Shiny)"
         },
     "Offset": 0,
+    "NoEnemyAttack": true,
     "hitboxOffset": {
       "X": 0,
       "Y": 0,
@@ -10635,20 +10643,20 @@
     {
         "Price": 35000000,
         "Range": 56,
-        "Damage": 95000,
+        "Damage": 80000,
         "Cooldown": 0.40
     },
     {
         "Price": 45000000,
         "Range": 62,
-        "Damage": 140000,
+        "Damage": 90000,
         "Cooldown": 0.35
     },
     {
         "Price": 60000000,
         "Range": 75,
-        "Damage": 225000,
-        "Cooldown": 0.30
+        "Damage": 100000,
+        "Cooldown": 0.35
     }
   ]
 },
@@ -10666,6 +10674,7 @@
             "Description": "All Units In Range Get a 10% (20% Shiny) Cooldown Reduction, 15% (30% Shiny) Range Increase, And 15% (30% Shiny) Damage Increase."
         },
     "Offset": 0,
+    "NoEnemyAttack": true,
     "hitboxOffset": {
       "X": 0,
       "Y": 0,
@@ -11320,6 +11329,7 @@
             "Description": "All Units In Range Get a 10% (20% Shiny) Cooldown Reduction, 15% (30% Shiny) Range Increase, And 15% (30% Shiny) Damage Increase."
         },
     "Offset": 0,
+    "NoEnemyAttack": true,
     "hitboxOffset": {
       "X": 0,
       "Y": 0,
@@ -13797,6 +13807,7 @@
       "Description": "Enemies In Range Are Slowed By 35% For 5s. Boosts All Towers In Range For A 30% Range Boost (60% If Shiny)."
     },
     "Offset": 0,
+    "NoEnemyAttack": true,
     "hitboxOffset": {
       "X": 0,
       "Y": 0,
@@ -13859,6 +13870,7 @@
       "Description": "All Towers In Range Are Given A 10% Cooldown Reduction (20% If Shiny)."
     },
     "Offset": 0,
+    "NoEnemyAttack": true,
     "hitboxOffset": {
       "X": 0,
       "Y": 0,
@@ -13913,6 +13925,7 @@
       "Description": "Applies 50% AOE Anti Regen Every 2s For 5s. All Units In Range Are Given A +25% Damage Boost (50% Shiny)."
     },
     "Offset": 0,
+    "NoEnemyAttack": true,
     "hitboxOffset": {
       "X": 0,
       "Y": 0,
