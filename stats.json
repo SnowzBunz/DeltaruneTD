@@ -12490,7 +12490,7 @@
     "VoiceLineSellCaptions": "The world is not ready for me.",
     "Passive": {
       "Name": "Nine Tails Dominion",
-      "Description": "Each attack has the chance to strike between 1 and 9 times, Alongside the full Pierce Spread Damage. Every strike deals 100% of this unit's current Damage as Single-target damage to a random enemy within range."
+      "Description": "Attacks Apply 85% Slow for 3s. Each attack has the chance to strike between 1 and 9 times, Alongside the full Pierce Spread Damage. Every strike deals 100% of this unit's current Damage as Single-target damage to a random enemy within range."
     },
     "Offset": 0,
     "hitboxOffset": {
@@ -12504,7 +12504,7 @@
         "Range": 42,
         "Damage": 90000,
         "Cooldown": 1.25,
-        "Slow": 0.15,
+        "Slow": 0.85,
         "SlowTime": 3
       },
       {
@@ -12512,7 +12512,7 @@
         "Range": 47,
         "Damage": 110000,
         "Cooldown": 1.25,
-        "Slow": 0.15,
+        "Slow": 0.65,
         "SlowTime": 3
       },
       {
@@ -12520,15 +12520,15 @@
         "Range": 52,
         "Damage": 135000,
         "Cooldown": 1.25,
-        "Slow": 0.15,
+        "Slow": 0.55,
         "SlowTime": 3
       },
       {
         "Price": 18000000,
         "Range": 57,
-        "Damage": 160000,
+        "Damage": 150000,
         "Cooldown": 1.25,
-        "Slow": 0.15,
+        "Slow": 0.35,
         "SlowTime": 3
       },
       {
@@ -12536,14 +12536,14 @@
         "Range": 62,
         "Damage": 160000,
         "Cooldown": 1.25,
-        "Slow": 0.15,
+        "Slow": 0.25,
         "SlowTime": 3
       },
       {
-        "Price": 22500000,
+        "Price": 27500000,
         "Range": 67,
-        "Damage": 160000,
-        "Cooldown": 1.25,
+        "Damage": 175000,
+        "Cooldown": 1.20,
         "Slow": 0.15,
         "SlowTime": 3
       }
