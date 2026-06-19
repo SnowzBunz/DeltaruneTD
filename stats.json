@@ -10604,7 +10604,7 @@
 
     "Passive": {
         "Name": "Holiday Spectacular",
-        "Description": "Every 30 seconds, Holiday Tenna begins a Holiday Broadcast for 10 seconds. During the broadcast, enemies hit by Holiday Tenna become Festive, causing them to receive +40% damage from all sources and slowing them by 20%. While Holiday Broadcast is active, Holiday Tenna attacks 50% faster and every fifth attack drops an Explosive Present that deals 8x current Damage in a large Splash area and stuns enemies for 1 second. If an enemy is defeated while Festive, Holiday Tenna permanently gains +1% Damage (Maximum 100 stacks)."
+        "Description": "Every 40 seconds, Holiday Tenna begins a Holiday Broadcast for 10 seconds. During the broadcast, enemies hit by Holiday Tenna become Festive, causing them to receive +40% damage from all sources and slowing them by 20%. While Holiday Broadcast is active, Holiday Tenna attacks 50% faster and every fifth attack drops an Explosive Present that deals 8x current Damage in a large Splash area and stuns enemies for 1 second. If an enemy is defeated while Festive, Holiday Tenna permanently gains +1% Damage (Maximum 100 stacks)."
     },
 
     "Offset": 0,
@@ -10650,13 +10650,13 @@
         "Price": 45000000,
         "Range": 62,
         "Damage": 90000,
-        "Cooldown": 0.35
+        "Cooldown": 0.4
     },
     {
         "Price": 60000000,
         "Range": 75,
         "Damage": 100000,
-        "Cooldown": 0.35
+        "Cooldown": 0.4
     }
   ]
 },
