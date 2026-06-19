@@ -10577,6 +10577,151 @@
       }
     ]
   },
+    "Holiday Tenna": {
+    "Type": "Gift Barrage + Splash + Passive",
+    "UnitModelName": "H_TENNA",
+    "Image": "rbxassetid://0",
+    "Rarity": "Deity",
+    "PlacePrice": 18000000,
+    "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "WELCOME, EVERYBODY!! THE HOLIDAY SPECIAL HAS BEGUN!!",
+    "VoiceLinePassiveCaptions": "IT'S TIME FOR OUR GRAND FINALE!!",
+    "VoiceLineAttackCaptions": "FREE GIFTS FOR ALL OUR LOVELY VIEWERS!!",
+    "VoiceLineSellCaptions": "WE'LL BE BACK AFTER THESE MESSAGES!!",
+
+    "Passive": {
+        "Name": "Holiday Spectacular",
+        "Description": "Every 30 seconds, Holiday Tenna begins a Holiday Broadcast for 10 seconds. During the broadcast, enemies hit by Holiday Tenna become Festive, causing them to receive +40% damage from all sources and slowing them by 20%. While Holiday Broadcast is active, Holiday Tenna attacks 50% faster and every fifth attack drops an Explosive Present that deals 8x current Damage in a large Splash area and stuns enemies for 1 second. If an enemy is defeated while Festive, Holiday Tenna permanently gains +1% Damage (Maximum 100 stacks)."
+    },
+
+    "Offset": 0,
+
+    "hitboxOffset": {
+         "X": 0,
+         "Y": 0,
+         "Z": 0
+    },
+
+    "Upgrades": [
+    {
+        "Price": 0,
+        "Range": 38,
+        "Damage": 18000,
+        "Cooldown": 0.60
+    },
+    {
+        "Price": 18000000,
+        "Range": 42,
+        "Damage": 28000,
+        "Cooldown": 0.55
+    },
+    {
+        "Price": 22000000,
+        "Range": 46,
+        "Damage": 42000,
+        "Cooldown": 0.50
+    },
+    {
+        "Price": 28000000,
+        "Range": 50,
+        "Damage": 65000,
+        "Cooldown": 0.45
+    },
+    {
+        "Price": 35000000,
+        "Range": 56,
+        "Damage": 95000,
+        "Cooldown": 0.40
+    },
+    {
+        "Price": 45000000,
+        "Range": 62,
+        "Damage": 140000,
+        "Cooldown": 0.35
+    },
+    {
+        "Price": 60000000,
+        "Range": 75,
+        "Damage": 225000,
+        "Cooldown": 0.30
+    }
+  ]
+},
+    "Festive Pipis": {
+    "Type": "Damage + Range + Cooldown Booster",
+    "UnitModelName": "F_PIPIS",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Forgotten",
+    "PlacePrice": 1000,
+    "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "Pipis Says Nothing, But Pipis Means Everything",
+            "Description": "All Units In Range Get a 10% (20% Shiny) Cooldown Reduction, 15% (30% Shiny) Range Increase, And 15% (30% Shiny) Damage Increase."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 22,
+        "Damage": 0,
+        "Cooldown": 1,
+        "DamageBoost": 1.15,
+        "ShinyDamageBoost": 1.3,
+        "RangeBoost": 1.15,
+        "ShinyRangeBoost": 1.3,
+        "CooldownReduction": 0.9,
+        "ShinyCooldownReduction": 0.8
+      },
+      {
+        "Price": 1250,
+        "Range": 26,
+        "Damage": 0,
+        "Cooldown": 1,
+        "DamageBoost": 1.15,
+        "ShinyDamageBoost": 1.3,
+        "RangeBoost": 1.15,
+        "ShinyRangeBoost": 1.3,
+        "CooldownReduction": 0.9,
+        "ShinyCooldownReduction": 0.8
+      },
+      {
+        "Price": 1500,
+        "Range": 29,
+        "Damage": 0,
+        "Cooldown": 1,
+        "DamageBoost": 1.15,
+        "ShinyDamageBoost": 1.3,
+        "RangeBoost": 1.15,
+        "ShinyRangeBoost": 1.3,
+        "CooldownReduction": 0.9,
+        "ShinyCooldownReduction": 0.8
+      },
+      {
+        "Price": 1750,
+        "Range": 35,
+        "Damage": 0,
+        "Cooldown": 1,
+        "DamageBoost": 1.15,
+        "ShinyDamageBoost": 1.3,
+        "RangeBoost": 1.15,
+        "ShinyRangeBoost": 1.3,
+        "CooldownReduction": 0.9,
+        "ShinyCooldownReduction": 0.8
+      }
+    ]
+  },
     "Togore Dreemurr": {
     "Type": "Togore + Passive",
     "UnitModelName": "TOGORE_DREEMURR",
@@ -10761,7 +10906,7 @@
     "Type": "Cone Aoe + Passive",
     "UnitModelName": "VAMP_KRIS",
     "Image": "rbxassetid://131226586458594",
-    "Rarity": "Legendary",
+    "Rarity": "Unique",
     "PlacePrice": 7500,
     "Max": 3,
     "AttackSound": "rbxassetid://0",
@@ -10796,7 +10941,7 @@
       {
         "Price": 9500,
         "Range": 27,
-        "Damage": 6500,
+        "Damage": 7500,
         "Cooldown": 1,
         "Bleed": 0,
         "BleedTime": 4
@@ -10804,10 +10949,72 @@
       {
         "Price": 11500,
         "Range": 30,
-        "Damage": 7000,
+        "Damage": 10000,
         "Cooldown": 0.75,
         "Bleed": 0,
         "BleedTime": 4
+      }
+    ]
+  },
+    "Pumpkin Guardian": {
+    "Type": "Nuke + Passive",
+    "UnitModelName": "P_GUARDIAN",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Unique",
+    "PlacePrice": 250000,
+    "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+            "Name": "THE GUARDIAN OF THE CANDY",
+            "Description": "Attacks apply 100% Darkness And Stun For 1 Second. Enemies Currently Affected By Darkness Take 3x Damage From The Pumpkin Guardian."
+        },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 25,
+        "Damage": 100000,
+        "Cooldown": 5,
+        "Slow": 0,
+        "SlowTime": 1,
+        "Darkness": 100000,
+        "DarknessTime": 1
+      },
+      {
+        "Price": 275000,
+        "Range": 30,
+        "Damage": 125000,
+        "Cooldown": 5,
+        "Slow": 0,
+        "SlowTime": 1,
+        "Darkness": 125000,
+        "DarknessTime": 1
+      },
+      {
+        "Price": 300000,
+        "Range": 35,
+        "Damage": 150000,
+        "Cooldown": 5,
+        "Slow": 0,
+        "SlowTime": 1,
+        "Darkness": 150000,
+        "DarknessTime": 1
+      },
+      {
+        "Price": 325000,
+        "Range": 40,
+        "Damage": 200000,
+        "Cooldown": 5,
+        "Slow": 0,
+        "SlowTime": 1,
+        "Darkness": 200000,
+        "DarknessTime": 1
       }
     ]
   },
@@ -10815,9 +11022,9 @@
     "Type": "Chain Shock + Passive",
     "UnitModelName": "FRANK_SUSIE",
     "Image": "rbxassetid://131226586458594",
-    "Rarity": "Common",
+    "Rarity": "Legendary",
     "PlacePrice": 15000,
-    "Max": 1,
+    "Max": 2,
     "AttackSound": "rbxassetid://0",
     "PassiveSound": "rbxassetid://0",
     "Passive": {
@@ -10835,28 +11042,28 @@
         "Price": 0,
         "Range": 24,
         "Damage": 20000,
-        "Cooldown": 4,
+        "Cooldown": 1,
         "MaxChain": 3
       },
       {
         "Price": 17500,
         "Range": 28,
         "Damage": 27500,
-        "Cooldown": 4,
+        "Cooldown": 1,
         "MaxChain": 3
       },
       {
         "Price": 20000,
         "Range": 33,
         "Damage": 32500,
-        "Cooldown": 4,
+        "Cooldown": 1,
         "MaxChain": 3
       },
       {
-        "Price": 21816,
+        "Price": 31816,
         "Range": 39,
-        "Damage": 35000,
-        "Cooldown": 4,
+        "Damage": 45000,
+        "Cooldown": 1,
         "MaxChain": 3
       }
     ]
@@ -11056,7 +11263,7 @@
     "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Campfire Story",
-            "Description": "Attacks Apply 100% Bleed For 5s, And Cause Enemies To Permanently Recieve 25% More Damage From Halloween Units."
+            "Description": "Attacks Apply 100% Bleed For 5s, And Causes Enemies To Permanently Recieve 25% More Damage From Halloween Units."
         },
     "Offset": 0,
     "hitboxOffset": {
