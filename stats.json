@@ -12693,7 +12693,7 @@
     ]
   },
     "Kitsune Queen": {
-    "Type": "Pierce Spread + Passive",
+    "Type": "Tailwhip + Passive",
     "UnitModelName": "K_QUEEN",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Deity",
