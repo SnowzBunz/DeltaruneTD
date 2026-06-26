@@ -2079,7 +2079,7 @@
     "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Turn Off",
-            "Description": "Enemys Hit By Zapper Are Given 25% Slow For 2 Seconds And 0.1s Stun."
+            "Description": "enemies Hit By Zapper Are Given 25% Slow For 2 Seconds And 0.1s Stun."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -3576,7 +3576,7 @@
     "NoEnemyAttack": true,
     "Passive": {
             "Name": "YOUR CREATION...",
-            "Description": "Every 15s THE VESSEL Will Place A Heart Shaped Trap That Deals x75 Damage And 5s Darkened Stun To Enemys (Max 50)"
+            "Description": "Every 15s THE VESSEL Will Place A Heart Shaped Trap That Deals x75 Damage And 5s Darkened Stun To enemies (Max 50)"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -4732,7 +4732,7 @@
     "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Chalk",
-            "Description": "Susie Deals +100% More Damage To Enemys In A 10 Stud Radius Of Her"
+            "Description": "Susie Deals +100% More Damage To enemies In A 10 Stud Radius Of Her"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -6738,7 +6738,7 @@
     "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Debug Asset",
-            "Description": "Attacks Glitch Out Enemys Causing Them To Take 0.1s Stun"
+            "Description": "Attacks Glitch Out enemies Causing Them To Take 0.1s Stun"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -7519,7 +7519,7 @@
     "Max": 1,
     "Passive": {
             "Name": "Battle Against A True Hero",
-            "Description": "Attacks Apply 65% Slow for 3s, Every 10s Undyne Spawns a Barrage Of Spears that Deals 5x Damage to the Nearest Group Of Enemys. (Max 10 Enemies/Bosses Hit)"
+            "Description": "Attacks Apply 65% Slow for 3s, Every 10s Undyne Spawns a Barrage Of Spears that Deals 5x Damage to the Nearest Group Of enemies. (Max 10 Enemies/Bosses Hit)"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -7537,7 +7537,7 @@
         "SlowTime": 3
       },
       {
-        "Price": 1500,
+        "Price": 325000,
         "Range": 27,
         "Damage": 165000,
         "Cooldown": 4,
@@ -7545,7 +7545,7 @@
         "SlowTime": 3
       },
       {
-        "Price": 1750,
+        "Price": 350000,
         "Range": 34,
         "Damage": 175000,
         "Cooldown": 4,
@@ -7553,7 +7553,7 @@
         "SlowTime": 3
       },
       {
-        "Price": 2000,
+        "Price": 375000,
         "Range": 38,
         "Damage": 185000,
         "Cooldown": 4,
@@ -8467,7 +8467,7 @@
     "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Blindness",
-            "Description": "Attacks Stun Enemys For 0.5s"
+            "Description": "Attacks Stun enemies For 0.5s"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -8567,7 +8567,7 @@
     "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "No Longer Scared",
-            "Description": "Attacks Deal 2x Damage To Enemys 15 Range Or Closer"
+            "Description": "Attacks Deal 2x Damage To enemies 15 Range Or Closer"
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -10100,7 +10100,7 @@
     "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Festive Supplies",
-            "Description": "Attacks Stun Enemys For 0.5s By Wrapping Them In Gift Boxes."
+            "Description": "Attacks Stun enemies For 0.5s By Wrapping Them In Gift Boxes."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -11051,28 +11051,28 @@
         "Price": 0,
         "Range": 24,
         "Damage": 20000,
-        "Cooldown": 1,
+        "Cooldown": 2,
         "MaxChain": 3
       },
       {
         "Price": 17500,
         "Range": 28,
         "Damage": 27500,
-        "Cooldown": 1,
+        "Cooldown": 2,
         "MaxChain": 3
       },
       {
         "Price": 20000,
         "Range": 33,
         "Damage": 32500,
-        "Cooldown": 1,
+        "Cooldown": 2,
         "MaxChain": 3
       },
       {
         "Price": 31816,
         "Range": 39,
         "Damage": 45000,
-        "Cooldown": 1,
+        "Cooldown": 2,
         "MaxChain": 3
       }
     ]
@@ -11497,7 +11497,7 @@
     "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Gyaa! Ha! Ha! I Solved The Case!",
-            "Description": "Attacks Remove All Modifiers On Enemys."
+            "Description": "Attacks Remove All Modifiers On enemies."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -11699,7 +11699,7 @@
     "PassiveSound": "rbxassetid://0",
     "Passive": {
             "Name": "Wet Paintbrush",
-            "Description": "Attacks cause enemys to be slowed by 30% for 5 seconds. If the enemy is already slowed, they take 5% more damage."
+            "Description": "Attacks cause enemies to be slowed by 30% for 5 seconds. If the enemy is already slowed, they take 5% more damage."
         },
     "Offset": 0,
     "hitboxOffset": {
@@ -12059,6 +12059,8 @@
     "VoiceLinePlace": "rbxassetid://0",
     "VoiceLineAttack": "rbxassetid://0",
     "VoiceLineSell": "rbxassetid://0",
+    "VoiceLinePassive1": "rbxassetid://0",
+    "VoiceLinePassive2": "rbxassetid://0",    
     "PassiveSound": "rbxassetid://0",
     "VoiceLinePlaceCaptions": "The Mighty Mo has entered the battlefield.",
     "VoiceLinePassive1Captions": "Let's drop some lead on those mother- FIRE!",
@@ -14959,6 +14961,1499 @@
         "Slow": 0.35,
         "SlowTime": 5
       }
+    ]
+  },
+    "Pink": {
+    "Type": "Nuke Stun + Passive",
+    "UnitModelName": "PINK",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Unique",
+    "PlacePrice": 200000,
+    "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLineAttack1": "rbxassetid://0",
+    "VoiceLineAttack2": "rbxassetid://0",
+    "VoiceLineAttack3": "rbxassetid://0",
+    "VoiceLineSell": "rbxassetid://0",
+    "VoiceLineIdle1": "rbxassetid://0",
+    "VoiceLineIdle2": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "I Love You, Mew!",
+    "VoiceLineAttack1Captions": "Mew!",
+    "VoiceLineAttack2Captions": "Jealous? I BET you are!",
+    "VoiceLineAttack3Captions": "You're making my body's heart... go funny!! D... die!",
+    "VoiceLineSellCaptions": "I could be an ANIMATED CATGIRL!!! Why do you twerps have to take that away!?",
+    "VoiceLineIdle1Captions": "This body... it still... feels doki's for you.",
+    "VoiceLineIdle2Captions": "I want to be a real girl!",
+    "Passive": {
+      "Name": "Mewers Live",
+      "Description": "Attacks Stun Enemies For 1 Second. Whenever Pink defeats a Mini-Boss or Boss, she gains 1 Doki. For every 5 Doki accumulated, all allied units within range gain +10% Damage. Additionally, every 30 seconds, Pink has a 30% chance to split into two, summoning a grey colored duplicate adjacent to herself for 15 seconds. The duplicate inherits Pink's current stats, modifiers, buffs/debuffs and cannot create additional duplicates."
+    },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 22,
+        "Damage": 50000,
+        "Cooldown": 3,
+        "Slow": 0,
+        "SlowTime": 1
+      },
+      {
+        "Price": 180000,
+        "Range": 25,
+        "Damage": 75000,
+        "Cooldown": 3,
+        "Slow": 0,
+        "SlowTime": 1
+      },
+      {
+        "Price": 220000,
+        "Range": 29,
+        "Damage": 90000,
+        "Cooldown": 3,
+        "Slow": 0,
+        "SlowTime": 1
+      },
+      {
+        "Price": 270000,
+        "Range": 33,
+        "Damage": 112500,
+        "Cooldown": 3,
+        "Slow": 0,
+        "SlowTime": 1
+      }
+    ]
+  },
+    "Flowery": {
+    "Type": "AOE + Passive",
+    "UnitModelName": "FLOWERY",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Unique",
+    "PlacePrice": 125000,
+    "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace1": "rbxassetid://0",
+    "VoiceLinePlace2": "rbxassetid://0",
+    "VoiceLinePlace3": "rbxassetid://0",
+    "VoiceLinePlace4": "rbxassetid://0",
+    "VoiceLinePlace5": "rbxassetid://0",
+    "VoiceLineAttack1": "rbxassetid://0",
+    "VoiceLineAttack2": "rbxassetid://0",
+    "VoiceLineAttack3": "rbxassetid://0",
+    "VoiceLineAttack4": "rbxassetid://0",
+    "VoiceLineAttack5": "rbxassetid://0",
+    "VoiceLineAttack6": "rbxassetid://0",
+    "VoiceLineAttack7": "rbxassetid://0",
+    "VoiceLineAttack8": "rbxassetid://0",
+    "VoiceLineAttack9": "rbxassetid://0",
+    "VoiceLineAttack10": "rbxassetid://0",
+    "VoiceLineSell1": "rbxassetid://0",
+    "VoiceLineSell2": "rbxassetid://0",
+    "VoiceLineSell3": "rbxassetid://0",
+    "VoiceLineSell4": "rbxassetid://0",
+    "VoiceLineSell5": "rbxassetid://0",
+    "VoiceLinePassive1": "rbxassetid://0",
+    "VoiceLinePassive2": "rbxassetid://0",
+    "VoiceLinePassive3": "rbxassetid://0",
+    "VoiceLinePassive4": "rbxassetid://0",
+    "VoiceLinePassive5": "rbxassetid://0",
+    "VoiceLinePassive6": "rbxassetid://0",
+    "VoiceLinePassive7": "rbxassetid://0",
+    "VoiceLinePassive8": "rbxassetid://0",
+    "VoiceLineIdle1": "rbxassetid://0",
+    "VoiceLineIdle2": "rbxassetid://0",
+    "VoiceLineIdle3": "rbxassetid://0",
+    "VoiceLineIdle4": "rbxassetid://0",
+    "VoiceLineIdle5": "rbxassetid://0",
+    "VoiceLineIdle6": "rbxassetid://0",
+    "VoiceLineIdle7": "rbxassetid://0",
+    "VoiceLineIdle8": "rbxassetid://0",
+    "VoiceLineIdle9": "rbxassetid://0",
+    "VoiceLineIdle10": "rbxassetid://0",
+    "VoiceLineIdle11": "rbxassetid://0",
+    "VoiceLineIdle12": "rbxassetid://0",
+    "VoiceLineIdle13": "rbxassetid://0",
+    "VoiceLineIdle14": "rbxassetid://0",
+    "VoiceLineIdle15": "rbxassetid://0",
+    "VoiceLineIdle16": "rbxassetid://0",
+    "VoiceLineIdle17": "rbxassetid://0",
+    "VoiceLineIdle18": "rbxassetid://0",
+    "VoiceLineIdle19": "rbxassetid://0",
+    "VoiceLineIdle20": "rbxassetid://0",
+    "VoiceLineIdle21": "rbxassetid://0",
+    "VoiceLineIdle22": "rbxassetid://0",
+    "VoiceLineIdle23": "rbxassetid://0",
+    "VoiceLineIdle24": "rbxassetid://0",
+    "VoiceLineIdle25": "rbxassetid://0",
+    "VoiceLineIdle26": "rbxassetid://0",
+    "VoiceLineIdle27": "rbxassetid://0",
+    "VoiceLineIdle28": "rbxassetid://0",
+    "VoiceLineIdle29": "rbxassetid://0",
+    "VoiceLineIdle30": "rbxassetid://0",
+    "VoiceLineIdle31": "rbxassetid://0",
+    "VoiceLineIdle32": "rbxassetid://0",
+    "VoiceLineIdle33": "rbxassetid://0",
+    "VoiceLineIdle34": "rbxassetid://0",
+    "VoiceLineIdle35": "rbxassetid://0",
+    "VoiceLineIdle36": "rbxassetid://0",
+    "VoiceLineIdle37": "rbxassetid://0",
+    "VoiceLineIdle38": "rbxassetid://0",
+    "VoiceLineIdle39": "rbxassetid://0",
+    "VoiceLineIdle40": "rbxassetid://0",
+    "VoiceLineIdle41": "rbxassetid://0",
+    "VoiceLineIdle42": "rbxassetid://0",
+    "VoiceLineIdle43": "rbxassetid://0",
+    "VoiceLineIdle44": "rbxassetid://0",
+    "VoiceLineIdle45": "rbxassetid://0",
+    "VoiceLineIdle46": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlace1Captions": "OMEGA FLOWERY!",
+    "VoiceLinePlace2Captions": "Here I come, San Frandisco!",
+    "VoiceLinePlace3Captions": "Hey guys! I think I found a glue!",
+    "VoiceLinePlace4Captions": "It's me, Flowery!",
+    "VoiceLinePlace5Captions": "My human.",
+    "VoiceLineAttack1Captions": "Glue!",
+    "VoiceLineAttack2Captions": "Prism Blow!",
+    "VoiceLineAttack3Captions": "TAKE THAT!",
+    "VoiceLineAttack4Captions": "Leaf it to me!",
+    "VoiceLineAttack5Captions": "Spiral DANCE!",
+    "VoiceLineAttack6Captions": "LEND ME YOUR POWER!",
+    "VoiceLineAttack7Captions": "Try my flavor!",
+    "VoiceLineAttack8Captions": "Huh! I'll show you!",
+    "VoiceLineAttack9Captions": "Suckle it up!",
+    "VoiceLineAttack10Captions": "And one more for the fans!",
+    "VoiceLineSell1Captions": "Goodbye!",
+    "VoiceLineSell2Captions": "Go home!",
+    "VoiceLineSell3Captions": "Sorry about that, little guy.",
+    "VoiceLineSell4Captions": "Sorry about that, guys!",
+    "VoiceLineSell5Captions": "Just... kidding!",
+    "VoiceLinePassive1Captions": "WITH YOUR POWERS COMBINED!",
+    "VoiceLinePassive2Captions": "Calling for help!",
+    "VoiceLinePassive3Captions": "They're eating my flesh!",
+    "VoiceLinePassive4Captions": "Flower's blooms in your heart.",
+    "VoiceLinePassive5Captions": "It's all in a name!",
+    "VoiceLinePassive6Captions": "What a predictable creature.",
+    "VoiceLinePassive7Captions": "Smile again!",
+    "VoiceLinePassive8Captions": "That's my dreams.",
+    "VoiceLineIdle1Captions": "That's Great!",
+    "VoiceLineIdle2Captions": "Sustingus!",
+    "VoiceLineIdle3Captions": "Your dad's my best friend.",
+    "VoiceLineIdle4Captions": "I'm only trying to help you.",
+    "VoiceLineIdle5Captions": "Say that again.",
+    "VoiceLineIdle6Captions": "Mini Peppers.",
+    "VoiceLineIdle7Captions": "Grown like a turnip.",
+    "VoiceLineIdle8Captions": "Mostlys!",
+    "VoiceLineIdle9Captions": "I'm falling!",
+    "VoiceLineIdle10Captions": "It's me!",
+    "VoiceLineIdle11Captions": "Get a chance!",
+    "VoiceLineIdle12Captions": "This guy's your best friend.",
+    "VoiceLineIdle13Captions": "Give to you!",
+    "VoiceLineIdle14Captions": "Great style!",
+    "VoiceLineIdle15Captions": "Hey boys!",
+    "VoiceLineIdle16Captions": "Wow!",
+    "VoiceLineIdle17Captions": "Yes!",
+    "VoiceLineIdle18Captions": "Sorry to keep a lady in waiting!",
+    "VoiceLineIdle19Captions": "Kris.",
+    "VoiceLineIdle20Captions": "Susie.",
+    "VoiceLineIdle21Captions": "Hey there, little guy!",
+    "VoiceLineIdle22Captions": "The boys!",
+    "VoiceLineIdle23Captions": "My king!",
+    "VoiceLineIdle24Captions": "A blingo blizzard!",
+    "VoiceLineIdle25Captions": "No, no, no!",
+    "VoiceLineIdle26Captions": "Heh, It's so human!",
+    "VoiceLineIdle27Captions": "No way, it's your children.",
+    "VoiceLineIdle28Captions": "Heh, it's my jarona!",
+    "VoiceLineIdle29Captions": "Sorry to keep you, ladies!",
+    "VoiceLineIdle30Captions": "Mysterious wind.",
+    "VoiceLineIdle31Captions": "You're a hero.",
+    "VoiceLineIdle32Captions": "Flowery!",
+    "VoiceLineIdle33Captions": "Hey!",
+    "VoiceLineIdle34Captions": "Sorry to keep you waiting!",
+    "VoiceLineIdle35Captions": "Hey guys!",
+    "VoiceLineIdle36Captions": "It's all yours!",
+    "VoiceLineIdle37Captions": "The diner!",
+    "VoiceLineIdle38Captions": "Don't you like serving humans?",
+    "VoiceLineIdle39Captions": "Hey Raly!",
+    "VoiceLineIdle40Captions": "My favorite two!",
+    "VoiceLineIdle41Captions": "Your dad.",
+    "VoiceLineIdle42Captions": "I'm sorry once again, I kept a lady in waiting!",
+    "VoiceLineIdle43Captions": "Sorry about the guy!",
+    "VoiceLineIdle44Captions": "All according to plant!",
+    "VoiceLineIdle45Captions": "Jarona!",
+    "VoiceLineIdle46Captions": "Last Jarona!",
+    "Passive": {
+      "Name": "NOBODY IS FASTER THAN A FLOWER!",
+      "Description": "For every allied Flower-type unit within Flowery's range, Flowery gains +10% Damage. Every 30 seconds, Flowery randomly selects an allied unit within range and chaotically rewrites one of its stats, setting either its Damage, Range, or Cooldown to a random value between 0 and 999,999,999 for 10 seconds."
+    },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 22,
+        "Damage": 6500,
+        "Cooldown": 0.3
+      },
+      {
+        "Price": 150000,
+        "Range": 25,
+        "Damage": 7500,
+        "Cooldown": 0.3
+      },
+      {
+        "Price": 200000,
+        "Range": 28,
+        "Damage": 8500,
+        "Cooldown": 0.3
+      },
+      {
+        "Price": 250000,
+        "Range": 32,
+        "Damage": 9500,
+        "Cooldown": 0.3
+      },
+      {
+        "Price": 300000,
+        "Range": 36,
+        "Damage": 10000,
+        "Cooldown": 0.3
+      }
+    ]
+  },
+    "Green": {
+    "Type": "Healer + Passive",
+    "UnitModelName": "GREEN",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Legendary",
+    "PlacePrice": 40000,
+    "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+      "Name": "<- Green",
+      "Description": "Green mimics the current Damage of all nearby allied units in range, converting it into Healing Power (up to 500 HP per second) and restoring that Health to each respective unit."
+    },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 22,
+        "Damage": 0,
+        "Cooldown": 2,
+        "HealConvertAmount": 200
+      },
+      {
+        "Price": 42500,
+        "Range": 24,
+        "Damage": 0,
+        "Cooldown": 2,
+        "HealConvertAmount": 300
+      },
+      {
+        "Price": 45000,
+        "Range": 26,
+        "Damage": 0,
+        "Cooldown": 2,
+        "HealConvertAmount": 400
+      },
+      {
+        "Price": 47500,
+        "Range": 28,
+        "Damage": 0,
+        "Cooldown": 2,
+        "HealConvertAmount": 500
+      }
+    ]
+  },
+    "Orange": {
+    "Type": "Dual Explosion + Passive",
+    "UnitModelName": "ORANGE",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Legendary",
+    "PlacePrice": 9000,
+    "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+      "Name": "HotHeaded Bravery",
+      "Description": "The more damage orange takes, the more damage she does. This has no limit!"
+    },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 18,
+        "Damage": 2500,
+        "Cooldown": 1
+      },
+      {
+        "Price": 12500,
+        "Range": 23,
+        "Damage": 5000,
+        "Cooldown": 1
+      },
+      {
+        "Price": 15000,
+        "Range": 26,
+        "Damage": 7500,
+        "Cooldown": 1
+      },
+      {
+        "Price": 17500,
+        "Range": 30,
+        "Damage": 10000,
+        "Cooldown": 1
+      }
+    ]
+  },
+    "Blue": {
+    "Type": "AOE + Healer",
+    "UnitModelName": "BLUE",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Legendary",
+    "PlacePrice": 35000,
+    "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+      "Name": "Love Prevails",
+      "Description": "Blue heals all units in range by 10% of their current health every 30s, Blue also heals the base by 2.5% of its current health every 60s"
+    },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 14,
+        "Damage": 20000,
+        "Cooldown": 2,
+        "UnitHealAmountPercent": 1.10,
+        "UnitHealCooldown_SECONDS": 30,
+        "BaseHealAmountPercent": 1.025,
+        "BaseHealCooldown_SECONDS": 60
+        
+      },
+      {
+        "Price": 18000,
+        "Range": 18,
+        "Damage": 23000,
+        "Cooldown": 2
+      },
+      {
+        "Price": 22000,
+        "Range": 22,
+        "Damage": 26000,
+        "Cooldown": 2
+      },
+      {
+        "Price": 27000,
+        "Range": 26,
+        "Damage": 30000,
+        "Cooldown": 2
+      }
+    ]
+  },
+    "Yellow": {
+    "Type": "Pierce + Passive",
+    "UnitModelName": "YELLOW",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Legendary",
+    "PlacePrice": 32500,
+    "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+      "Name": "Stop, Criminell!",
+      "Description": "Every 15s Yellow lasso's a random enemy, instantly killing them. (Bosses Excluded)"
+    },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 22,
+        "Damage": 5000,
+        "Cooldown": 0.5
+      },
+      {
+        "Price": 37500,
+        "Range": 26,
+        "Damage": 6250,
+        "Cooldown": 0.5
+      },
+      {
+        "Price": 42500,
+        "Range": 29,
+        "Damage": 8000,
+        "Cooldown": 0.5
+      },
+      {
+        "Price": 45000,
+        "Range": 33,
+        "Damage": 10000,
+        "Cooldown": 0.5
+      }
+    ]
+  },
+    "Terakota": {
+    "Type": "Chain + Passive",
+    "UnitModelName": "TERAKOTA",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Common",
+    "PlacePrice": 20000,
+    "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+      "Name": "Potted Plant",
+      "Description": "Attacks Slow By 20% For 1.5 Seconds, and chain up to 6 enemies."
+    },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 52500,
+        "Cooldown": 5,
+        "Slow": 0.80,
+        "SlowTime": 1.5,
+        "MaxChain": 6
+      },
+      {
+        "Price": 22500,
+        "Range": 27,
+        "Damage": 57500,
+        "Cooldown": 5,
+        "Slow": 0.80,
+        "SlowTime": 1.5,
+        "MaxChain": 6
+      },
+      {
+        "Price": 27500,
+        "Range": 32,
+        "Damage": 62500,
+        "Cooldown": 5,
+        "Slow": 0.80,
+        "SlowTime": 1.5,
+        "MaxChain": 6
+      },
+      {
+        "Price": 35000,
+        "Range": 36,
+        "Damage": 67500,
+        "Cooldown": 5,
+        "Slow": 0.80,
+        "SlowTime": 1.5,
+        "MaxChain": 6
+      }
+    ]
+  },
+    "Shinobeetle": {
+    "Type": "AOE",
+    "UnitModelName": "S_BEETLE",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Uncommon",
+    "PlacePrice": 4000,
+    "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 16,
+        "Damage": 15000,
+        "Cooldown": 3.5
+      },
+      {
+        "Price": 4500,
+        "Range": 19,
+        "Damage": 17500,
+        "Cooldown": 3.5
+      },
+      {
+        "Price": 5000,
+        "Range": 23,
+        "Damage": 22500,
+        "Cooldown": 3.5
+      },
+      {
+        "Price": 5500,
+        "Range": 26,
+        "Damage": 25000,
+        "Cooldown": 3.5
+      }
+    ]
+  },
+    "Flower King": {
+    "Type": "Pierce + Turret Spawner",
+    "UnitModelName": "F_KING",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Legendary",
+    "PlacePrice": 40000,
+    "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+      "Name": "Dreamwatchers",
+      "Description": "The Flower King summons seven flowers, each of a different color, that independently attack enemies using Single-target Damage."
+    },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 15000,
+        "Cooldown": 1,
+        "GoldFlower": {"Range": 25, "Damage": 10000, "Cooldown": 0.5}
+      },
+      {
+        "Price": 45000,
+        "Range": 25,
+        "Damage": 17500,
+        "Cooldown": 1,
+        "GoldFlower": {"Range": 25, "Damage": 10000, "Cooldown": 0.5},
+        "BlueFlower": {"Range": 25, "Damage": 10000, "Cooldown": 0.5},
+        "YellowFlower": {"Range": 25, "Damage": 10000, "Cooldown": 0.5}
+      },
+      {
+        "Price": 50000,
+        "Range": 30,
+        "Damage": 20000,
+        "Cooldown": 1,
+        "GoldFlower": {"Range": 25, "Damage": 10000, "Cooldown": 0.5},
+        "BlueFlower": {"Range": 25, "Damage": 10000, "Cooldown": 0.5},
+        "YellowFlower": {"Range": 25, "Damage": 10000, "Cooldown": 0.5},
+        "GreenFlower": {"Range": 25, "Damage": 10000, "Cooldown": 0.5},
+        "TealFlower": {"Range": 25, "Damage": 10000, "Cooldown": 0.5}
+      },
+      {
+        "Price": 55000,
+        "Range": 35,
+        "Damage": 22500,
+        "Cooldown": 1,
+        "GoldFlower": {"Range": 25, "Damage": 10000, "Cooldown": 0.5},
+        "BlueFlower": {"Range": 25, "Damage": 10000, "Cooldown": 0.5},
+        "YellowFlower": {"Range": 25, "Damage": 10000, "Cooldown": 0.5},
+        "GreenFlower": {"Range": 25, "Damage": 10000, "Cooldown": 0.5},
+        "TealFlower": {"Range": 25, "Damage": 10000, "Cooldown": 0.5},
+        "PurpleFlower": {"Range": 25, "Damage": 10000, "Cooldown": 0.5},
+        "OrangeFlower": {"Range": 25, "Damage": 10000, "Cooldown": 0.5}
+      }
+    ]
+  },
+    "Seth": {
+    "Type": "Pierce + Passive",
+    "UnitModelName": "SETH",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Legendary",
+    "PlacePrice": 45000,
+    "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+      "Name": "Uhm.. L-Let me put my knowledge to use!",
+      "Description": "Every 60 seconds, Seth randomizes the Attack Type of all allied units within range for 15 seconds. Once the effect ends, each unit's Attack Type returns to its original form."
+    },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 35000,
+        "Cooldown": 3
+      },
+      {
+        "Price": 50000,
+        "Range": 23,
+        "Damage": 42500,
+        "Cooldown": 3
+      },
+      {
+        "Price": 52500,
+        "Range": 26,
+        "Damage": 47500,
+        "Cooldown": 3
+      },
+      {
+        "Price": 55000,
+        "Range": 30,
+        "Damage": 52500,
+        "Cooldown": 3
+      }
+    ]
+  },
+    "Aqua": {
+    "Type": "Slash + Passive",
+    "UnitModelName": "AQUA",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Legendary",
+    "PlacePrice": 30000,
+    "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+      "Name": "Play! Play! Asgore Lets Play!",
+      "Description": "Every 30 seconds, Aqua mimics the current Damage of a random allied unit within range, including all active buffs and modifiers, then unleashes a Slash attack dealing 2× the copied Damage."
+    },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 22,
+        "Damage": 10000,
+        "Cooldown": 1
+      },
+      {
+        "Price": 18000,
+        "Range": 26,
+        "Damage": 15000,
+        "Cooldown": 1
+      },
+      {
+        "Price": 22000,
+        "Range": 30,
+        "Damage": 17000,
+        "Cooldown": 1
+      },
+      {
+        "Price": 27000,
+        "Range": 35,
+        "Damage": 20000,
+        "Cooldown": 1
+      }
+    ]
+  },
+    "Floradinn": {
+    "Type": "Explosion + Passive",
+    "UnitModelName": "FLORADINN",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Common",
+    "PlacePrice": 200,
+    "Max": 5,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+      "Name": "Can you get me a hot gamer boyfriend.",
+      "Description": "Every 3rd Attack has a 25% chance to deal 2x damage."
+    },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 16,
+        "Damage": 500,
+        "Cooldown": 1
+      },
+      {
+        "Price": 350,
+        "Range": 19,
+        "Damage": 750,
+        "Cooldown": 1
+      },
+      {
+        "Price": 750,
+        "Range": 22,
+        "Damage": 1250,
+        "Cooldown": 1
+      },
+      {
+        "Price": 1000,
+        "Range": 24,
+        "Damage": 1750,
+        "Cooldown": 1
+      }
+    ]
+  },
+    "Hopschef": {
+    "Type": "Healer",
+    "UnitModelName": "G_T_CHEF",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Uncommon",
+    "PlacePrice": 5000,
+    "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 14,
+        "Damage": 0,
+        "Cooldown": 1,
+        "UnitHealAmount": 250,
+        "UnitHealCooldown_SECONDS": 30,
+        "BaseHealAmount": 5,
+        "BaseHealCooldown_SECONDS": 120
+      },
+      {
+        "Price": 6000,
+        "Range": 18,
+        "Damage": 0,
+        "Cooldown": 1,
+        "UnitHealAmount": 300,
+        "UnitHealCooldown_SECONDS": 25,
+        "BaseHealAmount": 10,
+        "BaseHealCooldown_SECONDS": 120
+      },
+      {
+        "Price": 7000,
+        "Range": 22,
+        "Damage": 0,
+        "Cooldown": 1,
+        "UnitHealAmount": 350,
+        "UnitHealCooldown_SECONDS": 20,
+        "BaseHealAmount": 15,
+        "BaseHealCooldown_SECONDS": 120
+      },
+      {
+        "Price": 8000,
+        "Range": 26,
+        "Damage": 0,
+        "Cooldown": 1,
+        "UnitHealAmount": 400,
+        "UnitHealCooldown_SECONDS": 15,
+        "BaseHealAmount": 20,
+        "BaseHealCooldown_SECONDS": 120
+      }
+    ]
+  },
+    "Sheary": {
+    "Type": "Slash + Passive",
+    "UnitModelName": "SHEARY",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Epic",
+    "PlacePrice": 2000,
+    "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+      "Name": "Sharp Scissors",
+      "Description": "Attacks Apply 25% Anti-Regen for 3 seconds"
+    },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 18,
+        "Damage": 2500,
+        "Cooldown": 1,
+        "Bleed": 0.75,
+        "BleedTime": 3
+        
+      },
+      {
+        "Price": 2250,
+        "Range": 20,
+        "Damage": 3250,
+        "Cooldown": 1,
+        "Bleed": 0.75,
+        "BleedTime": 3
+      },
+      {
+        "Price": 2500,
+        "Range": 23,
+        "Damage": 3750,
+        "Cooldown": 1,
+        "Bleed": 0.75,
+        "BleedTime": 3
+      },
+      {
+        "Price": 2750,
+        "Range": 25,
+        "Damage": 4250,
+        "Cooldown": 1,
+        "Bleed": 0.75,
+        "BleedTime": 3
+      }
+    ]
+  },
+    "Netskie": {
+    "Type": "Cone Aoe + Damage & Cooldown Booster + Passive",
+    "UnitModelName": "NETSKIE",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Gold",
+    "PlacePrice": 20000,
+    "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+      "Name": "Swishes My Big FLuffy $$$$-ing Tail",
+      "Description": "All Towers In Range Are Given 10% Damage Boost (20% If Shiny, And 2.5% Cooldown Reduct (5% If Shiny). Every 15s, Netskie produces a huge Cone Aoe attack with 50 range, dealing 2x her current damage to enemies hit."
+    },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 14,
+        "Damage": 10000,
+        "Cooldown": 2,
+        "DamageBoost": 1.1,
+        "ShinyDamageBoost": 1.2,
+        "CooldownReduction": 0.975,
+        "ShinyCooldownReduction": 0.95
+      },
+      {
+        "Price": 18000,
+        "Range": 18,
+        "Damage": 12500,
+        "Cooldown": 2,
+        "DamageBoost": 1.1,
+        "ShinyDamageBoost": 1.2,
+        "CooldownReduction": 0.975,
+        "ShinyCooldownReduction": 0.95
+      },
+      {
+        "Price": 22000,
+        "Range": 22,
+        "Damage": 15000,
+        "Cooldown": 2,
+        "DamageBoost": 1.1,
+        "ShinyDamageBoost": 1.2,
+        "CooldownReduction": 0.975,
+        "ShinyCooldownReduction": 0.95
+      },
+      {
+        "Price": 25000,
+        "Range": 26,
+        "Damage": 17500,
+        "Cooldown": 2,
+        "DamageBoost": 1.1,
+        "ShinyDamageBoost": 1.2,
+        "CooldownReduction": 0.975,
+        "ShinyCooldownReduction": 0.95
+      }
+    ]
+  },
+    "Shi": {
+    "Type": "Damage Booster + Passive",
+    "UnitModelName": "SHI",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Gold",
+    "PlacePrice": 27500,
+    "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+      "Name": "Intimidate",
+      "Description": "All Units In Range Get A 25% (50% Shiny) Damage Boost. The longer shi targets an enemy, the more damage it can recieve from all units, 1% every second, bosses are not affected. (Max 250%)"
+    },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 27,
+        "Damage": 0,
+        "Cooldown": 1,
+        "DamageBoost": 1.25,
+        "ShinyDamageBoost": 1.5
+      },
+      {
+        "Price": 30000,
+        "Range": 30,
+        "Damage": 0,
+        "Cooldown": 1,
+        "DamageBoost": 1.25,
+        "ShinyDamageBoost": 1.5
+      },
+      {
+        "Price": 32500,
+        "Range": 32,
+        "Damage": 0,
+        "Cooldown": 1,
+        "DamageBoost": 1.25,
+        "ShinyDamageBoost": 1.5
+      },
+      {
+        "Price": 35000,
+        "Range": 35,
+        "Damage": 0,
+        "Cooldown": 1,
+        "DamageBoost": 1.25,
+        "ShinyDamageBoost": 1.5
+      }
+    ]
+  },
+    "Leafling": {
+    "Type": "Single + Passive",
+    "UnitModelName": "LEAFLING",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Epic",
+    "PlacePrice": 9000,
+    "Max": 3,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+      "Name": "Leafing Already?",
+      "Description": "Attacks blow enemies backwards 5 studs, and stun them for 0.1s"
+    },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 14,
+        "Damage": 10000,
+        "Cooldown": 4,
+        "Slow": 0,
+        "SlowTime": 0.1,
+        "BlowDistance": 5
+      },
+      {
+        "Price": 12500,
+        "Range": 18,
+        "Damage": 15000,
+        "Cooldown": 4,
+        "Slow": 0,
+        "SlowTime": 0.1,
+        "BlowDistance": 5
+      },
+      {
+        "Price": 15000,
+        "Range": 22,
+        "Damage": 20000,
+        "Cooldown": 4,
+        "Slow": 0,
+        "SlowTime": 0.1,
+        "BlowDistance": 5
+      },
+      {
+        "Price": 17500,
+        "Range": 26,
+        "Damage": 25000,
+        "Cooldown": 4,
+        "Slow": 0,
+        "SlowTime": 0.1,
+        "BlowDistance": 5
+      }
+    ]
+  },
+    "KawKaw": {
+    "Type": "Cone Aoe + Passive",
+    "UnitModelName": "KAWKAW",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Gold",
+    "PlacePrice": 8000,
+    "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+      "Name": "*licking noises*",
+      "Description": "KawKaw Licks enemies, dealing 40% Slow."
+    },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 18,
+        "Damage": 1500,
+        "Cooldown": 0.5,
+        "Slow": 0.6,
+        "SlowTime": 1
+      },
+      {
+        "Price": 10000,
+        "Range": 22,
+        "Damage": 2000,
+        "Cooldown": 0.5,
+        "Slow": 0.6,
+        "SlowTime": 1
+      },
+      {
+        "Price": 12000,
+        "Range": 24,
+        "Damage": 2500,
+        "Cooldown": 0.5,
+        "Slow": 0.6,
+        "SlowTime": 1
+      },
+      {
+        "Price": 14000,
+        "Range": 28,
+        "Damage": 3000,
+        "Cooldown": 0.5,
+        "Slow": 0.6,
+        "SlowTime": 1
+      }
+    ]
+  },
+    "Festival Queens": {
+    "Type": "Dual Cone Aoe + Passive",
+    "UnitModelName": "F_QUEENS",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Unique",
+    "PlacePrice": 500000,
+    "Max": 1,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+      "Name": "Everybody! Meet Your Festival Queens! Noelle & Susie!",
+      "Description": "Attacks Hit Twice, Every 45 seconds, Susie weaponizes Noelle by wrapping her in Christmas lights before launching her through the battlefield. Upon impact, Noelle crashes into enemies, dealing 10× current Damage in a Nuke Damage."
+    },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 25,
+        "Damage": 20000,
+        "Cooldown": 2
+      },
+      {
+        "Price": 600000,
+        "Range": 30,
+        "Damage": 25000,
+        "Cooldown": 2
+      },
+      {
+        "Price": 750000,
+        "Range": 35,
+        "Damage": 35000,
+        "Cooldown": 2
+      },
+      {
+        "Price": 900000,
+        "Range": 40,
+        "Damage": 40000,
+        "Cooldown": 2
+      }
+    ]
+  },
+    "Trashy Trio": {
+    "Type": "Splash + Passive",
+    "UnitModelName": "T_TRIO",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Legendary",
+    "PlacePrice": 50000,
+    "Max": 2,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+      "Name": "Nubert's Goin' Further Beyond!",
+      "Description": "Trashy slows all enemies within range by 35%, while Little Ball unleashes a devastating strike every other attack, dealing 3× Damage. Every 60 seconds, Nubert ascends Further Beyond, increasing the Damage of all allied units within range by 300% for 10 seconds."
+    },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 20,
+        "Damage": 5000,
+        "Cooldown": 1,
+        "Slow": 0.65,
+        "SlowTime": 10
+      },
+      {
+        "Price": 55000,
+        "Range": 23,
+        "Damage": 7500,
+        "Cooldown": 1,
+        "Slow": 0.65,
+        "SlowTime": 10
+      },
+      {
+        "Price": 60000,
+        "Range": 26,
+        "Damage": 10000,
+        "Cooldown": 1,
+        "Slow": 0.65,
+        "SlowTime": 10
+      },
+      {
+        "Price": 72500,
+        "Range": 30,
+        "Damage": 15000,
+        "Cooldown": 0.75,
+        "Slow": 0.65,
+        "SlowTime": 10
+      }
+    ]
+  },
+    "Tropical Starwalker": {
+    "Type": "Single + Passive",
+    "UnitModelName": "T_STARWALKER",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Common",
+    "PlacePrice": 500,
+    "Max": 6,
+    "AttackSound": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "Passive": {
+      "Name": "These birds are tropissing me off I am the tropical Starwalker ",
+      "Description": "Attacks that hit air enemies have a 25% chance to turn them into ground enemies."
+    },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 13,
+        "Damage": 200,
+        "Cooldown": 2
+      },
+      {
+        "Price": 700,
+        "Range": 15,
+        "Damage": 500,
+        "Cooldown": 2
+      },
+      {
+        "Price": 1000,
+        "Range": 17,
+        "Damage": 700,
+        "Cooldown": 2
+      },
+      {
+        "Price": 1250,
+        "Range": 20,
+        "Damage": 1000,
+        "Cooldown": 2
+      }
+    ]
+  },
+"Omega Flowery": {
+    "Type": "Dash + Passive",
+    "UnitModelName": "O_FLOWERY",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Deity",
+    "PlacePrice": 20000000,
+    "FakePlacePrice": 999999999,
+    "Max": 1,
+    "FakeMax": 999999999,
+    "AttackSound": "rbxassetid://0",
+    "VoiceLinePlace1": "rbxassetid://0",
+    "VoiceLinePlace2": "rbxassetid://0",
+    "VoiceLinePlace3": "rbxassetid://0",
+    "VoiceLinePlace4": "rbxassetid://0",
+    "VoiceLinePlace5": "rbxassetid://0",
+    "VoiceLineAttack1": "rbxassetid://0",
+    "VoiceLineAttack2": "rbxassetid://0",
+    "VoiceLineAttack3": "rbxassetid://0",
+    "VoiceLineAttack4": "rbxassetid://0",
+    "VoiceLineAttack5": "rbxassetid://0",
+    "VoiceLineAttack6": "rbxassetid://0",
+    "VoiceLineAttack7": "rbxassetid://0",
+    "VoiceLineAttack8": "rbxassetid://0",
+    "VoiceLineAttack9": "rbxassetid://0",
+    "VoiceLineAttack10": "rbxassetid://0",
+    "VoiceLineSell1": "rbxassetid://0",
+    "VoiceLineSell2": "rbxassetid://0",
+    "VoiceLineSell3": "rbxassetid://0",
+    "VoiceLineSell4": "rbxassetid://0",
+    "VoiceLineSell5": "rbxassetid://0",
+    "VoiceLinePassive1": "rbxassetid://0",
+    "VoiceLinePassive2": "rbxassetid://0",
+    "VoiceLinePassive3": "rbxassetid://0",
+    "VoiceLinePassive4": "rbxassetid://0",
+    "VoiceLinePassive5": "rbxassetid://0",
+    "VoiceLinePassive6": "rbxassetid://0",
+    "VoiceLinePassive7": "rbxassetid://0",
+    "VoiceLinePassive8": "rbxassetid://0",
+    "VoiceLineIdle1": "rbxassetid://0",
+    "VoiceLineIdle2": "rbxassetid://0",
+    "VoiceLineIdle3": "rbxassetid://0",
+    "VoiceLineIdle4": "rbxassetid://0",
+    "VoiceLineIdle5": "rbxassetid://0",
+    "VoiceLineIdle6": "rbxassetid://0",
+    "VoiceLineIdle7": "rbxassetid://0",
+    "VoiceLineIdle8": "rbxassetid://0",
+    "VoiceLineIdle9": "rbxassetid://0",
+    "VoiceLineIdle10": "rbxassetid://0",
+    "VoiceLineIdle11": "rbxassetid://0",
+    "VoiceLineIdle12": "rbxassetid://0",
+    "VoiceLineIdle13": "rbxassetid://0",
+    "VoiceLineIdle14": "rbxassetid://0",
+    "VoiceLineIdle15": "rbxassetid://0",
+    "VoiceLineIdle16": "rbxassetid://0",
+    "VoiceLineIdle17": "rbxassetid://0",
+    "VoiceLineIdle18": "rbxassetid://0",
+    "VoiceLineIdle19": "rbxassetid://0",
+    "VoiceLineIdle20": "rbxassetid://0",
+    "VoiceLineIdle21": "rbxassetid://0",
+    "VoiceLineIdle22": "rbxassetid://0",
+    "VoiceLineIdle23": "rbxassetid://0",
+    "VoiceLineIdle24": "rbxassetid://0",
+    "VoiceLineIdle25": "rbxassetid://0",
+    "VoiceLineIdle26": "rbxassetid://0",
+    "VoiceLineIdle27": "rbxassetid://0",
+    "VoiceLineIdle28": "rbxassetid://0",
+    "VoiceLineIdle29": "rbxassetid://0",
+    "VoiceLineIdle30": "rbxassetid://0",
+    "VoiceLineIdle31": "rbxassetid://0",
+    "VoiceLineIdle32": "rbxassetid://0",
+    "VoiceLineIdle33": "rbxassetid://0",
+    "VoiceLineIdle34": "rbxassetid://0",
+    "VoiceLineIdle35": "rbxassetid://0",
+    "VoiceLineIdle36": "rbxassetid://0",
+    "VoiceLineIdle37": "rbxassetid://0",
+    "VoiceLineIdle38": "rbxassetid://0",
+    "VoiceLineIdle39": "rbxassetid://0",
+    "VoiceLineIdle40": "rbxassetid://0",
+    "VoiceLineIdle41": "rbxassetid://0",
+    "VoiceLineIdle42": "rbxassetid://0",
+    "VoiceLineIdle43": "rbxassetid://0",
+    "VoiceLineIdle44": "rbxassetid://0",
+    "VoiceLineIdle45": "rbxassetid://0",
+    "VoiceLineIdle46": "rbxassetid://0",
+    "PassiveSound": "rbxassetid://0",
+    "VoiceLinePlace1Captions": "OMEGA FLOWERY!",
+    "VoiceLinePlace2Captions": "Here I come, San Frandisco!",
+    "VoiceLinePlace3Captions": "Hey guys! I think I found a glue!",
+    "VoiceLinePlace4Captions": "It's me, Flowery!",
+    "VoiceLinePlace5Captions": "My human.",
+    "VoiceLineAttack1Captions": "Glue!",
+    "VoiceLineAttack2Captions": "Prism Blow!",
+    "VoiceLineAttack3Captions": "TAKE THAT!",
+    "VoiceLineAttack4Captions": "Leaf it to me!",
+    "VoiceLineAttack5Captions": "Spiral DANCE!",
+    "VoiceLineAttack6Captions": "LEND ME YOUR POWER!",
+    "VoiceLineAttack7Captions": "Try my flavor!",
+    "VoiceLineAttack8Captions": "Huh! I'll show you!",
+    "VoiceLineAttack9Captions": "Suckle it up!",
+    "VoiceLineAttack10Captions": "And one more for the fans!",
+    "VoiceLineSell1Captions": "Goodbye!",
+    "VoiceLineSell2Captions": "Go home!",
+    "VoiceLineSell3Captions": "Sorry about that, little guy.",
+    "VoiceLineSell4Captions": "Sorry about that, guys!",
+    "VoiceLineSell5Captions": "Just... kidding!",
+    "VoiceLinePassive1Captions": "WITH YOUR POWERS COMBINED!",
+    "VoiceLinePassive2Captions": "Calling for help!",
+    "VoiceLinePassive3Captions": "They're eating my flesh!",
+    "VoiceLinePassive4Captions": "Flower's blooms in your heart.",
+    "VoiceLinePassive5Captions": "It's all in a name!",
+    "VoiceLinePassive6Captions": "What a predictable creature.",
+    "VoiceLinePassive7Captions": "Smile again!",
+    "VoiceLinePassive8Captions": "That's my dreams.",
+    "VoiceLineIdle1Captions": "That's Great!",
+    "VoiceLineIdle2Captions": "Sustingus!",
+    "VoiceLineIdle3Captions": "Your dad's my best friend.",
+    "VoiceLineIdle4Captions": "I'm only trying to help you.",
+    "VoiceLineIdle5Captions": "Say that again.",
+    "VoiceLineIdle6Captions": "Mini Peppers.",
+    "VoiceLineIdle7Captions": "Grown like a turnip.",
+    "VoiceLineIdle8Captions": "Mostlys!",
+    "VoiceLineIdle9Captions": "I'm falling!",
+    "VoiceLineIdle10Captions": "It's me!",
+    "VoiceLineIdle11Captions": "Get a chance!",
+    "VoiceLineIdle12Captions": "This guy's your best friend.",
+    "VoiceLineIdle13Captions": "Give to you!",
+    "VoiceLineIdle14Captions": "Great style!",
+    "VoiceLineIdle15Captions": "Hey boys!",
+    "VoiceLineIdle16Captions": "Wow!",
+    "VoiceLineIdle17Captions": "Yes!",
+    "VoiceLineIdle18Captions": "Sorry to keep a lady in waiting!",
+    "VoiceLineIdle19Captions": "Kris.",
+    "VoiceLineIdle20Captions": "Susie.",
+    "VoiceLineIdle21Captions": "Hey there, little guy!",
+    "VoiceLineIdle22Captions": "The boys!",
+    "VoiceLineIdle23Captions": "My king!",
+    "VoiceLineIdle24Captions": "A blingo blizzard!",
+    "VoiceLineIdle25Captions": "No, no, no!",
+    "VoiceLineIdle26Captions": "Heh, It's so human!",
+    "VoiceLineIdle27Captions": "No way, it's your children.",
+    "VoiceLineIdle28Captions": "Heh, it's my jarona!",
+    "VoiceLineIdle29Captions": "Sorry to keep you, ladies!",
+    "VoiceLineIdle30Captions": "Mysterious wind.",
+    "VoiceLineIdle31Captions": "You're a hero.",
+    "VoiceLineIdle32Captions": "Flowery!",
+    "VoiceLineIdle33Captions": "Hey!",
+    "VoiceLineIdle34Captions": "Sorry to keep you waiting!",
+    "VoiceLineIdle35Captions": "Hey guys!",
+    "VoiceLineIdle36Captions": "It's all yours!",
+    "VoiceLineIdle37Captions": "The diner!",
+    "VoiceLineIdle38Captions": "Don't you like serving humans?",
+    "VoiceLineIdle39Captions": "Hey Raly!",
+    "VoiceLineIdle40Captions": "My favorite two!",
+    "VoiceLineIdle41Captions": "Your dad.",
+    "VoiceLineIdle42Captions": "I'm sorry once again, I kept a lady in waiting!",
+    "VoiceLineIdle43Captions": "Sorry about the guy!",
+    "VoiceLineIdle44Captions": "All according to plant!",
+    "VoiceLineIdle45Captions": "Jarona!",
+    "VoiceLineIdle46Captions": "Last Jarona!",
+    "Passive": {
+        "Name": "Watch and learn, Kris... The TRUE power of friendship!",
+        "Description": "Omega Flowery has a 50/50 chance every attack to either use his real stats, or his fake stats. Upon reaching max level, Omega Flowery makes a Vine Fountain every 360 seconds, dealing 999999999 AoE damage (Bosses only take 999999) and stunning all enemies in range for 15 seconds."
+    },
+
+    "Offset": 0,
+
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+
+    "Upgrades": [
+        {
+            "Price": 0,
+            "FakePrice": 999999999,
+            "Range": 40,
+            "FakeRange": 999999999,
+            "Damage": 225000,
+            "FakeDamage": 999999999,
+            "Cooldown": 4,
+            "FakeCooldown": 999999999
+        },
+        {
+            "Price": 22000000,
+            "FakePrice": 999999999,
+            "Range": 45,
+            "FakeRange": 999999999,
+            "Damage": 250000,
+            "FakeDamage": 999999999,
+            "Cooldown": 4,
+            "FakeCooldown": 999999999
+        },
+        {
+            "Price": 26000000,
+            "FakePrice": 999999999,
+            "Range": 50,
+            "FakeRange": 999999999,
+            "Damage": 275000,
+            "FakeDamage": 999999999,
+            "Cooldown": 4,
+            "FakeCooldown": 999999999
+        },
+        {
+            "Price": 32000000,
+            "FakePrice": 999999999,
+            "Range": 55,
+            "FakeRange": 999999999,
+            "Damage": 300000,
+            "FakeDamage": 999999999,
+            "Cooldown": 4,
+            "FakeCooldown": 999999999
+        },
+        {
+            "Price": 40000000,
+            "FakePrice": 999999999,
+            "Range": 60,
+            "FakeRange": 999999999,
+            "Damage": 325000,
+            "FakeDamage": 999999999,
+            "Cooldown": 4,
+            "FakeCooldown": 999999999
+        },
+        {
+            "Price": 50000000,
+            "FakePrice": 999999999,
+            "Range": 65,
+            "FakeRange": 999999999,
+            "Damage": 350000,
+            "FakeDamage": 999999999,
+            "Cooldown": 4,
+            "FakeCooldown": 999999999
+        },
+        {
+            "Price": 100000000,
+            "FakePrice": 999999999,
+            "Range": 70,
+            "FakeRange": 999999999,
+            "Damage": 375000,
+            "FakeDamage": 999999999,
+            "Cooldown": 4,
+            "FakeCooldown": 999999999
+        }
     ]
   }
 }
