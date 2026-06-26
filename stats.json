@@ -14967,7 +14967,7 @@
     "Type": "Nuke Stun + Passive",
     "UnitModelName": "PINK",
     "Image": "rbxassetid://131226586458594",
-    "Rarity": "Unique",
+    "Rarity": "Forgotten",
     "PlacePrice": 200000,
     "Max": 1,
     "AttackSound": "rbxassetid://0",
@@ -15022,9 +15022,9 @@
         "SlowTime": 1
       },
       {
-        "Price": 270000,
-        "Range": 33,
-        "Damage": 112500,
+        "Price": 325000,
+        "Range": 35,
+        "Damage": 132500,
         "Cooldown": 3,
         "Slow": 0,
         "SlowTime": 1
