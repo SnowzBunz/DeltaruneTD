@@ -15514,19 +15514,31 @@
         "Price": 18000,
         "Range": 18,
         "Damage": 23000,
-        "Cooldown": 2
+        "Cooldown": 2,
+        "UnitHealAmountPercent": 1.1,
+        "UnitHealCooldown_SECONDS": 30,
+        "BaseHealAmountPercent": 1.025,
+        "BaseHealCooldown_SECONDS": 60
       },
       {
         "Price": 22000,
         "Range": 22,
         "Damage": 26000,
-        "Cooldown": 2
+        "Cooldown": 2,
+        "UnitHealAmountPercent": 1.1,
+        "UnitHealCooldown_SECONDS": 30,
+        "BaseHealAmountPercent": 1.025,
+        "BaseHealCooldown_SECONDS": 60
       },
       {
         "Price": 27000,
         "Range": 26,
         "Damage": 30000,
-        "Cooldown": 2
+        "Cooldown": 2,
+        "UnitHealAmountPercent": 1.1,
+        "UnitHealCooldown_SECONDS": 30,
+        "BaseHealAmountPercent": 1.025,
+        "BaseHealCooldown_SECONDS": 60
       }
     ]
   },
