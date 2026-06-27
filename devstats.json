@@ -1,17 +1,79 @@
 {
-    "SnowzBunz": {
+  "SnowzBunz": {
     "Type": "Pierce Spread + Passive",
     "UnitModelName": "DEV_SB",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Deity",
     "PlacePrice": 100000,
     "Max": 3,
+    "NoEnemyAttack": false,
+    "RenderAnimation": "rbxassetid://0",
+    "PlaceAnimation": "rbxassetid://0",
+    "SellAnimation": "rbxassetid://0",
     "AttackSound": "rbxassetid://0",
+    "AttackAnimation": "rbxassetid://0",
+    "IdleAnimation": "rbxassetid://0",
     "PassiveSound": "rbxassetid://0",
+    "PassiveAnimation": "rbxassetid://0",
+    "Ability1Animation": "rbxassetid://0",
+    "Ability1Sound": "rbxassetid://0",
+    "Ability2Animation": "rbxassetid://0",
+    "Ability2Sound": "rbxassetid://0",
+    "Ability3Animation": "rbxassetid://0",
+    "Ability3Sound": "rbxassetid://0",
+    "Ability4Animation": "rbxassetid://0",
+    "Ability4Sound": "rbxassetid://0",
+    "Ability5Animation": "rbxassetid://0",
+    "Ability5Sound": "rbxassetid://0",
+    "Ability1": {
+      "Name": "Concept Sketch",
+      "Description": "SnowzBunz rapid-prototypes a fix on the spot, instantly firing 3 bonus attacks at 1.3x current Damage.",
+      "Duration": 0,
+      "Cooldown": 28,
+      "GlobalCooldown": 28,
+      "Cost": 10000,
+      "UnlocksAtUpgrade": 1
+    },
+    "Ability2": {
+      "Name": "Full-Stack Patch",
+      "Description": "For 5s, every tower in range gets +10% Cooldown Reduction as SnowzBunz reworks the pipeline live.",
+      "Duration": 5,
+      "Cooldown": 42,
+      "GlobalCooldown": 42,
+      "Cost": 16000,
+      "UnlocksAtUpgrade": 2
+    },
+    "Ability3": {
+      "Name": "Blender Torture Session",
+      "Description": "All Enemies on the map get their models lowered in quality, causing them to take 30% more damage for 2 seconds.",
+      "Duration": 2,
+      "Cooldown": 55,
+      "GlobalCooldown": 55,
+      "Cost": 24000,
+      "UnlocksAtUpgrade": 3
+    },
+    "Ability4": {
+      "Name": "Fine Print",
+      "Description": "SnowzBunz buries the toughest enemy in range in legal paperwork, applying stun and 80% Soulleak for 4s.",
+      "Duration": 4,
+      "Cooldown": 70,
+      "GlobalCooldown": 70,
+      "Cost": 34000,
+      "UnlocksAtUpgrade": 4
+    },
+    "Ability5": {
+      "Name": "Founder's Directive",
+      "Description": "SnowzBunz calls the shots: every tower in range gains +18% Damage for 7s, and the strongest enemy in range takes 2.2x current Damage immediately.",
+      "Duration": 7,
+      "Cooldown": 95,
+      "GlobalCooldown": 95,
+      "Cost": 50000,
+      "UnlocksAtUpgrade": 5
+    },
     "Passive": {
-            "Name": "Sharp Carrots",
-            "Description": "Attacks Cause 100% Anti-Regen, 50% Soulleak and 65% Slow For 1 Second."
-        },
+      "Name": "Sharp Carrots",
+      "Description": "Attacks Cause 100% Anti-Regen, 50% Soulleak and 65% Slow For 1 Second."
+    },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -23,7 +85,7 @@
         "Price": 0,
         "Range": 35,
         "Damage": 115000,
-        "Cooldown": 1.10,
+        "Cooldown": 1.1,
         "Slow": 0.35,
         "SlowTime": 1,
         "Bleed": 0,
@@ -62,7 +124,7 @@
         "Price": 175000,
         "Range": 50,
         "Damage": 135000,
-        "Cooldown": 1.00,
+        "Cooldown": 1.0,
         "Slow": 0.35,
         "SlowTime": 1,
         "Bleed": 0,
@@ -75,7 +137,7 @@
         "Price": 200000,
         "Range": 60,
         "Damage": 145000,
-        "Cooldown": 1.00,
+        "Cooldown": 1.0,
         "Slow": 0.35,
         "SlowTime": 1,
         "Bleed": 0,
@@ -86,19 +148,81 @@
       }
     ]
   },
-    "Noei": {
+  "Noei": {
     "Type": "Dual Chain + Passive",
     "UnitModelName": "DEV_NO",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Deity",
     "PlacePrice": 100000,
     "Max": 3,
+    "NoEnemyAttack": false,
+    "RenderAnimation": "rbxassetid://0",
+    "PlaceAnimation": "rbxassetid://0",
+    "SellAnimation": "rbxassetid://0",
     "AttackSound": "rbxassetid://0",
+    "AttackAnimation": "rbxassetid://0",
+    "IdleAnimation": "rbxassetid://0",
     "PassiveSound": "rbxassetid://0",
+    "PassiveAnimation": "rbxassetid://0",
+    "Ability1Animation": "rbxassetid://0",
+    "Ability1Sound": "rbxassetid://0",
+    "Ability2Animation": "rbxassetid://0",
+    "Ability2Sound": "rbxassetid://0",
+    "Ability3Animation": "rbxassetid://0",
+    "Ability3Sound": "rbxassetid://0",
+    "Ability4Animation": "rbxassetid://0",
+    "Ability4Sound": "rbxassetid://0",
+    "Ability5Animation": "rbxassetid://0",
+    "Ability5Sound": "rbxassetid://0",
+    "Ability1": {
+      "Name": "Track Drop",
+      "Description": "Noei queues up a fresh track, extending Max Chain by 2 for 4s and dealing 1.3x current Damage on the next hit.",
+      "Duration": 4,
+      "Cooldown": 30,
+      "GlobalCooldown": 30,
+      "Cost": 10000,
+      "UnlocksAtUpgrade": 1
+    },
+    "Ability2": {
+      "Name": "Vocal Take",
+      "Description": "Noei belts out a take that Stuns the strongest enemy in range for 2s.",
+      "Duration": 2,
+      "Cooldown": 40,
+      "GlobalCooldown": 40,
+      "Cost": 15000,
+      "UnlocksAtUpgrade": 2
+    },
+    "Ability3": {
+      "Name": "Mix Master",
+      "Description": "For 5s, Noei's own attacks deal +20% Damage as the mix gets dialed in.",
+      "Duration": 5,
+      "Cooldown": 50,
+      "GlobalCooldown": 50,
+      "Cost": 22000,
+      "UnlocksAtUpgrade": 3
+    },
+    "Ability4": {
+      "Name": "Cadence Call (24)",
+      "Description": "Noei calls cadence like it's formation, granting every tower in range -12% Cooldown for 5s.",
+      "Duration": 5,
+      "Cooldown": 65,
+      "GlobalCooldown": 65,
+      "Cost": 32000,
+      "UnlocksAtUpgrade": 4
+    },
+    "Ability5": {
+      "Name": "BECOME BIG OR DIE TRYING",
+      "Description": "Noei goes all in, dealing 2.4x current Damage to every enemy in range and breaking armor on all of them.",
+      "Duration": 0,
+      "Cooldown": 100,
+      "GlobalCooldown": 100,
+      "Cost": 48000,
+      "UnlocksAtUpgrade": 5
+    },
     "Passive": {
-            "Name": "Vinyl Fragments",
-            "Description": "Attacks Have a Max Chain of 5. Attacks Cause 3s Stun, and break armor."
-        },
+      "Name": "Vinyl Fragments",
+      "Description": "Attacks Have a Max Chain of 5. Attacks Cause 3s Stun, and break armor."
+    },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -110,7 +234,7 @@
         "Price": 0,
         "Range": 35,
         "Damage": 120000,
-        "Cooldown": 1.10,
+        "Cooldown": 1.1,
         "Slow": 0,
         "SlowTime": 3,
         "MaxChain": 5
@@ -137,7 +261,7 @@
         "Price": 175000,
         "Range": 50,
         "Damage": 140000,
-        "Cooldown": 1.00,
+        "Cooldown": 1.0,
         "Slow": 0,
         "SlowTime": 3,
         "MaxChain": 5
@@ -146,26 +270,88 @@
         "Price": 200000,
         "Range": 60,
         "Damage": 150000,
-        "Cooldown": 1.00,
+        "Cooldown": 1.0,
         "Slow": 0,
         "SlowTime": 3,
         "MaxChain": 5
       }
     ]
   },
-    "Luci": {
+  "Luci": {
     "Type": "AOE + Passive",
     "UnitModelName": "DEV_LU",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Deity",
     "PlacePrice": 100000,
     "Max": 3,
+    "NoEnemyAttack": false,
+    "RenderAnimation": "rbxassetid://0",
+    "PlaceAnimation": "rbxassetid://0",
+    "SellAnimation": "rbxassetid://0",
     "AttackSound": "rbxassetid://0",
+    "AttackAnimation": "rbxassetid://0",
+    "IdleAnimation": "rbxassetid://0",
     "PassiveSound": "rbxassetid://0",
+    "PassiveAnimation": "rbxassetid://0",
+    "Ability1Animation": "rbxassetid://0",
+    "Ability1Sound": "rbxassetid://0",
+    "Ability2Animation": "rbxassetid://0",
+    "Ability2Sound": "rbxassetid://0",
+    "Ability3Animation": "rbxassetid://0",
+    "Ability3Sound": "rbxassetid://0",
+    "Ability4Animation": "rbxassetid://0",
+    "Ability4Sound": "rbxassetid://0",
+    "Ability5Animation": "rbxassetid://0",
+    "Ability5Sound": "rbxassetid://0",
+    "Ability1": {
+      "Name": "Quick Compile",
+      "Description": "Luci ships a hotfix instantly, dealing 1.35x current Damage to the strongest enemy in range.",
+      "Duration": 0,
+      "Cooldown": 30,
+      "GlobalCooldown": 30,
+      "Cost": 10000,
+      "UnlocksAtUpgrade": 1
+    },
+    "Ability2": {
+      "Name": "UI Overhaul",
+      "Description": "For 5s, every tower in range gains +9% Cooldown Reduction as Luci streamlines the whole layout.",
+      "Duration": 5,
+      "Cooldown": 45,
+      "GlobalCooldown": 45,
+      "Cost": 16000,
+      "UnlocksAtUpgrade": 2
+    },
+    "Ability3": {
+      "Name": "Sand Veil",
+      "Description": "Luci kicks up a blinding veil of sand, applying 70% Slow to all enemies in range for 3s.",
+      "Duration": 3,
+      "Cooldown": 55,
+      "GlobalCooldown": 55,
+      "Cost": 24000,
+      "UnlocksAtUpgrade": 3
+    },
+    "Ability4": {
+      "Name": "Presidential Decree",
+      "Description": "Luci issues a decree: every tower in range gains +15% Damage for 6s.",
+      "Duration": 6,
+      "Cooldown": 75,
+      "GlobalCooldown": 75,
+      "Cost": 36000,
+      "UnlocksAtUpgrade": 4
+    },
+    "Ability5": {
+      "Name": "Pharaoh's Wrath",
+      "Description": "Luci channels the full might of the sandstorm, dealing 2.6x current Damage to all enemies in range and applying 80% Slow for 4s.",
+      "Duration": 4,
+      "Cooldown": 110,
+      "GlobalCooldown": 110,
+      "Cost": 52000,
+      "UnlocksAtUpgrade": 5
+    },
     "Passive": {
-            "Name": "Pharohs Sandstorm",
-            "Description": "Luci Creates a Sandstorm For 5 Seconds Every 10 Seconds, Enemies In The Sandstorm Take 15% More Damage, and are Slowed by 75%."
-        },
+      "Name": "Pharohs Sandstorm",
+      "Description": "Luci Creates a Sandstorm For 5 Seconds Every 10 Seconds, Enemies In The Sandstorm Take 15% More Damage, and are Slowed by 75%."
+    },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -177,7 +363,7 @@
         "Price": 0,
         "Range": 35,
         "Damage": 110000,
-        "Cooldown": 1.10
+        "Cooldown": 1.1
       },
       {
         "Price": 125000,
@@ -195,29 +381,91 @@
         "Price": 175000,
         "Range": 50,
         "Damage": 135000,
-        "Cooldown": 1.00
+        "Cooldown": 1.0
       },
       {
         "Price": 175000,
         "Range": 50,
         "Damage": 145000,
-        "Cooldown": 1.00
+        "Cooldown": 1.0
       }
     ]
   },
-    "Gladiator": {
+  "Gladiator": {
     "Type": "Cone Aoe + Passive",
     "UnitModelName": "DEV_GD",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Deity",
     "PlacePrice": 100000,
     "Max": 3,
+    "NoEnemyAttack": false,
+    "RenderAnimation": "rbxassetid://0",
+    "PlaceAnimation": "rbxassetid://0",
+    "SellAnimation": "rbxassetid://0",
     "AttackSound": "rbxassetid://0",
+    "AttackAnimation": "rbxassetid://0",
+    "IdleAnimation": "rbxassetid://0",
     "PassiveSound": "rbxassetid://0",
+    "PassiveAnimation": "rbxassetid://0",
+    "Ability1Animation": "rbxassetid://0",
+    "Ability1Sound": "rbxassetid://0",
+    "Ability2Animation": "rbxassetid://0",
+    "Ability2Sound": "rbxassetid://0",
+    "Ability3Animation": "rbxassetid://0",
+    "Ability3Sound": "rbxassetid://0",
+    "Ability4Animation": "rbxassetid://0",
+    "Ability4Sound": "rbxassetid://0",
+    "Ability5Animation": "rbxassetid://0",
+    "Ability5Sound": "rbxassetid://0",
+    "Ability1": {
+      "Name": "Cleave",
+      "Description": "Gladiator swings in a wide cone, dealing 1.4x current Damage to all enemies hit.",
+      "Duration": 0,
+      "Cooldown": 28,
+      "GlobalCooldown": 28,
+      "Cost": 9000,
+      "UnlocksAtUpgrade": 1
+    },
+    "Ability2": {
+      "Name": "Arena Taunt",
+      "Description": "Gladiator taunts the crowd, drawing every enemy in range 10% closer and slowing them by 40% for 2s.",
+      "Duration": 2,
+      "Cooldown": 38,
+      "GlobalCooldown": 38,
+      "Cost": 14000,
+      "UnlocksAtUpgrade": 2
+    },
+    "Ability3": {
+      "Name": "Coin Toss",
+      "Description": "Gladiator finishes an enemy with style, dealing 1.7x current Damage and guaranteeing a 3x money drop on kill.",
+      "Duration": 0,
+      "Cooldown": 50,
+      "GlobalCooldown": 50,
+      "Cost": 20000,
+      "UnlocksAtUpgrade": 3
+    },
+    "Ability4": {
+      "Name": "Gladiator's Resolve",
+      "Description": "For 6s, Gladiator gains +22% Damage as the crowd roars him on.",
+      "Duration": 6,
+      "Cooldown": 65,
+      "GlobalCooldown": 65,
+      "Cost": 30000,
+      "UnlocksAtUpgrade": 4
+    },
+    "Ability5": {
+      "Name": "Colosseum Finisher",
+      "Description": "Gladiator ends it: deals 2.5x current Damage to the strongest enemy in range, guaranteed to drop 100k Cash on kill.",
+      "Duration": 0,
+      "Cooldown": 90,
+      "GlobalCooldown": 90,
+      "Cost": 45000,
+      "UnlocksAtUpgrade": 5
+    },
     "Passive": {
-            "Name": "Scammed By Spamton The Modeler!",
-            "Description": "Gladiator Causes all enemys to drop 3x Money upon death, and causes all enemys to also have a 10% chance to drop 100k Cash On Death."
-        },
+      "Name": "Scammed By Spamton The Modeler!",
+      "Description": "Gladiator Causes all enemys to drop 3x Money upon death, and causes all enemys to also have a 10% chance to drop 100k Cash On Death."
+    },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -229,7 +477,7 @@
         "Price": 0,
         "Range": 35,
         "Damage": 100000,
-        "Cooldown": 1.10
+        "Cooldown": 1.1
       },
       {
         "Price": 125000,
@@ -247,29 +495,91 @@
         "Price": 175000,
         "Range": 50,
         "Damage": 132000,
-        "Cooldown": 1.00
+        "Cooldown": 1.0
       },
       {
         "Price": 200000,
         "Range": 60,
         "Damage": 145000,
-        "Cooldown": 1.00
+        "Cooldown": 1.0
       }
     ]
   },
-    "Gizmo": {
+  "Gizmo": {
     "Type": "Splash + Passive",
     "UnitModelName": "DEV_GZ",
     "Image": "rbxassetid://131226586458594",
     "Rarity": "Deity",
     "PlacePrice": 100000,
     "Max": 3,
+    "NoEnemyAttack": false,
+    "RenderAnimation": "rbxassetid://0",
+    "PlaceAnimation": "rbxassetid://0",
+    "SellAnimation": "rbxassetid://0",
     "AttackSound": "rbxassetid://0",
+    "AttackAnimation": "rbxassetid://0",
+    "IdleAnimation": "rbxassetid://0",
     "PassiveSound": "rbxassetid://0",
+    "PassiveAnimation": "rbxassetid://0",
+    "Ability1Animation": "rbxassetid://0",
+    "Ability1Sound": "rbxassetid://0",
+    "Ability2Animation": "rbxassetid://0",
+    "Ability2Sound": "rbxassetid://0",
+    "Ability3Animation": "rbxassetid://0",
+    "Ability3Sound": "rbxassetid://0",
+    "Ability4Animation": "rbxassetid://0",
+    "Ability4Sound": "rbxassetid://0",
+    "Ability5Animation": "rbxassetid://0",
+    "Ability5Sound": "rbxassetid://0",
+    "Ability1": {
+      "Name": "Quick Sketch",
+      "Description": "Gizmo splashes a fast sketch of damage, hitting all enemies in range for 1.3x current Damage.",
+      "Duration": 0,
+      "Cooldown": 28,
+      "GlobalCooldown": 28,
+      "Cost": 9000,
+      "UnlocksAtUpgrade": 1
+    },
+    "Ability2": {
+      "Name": "Ink Wash",
+      "Description": "Gizmo washes the battlefield in ink, applying 50% Slow and 15% Anti-Regen to all enemies in range for 3s.",
+      "Duration": 3,
+      "Cooldown": 40,
+      "GlobalCooldown": 40,
+      "Cost": 15000,
+      "UnlocksAtUpgrade": 2
+    },
+    "Ability3": {
+      "Name": "Color Theory",
+      "Description": "For 5s, Gizmo's own Damage is increased by 20% as the palette comes together.",
+      "Duration": 5,
+      "Cooldown": 50,
+      "GlobalCooldown": 50,
+      "Cost": 22000,
+      "UnlocksAtUpgrade": 3
+    },
+    "Ability4": {
+      "Name": "Storyboard",
+      "Description": "Gizmo lays out the next panel, granting every tower in range +10% Damage for 5s.",
+      "Duration": 5,
+      "Cooldown": 65,
+      "GlobalCooldown": 65,
+      "Cost": 32000,
+      "UnlocksAtUpgrade": 4
+    },
+    "Ability5": {
+      "Name": "Masterpiece",
+      "Description": "Gizmo finishes the piece, dealing 2.4x current Damage to all enemies in range.",
+      "Duration": 0,
+      "Cooldown": 95,
+      "GlobalCooldown": 95,
+      "Cost": 48000,
+      "UnlocksAtUpgrade": 5
+    },
     "Passive": {
-            "Name": "Art Degree",
-            "Description": "Attacks Cause 60% Slow, 20% Anti-Regen, and 35% SoulLeak for 2.5 Seconds."
-        },
+      "Name": "Art Degree",
+      "Description": "Attacks Cause 60% Slow, 20% Anti-Regen, and 35% SoulLeak for 2.5 Seconds."
+    },
     "Offset": 0,
     "hitboxOffset": {
       "X": 0,
@@ -281,7 +591,7 @@
         "Price": 0,
         "Range": 35,
         "Damage": 98000,
-        "Cooldown": 1.10,
+        "Cooldown": 1.1,
         "Slow": 0.4,
         "SlowTime": 2.5,
         "Bleed": 0.8,
@@ -320,7 +630,7 @@
         "Price": 175000,
         "Range": 50,
         "Damage": 130000,
-        "Cooldown": 1.00,
+        "Cooldown": 1.0,
         "Slow": 0.4,
         "SlowTime": 2.5,
         "Bleed": 0.8,
@@ -333,7 +643,7 @@
         "Price": 200000,
         "Range": 60,
         "Damage": 140000,
-        "Cooldown": 1.00,
+        "Cooldown": 1.0,
         "Slow": 0.4,
         "SlowTime": 2.5,
         "Bleed": 0.8,
