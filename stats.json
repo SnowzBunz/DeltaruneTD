@@ -1020,10 +1020,8 @@
     "NoEnemyAttack": false,
     "RenderAnimation": "rbxassetid://71730479288228",
     "AttackSound": "rbxassetid://0",
-    "AttackAnimation": "rbxassetid://0",
-    "IdleAnimation": "rbxassetid://0",
-    "PassiveSound": "rbxassetid://0",
-    "PassiveAnimation": "rbxassetid://0",
+    "AttackAnimation": "rbxassetid://79412994998238",
+    "IdleAnimation": "rbxassetid://99820950486031",
     "Passive": {
       "Name": "Aggressive Anti-Virus",
       "Description": "Enemies Hit by Ambyu-Lance are given 45% Slow"
