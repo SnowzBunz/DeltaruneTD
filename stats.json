@@ -1013,7 +1013,7 @@
   "Ambyu-Lance": {
     "Type": "Pierce + Slow",
     "UnitModelName": "AMBYU_LANCE",
-    "Image": "rbxassetid://131226586458594",
+    "Image": "rbxassetid://89950413936683",
     "Rarity": "Gold",
     "PlacePrice": 25000,
     "Max": 2,
@@ -1070,7 +1070,7 @@
   "Virovirokun": {
     "Type": "Splash + Slow",
     "UnitModelName": "VIROVIROKUN",
-    "Image": "rbxassetid://131226586458594",
+    "Image": "rbxassetid://101820750658456",
     "Rarity": "Gold",
     "PlacePrice": 500,
     "Max": 4,
@@ -1356,7 +1356,7 @@
   "Rudinn": {
     "Type": "Melee + Passive",
     "UnitModelName": "RUDINN",
-    "Image": "rbxassetid://131226586458594",
+    "Image": "rbxassetid://127440867368492",
     "Rarity": "Uncommon",
     "PlacePrice": 600,
     "Max": 4,
@@ -1516,7 +1516,7 @@
   "Ponman": {
     "Type": "Pierce",
     "UnitModelName": "PONMAN",
-    "Image": "rbxassetid://131226586458594",
+    "Image": "rbxassetid://88298879416726",
     "Rarity": "Common",
     "PlacePrice": 800,
     "Max": 6,
@@ -2633,7 +2633,7 @@
   "Tenna": {
     "Type": "Splash + Passive",
     "UnitModelName": "TENNA",
-    "Image": "rbxassetid://129305249926015",
+    "Image": "rbxassetid://113464622301825",
     "Rarity": "Legendary",
     "PlacePrice": 50000,
     "Max": 2,
@@ -3404,7 +3404,7 @@
   "Watercooler": {
     "Type": "AOE + Damage, Range And Cooldown Booster",
     "UnitModelName": "W_COOLER",
-    "Image": "rbxassetid://131226586458594",
+    "Image": "rbxassetid://85127798214271",
     "Rarity": "Legendary",
     "PlacePrice": 25000,
     "Max": 2,
@@ -3571,12 +3571,12 @@
   "Carol Holiday": {
     "Type": "AOE + Passive",
     "UnitModelName": "C_HOLIDAY",
-    "Image": "rbxassetid://131226586458594",
+    "Image": "rbxassetid://89761831648644",
     "Rarity": "Gold",
     "PlacePrice": 7500,
     "Max": 2,
     "NoEnemyAttack": false,
-    "RenderAnimation": "rbxassetid://0",
+    "RenderAnimation": "rbxassetid://78034259786405",
     "AttackSound": "rbxassetid://0",
     "AttackAnimation": "rbxassetid://0",
     "IdleAnimation": "rbxassetid://0",
@@ -3844,7 +3844,7 @@
   "Onionsan": {
     "Type": "Range Booster",
     "UnitModelName": "ONIONSAN",
-    "Image": "rbxassetid://131226586458594",
+    "Image": "rbxassetid://113199881583305",
     "Rarity": "Epic",
     "PlacePrice": 1500,
     "Max": 3,
@@ -4067,7 +4067,7 @@
   "Nubert": {
     "Type": "Summoner",
     "UnitModelName": "NUBERT",
-    "Image": "rbxassetid://118412718281779",
+    "Image": "rbxassetid://96762656428952",
     "Rarity": "Gold",
     "PlacePrice": 35000,
     "Max": 3,
@@ -4243,12 +4243,12 @@
   "Giga Queen": {
     "Type": "Nuke Stun + Passive",
     "UnitModelName": "G_QUEEN",
-    "Image": "rbxassetid://131226586458594",
+    "Image": "rbxassetid://131399221085791",
     "Rarity": "Unique",
     "PlacePrice": 75000,
     "Max": 1,
     "NoEnemyAttack": false,
-    "RenderAnimation": "rbxassetid://0",
+    "RenderAnimation": "rbxassetid://113056102019407",
     "AttackSound": "rbxassetid://0",
     "AttackAnimation": "rbxassetid://0",
     "IdleAnimation": "rbxassetid://0",
@@ -4698,7 +4698,7 @@
   "ERAM": {
     "Type": "AOE Burn + Summoner",
     "UnitModelName": "ERAM",
-    "Image": "rbxassetid://131226586458594",
+    "Image": "rbxassetid://114855444192479",
     "Rarity": "Unique",
     "PlacePrice": 118113,
     "Max": 1,
@@ -5176,7 +5176,7 @@
   "Sphinx-Tenna": {
     "Type": "Damage + Range + Cooldown Booster",
     "UnitModelName": "S_TENNA",
-    "Image": "rbxassetid://131226586458594",
+    "Image": "rbxassetid://112855105095775",
     "Rarity": "Unique",
     "PlacePrice": 1500,
     "Max": 8,
@@ -5216,7 +5216,7 @@
     },
     "Ability2": {
       "Name": "Tenna Maelstrom",
-      "Description": "Sphinx-Tenna rips the ground apart beneath all enemies in range, dealing 1.84x current Damage. Can't be used again for 6.3s.",
+      "Description": "Sphinx-Tenna causes all units in range to be caught in a violent maelstrom for 6.3s, boosting their damage by +10%",
       "Duration": 6.3,
       "Cooldown": 88,
       "GlobalCooldown": 88,
@@ -5225,7 +5225,7 @@
     },
     "Ability3": {
       "Name": "Tenna Tether",
-      "Description": "Sphinx-Tenna opens an unrelenting torrent of energy onto everything caught in it for 8.6s, dealing 0.94x current Damage per second.",
+      "Description": "Sphinx-Tenna opens an unrelenting torrent of energy onto everything caught in it for 8.6s, dealing 30% slow.",
       "Duration": 8.6,
       "Cooldown": 118,
       "GlobalCooldown": 118,
@@ -18689,7 +18689,7 @@
   "Dust Bunny": {
     "Type": "AOE + Passive",
     "UnitModelName": "D_BUNNY",
-    "Image": "rbxassetid://131226586458594",
+    "Image": "rbxassetid://97787943386893",
     "Rarity": "Gold",
     "PlacePrice": 9000,
     "Max": 2,
@@ -22961,5 +22961,121 @@
         "FakeCooldown": 999999999
       }
     ]
+  },
+  "Pirate Gaster": {
+    "Type": "Sea Shanty + Passive",
+    "UnitModelName": "P_GASTER",
+    "Image": "rbxassetid://131226586458594",
+    "Rarity": "Deity",
+    "PlacePrice": 37500000,
+    "Max": 1,
+    "NoEnemyAttack": false,
+    "RenderAnimation": "rbxassetid://0",
+    "PlaceAnimation": "rbxassetid://0",
+    "SellAnimation": "rbxassetid://0",
+    "AttackSound": "rbxassetid://0",
+    "AttackAnimation": "rbxassetid://0",
+    "IdleAnimation": "rbxassetid://0",
+    "VoiceLinePlace": "rbxassetid://0",
+    "VoiceLinePlaceCaptions": "ALL THOSE PLAYERS NEVER TREAT ME RIGHT",
+    "VoiceLineAttack": "rbxassetid://0",
+    "VoiceLineAttackCaptions": "WHAT I TRULY MEANT IN MY OLD ENTRY SEVENTEEN!",
+    "VoiceLineSell": "rbxassetid://0",
+    "VoiceLineSellCaptions": "WE KIDNAPPED ALL OF DELTARUNE, AND STOLEN UNDERTALE!",
+    "PassiveSound": "rbxassetid://0",
+    "PassiveAnimation": "rbxassetid://0",
+    "Ability1Animation": "rbxassetid://0",
+    "Ability1Sound": "rbxassetid://0",
+    "Ability1VoicelineSound": "rbxassetid://0",
+    "Ability1VoicelineCaptions": "AYE, WE PLUNDER ROOT BEER, AND OF COURSE WE PLUNDER ALE!",
+    "Ability2Animation": "rbxassetid://0",
+    "Ability2Sound": "rbxassetid://0",
+    "Ability2VoicelineSound": "rbxassetid://0",
+    "Ability2VoicelineCaptions": "WE'LL SEAL YOUR HOME FOR GOOD AND TAKE AWAY YOUR HOLY LIGHT!",
+    "Ability3Animation": "rbxassetid://0",
+    "Ability3Sound": "rbxassetid://0",
+    "Ability3VoicelineSound": "rbxassetid://0",
+    "Ability3VoicelineCaptions": "LET'S GET DOWN TO BUSINESS AND VALUE, VALUE THE FUN!",
+    "Ability1": {
+      "Name": "Cannonball Of FUN!",
+      "Description": "Pirate Gaster launches a cannonball of FUN! at a random enemy in range, dealing 10x Single Damage.",
+      "Duration": 1,
+      "Cooldown": 50,
+      "GlobalCooldown": 50,
+      "Cost": 1280000,
+      "UnlocksAtUpgrade": 3
+    },
+    "Ability2": {
+      "Name": "Sea Sickness",
+      "Description": "All enemies in range get Sea Sick for 5s, dealing 2x damage per second and reducing their movement speed by 50%.",
+      "Duration": 5,
+      "Cooldown": 100,
+      "GlobalCooldown": 100,
+      "Cost": 2280000,
+      "UnlocksAtUpgrade": 5
+    },
+    "Ability3": {
+      "Name": "A PIRATE IS NOTHING WITHOUT HIS BIRD!",
+      "Description": "Pirate Gaster throws NORMAL_NPC at the closet enemy, causing NORMAL_NPC to eat them, instantly killing them, and damaging 25x damage to all nearby enemies.",
+      "Duration": 1,
+      "Cooldown": 160,
+      "GlobalCooldown": 160,
+      "Cost": 3980000,
+      "UnlocksAtUpgrade": 7
+    },
+    "Passive": {
+      "Name": "BRUSH THOSE THEORIES OFF NOW, OUR MYSTERY MYSTERY MAN!",
+      "Description": "Enemies defeated by Pirate Gaster are transformed into Ghouls, retaining 75% of their maximum Health. Ghouls remain on the battlefield as living traps. When an enemy collides with a Ghoul, the Ghoul deals Damage equal to its remaining Health. If the enemy is defeated, the Ghoul survives with its remaining Health and can continue attacking. If the enemy survives, the Ghoul is destroyed after dealing all of its remaining Health as Damage, dropping 250,000 D$ upon defeat. Additionally, every 30 seconds, Pirate Gaster unleashes a sweeping hook slash, dealing 10× current Damage in a large Cone AoE."
+    },
+    "Offset": 0,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+"Upgrades": [
+  {
+    "Price": 0,
+    "Range": 42,
+    "Damage": 25000,
+    "Cooldown": 0.75
+  },
+  {
+    "Price": 40000000,
+    "Range": 46,
+    "Damage": 34000,
+    "Cooldown": 0.72
+  },
+  {
+    "Price": 45000000,
+    "Range": 50,
+    "Damage": 45000,
+    "Cooldown": 0.68
+  },
+  {
+    "Price": 55000000,
+    "Range": 55,
+    "Damage": 60000,
+    "Cooldown": 0.64
+  },
+  {
+    "Price": 70000000,
+    "Range": 60,
+    "Damage": 80000,
+    "Cooldown": 0.60
+  },
+  {
+    "Price": 85000000,
+    "Range": 66,
+    "Damage": 100000,
+    "Cooldown": 0.56
+  },
+  {
+    "Price": 150000000,
+    "Range": 75,
+    "Damage": 130000,
+    "Cooldown": 0.51
+    }
+   ]
   }
 }
