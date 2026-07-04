@@ -673,7 +673,7 @@
   "Ralseis Dummy": {
     "Type": "Single",
     "UnitModelName": "RALSEI_DUMMY",
-    "Image": "rbxassetid://131226586458594",
+    "Image": "rbxassetid://75444980743272",
     "Rarity": "Common",
     "PlacePrice": 500,
     "Max": 3,
@@ -2232,7 +2232,7 @@
   "Pipis": {
     "Type": "Explosion",
     "UnitModelName": "PIPIS",
-    "Image": "rbxassetid://131226586458594",
+    "Image": "rbxassetid://120590955270309",
     "Rarity": "Common",
     "PlacePrice": 250,
     "Max": 8,
@@ -3681,7 +3681,7 @@
   "Annoying Dog": {
     "Type": "Damage + Cooldown Booster",
     "UnitModelName": "A_DOG",
-    "Image": "rbxassetid://131226586458594",
+    "Image": "rbxassetid://139669842545606",
     "Rarity": "Unique",
     "PlacePrice": 350,
     "Max": 10,
@@ -5564,7 +5564,7 @@
   "Plushie Ralsei": {
     "Type": "AOE + Passive",
     "UnitModelName": "P_RALSEI",
-    "Image": "rbxassetid://131226586458594",
+    "Image": "rbxassetid://134176024760601",
     "Rarity": "Legendary",
     "PlacePrice": 1500,
     "Max": 6,
