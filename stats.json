@@ -373,6 +373,18 @@
     "IdleAnimation": "rbxassetid://0",
     "PassiveSound": "rbxassetid://0",
     "PassiveAnimation": "rbxassetid://0",
+    "HiddenAbility": {
+      "Name": "The Words I've Been Waiting To Hear",
+      "Description": "A voice that isn't quite Noelle's asks the question one last time, and every enemy in range freezes solid for 12 seconds, permanently slowed by 25% for the rest of the game. For the next 8 seconds, every Noelle unit on the field deals 2.5x damage to anything caught in the frost. There is no going back from here.",
+      "Duration": 12,
+      "Cooldown": 300,
+      "GlobalCooldown": 300,
+      "Cost": 60000,
+      "UnlocksAtUpgrade": 1,
+      "SideBValueReq": 1,
+      "PlrInputYes": "Proceed",
+      "PlrInputNo": "Stop"
+    },
     "SoloAct": {
       "Name": "Cold Snap",
       "TpCost": 52,
@@ -7721,6 +7733,18 @@
     "IdleAnimation": "rbxassetid://0",
     "PassiveSound": "rbxassetid://0",
     "PassiveAnimation": "rbxassetid://0",
+    "HiddenAbility": {
+      "Name": "The Words I've Been Waiting To Hear",
+      "Description": "A voice that isn't quite Noelle's asks the question one last time, and every enemy in range freezes solid for 8 seconds, permanently slowed by 25% for the rest of the game. For the next 5 seconds, every Noelle unit on the field deals 1.5x damage to anything caught in the frost. There is no going back from here.",
+      "Duration": 8,
+      "Cooldown": 300,
+      "GlobalCooldown": 300,
+      "Cost": 15000,
+      "UnlocksAtUpgrade": 1,
+      "SideBValueReq": 1,
+      "PlrInputYes": "Proceed",
+      "PlrInputNo": "Stop"
+    },
     "SoloAct": {
       "Name": "Season's Greetings",
       "TpCost": 57,
@@ -8886,6 +8910,18 @@
       "GlobalCooldown": 137,
       "Cost": 7150,
       "UnlocksAtUpgrade": 4
+    },
+    "HiddenAbility": {
+      "Name": "The Words I've Been Waiting To Hear",
+      "Description": "A voice that isn't quite Noelle's asks the question one last time, and every enemy in range freezes solid for 15 seconds, permanently slowed by 25% for the rest of the game. For the next 10 seconds, every Noelle unit on the field deals 3x damage to anything caught in the frost. There is no going back from here.",
+      "Duration": 15,
+      "Cooldown": 300,
+      "GlobalCooldown": 300,
+      "Cost": 100000,
+      "UnlocksAtUpgrade": 1,
+      "SideBValueReq": 1,
+      "PlrInputYes": "Proceed",
+      "PlrInputNo": "Stop"
     },
     "SoloAct": {
       "Name": "Proceed",
@@ -17719,6 +17755,18 @@
       "Cost": 1750,
       "UnlocksAtUpgrade": 4
     },
+    "HiddenAbility": {
+      "Name": "The Words I've Been Waiting To Hear",
+      "Description": "A voice that isn't quite Noelle's asks the question one last time, and every enemy in range freezes solid for 13 seconds, permanently slowed by 25% for the rest of the game. For the next 9 seconds, every Noelle unit on the field deals 2.75x damage to anything caught in the frost. There is no going back from here.",
+      "Duration": 13,
+      "Cooldown": 300,
+      "GlobalCooldown": 300,
+      "Cost": 80000,
+      "UnlocksAtUpgrade": 1,
+      "SideBValueReq": 1,
+      "PlrInputYes": "Proceed",
+      "PlrInputNo": "Stop"
+    },
     "SoloAct": {
       "Name": "Sleigh Bells",
       "TpCost": 36,
@@ -19240,6 +19288,18 @@
     "IdleAnimation": "rbxassetid://0",
     "PassiveSound": "rbxassetid://0",
     "PassiveAnimation": "rbxassetid://0",
+    "HiddenAbility": {
+      "Name": "The Words I've Been Waiting To Hear",
+      "Description": "A voice that isn't quite Noelle's asks the question one last time, and every enemy in range freezes solid for 10 seconds, permanently slowed by 25% for the rest of the game. For the next 7 seconds, every Noelle unit on the field deals 2x damage to anything caught in the frost. There is no going back from here.",
+      "Duration": 10,
+      "Cooldown": 300,
+      "GlobalCooldown": 300,
+      "Cost": 30000,
+      "UnlocksAtUpgrade": 1,
+      "SideBValueReq": 1,
+      "PlrInputYes": "Proceed",
+      "PlrInputNo": "Stop"
+    },
     "SoloAct": {
       "Name": "Angel's Heaven",
       "TpCost": 54,
