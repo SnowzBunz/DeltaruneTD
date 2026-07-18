@@ -25929,7 +25929,7 @@
       "Type": "AOE"
     },
     "PairAct": {
-      "Name": "Pipis.SAV",
+      "Name": "Pipis.SAVE",
       "Pair": "Festive Pipis",
       "TpCost": 15,
       "Mercy": 15,
