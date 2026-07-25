@@ -1,0 +1,395 @@
+{
+  "Dess": {
+    "UnitModelName": "DESS",
+    "Skin1": {
+      "Name": "Deer Life",
+      "SkinModelName": "DEER_LIFE",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin2": {
+      "Name": "Wifflebat Dess",
+      "SkinModelName": "WIFFLEBAT_DESS",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin3": {
+      "Name": "Knight Dess",
+      "SkinModelName": "KNIGHT_DESS",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Spamton NEO": {
+    "UnitModelName": "S_NEO",
+    "Skin1": {
+      "Name": "ICE ICE PIPIS!!!",
+      "SkinModelName": "ICE_ICE_PIPIS",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "HIM": {
+    "UnitModelName": "HIM",
+    "Skin1": {
+      "Name": "EGG",
+      "SkinModelName": "EGG",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "GIGA Spamton": {
+    "UnitModelName": "G_SPAMTON",
+    "Skin1": {
+      "Name": "Short Circuit",
+      "SkinModelName": "SHORT_CIRCUIT",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Lightworld Noelle": {
+    "UnitModelName": "L_NOELLE",
+    "Skin1": {
+      "Name": "Pink Lightworld Noelle",
+      "SkinModelName": "PINK_LIGHTWORLD_NOELLE",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin2": {
+      "Name": "Christmas Lightworld Noelle",
+      "SkinModelName": "CHRISTMAS_LIGHTWORLD_NOELLE",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin3": {
+      "Name": "Halloween Lightworld Noelle",
+      "SkinModelName": "HALLOWEEN_LIGHTWORLD_NOELLE",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin4": {
+      "Name": "Jack-o-lantern Lightworld Noelle",
+      "SkinModelName": "JACK_O_LANTERN_LIGHTWORLD_NOELLE",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Muffet": {
+    "UnitModelName": "MUFFET",
+    "Skin1": {
+      "Name": "Bunny Muffet",
+      "SkinModelName": "BUNNY_MUFFET",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Seth": {
+    "UnitModelName": "SETH",
+    "Skin1": {
+      "Name": "Bunny Seth",
+      "SkinModelName": "BUNNY_SETH",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin2": {
+      "Name": "Cowboy Seth",
+      "SkinModelName": "COWBOY_SETH",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin3": {
+      "Name": "TouHou Seth",
+      "SkinModelName": "TOUHOU_SETH",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Flowery": {
+    "UnitModelName": "FLOWERY",
+    "Skin1": {
+      "Name": "Cowboy Flowery",
+      "SkinModelName": "COWBOY_FLOWERY",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin2": {
+      "Name": "Touhou Flowery",
+      "SkinModelName": "TOUHOU_FLOWERY",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin3": {
+      "Name": "Princess Flowery",
+      "SkinModelName": "PRINCESS_FLOWERY",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Blue": {
+    "UnitModelName": "BLUE",
+    "Skin1": {
+      "Name": "Cowboy Blue",
+      "SkinModelName": "COWBOY_BLUE",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Aqua": {
+    "UnitModelName": "AQUA",
+    "Skin1": {
+      "Name": "Cowboy Aqua",
+      "SkinModelName": "COWBOY_AQUA",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin2": {
+      "Name": "TouHou Aqua",
+      "SkinModelName": "TOUHOU_AQUA",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin3": {
+      "Name": "iPad Aqua",
+      "SkinModelName": "IPAD_AQUA",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Fluffy Ralsei": {
+    "UnitModelName": "F_RALSEI",
+    "Skin1": {
+      "Name": "Dealmaker Fluffy Ralsei",
+      "SkinModelName": "DEALMAKER_RALSEI",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin2": {
+      "Name": "Pastor Fluffy Ralsei",
+      "SkinModelName": "PASTOR_FLUFFY_RALSEI",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin3": {
+      "Name": "Dress-Up Fluffy Ralsei",
+      "SkinModelName": "DRESS_UP_FLUFFY_RALSEI",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin4": {
+      "Name": "Mew Mew Fluffy Ralsei",
+      "SkinModelName": "MEW_MEW_RALSEI",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Pink": {
+    "UnitModelName": "PINK",
+    "Skin1": {
+      "Name": "Doodlebob Pink",
+      "SkinModelName": "DOODLEBOB_PINK",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin2": {
+      "Name": "TouHou Pink",
+      "SkinModelName": "TOUHOU_PINK",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin3": {
+      "Name": "Bartender Pink",
+      "SkinModelName": "BARTENDER_PINK",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin4": {
+      "Name": "Maid Pink",
+      "SkinModelName": "MAID_PINK",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Spamton": {
+    "UnitModelName": "SPAMTON",
+    "Skin1": {
+      "Name": "Pastor Spamton",
+      "SkinModelName": "PASTOR_SPAMTON",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin2": {
+      "Name": "Grill Expert Spamton",
+      "SkinModelName": "GRILL_EXPERT_SPAMTON",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Papyrus": {
+    "UnitModelName": "",
+    "Skin1": {
+      "Name": "Superman Papyrus",
+      "SkinModelName": "SUPERMAN_PAPYRUS",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Frisk": {
+    "UnitModelName": "FRISK",
+    "Skin1": {
+      "Name": "Scarecrow Frisk",
+      "SkinModelName": "SCARECROW_FRISK",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin2": {
+      "Name": "Folk Valley Frisk",
+      "SkinModelName": "FOLK_VALLEY_FRISK",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Undyne": {
+    "UnitModelName": "UNDYNE",
+    "Skin1": {
+      "Name": "Warrior Undyne",
+      "SkinModelName": "WARRIOR_UNDYNE",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Alphys": {
+    "UnitModelName": "ALPHYS",
+    "Skin1": {
+      "Name": "Mew Mew Alphys",
+      "SkinModelName": "MEW_MEW_ALPHYS",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Darkworld Noelle": {
+    "UnitModelName": "D_NOELLE",
+    "Skin1": {
+      "Name": "Dress-Up Darkworld Noelle",
+      "SkinModelName": "DRESS_UP_DARKWORLD_NOELLE",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin2": {
+      "Name": "Box Darkworld Noelle",
+      "SkinModelName": "BOX_DARKWORLD_NOELLE",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Darkworld Susie": {
+    "UnitModelName": "D_SUSIE",
+    "Skin1": {
+      "Name": "Dress-Up Darkworld Susie",
+      "SkinModelName": "DRESS_UP_DARKWORLD_SUSIE",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Darkworld Kris": {
+    "UnitModelName": "D_KRIS",
+    "Skin1": {
+      "Name": "Dress-Up Darkworld Kris",
+      "SkinModelName": "DRESS_UP_DARKWORLD_KRIS",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin2": {
+      "Name": "Pink Darkworld Kris",
+      "SkinModelName": "PINK_DARKWORLD_KRIS",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin3": {
+      "Name": "Darkworld Kris Pink",
+      "SkinModelName": "DARKWORLD_KRIS_PINK",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin4": {
+      "Name": "Doggy Darkworld Kris",
+      "SkinModelName": "DOGGY_DARKWORLD_KRIS",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "W. D. Gaster": {
+    "UnitModelName": "W_D_GASTER",
+    "Skin1": {
+      "Name": "Folk Valley W. D. Gaster",
+      "SkinModelName": "FOLK_VALLEY_W_D_GASTER",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin2": {
+      "Name": "Gru W. D. Gaster",
+      "SkinModelName": "GRU_W_D_GASTER",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Tenna": {
+    "UnitModelName": "TENNA",
+    "Skin1": {
+      "Name": "Vampire Tenna",
+      "SkinModelName": "VAMPIRE_TENNA",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin2": {
+      "Name": "Mew Mew Tenna",
+      "SkinModelName": "MEW_MEW_TENNA",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin3": {
+      "Name": "Grill Expert Tenna",
+      "SkinModelName": "GRILL_EXPERT_TENNA",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Annoying Ghost": {
+    "UnitModelName": "ANNOYING_GHOST",
+    "Skin1": {
+      "Name": "Goth Annoying Ghost",
+      "SkinModelName": "GOTH_ANNOYING_GHOST",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin2": {
+      "Name": "Maid Annoying Ghost",
+      "SkinModelName": "MAID_ANNOYING_GHOST",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Green": {
+    "UnitModelName": "GREEN",
+    "Skin1": {
+      "Name": "Seahorse Green",
+      "SkinModelName": "SEAHORSE_GREEN",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin2": {
+      "Name": "Cowboy Green",
+      "SkinModelName": "COWBOY_GREEN",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Ceroba": {
+    "UnitModelName": "CEROBA",
+    "Skin1": {
+      "Name": "Hunter Ceroba",
+      "SkinModelName": "HUNTER_CEROBA",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin2": {
+      "Name": "Netskie Ceroba",
+      "SkinModelName": "NETSKIE_CEROBA",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Martlet": {
+    "UnitModelName": "MARTLET",
+    "Skin1": {
+      "Name": "Armored Zenith Martlet",
+      "SkinModelName": "ARMORED_ZENITH_MARTLET",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Big Bird Berdly": {
+    "UnitModelName": "B_B_BERDLY",
+    "Skin1": {
+      "Name": "Cooler Big Bird Berdly",
+      "SkinModelName": "COOLER_BIG_BIRD_BERDLY",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Lancer": {
+    "UnitModelName": "LANCER",
+    "Skin1": {
+      "Name": "iPad Lancer",
+      "SkinModelName": "IPAD_LANCER",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "ERAM": {
+    "UnitModelName": "ERAM",
+    "Skin1": {
+      "Name": "Knight ERAM",
+      "SkinModelName": "KNIGHT_ERAM",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Tasque Manager": {
+    "UnitModelName": "T_MANAGER",
+    "Skin1": {
+      "Name": "Nurse Tasque Manager",
+      "SkinModelName": "NURSE_TASQUE_MANAGER",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Asriel Dreemurr": {
+    "UnitModelName": "A_DREEMURR",
+    "Skin1": {
+      "Name": "Knight Asriel Dreemurr",
+      "SkinModelName": "KNIGHT_ASRIEL_DREEMURR",
+      "Image": "rbxassetid://131226586458594"
+    }
+  }
+}
