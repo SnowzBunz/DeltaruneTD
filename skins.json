@@ -326,10 +326,10 @@
     }
   },
   "Irritable Ghost": {
-    "UnitModelName": "Irritable_GHOST",
+    "UnitModelName": "IRRITABLE_GHOST",
     "Skin1": {
       "Name": "Goth Irritable Ghost",
-      "SkinModelName": "GOTH_Irritable_GHOST",
+      "SkinModelName": "GOTH_IRRITABLE_GHOST",
       "Image": "rbxassetid://131226586458594"
     },
     "Skin2": {
@@ -339,7 +339,7 @@
     },
     "Skin3": {
       "Name": "Hunter Irritable Ghost",
-      "SkinModelName": "HUNTER_Irritable_GHOST",
+      "SkinModelName": "HUNTER_IRRITABLE_GHOST",
       "Image": "rbxassetid://131226586458594"
     }
   },
