@@ -325,21 +325,21 @@
       "Image": "rbxassetid://131226586458594"
     }
   },
-  "Annoying Ghost": {
-    "UnitModelName": "ANNOYING_GHOST",
+  "Irritable Ghost": {
+    "UnitModelName": "Irritable_GHOST",
     "Skin1": {
-      "Name": "Goth Annoying Ghost",
-      "SkinModelName": "GOTH_ANNOYING_GHOST",
+      "Name": "Goth Irritable Ghost",
+      "SkinModelName": "GOTH_Irritable_GHOST",
       "Image": "rbxassetid://131226586458594"
     },
     "Skin2": {
-      "Name": "Maid Annoying Ghost",
-      "SkinModelName": "MAID_ANNOYING_GHOST",
+      "Name": "Maid Irritable Ghost",
+      "SkinModelName": "MAID_IRRITABLE_GHOST",
       "Image": "rbxassetid://131226586458594"
     },
     "Skin3": {
-      "Name": "Hunter Annoying Ghost",
-      "SkinModelName": "HUNTER_ANNOYING_GHOST",
+      "Name": "Hunter Irritable Ghost",
+      "SkinModelName": "HUNTER_Irritable_GHOST",
       "Image": "rbxassetid://131226586458594"
     }
   },
