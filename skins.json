@@ -178,6 +178,16 @@
       "Name": "Maid Pink",
       "SkinModelName": "MAID_PINK",
       "Image": "rbxassetid://131226586458594"
+    },
+    "Skin5": {
+      "Name": "Hunter Pink",
+      "SkinModelName": "HUNTER_PINK",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin6": {
+      "Name": "Kimono Pink",
+      "SkinModelName": "KIMONO_PINK",
+      "Image": "rbxassetid://131226586458594"
     }
   },
   "Spamton": {
@@ -194,7 +204,7 @@
     }
   },
   "Papyrus": {
-    "UnitModelName": "",
+    "UnitModelName": "PAPYRUS",
     "Skin1": {
       "Name": "Superman Papyrus",
       "SkinModelName": "SUPERMAN_PAPYRUS",
@@ -303,6 +313,16 @@
       "Name": "Grill Expert Tenna",
       "SkinModelName": "GRILL_EXPERT_TENNA",
       "Image": "rbxassetid://131226586458594"
+    },
+    "Skin4": {
+      "Name": "Damaged CRT Tenna",
+      "SkinModelName": "DAMAGED_CRT_TENNA",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin5": {
+      "Name": "Trash Tenna",
+      "SkinModelName": "TRASH_TENNA",
+      "Image": "rbxassetid://131226586458594"
     }
   },
   "Annoying Ghost": {
@@ -315,6 +335,11 @@
     "Skin2": {
       "Name": "Maid Annoying Ghost",
       "SkinModelName": "MAID_ANNOYING_GHOST",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin3": {
+      "Name": "Hunter Annoying Ghost",
+      "SkinModelName": "HUNTER_ANNOYING_GHOST",
       "Image": "rbxassetid://131226586458594"
     }
   },
@@ -382,6 +407,26 @@
       "Name": "Nurse Tasque Manager",
       "SkinModelName": "NURSE_TASQUE_MANAGER",
       "Image": "rbxassetid://131226586458594"
+    },
+    "Skin2": {
+      "Name": "AppleJack Tasque Manager",
+      "SkinModelName": "APPLEJACK_TASQUE_MANAGER",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin3": {
+      "Name": "ShadowLight Tasque Manager",
+      "SkinModelName": "SHADOWLIGHT_TASQUE_MANAGER",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin4": {
+      "Name": "Sunflower Tasque Manager",
+      "SkinModelName": "SUNFLOWER_TASQUE_MANAGER",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin5": {
+      "Name": "TwilightSparkles Tasque Manager",
+      "SkinModelName": "TWILIGHTSPARKLES_TASQUE_MANAGER",
+      "Image": "rbxassetid://131226586458594"
     }
   },
   "Asriel Dreemurr": {
@@ -389,6 +434,30 @@
     "Skin1": {
       "Name": "Knight Asriel Dreemurr",
       "SkinModelName": "KNIGHT_ASRIEL_DREEMURR",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Lightworld Susie": {
+    "UnitModelName": "L_SUSIE",
+    "Skin1": {
+      "Name": "Duck Suit Lightworld Susie",
+      "SkinModelName": "DUCK_SUIT_LIGHTWORLD_SUSIE",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "QC": {
+    "UnitModelName": "QC",
+    "Skin1": {
+      "Name": "Fast Food Worker QC",
+      "SkinModelName": "FAST_FOOD_WORKER_QC",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Ralsei": {
+    "UnitModelName": "RALSEI",
+    "Skin1": {
+      "Name": "Winter Outfit Ralsei",
+      "SkinModelName": "WINTER_OUTFIT_RALSEI",
       "Image": "rbxassetid://131226586458594"
     }
   }
