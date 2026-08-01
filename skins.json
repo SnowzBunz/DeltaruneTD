@@ -106,6 +106,11 @@
       "Name": "Princess Flowery",
       "SkinModelName": "PRINCESS_FLOWERY",
       "Image": "rbxassetid://131226586458594"
+    },
+    "Skin4": {
+      "Name": "University Of Flowers Flowery",
+      "SkinModelName": "UNIVERSITY_OF_FLOWERS_FLOWERY",
+      "Image": "rbxassetid://131226586458594"
     }
   },
   "Blue": {
@@ -155,6 +160,41 @@
       "Name": "Mew Mew Fluffy Ralsei",
       "SkinModelName": "MEW_MEW_RALSEI",
       "Image": "rbxassetid://131226586458594"
+    },
+    "Skin5": {
+      "Name": "Princess Fluffy Ralsei",
+      "SkinModelName": "PRINCESS_FLUFFY_RALSEI",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin6": {
+      "Name": "School Uniform Fluffy Ralsei",
+      "SkinModelName": "SCHOOL_UNIFORM_FLUFFY_RALSEI",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin7": {
+      "Name": "University Of Flowers Fluffy Ralsei",
+      "SkinModelName": "UNIVERSITY_OF_FLOWERS_FLUFFY_RALSEI",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin8": {
+      "Name": "Grumpy Princess Fluffy Ralsei",
+      "SkinModelName": "GRUMPY_PRINCESS_FLUFFY_RALSEI",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin9": {
+      "Name": "Priest Fluffy Ralsei",
+      "SkinModelName": "PRIEST_FLUFFY_RALSEI",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin10": {
+      "Name": "Cyberpunk Fluffy Ralsei",
+      "SkinModelName": "CYBERPUNK_FLUFFY_RALSEI",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin11": {
+      "Name": "News Reporter Fluffy Ralsei",
+      "SkinModelName": "NEWS_REPORTER_FLUFFY_RALSEI",
+      "Image": "rbxassetid://131226586458594"
     }
   },
   "Pink": {
@@ -187,6 +227,26 @@
     "Skin6": {
       "Name": "Kimono Pink",
       "SkinModelName": "KIMONO_PINK",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin7": {
+      "Name": "Bartender Pink",
+      "SkinModelName": "BARTENDER_PINK",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin8": {
+      "Name": "Doki Doki Pink",
+      "SkinModelName": "DOKI_DOKI_PINK",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin9": {
+      "Name": "Nyan-Cat Pink",
+      "SkinModelName": "NYAN_CAT_PINK",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin10": {
+      "Name": "Baker Pink",
+      "SkinModelName": "BAKER_PINK",
       "Image": "rbxassetid://131226586458594"
     }
   },
@@ -253,16 +313,46 @@
       "Image": "rbxassetid://131226586458594"
     }
   },
-  "Darkworld Susie": {
-    "UnitModelName": "D_SUSIE",
-    "Skin1": {
-      "Name": "Dress-Up Darkworld Susie",
-      "SkinModelName": "DRESS_UP_DARKWORLD_SUSIE",
-      "Image": "rbxassetid://131226586458594"
-    }
+"Darkworld Susie": {
+  "UnitModelName": "DW_SUSIE",
+  "Skin1": {
+    "Name": "Dress-Up Darkworld Susie",
+    "SkinModelName": "DRESS_UP_DARKWORLD_SUSIE",
+    "Image": "rbxassetid://131226586458594"
+  },
+  "Skin2": {
+    "Name": "Cyberpunk Darkworld Susie",
+    "SkinModelName": "CYBERPUNK_DARKWORLD_SUSIE",
+    "Image": "rbxassetid://131226586458594"
+  },
+  "Skin3": {
+    "Name": "Ragtime Darkworld Susie",
+    "SkinModelName": "RAGTIME_DARKWORLD_SUSIE",
+    "Image": "rbxassetid://131226586458594"
+  },
+  "Skin4": {
+    "Name": "Mage Darkworld Susie",
+    "SkinModelName": "MAGE_DARKWORLD_SUSIE",
+    "Image": "rbxassetid://131226586458594"
+  },
+  "Skin5": {
+    "Name": "Flowergirl DarkworldSusie",
+    "SkinModelName": "FLOWERGIRL_DARKWORLD_SUSIE",
+    "Image": "rbxassetid://131226586458594"
+  },
+  "Skin6": {
+    "Name": "School Uniform Darkworld Susie",
+    "SkinModelName": "SCHOOL_UNIFORM_DARKWORLD_SUSIE",
+    "Image": "rbxassetid://131226586458594"
+  },
+  "Skin7": {
+    "Name": "University Of Flowers Darkworld Susie",
+    "SkinModelName": "UNIVERSITY_OF_FLOWERS_DARKWORLD_SUSIE",
+    "Image": "rbxassetid://131226586458594"
+  }
   },
   "Darkworld Kris": {
-    "UnitModelName": "D_KRIS",
+    "UnitModelName": "DW_KRIS",
     "Skin1": {
       "Name": "Dress-Up Darkworld Kris",
       "SkinModelName": "DRESS_UP_DARKWORLD_KRIS",
@@ -281,6 +371,31 @@
     "Skin4": {
       "Name": "Doggy Darkworld Kris",
       "SkinModelName": "DOGGY_DARKWORLD_KRIS",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin5": {
+      "Name": "Princess Darkworld Kris",
+      "SkinModelName": "PRINCESS_DARKWORLD_KRIS",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin6": {
+      "Name": "Doki Doki Darkworld Kris",
+      "SkinModelName": "DOKI_DOKI_DARKWORLD_KRIS",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin7": {
+      "Name": "Prophecy Princess Darkworld Kris",
+      "SkinModelName": "PROPHECY_PRINCESS_DARKWORLD_KRIS",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin8": {
+      "Name": "School Uniform Darkworld Kris",
+      "SkinModelName": "SCHOOL_UNIFORM_DARKWORLD_KRIS",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin9": {
+      "Name": "University Of Flowers Darkworld Kris",
+      "SkinModelName": "UNIVERSITY_OF_FLOWERS_DARKWORLD_KRIS",
       "Image": "rbxassetid://131226586458594"
     }
   },
@@ -326,7 +441,7 @@
     }
   },
   "Irritable Ghost": {
-    "UnitModelName": "IRRITABLE_GHOST",
+    "UnitModelName": "I_GHOST",
     "Skin1": {
       "Name": "Goth Irritable Ghost",
       "SkinModelName": "GOTH_IRRITABLE_GHOST",
@@ -340,6 +455,16 @@
     "Skin3": {
       "Name": "Hunter Irritable Ghost",
       "SkinModelName": "HUNTER_IRRITABLE_GHOST",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin4": {
+      "Name": "Nyan-Cat Irritable Ghost",
+      "SkinModelName": "NYAN_CAT_IRRITABLE_GHOST",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin5": {
+      "Name": "Baker Irritable Ghost",
+      "SkinModelName": "BAKER_IRRITABLE_GHOST",
       "Image": "rbxassetid://131226586458594"
     }
   },
@@ -458,6 +583,15 @@
     "Skin1": {
       "Name": "Winter Outfit Ralsei",
       "SkinModelName": "WINTER_OUTFIT_RALSEI",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Roaring Knight": {
+    "UnitModelName": "R_KNIGHT",
+    "Skin1": {},
+    "Skin2": {
+      "Name": "Princess Roaring Knight",
+      "SkinModelName": "PRINCESS_ROARING_KNIGHT",
       "Image": "rbxassetid://131226586458594"
     }
   }
