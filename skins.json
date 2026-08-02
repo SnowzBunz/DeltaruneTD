@@ -311,6 +311,26 @@
       "Name": "Box Darkworld Noelle",
       "SkinModelName": "BOX_DARKWORLD_NOELLE",
       "Image": "rbxassetid://131226586458594"
+    },
+    "Skin3": {
+      "Name": "Princess Darkworld Noelle",
+      "SkinModelName": "BOX_DARKWORLD_NOELLE",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin4": {
+      "Name": "80's Darkworld Noelle",
+      "SkinModelName": "BOX_DARKWORLD_NOELLE",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin5": {
+      "Name": "Pnesbess Darkworld Noelle",
+      "SkinModelName": "BOX_DARKWORLD_NOELLE",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin6": {
+      "Name": "Shrine Maiden Darkworld Noelle",
+      "SkinModelName": "BOX_DARKWORLD_NOELLE",
+      "Image": "rbxassetid://131226586458594"
     }
   },
 "Darkworld Susie": {
@@ -573,7 +593,7 @@
   "QC": {
     "UnitModelName": "QC",
     "Skin1": {
-      "Name": "Fast Food Worker QC",
+      "Name": "Fast Food FWorker QC",
       "SkinModelName": "FAST_FOOD_WORKER_QC",
       "Image": "rbxassetid://131226586458594"
     }
