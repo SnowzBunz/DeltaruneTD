@@ -42,7 +42,7 @@
     }
   },
   "Lightworld Noelle": {
-    "UnitModelName": "L_NOELLE",
+    "UnitModelName": "LW_NOELLE",
     "Skin1": {
       "Name": "Pink Lightworld Noelle",
       "SkinModelName": "PINK_LIGHTWORLD_NOELLE",
@@ -88,6 +88,16 @@
       "Name": "TouHou Seth",
       "SkinModelName": "TOUHOU_SETH",
       "Image": "rbxassetid://131226586458594"
+    },
+    "Skin4": {
+      "Name": "Pokemon Seth",
+      "SkinModelName": "POKEMON_SETH",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin5": {
+      "Name": "AC Villager Seth",
+      "SkinModelName": "AC_VILLAGER_SETH",
+      "Image": "rbxassetid://131226586458594"
     }
   },
   "Flowery": {
@@ -111,6 +121,16 @@
       "Name": "University Of Flowers Flowery",
       "SkinModelName": "UNIVERSITY_OF_FLOWERS_FLOWERY",
       "Image": "rbxassetid://131226586458594"
+    },
+    "Skin5": {
+      "Name": "Pokemon Flowery",
+      "SkinModelName": "POKEMON_FLOWERY",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin6": {
+      "Name": "AC Villager Flowery",
+      "SkinModelName": "AC_VILLAGER_FLOWERY",
+      "Image": "rbxassetid://131226586458594"
     }
   },
   "Blue": {
@@ -118,6 +138,16 @@
     "Skin1": {
       "Name": "Cowboy Blue",
       "SkinModelName": "COWBOY_BLUE",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin2": {
+      "Name": "Pokemon Blue",
+      "SkinModelName": "POKEMON_BLUE",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin3": {
+      "Name": "AC Villager Blue",
+      "SkinModelName": "AC_VILLAGER_BLUE",
       "Image": "rbxassetid://131226586458594"
     }
   },
@@ -136,6 +166,16 @@
     "Skin3": {
       "Name": "iPad Aqua",
       "SkinModelName": "IPAD_AQUA",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin4": {
+      "Name": "Pokemon Aqua",
+      "SkinModelName": "POKEMON_AQUA",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin5": {
+      "Name": "AC Villager Aqua",
+      "SkinModelName": "AC_VILLAGER_AQUA",
       "Image": "rbxassetid://131226586458594"
     }
   },
@@ -195,6 +235,21 @@
       "Name": "News Reporter Fluffy Ralsei",
       "SkinModelName": "NEWS_REPORTER_FLUFFY_RALSEI",
       "Image": "rbxassetid://131226586458594"
+    },
+    "Skin12": {
+      "Name": "Titan Ink Fluffy Ralsei",
+      "SkinModelName": "TITAN_INK_FLUFFY_RALSEI",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin13": {
+      "Name": "Bunny Bartender Fluffy Ralsei",
+      "SkinModelName": "BUNNY_BARTENDER_FLUFFY_RALSEI",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin14": {
+      "Name": "Crayon Eater Fluffy Ralsei",
+      "SkinModelName": "CRAYON_EATER_FLUFFY_RALSEI",
+      "Image": "rbxassetid://131226586458594"
     }
   },
   "Pink": {
@@ -247,6 +302,16 @@
     "Skin10": {
       "Name": "Baker Pink",
       "SkinModelName": "BAKER_PINK",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin11": {
+      "Name": "Pokemon Pink",
+      "SkinModelName": "POKEMON_PINK",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin12": {
+      "Name": "AC Villager Pink",
+      "SkinModelName": "AC_VILLAGER_PINK",
       "Image": "rbxassetid://131226586458594"
     }
   },
@@ -333,43 +398,48 @@
       "Image": "rbxassetid://131226586458594"
     }
   },
-"Darkworld Susie": {
-  "UnitModelName": "DW_SUSIE",
-  "Skin1": {
-    "Name": "Dress-Up Darkworld Susie",
-    "SkinModelName": "DRESS_UP_DARKWORLD_SUSIE",
-    "Image": "rbxassetid://131226586458594"
-  },
-  "Skin2": {
-    "Name": "Cyberpunk Darkworld Susie",
-    "SkinModelName": "CYBERPUNK_DARKWORLD_SUSIE",
-    "Image": "rbxassetid://131226586458594"
-  },
-  "Skin3": {
-    "Name": "Ragtime Darkworld Susie",
-    "SkinModelName": "RAGTIME_DARKWORLD_SUSIE",
-    "Image": "rbxassetid://131226586458594"
-  },
-  "Skin4": {
-    "Name": "Mage Darkworld Susie",
-    "SkinModelName": "MAGE_DARKWORLD_SUSIE",
-    "Image": "rbxassetid://131226586458594"
-  },
-  "Skin5": {
-    "Name": "Flowergirl DarkworldSusie",
-    "SkinModelName": "FLOWERGIRL_DARKWORLD_SUSIE",
-    "Image": "rbxassetid://131226586458594"
-  },
-  "Skin6": {
-    "Name": "School Uniform Darkworld Susie",
-    "SkinModelName": "SCHOOL_UNIFORM_DARKWORLD_SUSIE",
-    "Image": "rbxassetid://131226586458594"
-  },
-  "Skin7": {
-    "Name": "University Of Flowers Darkworld Susie",
-    "SkinModelName": "UNIVERSITY_OF_FLOWERS_DARKWORLD_SUSIE",
-    "Image": "rbxassetid://131226586458594"
-  }
+  "Darkworld Susie": {
+    "UnitModelName": "DW_SUSIE",
+    "Skin1": {
+      "Name": "Dress-Up Darkworld Susie",
+      "SkinModelName": "DRESS_UP_DARKWORLD_SUSIE",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin2": {
+      "Name": "Cyberpunk Darkworld Susie",
+      "SkinModelName": "CYBERPUNK_DARKWORLD_SUSIE",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin3": {
+      "Name": "Ragtime Darkworld Susie",
+      "SkinModelName": "RAGTIME_DARKWORLD_SUSIE",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin4": {
+      "Name": "Mage Darkworld Susie",
+      "SkinModelName": "MAGE_DARKWORLD_SUSIE",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin5": {
+      "Name": "Flowergirl DarkworldSusie",
+      "SkinModelName": "FLOWERGIRL_DARKWORLD_SUSIE",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin6": {
+      "Name": "School Uniform Darkworld Susie",
+      "SkinModelName": "SCHOOL_UNIFORM_DARKWORLD_SUSIE",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin7": {
+      "Name": "University Of Flowers Darkworld Susie",
+      "SkinModelName": "UNIVERSITY_OF_FLOWERS_DARKWORLD_SUSIE",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin8": {
+      "Name": "Bunny Bartender Darkworld Susie",
+      "SkinModelName": "BUNNY_BARTENDER_DARKWORLD_SUSIE",
+      "Image": "rbxassetid://131226586458594"
+    }
   },
   "Darkworld Kris": {
     "UnitModelName": "DW_KRIS",
@@ -499,6 +569,16 @@
       "Name": "Cowboy Green",
       "SkinModelName": "COWBOY_GREEN",
       "Image": "rbxassetid://131226586458594"
+    },
+    "Skin3": {
+      "Name": "Pokemon Green",
+      "SkinModelName": "POKEMON_GREEN",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin4": {
+      "Name": "AC Villager Green",
+      "SkinModelName": "AC_VILLAGER_GREEN",
+      "Image": "rbxassetid://131226586458594"
     }
   },
   "Ceroba": {
@@ -583,10 +663,15 @@
     }
   },
   "Lightworld Susie": {
-    "UnitModelName": "L_SUSIE",
+    "UnitModelName": "LW_SUSIE",
     "Skin1": {
       "Name": "Duck Suit Lightworld Susie",
       "SkinModelName": "DUCK_SUIT_LIGHTWORLD_SUSIE",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin2": {
+      "Name": "Crayon Eater Lightworld Susie",
+      "SkinModelName": "CRAYON_EATER_LIGHTWORLD_SUSIE",
       "Image": "rbxassetid://131226586458594"
     }
   },
@@ -608,10 +693,64 @@
   },
   "Roaring Knight": {
     "UnitModelName": "R_KNIGHT",
-    "Skin1": {},
-    "Skin2": {
+    "Skin1": {
       "Name": "Princess Roaring Knight",
       "SkinModelName": "PRINCESS_ROARING_KNIGHT",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Catti": {
+    "UnitModelName": "CATTI",
+    "Skin1": {
+      "Name": "Magician Catti",
+      "SkinModelName": "MAGICIAN_CATTI",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin2": {
+      "Name": "Emo Catti",
+      "SkinModelName": "EMO_CATTI",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Hammer Of Justice": {
+    "UnitModelName": "H_O_JUSTICE",
+    "Skin1": {
+      "Name": "Cutie Mew Mew Girl Hammer Of Justice",
+      "SkinModelName": "CUTIE_MEW_MEW_GIRL_HAMMER_OF_JUSTICE",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Lightworld Kris": {
+    "UnitModelName": "LW_KRIS",
+    "Skin1": {
+      "Name": "Crayon Eater Lightworld Kris",
+      "SkinModelName": "CRAYON_EATER_LIGHTWORLD_KRIS",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Yellow": {
+    "UnitModelName": "YELLOW",
+    "Skin1": {
+      "Name": "Pokemon Yellow",
+      "SkinModelName": "POKEMON_YELLOW",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin2": {
+      "Name": "AC Villager Yellow",
+      "SkinModelName": "AC_VILLAGER_YELLOW",
+      "Image": "rbxassetid://131226586458594"
+    }
+  },
+  "Orange": {
+    "UnitModelName": "ORANGE",
+    "Skin1": {
+      "Name": "Pokemon Orange",
+      "SkinModelName": "POKEMON_ORANGE",
+      "Image": "rbxassetid://131226586458594"
+    },
+    "Skin2": {
+      "Name": "AC Villager Orange",
+      "SkinModelName": "AC_VILLAGER_ORANGE",
       "Image": "rbxassetid://131226586458594"
     }
   }
